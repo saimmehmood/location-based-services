@@ -111,5 +111,5 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 YOUR_API_KEY = 'AIzaSyAb_1rwhupc22kzQXzIAsybx6dz2RlT2uA'
 
 # using bigger step value to avoid reaching api limit
-scanAreaForPOIs(43.766771, -79.324935, 43.757643, -79.169527, 0.001, YOUR_API_KEY)  #scarborough points
+scanAreaForPOIs(43.766771, -79.324935, 43.757643, -79.169527, 0.001, YOUR_API_KEY)  
 
