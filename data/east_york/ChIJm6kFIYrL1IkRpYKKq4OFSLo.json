@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "129-157",
+            "short_name": "129-157",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Coxwell Avenue",
+            "short_name": "Coxwell Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3B4",
+            "short_name": "M4L 3B4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">129-157 Coxwell Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3B4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "129-157 Coxwell Ave, Toronto, ON M4L 3B4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6702544,
+            "lng": -79.318178
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716033802915,
+                "lng": -79.31682901970849
+            },
+            "southwest": {
+                "lat": 43.6689054197085,
+                "lng": -79.3195269802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b841cfc055c8b6f0db0deeb1db003c3d4fc30e26",
+    "name": "129-157 Coxwell Ave",
+    "place_id": "ChIJm6kFIYrL1IkRpYKKq4OFSLo",
+    "reference": "CmRbAAAA-Y3DyqhXCVxaN_OcjV29ywMnLWFq_5TjOxzAn9NSoA7LX1iIe78DK2TKnjKnsA0fQ9lia_nQdPGfL6SOK2NGpDTk24NxNTDkX9361gw5Fj2JhflaeIuQ-K5u6YYZyvAbEhAZwB8C58CDzQPc2M95pOWEGhRFTdp83cdu-YgiTGiwLUYVyr0tRw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=129-157+Coxwell+Ave,+Toronto,+ON+M4L+3B4,+Canada&ftid=0x89d4cb8a2105a99b:0xba488583ab8a82a5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

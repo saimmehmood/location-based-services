@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 3A6",
+            "short_name": "M4M 3A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 3A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4M 3A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67122,
+            "lng": -79.336536
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67256898029149,
+                "lng": -79.33518701970848
+            },
+            "southwest": {
+                "lat": 43.66987101970849,
+                "lng": -79.3378849802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "5bdd03d60621a6a7dc4c25872059be1edac6b7db",
+    "name": "Jones Ave at Myrtle Ave South Side",
+    "place_id": "ChIJB_Amn3_L1IkR4c6H8EzzF2c",
+    "reference": "CmRRAAAARXU5Ecs6qTaCtKbfGnQ5ikMVzGhaJEtQ6CjvXfAhDLV1MvEqdqGVNa6aUScvG-StxSOqUt4pBIWWl29mNpLHZeKifLTYRS6elqDnkPZvGSZ40QpES6cPTtxvxuKvZ73NEhA4c8WsKRDldGp4fxusQkHqGhSCNkSptyYxrI2A3Si_sGBLlDaZRA",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7428673622149418721",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

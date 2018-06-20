@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "35",
+            "short_name": "35",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Maughan Crescent",
+            "short_name": "Maughan Crescent",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1M8",
+            "short_name": "M4L 1M8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">35 Maughan Crescent</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1M8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "35 Maughan Crescent, Toronto, ON M4L 1M8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.66945980000001,
+            "lng": -79.3157477
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67073438029149,
+                "lng": -79.31433081970849
+            },
+            "southwest": {
+                "lat": 43.6680364197085,
+                "lng": -79.31702878029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "946ab00d7f4d70e22d6b0c88b9aea4dd35b65763",
+    "name": "Maughan Crescent Parkette",
+    "place_id": "ChIJYzdhVorL1IkRjzDSaahNb6c",
+    "reference": "CmRbAAAAF2VO863ZNxFFZFAW6oeQ3_xesX7EArun6WhCoTi5mEcylkUu-1G8SVuYebQxZ4yVTcqg79R_BMHyZMvTJXj28D63_pF5zAkSjSGT6e0LYdgDio9Lts4c4A2_IoJEO_UmEhD8SC4UpOISne--IdEAbOx2GhSDt1qpHHF9ItGWkSOZkojoFcMAyg",
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?q=35+Maughan+Crescent,+Toronto,+ON+M4L+1M8,+Canada&ftid=0x89d4cb8a56613763:0xa76f4da869d2308f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

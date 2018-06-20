@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lee Avenue",
+            "short_name": "Lee Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Lee Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "85 Lee Ave, Toronto, ON M4E 1E5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6702718,
+            "lng": -79.2978986
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67162078029151,
+                "lng": -79.2965496197085
+            },
+            "southwest": {
+                "lat": 43.66892281970851,
+                "lng": -79.2992475802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "67ee6266b64ae828bdf04a7609cbedd4b451f58a",
+    "name": "85 Lee Ave",
+    "place_id": "ChIJ6W1ZZQfM1IkRFcOM92preLY",
+    "reference": "CmRbAAAA7EjAueyiOf-ScFDlWZM4jqURfxjEn7yQu4q9oWAvKZx3IUGZnPQ-wU_xnS4X393hpohTJluYPRvyR7VhA1T1Sau3Z6AfZEay4qnZnAD95N8XX2CPyEtJz__cWy60Rs2BEhBclCShzujTp31mWP1W1buxGhRBwwjH2CUIAwBJ_enzdAY7ncQUiw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=85+Lee+Ave,+Toronto,+ON+M4E+1E5,+Canada&ftid=0x89d4cc0765596de9:0xb6786b6af78cc315",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

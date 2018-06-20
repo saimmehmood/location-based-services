@@ -1,0 +1,309 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 3C4",
+            "short_name": "M4K 3C4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "633 Logan Avenue, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 3C4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "633 Logan Avenue, Toronto, ON M4K 3C4, Canada",
+    "formatted_phone_number": "(416) 462-3538",
+    "geometry": {
+        "location": {
+            "lat": 43.671256,
+            "lng": -79.34670899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6726049802915,
+                "lng": -79.34536001970848
+            },
+            "southwest": {
+                "lat": 43.6699070197085,
+                "lng": -79.3480579802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "ec6779c9e4b1ce3cc3ac6056f94882468f23bdb3",
+    "international_phone_number": "+1 416-462-3538",
+    "name": "Riverdale Perk Cafe",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 6:00 PM",
+            "Tuesday: 7:00 AM \u2013 6:00 PM",
+            "Wednesday: 7:00 AM \u2013 6:00 PM",
+            "Thursday: 7:00 AM \u2013 6:00 PM",
+            "Friday: 7:00 AM \u2013 6:00 PM",
+            "Saturday: 7:00 AM \u2013 6:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1702,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108193416040463536864/photos\">Riverdale Perk Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAjm-u_JkFtLKd6QaKgAmBujuOMgdE3vYZSUfri9Gi35TbqOy1kkcPyLkwOeLB75R9amhfspisQNXFZ1aKLAeV_h7MzPx5v-DuS4JUXgt_g22ejVkN5EHwnkxJjqo4-KaKEhCdPr58XqifbYd_BXEzu-wZGhTbm1JXP0y7EsumBnTNH4cv0CLQrA",
+            "width": 3024
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107503599598897387540/photos\">Mario Torres</a>"
+            ],
+            "photo_reference": "CmRaAAAACm-ViJTLPPDA9nkhjpp-hyjnztR-B8Jr2DUZNeWeX0htvzxTHMsnlgj6MuD-YhtP6319nqPe4rBjc41mV9bTsWhfJ0EEiugUTc5xIpxviEGXXxEZ2jd73xOvUAboBbTWEhD884RvXyyZPyORk2SnxfgyGhSvoorLFBX6cnMa_wq4VuBO3DnQdg",
+            "width": 3264
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108193416040463536864/photos\">Riverdale Perk Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAqa6YdHRFJUNge1sYC-htL6-f8AKGwL_qVKMzkFxhiDLFOvFcPjOlMcXp_YaL-SgjYcg3tSTA8YdKthjaaH8Pj-q4EgTzmygDBiF-2A_hj0sJnpE9ibNFxPpm3Qzwy75DEhAVV2bF-RNdwsOIRaQKoLuUGhRLgy7TIUecYhGz9OFvlUeTWEmDWw",
+            "width": 4032
+        },
+        {
+            "height": 943,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101770978264476723401/photos\">IS Palette</a>"
+            ],
+            "photo_reference": "CmRaAAAA6rZVzAFkCRRQmu0d3b2BfsG0G_rZ9rJ69vVitofYpoqL4x84ckTlehgI9-9acF-5WbB0rUW6bt2d8BrlSPyPPXcUupsHydf7YPOYjuPIqmQqmb9A2B_OSb2Ehko_OC3eEhAtvr9erWefiYQ44wGxsEf5GhQz2IBnnsow4hlAkZf07dmIY74I7Q",
+            "width": 1200
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103264274759936042718/photos\">Jonathan Aarnouts</a>"
+            ],
+            "photo_reference": "CmRaAAAASxHGlqqcTkpFXMlthvLyhfJ-rEk0FFguUE1WKOS2Bq60yvIwAbX9GXojASC-hi0E_cSfzm35EVlUafM6EIzBMTcQCol_2ns28zxvYpmg46CLUWqhTCBANOkBZy4p9TDKEhDCShVHAOpeBXCC-PgJIRWGGhSM1vQ-P2sIEImE2J2foJ2_nGy0IQ",
+            "width": 3024
+        },
+        {
+            "height": 2780,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108193416040463536864/photos\">Riverdale Perk Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAYligzVsbGjfFL7UejtJ-sWz0DdY7GtNo-Izlqz0CoeDyMs0ba74gBf72TNCCN1yv9TE7a1v5iqgFSO2S23Ng_z0PEn4JvsXBDXbd2Jq_EK1b3cRpYzejbavQaA_mcYSYEhDchrdRgvKKtSSKBU2Gg1twGhQGKano-uG_p9Q_s_pYeFRqkXjWIw",
+            "width": 2780
+        },
+        {
+            "height": 639,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101770978264476723401/photos\">IS Palette</a>"
+            ],
+            "photo_reference": "CmRaAAAAbyU2mr9NIm3pcq-OMVE06OEJhqcZtSYDv4zQzP_Y4Dk0W-xaBh-n_nroXJyRBiCCsfA21_I5OEY0mmj8t4HbuMbca_ng2f5IjAKkMLMr29zQfqv7AksPxTJ6DOcEAkKgEhA6gG6m4DCEA_a0IgCp3sdnGhTmoQzgWoMswL9b_YRKmEibmKMzJA",
+            "width": 1936
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108193416040463536864/photos\">Riverdale Perk Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAI2U6Ck_YuBoh2gQqekFYdCDaNdWj7Mknotdt5CZYebe0qQm00mDj6yaYOW3VxbwzAUQJjYTpK-HNfskHm4y7UpMStjtsvThC7A4nIiPs2OuutH8ggCW6hFZ219om7hQfEhAbHZQ0DD_SoKwxVG9qSw4EGhRXR6Qxl4m7KO7K757vLKWpSnkl4Q",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108193416040463536864/photos\">Riverdale Perk Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAvzXJ2DCzbnsNUUrv4bnjhuSba6MCEgtVkS3pHpBGu_D0hcIam_LT5MlTguWVD4jYxXDpaxEERKsf0PJ3eJyUs2vBiV_jVoLNfOabqlZqwK5R4zl9YOY0XrTzXMl6hkpHEhDdHX5kJ4mo9bqoU5Tdlvm5GhShWM86uVE9ZrgAixqD5prMArZWkA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108193416040463536864/photos\">Riverdale Perk Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAA3bGQ-LHzHajM3FzeQ69Cf24jzb00dYVN9vL69-olSKlozUkvWPG9mJMv7aC6Wtgxyu8Ds4t-OMNsYNKG-3OEtn28XQJDdo0e-Dl7DBOBpAJScn0yHmuvdA7zy3mRwpCEhDPcg7a6FfhRZEI928MUir6GhTrlG6LyT_JPBrum5Bkd-TfMe4IMQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJH423M2PL1IkRImNVjxKZpMs",
+    "rating": 4.4,
+    "reference": "CmRSAAAAhlsE7fxf68blR8di0HCjri3WWzglQLGxAod2lUZwxVeaAmeTqNlIgU7kOkvaLLq8Z_UoiUv_w-u7XlyfloqggyetQDLhWNMaNMTiRrJYJiQkSI1Ikmw0g9jLs75exdX_EhBvdtvn6ci7NeIn52mU9jEZGhTqKlYoUpQUB0tV_MLURci8aUYyYQ",
+    "reviews": [
+        {
+            "author_name": "Dana Young",
+            "author_url": "https://www.google.com/maps/contrib/109565627210537814199/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RXvy_LDRPN8/AAAAAAAAAAI/AAAAAAAAATU/rPqCV7awqtI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Not a bad place for a cosy lunch with friends. It\u2019s definitely a neighbourhood cafe. Space is small but a fair selection of sandwiches and beverages ! Staffs are genuinely friendly",
+            "time": 1528055445
+        },
+        {
+            "author_name": "Blair Munro",
+            "author_url": "https://www.google.com/maps/contrib/107266522918568984856/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-hZ4z-thEXu8/AAAAAAAAAAI/AAAAAAAATjg/ony1-tOKz5k/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Possibly one of the best coffees I've ever had. Wonderful little gem hidden away from the busy city.",
+            "time": 1528772552
+        },
+        {
+            "author_name": "Alex M",
+            "author_url": "https://www.google.com/maps/contrib/102750348230141630012/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cO3UcQVEzzc/AAAAAAAAAAI/AAAAAAAAADo/PfwBLvENhw4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "We originally went for brunch but found out it was only served on Sundays. We still stayed for coffee and pastries. The latte I had was very good, usually I find I need sugar but this was great without. The little pastry options they had were also delicious. They don't have much seating but it does have a nice atmosphere inside.",
+            "time": 1520228364
+        },
+        {
+            "author_name": "Ben",
+            "author_url": "https://www.google.com/maps/contrib/115482785990825389822/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1HM8FKU_Vfs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq11DwJqvIOJOD2Xu0AssU1ZOcs9dQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Very friendly staff, great atmosphere, they serve the best coffee you can buy (Pilot, which is local), they're seldom too busy to get a seat and the food menu is incredible (especially for a coffee shop). Lots of healthy, delicious and reasonably priced options - this place is a neighbourhood gem.",
+            "time": 1523046893
+        },
+        {
+            "author_name": "Ian D. Mah",
+            "author_url": "https://www.google.com/maps/contrib/106399766749864441970/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AT0gnHgYrXI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1BSsIgMoFJm3_5YUXUWnudlUMYWg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Love this place, awesome staff.  Yummy creative treats! A home away from the office!!!",
+            "time": 1529092845
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14674021790873117474",
+    "utc_offset": -240,
+    "vicinity": "633 Logan Avenue, Toronto",
+    "website": "https://www.riverdaleperk.com/"
+}

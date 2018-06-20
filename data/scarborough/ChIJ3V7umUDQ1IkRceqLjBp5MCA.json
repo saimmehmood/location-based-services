@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "3495",
+            "short_name": "3495",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B3",
+            "short_name": "M1H 1B3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3495 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3495 Lawrence Ave E, Scarborough, ON M1H 1B3, Canada",
+    "formatted_phone_number": "(416) 289-6217",
+    "geometry": {
+        "location": {
+            "lat": 43.757711,
+            "lng": -79.2285656
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7596880302915,
+                "lng": -79.2274664697085
+            },
+            "southwest": {
+                "lat": 43.7569900697085,
+                "lng": -79.23016443029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2dc39a4ae6fc72a294c99fd0228e6c91c8f6c29b",
+    "international_phone_number": "+1 416-289-6217",
+    "name": "Classic Alterations",
+    "place_id": "ChIJ3V7umUDQ1IkRceqLjBp5MCA",
+    "rating": 3,
+    "reference": "CmRRAAAAvHEEl1YckrjIDWT3Y9Lhb-stvmcBoiXkEqmCneTLOA_HimY-I_JwtzUPnDsnx0baiuyzn90C_09sjESS3p4ly3_nOFjguqKH1N4GxY8C5WTgyyN2ZnGxcXuZaFsobh93EhBqD2MT3TheZ9geNkUhzZyPGhR_6MH8ZsuJe-DD47quB8iOI12rJQ",
+    "reviews": [
+        {
+            "author_name": "Md Shehadul Islam",
+            "author_url": "https://www.google.com/maps/contrib/100447941453229813238/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-RSpOfbGt3cY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3voF4ES4BUOhXoHHf5ReZYItUZvw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Poor place!! Don't go. The lady is rude. She just ruined my pant. Also, my wife gave her 9 pants to hem. They took the order for 5 cad each and told us to pick after 1 week. We came after 3 weeks and she was telling she could not do it with the price she offered. We deposited 20 CAD and 25 CAD was due. Then I asked her why didn't you call me before as you wrote my number. She  told, she did not care as the price was quoted wrong. Horrible service!!!!!",
+            "time": 1529510187
+        },
+        {
+            "author_name": "Niro Sath",
+            "author_url": "https://www.google.com/maps/contrib/117283954172254125294/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ECeJpuGhcy4/AAAAAAAAAAI/AAAAAAAAAJw/-8pgQr_5PQI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Horrible and rude customer service! The lady said $22 plus taxes to hem 2 pants, + $4 for rush order. And when I asked regarding why is it expensive, she told me to goto a cheaper place and walked away! Rude and did not even answer my question. I would've paid the price if she had said something on why charge high price to hem a $10 pants.",
+            "time": 1529010706
+        },
+        {
+            "author_name": "Peter",
+            "author_url": "https://www.google.com/maps/contrib/103668423162147186344/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-V-E4kP8P18I/AAAAAAAAAAI/AAAAAAAAH28/vJbOslVV-Co/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Very fast and friendly customer service. Went on a weekday to get pants tailored and was able to received it under an hour. Very affordable costing about $13. Highly recommend :)",
+            "time": 1508279936
+        },
+        {
+            "author_name": "Ray",
+            "author_url": "https://www.google.com/maps/contrib/102014188670316821514/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-puk_pp-MQSY/AAAAAAAAAAI/AAAAAAAAK_M/3F-mwOSEB4g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very good place to take pants for alterations.",
+            "time": 1524907689
+        },
+        {
+            "author_name": "Ray Ong",
+            "author_url": "https://www.google.com/maps/contrib/102428090428667435933/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-PmzixL1JKKo/AAAAAAAAAAI/AAAAAAAAADA/qAWFLc8YQmo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Need pants altered then this is the place to bring it",
+            "time": 1528707239
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2319486963029895793",
+    "utc_offset": -240,
+    "vicinity": "3495 Lawrence Avenue East, Scarborough"
+}

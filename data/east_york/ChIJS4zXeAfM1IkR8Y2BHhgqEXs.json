@@ -1,0 +1,177 @@
+{
+    "address_components": [
+        {
+            "long_name": "2161",
+            "short_name": "2161",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2161 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2161 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(416) 266-8737",
+    "geometry": {
+        "location": {
+            "lat": 43.6700915,
+            "lng": -79.2984972
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67156608029151,
+                "lng": -79.2972010197085
+            },
+            "southwest": {
+                "lat": 43.66886811970851,
+                "lng": -79.2998989802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "85a5a7dade044853ce86bbe233af6c38de6c8352",
+    "international_phone_number": "+1 416-266-8737",
+    "name": "Sahaja Yoga",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:30 \u2013 8:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2069,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112458989870695997350/photos\">Parham R. Yazdy-360DigiLook</a>"
+            ],
+            "photo_reference": "CmRZAAAA2IoGhlrSPZo3gv-hpsO8oDWbOP7Nf7vzWgdR458eHPXlBjojRWuGt_ed53N8oUB-5n3YrVlo5116VAq695-vZop1d9_pFl211tjQhSpJyXCdQmHMpGurZ1HHyrWM25RtEhDrqtSUhHIJzNjV7kyZQbqDGhTpoXLrpvKXMVuLOc2lH90t8D4ZKA",
+            "width": 3566
+        }
+    ],
+    "place_id": "ChIJS4zXeAfM1IkR8Y2BHhgqEXs",
+    "rating": 5,
+    "reference": "CmRRAAAAXJswmO4V0wrugymLAyKGrfY_8Xq1YvlEWmMVKodDXRNTBb93PdZJPSUczSaX2sQL4T95HoJz7YWQPf7izatJN89ZzHvoHrqirL6Q-75LG2wKoQZ1u7HZfNiRw31gTDyqEhC27FvHWG2fahvgSpIUXXKCGhSlrcrSPU0w1Z8Ws2LevQQafORdsg",
+    "reviews": [
+        {
+            "author_name": "Fatih",
+            "author_url": "https://www.google.com/maps/contrib/116523585291680190233/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-dh2cd03ggdo/AAAAAAAAAAI/AAAAAAAAAvA/LD9TE1nDemY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Perfect place to find peace and balance!",
+            "time": 1483639809
+        },
+        {
+            "author_name": "360 Digi Look Inc.",
+            "author_url": "https://www.google.com/maps/contrib/118033421689395611714/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--Y92msGTlNs/AAAAAAAAAAI/AAAAAAAAhMw/ityQ5A_mHwo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A very good meditation place ",
+            "time": 1478381226
+        },
+        {
+            "author_name": "Lamiya Khusainova",
+            "author_url": "https://www.google.com/maps/contrib/110661873046478705281/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-u2v-EVkn724/AAAAAAAAAAI/AAAAAAAAAR4/95c2i-K0sRY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Find peace and bliss with help of Sahaja Yoga",
+            "time": 1482959329
+        },
+        {
+            "author_name": "Halle Rezazadeh",
+            "author_url": "https://www.google.com/maps/contrib/109925654742569473928/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1H-OKyI1RXY/AAAAAAAAAAI/AAAAAAAAATU/YShU8LHqp7I/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1478080795
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8867915424348605937",
+    "utc_offset": -240,
+    "vicinity": "2161 Queen Street East, Toronto",
+    "website": "http://www.freemeditation.com/"
+}

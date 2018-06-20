@@ -1,0 +1,210 @@
+{
+    "address_components": [
+        {
+            "long_name": "1278",
+            "short_name": "1278",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y7",
+            "short_name": "M4L 1Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1278 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1278 Gerrard St E, Toronto, ON M4L 1Y7, Canada",
+    "formatted_phone_number": "(416) 406-1869",
+    "geometry": {
+        "location": {
+            "lat": 43.6712135,
+            "lng": -79.3274876
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67247828029151,
+                "lng": -79.3261026197085
+            },
+            "southwest": {
+                "lat": 43.66978031970851,
+                "lng": -79.3288005802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "8f48f2bc5fc7e3462644e4995dafd6eebafab1d9",
+    "international_phone_number": "+1 416-406-1869",
+    "name": "Hoa Nghiem Temple",
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111392111330666503569/photos\">Hung Cuong Tong</a>"
+            ],
+            "photo_reference": "CmRaAAAA_6VLXD4EGwAolTjV_MjUE_wwJjFutsBkFfiFaFdYlIumBnoJ2MqB_CGDsVKqG0rQu0ciDiLPgQXEE5xWHKKNEKPidV6d3XXSk5GycIohXlAk4lVW9CO9u0fMwyAuOEwBEhBPbADl2TsqIh8pDovxtuvjGhR9Dv0TsEt-mfq8LV4G-nP3ICikjw",
+            "width": 2448
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAK7Kxl8BWBIsLEzREKP-THnHgnWizVD_auGegDEecbxh54jw2YA_xSzTd-ZquyS30GJtr-qt8TTciSmlPzJ7l6JOtjt-1c77VtN-8XLyrFHSTyDrYbcpVC-85GWVXys44EhDHRNH1ol8dzMYkg2yJkI6eGhRmWhkcCYfut0gpGNoCxj-r1titsw",
+            "width": 3872
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107489856045534547761/photos\">Guillermo del \u00c1guila</a>"
+            ],
+            "photo_reference": "CmRaAAAAbJrsUcVxYxqqwVcsQFGJI_NrY1I2I1XfAO4g3tKvqenFYhwn_buHdyrornfX9vhrk23XaKhiDUsva8meQSgdYd0iXG0QrxhyVrRi48RmgG4KleZGxL_OD9-KRJEErFVIEhActYoTFLllCtL4rNxvwppCGhSybYJqLCS1UFbVk4UJ9q8euBPlag",
+            "width": 4032
+        },
+        {
+            "height": 1275,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111392111330666503569/photos\">Hung Cuong Tong</a>"
+            ],
+            "photo_reference": "CmRaAAAAR9l4uLj1WaWIv8HiKW6QZDhOnDTm5-Yvt3KYaowoqQGrhFLjyGoLXGJfrChgf73lOgNIlriUb2jRwJatNkKSExON22UNfD59Yc-cYNho0DT6JwHp38-UmlkYWJYYXTc5EhDnNliCvB8NvEblNSveA-tPGhTKmZK-Md6c8fa37hms6-KNvXHNvg",
+            "width": 1912
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111273763536734715156/photos\">Glen Farrelly</a>"
+            ],
+            "photo_reference": "CmRaAAAAUWlvCWtI1rChDwtu00p9t59RMVuFtsj50MBgB4X9pgdYivIUJKEjJMrkGXEq6WZBNjTOPl55Yf4AwE4cR-z6odsbjNqnJWB6I6zeYM_DH71iIXPbhSF1053rpc5BL8G2EhCcq8Sgy1ToJjM-b7haHYwmGhSkewg3X4euSZaT35QLjt3I2B3XlA",
+            "width": 4160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107144959184544353186/photos\">Jason Shim</a>"
+            ],
+            "photo_reference": "CmRaAAAA_0CofRomCycAH1TUaY2JUAisUbAOBjmZjfVYjdMBbR2DmHnQqpwPIrYPktKt_HZQCsHc5UbNNIK6vtSAmmKm6CqzwTq3ozwL3KammmdAjbEggr8Db-e6hjxskuI_5XfsEhBIv4ogIYkZQ6QOXsaVqnm_GhRy00uuT-dnsiddtMehFAI-OLdpbg",
+            "width": 4032
+        },
+        {
+            "height": 344,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107735935412611405050/photos\">Huynhlam\u807d\u807d\u6539\u6539\u4f60\u7684\u4eba\u751f\u89c0</a>"
+            ],
+            "photo_reference": "CmRaAAAAobSvAr8AakBiOgg12HgckGS2RdCbXQF-nD6KeNhpRU6fyym16o6uiveTkig1HJhQ6pS-qQfOvKFRhkahfhNa9a2zDll2MzVWoz_zBkOYvCRr9hMbD4FzZDTZhN8VUOW3EhDP1PxfW0WtiseaBtiVzN_yGhRBCDd40eJqhAHIwVOY6VkIi9caQg",
+            "width": 612
+        }
+    ],
+    "place_id": "ChIJPT88E4fL1IkRtvmyO8MtORA",
+    "rating": 4.8,
+    "reference": "CmRRAAAApaFbM54EeCx1eKSIH8IaFMJnt-spdSadoOHmJtTD06YrV47-2JC_4eDIGoIG_1YTBiN_afR1JqvLN69wZQZLF5PYY4lWxMNMRJficywoRF8jLyxj7NZA5wMTPGlF3rLyEhBDmJjFPn6XcpdgwiQ22MDaGhRYvz9ZlXU0i_ua92F4g9ocgvHHbw",
+    "reviews": [
+        {
+            "author_name": "Hung Cuong Tong",
+            "author_url": "https://www.google.com/maps/contrib/111392111330666503569/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AxE0fN9rHzg/AAAAAAAAAAI/AAAAAAAAANw/imJkmtRTiyI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "Very clean!!! The resting place of our little daughter.",
+            "time": 1498217836
+        },
+        {
+            "author_name": "Stella J",
+            "author_url": "https://www.google.com/maps/contrib/108746301776604842173/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_FJl5h-Ze7I/AAAAAAAAAAI/AAAAAAAAAXw/14WiZyqmlpQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Loved the friendly atmosphere here",
+            "time": 1513770436
+        },
+        {
+            "author_name": "Magneeto Tom",
+            "author_url": "https://www.google.com/maps/contrib/101329472708205455873/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DIorvSpTid8/AAAAAAAAAAI/AAAAAAAAHHE/wd8SbDOxiew/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Very colorful",
+            "time": 1497552218
+        },
+        {
+            "author_name": "vi nguyen",
+            "author_url": "https://www.google.com/maps/contrib/105043899754266748880/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Jt2Rz3xjEJA/AAAAAAAAAAI/AAAAAAAAAmE/Ohl_aQULLpg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1518627465
+        },
+        {
+            "author_name": "ThuyAn Vo",
+            "author_url": "https://www.google.com/maps/contrib/104808239910394108029/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-e0WXZG6InTU/AAAAAAAAAAI/AAAAAAAAArs/kBlUByumNo4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1510497828
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1169015894822812086",
+    "utc_offset": -240,
+    "vicinity": "1278 Gerrard Street East, Toronto",
+    "website": "http://www.tambaoson.com/TAMBAOSON_FRANCAIS/2HTML/LE_HOA%20NGHIEM%20TEMPLE.htm"
+}

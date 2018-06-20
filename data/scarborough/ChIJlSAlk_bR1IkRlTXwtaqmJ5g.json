@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "133-187",
+            "short_name": "133-187",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Vauxhall Drive",
+            "short_name": "Vauxhall Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 1R5",
+            "short_name": "M1P 1R5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">133-187 Vauxhall Dr</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 1R5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "133-187 Vauxhall Dr, Scarborough, ON M1P 1R5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7575574,
+            "lng": -79.28645809999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75890638029149,
+                "lng": -79.28510911970848
+            },
+            "southwest": {
+                "lat": 43.75620841970849,
+                "lng": -79.2878070802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b5a0b078a58e2cb7c1b57d3f882d1280b4c4c3c6",
+    "name": "133-187 Vauxhall Dr",
+    "place_id": "ChIJlSAlk_bR1IkRlTXwtaqmJ5g",
+    "reference": "CmRbAAAACHXLY49_ij30pAyMUpAc_3dWtN5zEa9JsmJHWSc3IxB7zeDRmbxpYvSVoMCpe_jtvqNCtsIo-2TXAKw2MFkOKqYUUpNpgZhyTyKYe9605zeRab0fRHLolxs_aOwmFftxEhBPrVZ8Ai0fKwFdBLYK7rGBGhRVrO4Zx3pXRN0LVU6ViJE_teMzyA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=133-187+Vauxhall+Dr,+Scarborough,+ON+M1P+1R5,+Canada&ftid=0x89d4d1f693252095:0x9827a6aab5f03595",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

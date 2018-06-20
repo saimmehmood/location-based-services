@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3252-3240",
+            "short_name": "3252-3240",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Valmarie Avenue",
+            "short_name": "Valmarie Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2A6",
+            "short_name": "L5C 2A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3252-3240 Valmarie Ave</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3252-3240 Valmarie Ave, Mississauga, ON L5C 2A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56106399999999,
+            "lng": -79.65091389999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5624129802915,
+                "lng": -79.6495649197085
+            },
+            "southwest": {
+                "lat": 43.5597150197085,
+                "lng": -79.6522628802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1b70930bf1775ca21a0fb716c8910f762c9ee536",
+    "name": "3252-3240 Valmarie Ave",
+    "place_id": "ChIJ3SF1SE1BK4gRx8kKn4HncX8",
+    "reference": "CmRbAAAAFERC8HGATRIrqS9oaK2l8rinOx7NTiiJTVUU8hMiqNh76IVbwzAJ3a8fqpFr6p8YiyPBCen6mq2XajrMniEjah4CFpxW3lD7ZXdYHgs66hJOgNbXSmuLL0RfXEcgY5lrEhBgIkwqKQPC7ZhU0s2Dyda1GhQ3s-qNgoET1vFDZix-LgEfXBjwQg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3252-3240+Valmarie+Ave,+Mississauga,+ON+L5C+2A6,+Canada&ftid=0x882b414d487521dd:0x7f71e7819f0ac9c7",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

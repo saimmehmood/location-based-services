@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "304-294",
+            "short_name": "304-294",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Jones Avenue",
+            "short_name": "Jones Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 3A6",
+            "short_name": "M4M 3A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">304-294 Jones Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 3A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "304-294 Jones Ave, Toronto, ON M4M 3A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6712637,
+            "lng": -79.33646519999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6726126802915,
+                "lng": -79.33511621970848
+            },
+            "southwest": {
+                "lat": 43.6699147197085,
+                "lng": -79.33781418029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c28398a7722c1000be706c80e50353312740c3a4",
+    "name": "304-294 Jones Ave",
+    "place_id": "ChIJ-8XMnn_L1IkRg-ogt2fB3Ig",
+    "reference": "CmRbAAAA4kz-fCrCfY6q9WUCiDCfL4MNsLx01JTDk7bXcqXC8FydqTehCpEXv_vpzyvpuyl4EePKynkhq_FnlI50ZI8_c93wynGagTzL6vHVkrj_P_p5ZTnNp721orO9Oa_nVj7zEhBpIzW6GaZVkKVytOX5DfnVGhRYPG7cMoBvKVbghFRxlNz0Tcf2gA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=304-294+Jones+Ave,+Toronto,+ON+M4M+3A6,+Canada&ftid=0x89d4cb7f9eccc5fb:0x88dcc167b720ea83",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

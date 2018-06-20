@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "115 Ellesmere Rd",
+            "short_name": "115 Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4C3",
+            "short_name": "M1R 4C3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4C3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "115 Ellesmere Rd, Scarborough, ON M1R 4C3, Canada",
+    "formatted_phone_number": "(416) 447-4831",
+    "geometry": {
+        "location": {
+            "lat": 43.7587992,
+            "lng": -79.3096547
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7601481802915,
+                "lng": -79.30830571970849
+            },
+            "southwest": {
+                "lat": 43.7574502197085,
+                "lng": -79.3110036802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9db733b95b6c76df46e551f64d8c2712565e7d73",
+    "international_phone_number": "+1 416-447-4831",
+    "name": "Daisy Mart",
+    "photos": [
+        {
+            "height": 1406,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAADylkswIDd7jQ8jCA_DTFBZeL-vyCHivRQIsna_z4ddmC-pAKCX9ATbod7ebIl5_-BE8O3ZMPGIaTYdODWgt2LZ5uTKJV0XKCbQ7niuL_fziC_KSLYaft50MAawcyvnmSEhCWBdIlBEG3fswQQMYVTqFPGhQFoheoFlwSCd0T_mH2DpafOEyYlg",
+            "width": 3702
+        }
+    ],
+    "place_id": "ChIJ7fF8qBPS1IkRFyE1YKgC6TE",
+    "reference": "CmRRAAAAidxNrvsWGzZLGYyVx2CSUzNEh7lNXbzOTZeD1220n4gAhihOK0OkYRRMkhjMM7J2jq8yk31ReFnEbj6SitRzwevOP17PcixA0m9eunGnf2U4tDpkhn3Jv11OOHzU-qxVEhDypgOo0k-bbfm_dXqyN4J5GhQG8SYpW7sYi88HWTNglsDysMFWjQ",
+    "scope": "GOOGLE",
+    "types": [
+        "convenience_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3596408699623907607",
+    "utc_offset": -240,
+    "vicinity": "115 Ellesmere Rd, Scarborough"
+}

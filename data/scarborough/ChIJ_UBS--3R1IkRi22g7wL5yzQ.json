@@ -1,0 +1,188 @@
+{
+    "address_components": [
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 752-2221",
+    "geometry": {
+        "location": {
+            "lat": 43.7579941,
+            "lng": -79.27873509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75939928029149,
+                "lng": -79.2771123197085
+            },
+            "southwest": {
+                "lat": 43.7567013197085,
+                "lng": -79.2798102802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5c24474e1cb06b4bd60a03b804ad5d1beae2484d",
+    "international_phone_number": "+1 416-752-2221",
+    "name": "Flancman & Frisch Lawyers",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ_UBS--3R1IkRi22g7wL5yzQ",
+    "rating": 1,
+    "reference": "CmRRAAAAcWTk0hqhODsiMARVq06-tRv95u7fjEiMQibInxSdCXcaNoNHSnsHiJqEwGhIFxhGFZG5zCh2QODEeiXHgo15ghjX23XPuypAsZft0GAUQmA2bsU8ogifEF_kUgi61AE3EhBvnECGWEwu3mqXWXvtAn3GGhRoK5ocuoygzgORvx7m3JHnqp-JmA",
+    "reviews": [
+        {
+            "author_name": "Sonia Swallow",
+            "author_url": "https://www.google.com/maps/contrib/102628509131880172214/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-29uCdL5R9ao/AAAAAAAAAAI/AAAAAAAAGWM/25mjqsAjcg0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "Mr. Flanceman has been extremely helpful to me through a very complicated and difficult divorce and separation.  I met him in 2015. I had financial setbacks and found him to be very understanding and generous with his time . l would highly  recommend his firm.",
+            "time": 1502365114
+        },
+        {
+            "author_name": "Halil Ozel",
+            "author_url": "https://www.google.com/maps/contrib/117561775782339026140/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-m73ZeIsgbr0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3uuGinhb91ViXmlLMuYgXOmN_kzQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "Very disappointed in service, waisted my time and money and didn't get the job done.",
+            "time": 1499888776
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3804408101250035083",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road, Scarborough",
+    "website": "http://www.flancmanandfrischlawyers.ca/"
+}

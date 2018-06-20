@@ -1,0 +1,194 @@
+{
+    "address_components": [
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "3030 Lawrence Ave East, <span class=\"street-address\">The Medical Mall, Fourth Floor unit #410</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3030 Lawrence Ave East, The Medical Mall, Fourth Floor unit #410, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(647) 349-3668",
+    "geometry": {
+        "location": {
+            "lat": 43.75646399999999,
+            "lng": -79.247951
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75781298029149,
+                "lng": -79.24660201970849
+            },
+            "southwest": {
+                "lat": 43.7551150197085,
+                "lng": -79.2492999802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0207feb8be258815ea6945da2bdc7f4b0211d378",
+    "international_phone_number": "+1 647-349-3668",
+    "name": "The Scarborough General Foot Clinic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM \u2013 3:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAb5e2Tzqs3GJk9yfdEyMdNgNsE2Yr3KICW0p_3REUVaJhpfcU5jm_t66hlRhtcKZXvsEiJpjEtvYYBQriOxCPceilnKrOxjPh0oUm5Yulqrqoebtc5FLvTDmgGDM63BNMEhAoyhAAjEtUCb1nsc3X4YfhGhQgFzpAXQqRQAe8E5NG5jzH_1us4A",
+            "width": 3872
+        },
+        {
+            "height": 2748,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAlDGE1K_-0hY2BYSW2CVYF5yQ6NfC1fOpjTWC6ZnOt7Jsf49g02ru9H3V-LvLdBChEMEZC1yeBmZQ-fDr4yz9oljG9OP3FW6nzlIH6XbdUH2OTGlEInsspCubD68TpfWfEhAonSkTZgBNUtB0axs1JcqFGhRwIjJMVkk9XvYlCN1dpaZjAW7b7Q",
+            "width": 4333
+        },
+        {
+            "height": 3872,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAkulQO37AMHMu92y_kBS-7nmKfhavYRctZFRMnIiTCrE8ES5Fo0nQk7qpjR_pJIBa01L594uVLdhIPbwT9YwiZnS_zyEt76Yun6Lhyv0L-9NNtHYmJM0QnMOs_K1hGKmQEhA-HGJG828yqzn56HfF2dkCGhQTqJrZsE2swuVEOZXoVMr3LhcmTw",
+            "width": 2592
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAk5wySj9eekUuzNwME3ecPvKcXKLW9m1LFMkfUWYeBjM-iviPEiZwJ3Rhz9ZRDMavaX3gbp9BLgzF4-heTha6clMBNM5a8XiMDxlJFXztW-UpNIWmpCIgZRkeX-5OvwBaEhCatSpo51EFQ3NFU2moSzQtGhTkoDTCPFWszFP9ZQQbffTGz5XP8g",
+            "width": 3872
+        },
+        {
+            "height": 2568,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAHC-INDbjblmJIRj76a60TO0Sqs1vjlYudNfdcORcQqc60c52tEziMQj7nuHU1V5R5WkuLiPoKZlt-rZNFR4vWwxAOphYCRjPzOV53v5BnFbcfKhV_HJ50bTb1y19w5QzEhDDw-ES_CvC8Nz3jfA7TQg4GhR2ackKyOkM0nbE68nloVdOa6dJqA",
+            "width": 3126
+        },
+        {
+            "height": 2774,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAgWUxwD7hvrZpk3w-NFvcm7BxFuxSE-2XZ3tNt0fT9Oi-fILjZiiM82LcF-aOV0kNynbqyQSibmjCTLQOPZpOARJDkTbZSQ0ZLmi9Xgt8a5xflS0Ct8f1mvU8wlj04CZPEhCyZNYInCwgHIEax3jhMUjOGhSKAkSKgDTIqlAxGw50PEZaVx1bmw",
+            "width": 2472
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAA9KZwzZ2InbItDIz0YXjiqzdS6n4u-g2d7eYpMz1HwQNaBZqkvfWj1WqKecpPOjtQ_1eceGue7jMO4O4eTnOamLZHHEYBDjxePt9po026Aszwa-dqQYWlFt7ZsWuP8XlMEhDox9CFo7hGG964Fe99r_uyGhQtiirs_45GETSzl_Irk6OWgLwMMg",
+            "width": 3872
+        },
+        {
+            "height": 1026,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAEEI-dGu89oUMXzvIYx1oZsEMEWD3Ws3H67fiE4oZH5ujB0SAJI0PZbzew7injSF2UDCc1L06YgjfQxr-9w3bbfB4lJounMA4Ituku2dfo4TeWAwc68EzmUoLEag6MS9cEhAZpAo9lUOBCf4xO27DYc0hGhTDSQAkXiqWDwH6WmxZ_qKMXuPf_Q",
+            "width": 1026
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAACsCVnn2Nlh5zgDR90qE3JjCKGgoxa60BUT7Aa_XoiYgqnr31N-9UHVKorcJh_l8VAnIQl80WP0pda2dcaP04t-o9fS9G0dSBL13UYTdA5DN1GfOt2fMDqwi55HZwXjoTEhATd3rnCp42FptA7vgXtv3PGhQLvjoLHIChVpMzlB65Y_EsbdWyPg",
+            "width": 3872
+        },
+        {
+            "height": 3595,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104852223769674627385/photos\">The Scarborough General Foot Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAVP-dOF646WsdAy9W_igH1QD4cNd4ieZ6BXU-Mpb03mL0vZu76BtE9suH8TfEzgnJL3xOkBFsQFk-0Ehy6gLqvr7mjVYIH0PVMLVwUnwF5klC_LvtH2VsCLEK7h09nVpdEhAY3GH6_e1gOAz6lwK38ucqGhSDvOUVsEPaCbjizjiZprDyoYTOTA",
+            "width": 1886
+        }
+    ],
+    "place_id": "ChIJE0CpoMvR1IkRPirMtJY57Ms",
+    "reference": "CmRSAAAAPR1RHsKCA0YAL2-NmLwdhmVYhh99Y7RxqO0_vW_pmxraGWEtcV8NRBOVXpkarKfUwqY2BbiUu39ZHeA_lF99cZyFCWHWV8mDsA91Q1clG3nLT-DJ4yXrxyIHq2n7SEQLEhBBPxPhmj8-xgOAD1_r6tKuGhRYDRQyZIgMD8gpSRhxpwS-8GHnuQ",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14694183003644242494",
+    "utc_offset": -240,
+    "vicinity": "3030 Lawrence Ave East, The Medical Mall, Fourth Floor unit #410, Scarborough",
+    "website": "http://www.generalfoothealth.com/"
+}

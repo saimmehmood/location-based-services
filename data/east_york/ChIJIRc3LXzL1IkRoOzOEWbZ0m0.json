@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverdale Avenue",
+            "short_name": "Riverdale Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 3G6",
+            "short_name": "M4M 3G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 Riverdale Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 3G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "300 Riverdale Ave, Toronto, ON M4M 3G6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6714104,
+            "lng": -79.3415236
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6727165302915,
+                "lng": -79.3401566197085
+            },
+            "southwest": {
+                "lat": 43.6700185697085,
+                "lng": -79.3428545802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1cd22e71f576229a89242887cfce5aa5509e2a53",
+    "name": "Zipcar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 499,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247057232344567728/photos\">Zipcar</a>"
+            ],
+            "photo_reference": "CmRaAAAAF6OCGWsuEPGHuHK1StWDK9u2oBcRAuqo-X73Sz7JUC_YukGRgxpVdo6bADw8hl1KKQoLgBWqc4EF3-IXLj42OtJlhINJ2C1bXluQ26Y_NFzId3VMC8XcWVra7zANNFjzEhA3Sp-DFSfkAnM9JN_mvAuPGhQ3deG4mQtL5V6gG7NxJaVvmhmd0A",
+            "width": 499
+        }
+    ],
+    "place_id": "ChIJIRc3LXzL1IkRoOzOEWbZ0m0",
+    "reference": "CmRRAAAARRU90y1NaK9Tx0DJBpvEAqoKvwUjNEFZGDKGJ1oQFLmuTxkGuu1YU0aIdQQsctDXpCCDN2T7O_ImtMsWGUfjc58_HGm90HMtFPrVhbGwCWW7qJNZ9EhTKGye7hr_9zfcEhAsAwZm5-Q1zQ8ARdFqwN8TGhSZMigjHdHdCNRFzcxX5h6WSMo8Iw",
+    "scope": "GOOGLE",
+    "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7913626527652048032",
+    "utc_offset": -240,
+    "vicinity": "300 Riverdale Avenue, Toronto",
+    "website": "http://www.zipcar.com/"
+}

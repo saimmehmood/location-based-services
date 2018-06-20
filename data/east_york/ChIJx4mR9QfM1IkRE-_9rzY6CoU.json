@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1975-2037",
+            "short_name": "1975-2037",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1975-2037 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1975-2037 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.66997019999999,
+            "lng": -79.30031989999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6713191802915,
+                "lng": -79.29897091970848
+            },
+            "southwest": {
+                "lat": 43.6686212197085,
+                "lng": -79.30166888029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b16f600271362a6bfb98d17e49144b6cd1a3d49c",
+    "name": "1975-2037 Queen St E",
+    "place_id": "ChIJx4mR9QfM1IkRE-_9rzY6CoU",
+    "reference": "CmRbAAAAgTKMKuYwegnFPYZe0nd4By9TtXVm5cTk60go25oLouQJKbxkGGkxNWU17mw_5kAMt5ElYzoA82RGEFSX13cimUac5V5LHS_BTuIr9MN4gvTIoiwO2L4k01XJqWfck5XkEhAAK9hmrOX4B-4wy0ROyfY7GhQV8mf51sNwNqsbDfOnH3jqKzfYUQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1975-2037+Queen+St+E,+Toronto,+ON+M4L+1J1,+Canada&ftid=0x89d4cc07f59189c7:0x850a3a36affdef13",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

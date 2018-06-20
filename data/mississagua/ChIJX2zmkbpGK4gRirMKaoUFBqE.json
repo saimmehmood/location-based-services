@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "2474",
+            "short_name": "2474",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hemus Square",
+            "short_name": "Hemus Square",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 3X4",
+            "short_name": "L5C 3X4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2474 Hemus Square</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 3X4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2474 Hemus Square, Mississauga, ON L5C 3X4, Canada",
+    "formatted_phone_number": "(905) 281-0237",
+    "geometry": {
+        "location": {
+            "lat": 43.5606809,
+            "lng": -79.6381885
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5619689802915,
+                "lng": -79.63672506970849
+            },
+            "southwest": {
+                "lat": 43.5592710197085,
+                "lng": -79.63942303029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8f663f88d4e5db7a4877bb92d88b1e0a94aaa151",
+    "international_phone_number": "+1 905-281-0237",
+    "name": "TAN Transport Ltd",
+    "place_id": "ChIJX2zmkbpGK4gRirMKaoUFBqE",
+    "reference": "CmRSAAAAkI8xIiib9STUIHP_XQNO92TGjyJ_nsqOR6qwriiY0s2soY0XtB3HrMGpHSPwGuPPEe-edgntWcCRLkUnU4rUep9dyO23jwfAYXb2s5UNMknpgxnQgtWPSP9PIU9wv0O9EhC0qF29_FCagN_YRSCLA2FqGhT4b7UJDRRv_ALoZN0iVQx0O0qTNA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11602967560534537098",
+    "utc_offset": -240,
+    "vicinity": "2474 Hemus Square, Mississauga"
+}

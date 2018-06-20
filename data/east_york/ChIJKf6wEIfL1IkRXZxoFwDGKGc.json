@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2R4",
+            "short_name": "M4L 2R4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2R4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4L 2R4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.670796,
+            "lng": -79.327863
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67214498029151,
+                "lng": -79.3265140197085
+            },
+            "southwest": {
+                "lat": 43.66944701970851,
+                "lng": -79.3292119802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "b0a80f7462a9acd0da8cc0267eb6d9bd410e5530",
+    "name": "Greenwood Ave at Gerrard St East",
+    "photos": [
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117847421749893630721/photos\">Bryson Winchester</a>"
+            ],
+            "photo_reference": "CmRaAAAArwHjKDtUUrKWnX9JM-bSA3WCbI6GvHwFtcHuNRU28Yt6mMFiYxEON8YiBUgzB-ZQw1OjlwubNs14EQYe6FFO0qKPnzE4B197fNW-pOwzm4aiPtZZf1zohzeMn9nA_USEEhBisryHeqQ_cXTBxUG-eM9-GhTTH-n-JGrArdqSt1vt_gCfXjheDQ",
+            "width": 4640
+        }
+    ],
+    "place_id": "ChIJKf6wEIfL1IkRXZxoFwDGKGc",
+    "reference": "CmRRAAAAIpDX9px0utIpv_RoQQnFM5PLbLLzj8C5vOggTI1JdxU9kogFQsUBfwxrNlKjRNO6E6tSxohsYAyCIhDGCvJ3LCcIBZXg-pWsuUgRvWhjXPFQsCnOY5E06VrDDO-aDZneEhAa6rMj7Qu4N2xrHbH1-BnAGhSt5fUswGJIuIsDKVNXfdUnEq2-lQ",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7433408888670035037",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

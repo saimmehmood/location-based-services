@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "31-87",
+            "short_name": "31-87",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gainsborough Road",
+            "short_name": "Gainsborough Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3C1",
+            "short_name": "M4L 3C1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">31-87 Gainsborough Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3C1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "31-87 Gainsborough Rd, Toronto, ON M4L 3C1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67218309999999,
+            "lng": -79.3174217
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67353208029149,
+                "lng": -79.31607271970849
+            },
+            "southwest": {
+                "lat": 43.67083411970849,
+                "lng": -79.3187706802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0625ff4154ab80a262b1af578cc54c4d825829ab",
+    "name": "31-87 Gainsborough Rd",
+    "place_id": "ChIJ2_ls7nXM1IkRr6u9y5THnFk",
+    "reference": "CmRbAAAAMtYBQ7MvwiiEkMQoV_KHPjO4swFjH6j5jR7z3_khE-iYA3_i7iZYboGUO9RCnGtRNsHawpsloQh27XNVAzTKYt5Ldb6srkXpbXN2t-zYXyE23V79i0UzAAGho7APwqs3EhCh0iUoYjggNLqKElfwNR_NGhSFXk8f7qAH5iJoN44RN4el43MnSg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=31-87+Gainsborough+Rd,+Toronto,+ON+M4L+3C1,+Canada&ftid=0x89d4cc75ee6cf9db:0x599cc794cbbdabaf",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

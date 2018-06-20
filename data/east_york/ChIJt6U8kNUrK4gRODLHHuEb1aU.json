@@ -1,0 +1,309 @@
+{
+    "address_components": [
+        {
+            "long_name": "1289 A",
+            "short_name": "1289 A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y8",
+            "short_name": "M4L 1Y8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1289 A Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1289 A Gerrard St E, Toronto, ON M4L 1Y8, Canada",
+    "formatted_phone_number": "(647) 697-7672",
+    "geometry": {
+        "location": {
+            "lat": 43.67088,
+            "lng": -79.327584
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6722871802915,
+                "lng": -79.3262598697085
+            },
+            "southwest": {
+                "lat": 43.66958921970851,
+                "lng": -79.32895783029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9c0dc50a766db09a8aaad612e9b267f4aec6f56c",
+    "international_phone_number": "+1 647-697-7672",
+    "name": "Leslieville Handyman Services",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 6:00 PM",
+            "Tuesday: 6:00 AM \u2013 6:00 PM",
+            "Wednesday: 6:00 AM \u2013 6:00 PM",
+            "Thursday: 6:00 AM \u2013 6:00 PM",
+            "Friday: 6:00 AM \u2013 6:00 PM",
+            "Saturday: 6:00 AM \u2013 6:00 PM",
+            "Sunday: 6:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAA3TyqWECxG2VKHf8WmP0Su9J58kH5-iDeQwFbOyBxCWejlzMCswifO3ffzKTIHHYOltduQj_Unggg_8nYP4PGuQpFVYRd9Vv_BJsfVMhY2TIzJYYF9qPObfUAMCbOJ7MAEhDUDJzRM3y2hyV4-M8Du0tAGhSXTIHZthhd_6vbzwbspPmT2GF9Qw",
+            "width": 612
+        },
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAXd_v7otGC-DRqIihAsGFUg10Tzk6MGrMkF-X66bCM5mh4HLFUg4pD-MclLYepgbhSrX5O_lT6p4MxFluIVsfGNOx_1gspqwIWHkRNl5Z0njPL7ZV0EJ8nzv5Z-hyiYWkEhBu7k8F6y4wpdO_hcHHxgV9GhTBSRdXhehlyk2St6NcFby6LWnpxg",
+            "width": 612
+        },
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAA3FYEfdiSmKEI-hWPoJKtA6D8PTav6c1ZoGT4vlDZqAn_JXaabYHNp-Lw78npTYczkzF0mu4LxxGtfKFGnHn-ZnM-uNZ61SH7XGHV094tsryznJRfKv9I3vBMJ5whEyu_EhC6q863yZOXOqe8LodFXXz-GhS__EcmZHSmPbtThLFXtXxh3F8f4w",
+            "width": 612
+        },
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Lr2pUMDk8kmqJs5h_eK3O362gOh-c1dTyAlorDglmeKuTcvkSIviABCTS3XXunfFt5KF5NKfnUFjdRKFHA6TP89DapoPkuCbmGKS_mHZDgjFb4pYR44s0m3czo0oKDVEhDH7CrwHDwVGgCOYjOk5COgGhR_k9milrATQvuLtEC9TtMrq7m8hg",
+            "width": 612
+        },
+        {
+            "height": 612,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAtBKoizqe19O83d3TUPRmFFszfWtptrv-1jfovSZmnikZ-_CGOOLf93jmb7AehJrYxba1-yiEgU-1ulCuhNyrZFToaZXooqaZibIdF-SmsxdqoOdqOfefV8p8QHPQKSJREhCNDknt-m0M7ibg-l1Pm5IuGhSIgCmMU-4VhvYFsEms0hlhXuis3A",
+            "width": 566
+        },
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAKIpCn-AZPr-yE_Uge0sOKnuxZjfjAO-G_Sr1EmGq8ys9_oNk8nbyOGGqhL44z6rUY9zRcfT0pAL3vnzPQttRpw_9qWPYjKC1Q_DSQnCYcp95ftuDhTeVxABPh90JA7cmEhB7E4F5PjqwMeztMQymiETWGhQgdebViOQFmYn8DzQLmQfB2_ot9A",
+            "width": 612
+        },
+        {
+            "height": 320,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAmSGGhFBwF4ycoI4jfez0CULBPHQJGEbtVFRtfp14NcRmQBxcfbSYu7I_ocGLT7Rg2pyeSutZdMjd4h1vQPg_Sx2fHR0MKOIjYK9aZCYITUBGWp1v_3o27Ve8WDjlJnUgEhCGlRNcMHgT0UNxb6hyAS0eGhSO8HaCY9xMXdM1mfVlk-DnzkRBDA",
+            "width": 612
+        },
+        {
+            "height": 356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAbrwX6-XZWJ3hzpK_zNtKmvMlcBaQydBod0JJOroXDCvtHJFjACYSz5kMs6ThbDpvKntKiCOQgQ3iqeTQLHRtmIVZwVf0lAfcQJOHvRJXQZkjcHSZpzBHflnXclAB4nvBEhDvomugeQsJZC9bnZn0_EzaGhRs963R-QGi9oweVMSjb8KEcAdpYQ",
+            "width": 355
+        },
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAhQy5CJBX3tjyfXnGLHhLMoIMuc1WSjc8dizNOvJJGd7yWr7hI2_GJjFdJLtf0IM9Dm8t34o6fuLNqOE9DHp7QrFyNLjRCUjitX6hL6tSwbU9lLGHyZ9BcBx_KIQ99ZtVEhBErxhGwRtk9ttcqEKDr9YVGhSddaWhhTIQBR3AXNndQbVOyPwumg",
+            "width": 612
+        },
+        {
+            "height": 271,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113482447953763262823/photos\">Leslieville Handyman Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAEPPUm51vf6inDX9NQLDGDw_KZu7EAeJvc20zqiciOxcCtW7bDtmt55WmKfX40IoqUKg6Zhh5DweVQhJKaBXRdX8wNhOwwmb0k7kk1lLS3E-S0kGzQcjsn1YGc_9pmJGEEhAAde2UEFcGcznEEPUloSA-GhQ26jsvp77ZBUDUVeuui2qnIl9MLg",
+            "width": 612
+        }
+    ],
+    "place_id": "ChIJt6U8kNUrK4gRODLHHuEb1aU",
+    "rating": 5,
+    "reference": "CmRSAAAA2LUkti1aVxHDsVs2YBwQ9Ec4F9eJIQL9Gvom0DMxTC_Ut1FRuiJ4PixA9ijOZ3qWaAXVQRaA_IY5Uo3ku6VZtYFa_gvKFoBuiMHIpO72TgHdCK-TYcANI6kh_ZvJN7kxEhAYG_85RqxahQrK_uvGJg7nGhR7vM4efYtk0nZZ6D6Qj0vdO1PY2w",
+    "reviews": [
+        {
+            "author_name": "Porter Davidson",
+            "author_url": "https://www.google.com/maps/contrib/114181201329843368332/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-q5YIGuXweUk/AAAAAAAAAAI/AAAAAAAAAAc/XKTLNj-jyPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Leslieville Handyman Services was recommended to us by next door neighbors as a reliable handyman company. So we called them to do some electrical repairs in our house. They arrived the next morning. They diagnosed the problem in no time and fixed it. They charged a totally decent price. They were knowledgeable and courteous. We warmly recommend this company.",
+            "time": 1521642215
+        },
+        {
+            "author_name": "Avi Tapia",
+            "author_url": "https://www.google.com/maps/contrib/115740376295938088316/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-unArL_3x-NY/AAAAAAAAAAI/AAAAAAAAAAc/Uia-AyOufDY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I had Leslieville Handyman Services do repaair our drywalls, and do some more tasks in our home including painting on the ceiling in our kitchen. They did a great job and left the place clean. I will definitely use them again and recommend them to everyone who needs a good handyman.",
+            "time": 1524071637
+        },
+        {
+            "author_name": "Tatum B",
+            "author_url": "https://www.google.com/maps/contrib/108190641749767131976/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--VRm0VxLUXk/AAAAAAAAAAI/AAAAAAAAAAc/UYfsaV68ovU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Very helpful people! If I am asked this company is the best! In times of turmoil finding a trustworthy handyman Leslieville Handyman Services answered our prayers. I am very grateful that I found Leslieville Handyman Services.",
+            "time": 1523465171
+        },
+        {
+            "author_name": "M Bender",
+            "author_url": "https://www.google.com/maps/contrib/106920979692915040993/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iM7HvTc8s-Q/AAAAAAAAAAI/AAAAAAAAAAc/VCluZJs-xqA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I bought a new furniture for our living room and one king-sized bed for our living room but my door is not that big to accommodate some large furniture that is why I contacted Leslieville Handyman Services to hire a handyman to repair or install a much bigger door. The handyman worked quickly and it was done perfectly for a fair price.",
+            "time": 1522084352
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11949487839995441720",
+    "utc_offset": -240,
+    "vicinity": "1289 A Gerrard Street East, Toronto"
+}

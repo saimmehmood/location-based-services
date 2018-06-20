@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "228-164",
+            "short_name": "228-164",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverdale Avenue",
+            "short_name": "Riverdale Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1C5",
+            "short_name": "M4K 1C5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">228-164 Riverdale Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1C5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "228-164 Riverdale Ave, Toronto, ON M4K 1C5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67053629999999,
+            "lng": -79.3450227
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67188528029149,
+                "lng": -79.34367371970849
+            },
+            "southwest": {
+                "lat": 43.6691873197085,
+                "lng": -79.3463716802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8e45e37e2de249ea9f352190f6173ef873e7ee76",
+    "name": "228-164 Riverdale Ave",
+    "place_id": "ChIJ3Vc8lXzL1IkRLdmT062Zx9o",
+    "reference": "CmRbAAAAR3UI_e1mSrt8Z_CTLZIhTQiHQKASZJoKNU-EoN8yx6cjWrqR78cRSC9EYC2AXSl_146S42FpZ9Ly2w0qHSdJ81_wnV0F9Zc2gruwXAtMNgrxcOQmvP8mAvCYAkULqBYhEhBBrRI3IZMkjUv3oOOg6iS4GhS1bYJGrSnOtRNmu_gJ8fi9TNqhYQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=228-164+Riverdale+Ave,+Toronto,+ON+M4K+1C5,+Canada&ftid=0x89d4cb7c953c57dd:0xdac799add393d92d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

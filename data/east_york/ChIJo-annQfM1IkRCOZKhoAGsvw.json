@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "2024",
+            "short_name": "2024",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2024 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2024 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(416) 913-3361",
+    "geometry": {
+        "location": {
+            "lat": 43.6705001,
+            "lng": -79.2986445
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6717728302915,
+                "lng": -79.29726346970848
+            },
+            "southwest": {
+                "lat": 43.6690748697085,
+                "lng": -79.29996143029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "74134e5afb33c994716690efbb1811cf18fcac13",
+    "international_phone_number": "+1 416-913-3361",
+    "name": "Green Eggplant",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 10:00 PM",
+            "Tuesday: 11:00 AM \u2013 10:00 PM",
+            "Wednesday: 11:00 AM \u2013 10:00 PM",
+            "Thursday: 11:00 AM \u2013 10:00 PM",
+            "Friday: 11:00 AM \u2013 10:00 PM",
+            "Saturday: 9:00 AM \u2013 11:00 PM",
+            "Sunday: 9:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109655778398905826058/photos\">Nancy Gow</a>"
+            ],
+            "photo_reference": "CmRaAAAACecfoxEBOqrPbRESmdi8y0--xaWVy7Pl1ds74tA8ExievqBRO66czbUz2iTCiBGuGDZpfcWvWyn6Lz5AuRLt0g3PfYcQknfyhGjLl-ail11AEGUcAwX0jZ3xnp6X_8BjEhA10O-lBs-0ixU5YRhG3ddhGhSj3FgUAiZPFfyNyC2Ml6qDmD85CQ",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107884246670446618291/photos\">Ivan Tran</a>"
+            ],
+            "photo_reference": "CmRaAAAALuuzTKvliy9kF8VBd-DnO7EFKs8EL-34z4FwAa1gxgUbWFsuJKafLl2eA4DMx4IKoe5Gk8-TLJiUVwtyD6SHcLLfohIq4xwMzXRSG8VI2B0TB5Hs-OB2WoDirRiQY4uaEhD9npJsrEQazGeWlc8Zb1BcGhQfHMUUwRlejppy1aRdBzuI9TiaYA",
+            "width": 4032
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117935157586380589601/photos\">Joseph Pollack</a>"
+            ],
+            "photo_reference": "CmRaAAAAmm2Ur7CN9rCDLfzRGhf4BJ8HlJeSALlW4gExs23LUiAZMoYMQL_XCZhtwjIlYe4-1iy96c_oMSWHYEsMX7vSq5dEjI9_CY4AnumPMG-EZYDNekzXemiwuUzbDZmYE9jdEhCdTPd4UrZeBmdFGKvYDtbUGhS8kGnac5WSw7H0qN1UWJnkMLHEFA",
+            "width": 4928
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109044911063388454304/photos\">Lee Haire</a>"
+            ],
+            "photo_reference": "CmRaAAAAsdLmlSSoB8y1EAZnBzmEMyKMi1tVMWoXDfEX70Ge7qkYCImAWwyYhNNjZyJV8HSCMXSD-XivNGb4ACFvWqcq4tE98UCPKuwb9kkOv4FckVr0u9i6fBUZW-BUbEKECuHZEhCBIko3F_akYcmrDs5G-l70GhS6g5UreXC4cDScmQbVVbJwS-o4Kw",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAA_TOa4WRmA_y12bndaU4XgVd5Y0veDKr0bKqAooRdwyJcM9Sqa4eQPLJQ2AUKl65qHLV4hlrEgx2FJZ3kFy8dqs2Ta3YyCZfYVW4Tc0zZHnHlmtJI2ypesgmAj3ptWQF9EhB99ZJ0Tv-m76DW6v527mIhGhSu1-3DJeynKp6OgnB8iAfRjN8vnQ",
+            "width": 4032
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100115759628897208877/photos\">Chang Wang</a>"
+            ],
+            "photo_reference": "CmRaAAAAs2shlXq---3WqlY0KJbLaQ1tjNjT2NHhaYsExifISDCBwCtAM_9sYru2j0Ddc7I9DsWivo-fICEUt5WooVKyR1gaVW8LEiyDHn7oHCWt3SIZACJwOSds3ir4yLDeV8UtEhDPZ3M6R0cgSB17JYkspO-LGhQleubjoM-mH2iWRmjG8qudFYAxUw",
+            "width": 4608
+        },
+        {
+            "height": 2446,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110549683024207379660/photos\">Liz A</a>"
+            ],
+            "photo_reference": "CmRaAAAAtAO3tf1Ftn3b7VfTO0xaV5z_G97kv3LpB74-iXkmfr8NFbJurKh_AFDFV48BEg47AWOgBxBmAC4_uq8f3de0eVBg4IVzYsbkBxnrPURT3aZWhL0wV917u9urMf9cFCqiEhAQuw1_BtJ6xMqkrgDm5fJTGhSXfIGpBmcHvNXCDIaMYwIC09LMww",
+            "width": 2755
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109655778398905826058/photos\">Nancy Gow</a>"
+            ],
+            "photo_reference": "CmRaAAAAAS0CctBPpaqv2A5lZSjvRw-Ag8eo1jZMrIi4V9j0CWg5ioNeHTQQnPAw4RBvT_N3vdK2-uC98J99t66lNWXs74IBHN3qh5VKM67bQk9h4hDRAH95RhLsC3xWPdDTBuGcEhCwAhT-JdH6MveeR-oM8ZnzGhRwufX1mBBAddn3vF965MlZwqj84w",
+            "width": 5312
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100115759628897208877/photos\">Chang Wang</a>"
+            ],
+            "photo_reference": "CmRaAAAAGxqwH7ByblLHQENKWqhOkVavKdWfCwUNiICIZYEbl0mZeLNdq-Nk1jQxyHWggVo7YaKlWsFJonK4bWaXzeBE2Nsf5OlsM6yOXECaAn_2NqvtTv5Z_7o1ZoIrxjzUx-icEhAPK--mXOmsHT7Qp4pqDoRhGhSwEm6JibbWbeQQiXsvlVhovGotBQ",
+            "width": 4608
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116976548470495282320/photos\">Teresa Yeung</a>"
+            ],
+            "photo_reference": "CmRZAAAAcGm2bwfK54lqGpqzNW1mpOo9IuGI0BMZfUzbbGh4UpJq-7s1bRkvjf28bg8rB5zMEFHXqw1mYp_31RL4TBj2j5PXRhX0nhIvc7xSnuD7r5D6iOAplUqMrhItlDXWeHI2EhC-oex7xSAnntJfXtgLHnHjGhTle6hwOwrOCpNpBDSusCh1b_Lv_A",
+            "width": 3840
+        }
+    ],
+    "place_id": "ChIJo-annQfM1IkRCOZKhoAGsvw",
+    "rating": 4.3,
+    "reference": "CmRSAAAAOGA5V7mMT3N_ZhqAkw656z4vysm4X6Dn1jK1lnCIveSsjOa8cMYOH_kWKmaZVuCgUtPegWFbTrX8jzyE7Fj-ZhkjTO_XvqEbwk-_rtfTwzqHSuIc9CNVnqOC4m-IMHOzEhAg4hIC8PRTetEbqxNrGJrxGhSMMY3wDN2bmDUOkeaoCl_nVXx4rA",
+    "reviews": [
+        {
+            "author_name": "Irina Miv",
+            "author_url": "https://www.google.com/maps/contrib/100264758054460466238/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-z5cTMWlFq_4/AAAAAAAAAAI/AAAAAAAADJI/csq-xULkbx8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Green Eggplant is a busy place during the weekend brunch time and this is not surprising. They offer great brunch options for adults and simple versions for kids. I had eggs Benedict and they were cooked to perfection. The service was fast, staff was very friendly and helpful. It was a little bit noisy but nothing I couldn't tolerate. \n\nI was here for lunch and food was also amazing.",
+            "time": 1525792392
+        },
+        {
+            "author_name": "Chau Le",
+            "author_url": "https://www.google.com/maps/contrib/115682467903697212876/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JqbKfr343Hw/AAAAAAAAAAI/AAAAAAAAA4s/fZu2ODSTvEo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "BEST BURGER EVER! Wow! It is quite a burger, but the meat was so juicy and full of flavour. Everything here is very well marinated and tasty! We all really appreciate the bread basket and variety of dips. Service was okay and slow during dinner hours, but it was def worth the wait! I will definitely come back!",
+            "time": 1526095482
+        },
+        {
+            "author_name": "shima avarzamani",
+            "author_url": "https://www.google.com/maps/contrib/116016087179681642814/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xsRhnpE_uXU/AAAAAAAAAAI/AAAAAAAAKqA/AWjhIbLdoBg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love this restaurant!\nGreat food and customer service. I tried their a steak salad which came in a good portion and taste fabulous. They serve you with a complementary appetizer made of eggplant which tastes just AMAZING. The bad thing is that they don't have it in their menu and you cannot order more of it :(",
+            "time": 1526000385
+        },
+        {
+            "author_name": "Jeniffer Vieira",
+            "author_url": "https://www.google.com/maps/contrib/118057188710427283626/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-N7pAZoVcp2c/AAAAAAAAAAI/AAAAAAABA4c/aIoo4CB-ASg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "A great restaurant with a healthy breakfast alternative. I tried the Egg White Spinach and Feta Omelette at Green Eggplant Mediterranean Grill in the Beaches. It was great. If you are ever in the neighborhood I would recommend trying this place. The staff are friendly and the service is pretty good.",
+            "time": 1528155456
+        },
+        {
+            "author_name": "Alice Lalas",
+            "author_url": "https://www.google.com/maps/contrib/110712321872224770163/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-h5QcO1SSCnM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2lJ8ye6Xf6Or9U6nDfcgC1EohoHA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I have never been disappointed with this place. The BBQ double chicken is always impeccably cooked and the fries are always hot and crispy when they reach the table. The only downside is waiting for the food to cool down so I can inhale it. Service is also always friendly and well-timed! My favourite spot in the Beach!",
+            "time": 1526344427
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18208623392490972680",
+    "utc_offset": -240,
+    "vicinity": "2024 Queen Street East, Toronto"
+}

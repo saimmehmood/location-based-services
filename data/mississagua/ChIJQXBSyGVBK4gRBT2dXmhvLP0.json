@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "4202-4188",
+            "short_name": "4202-4188",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bridlepath Trail",
+            "short_name": "Bridlepath Trail",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5L 3G1",
+            "short_name": "L5L 3G1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4202-4188 Bridlepath Trail</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5L 3G1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4202-4188 Bridlepath Trail, Mississauga, ON L5L 3G1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56065590000001,
+            "lng": -79.6795418
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5620048802915,
+                "lng": -79.67819281970849
+            },
+            "southwest": {
+                "lat": 43.55930691970851,
+                "lng": -79.68089078029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c2a18dc4653b2083ac4a8bb67e054e74eb7a36f5",
+    "name": "4202-4188 Bridlepath Trail",
+    "place_id": "ChIJQXBSyGVBK4gRBT2dXmhvLP0",
+    "reference": "CmRbAAAAJbAaS0C_vGg0F_B5OaPsQltzcp5CdB-Qk0qeyjUJmUW735WEoNf0G_iOvTiPBfbdmSzE4kbuPD0Btp6_goWLWC49AcDdm1AcnR77mVW4mO_-U0_HqLRNPRJcconQv0c6EhC8GxXh-qtN7P9LJ8zMpu6yGhTkfFpcBCCBXnCvVcTu2d-LiGhFGw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=4202-4188+Bridlepath+Trail,+Mississauga,+ON+L5L+3G1,+Canada&ftid=0x882b4165c8527041:0xfd2c6f685e9d3d05",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

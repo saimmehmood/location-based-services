@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "146",
+            "short_name": "146",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Shropshire Drive",
+            "short_name": "Shropshire Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 1Z5",
+            "short_name": "M1P 1Z5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">146 Shropshire Dr</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 1Z5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "146 Shropshire Dr, Scarborough, ON M1P 1Z5, Canada",
+    "formatted_phone_number": "(416) 624-9226",
+    "geometry": {
+        "location": {
+            "lat": 43.7585332,
+            "lng": -79.281237
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7599003802915,
+                "lng": -79.27987286970848
+            },
+            "southwest": {
+                "lat": 43.7572024197085,
+                "lng": -79.2825708302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3e2c663bf25017785bb52a6433ed5f327fa92121",
+    "international_phone_number": "+1 416-624-9226",
+    "name": "Binz On Wheelz",
+    "place_id": "ChIJDWvgLvLR1IkRGn-mQZtwOWA",
+    "reference": "CmRRAAAAfk8og_dCoS2sfP5QsgPGbHjmX8cYEPMfAs1xcusfmGQrJRdX6qWURypIiG9xilTsMgcK6fVyl5CRHLYFmb4khuaps577tqltfl7_YVmx0jsZVrAwWt4x998It_3uOhBdEhAKj9D6aTcb2GRhCMRhh3BgGhSplXsQcx9GdnlarxubhW780R2Tsw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6933696913437261594",
+    "utc_offset": -240,
+    "vicinity": "146 Shropshire Drive, Scarborough"
+}

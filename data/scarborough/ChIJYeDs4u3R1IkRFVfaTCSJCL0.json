@@ -1,0 +1,289 @@
+{
+    "address_components": [
+        {
+            "long_name": "1279",
+            "short_name": "1279",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1279 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1279 Kennedy Rd, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(647) 342-0168",
+    "geometry": {
+        "location": {
+            "lat": 43.7581563,
+            "lng": -79.2776951
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7594566302915,
+                "lng": -79.2765829697085
+            },
+            "southwest": {
+                "lat": 43.7567586697085,
+                "lng": -79.27928093029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "dbab791d720ede3fec65d17276ed8abab3af83ea",
+    "international_phone_number": "+1 647-342-0168",
+    "name": "Tile Shoppe",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 7:00 PM",
+            "Tuesday: 8:00 AM \u2013 7:00 PM",
+            "Wednesday: 8:00 AM \u2013 7:00 PM",
+            "Thursday: 8:00 AM \u2013 7:00 PM",
+            "Friday: 8:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAABHIyUJrjd301E-6--HvaVxU23aCEzgdgx49x6gNVp3BwGZmn0Xmix5LtFyFRxFQMUCRTLwSrhlrsF48HXqEAyV30jlyj2Pb9gR26cGXHrDPc0Bs7-ASChgPzMYgsu_cREhDFrqh66lL7wZrwbzShIpt4GhR4Bv-kn_CmjbFFg8THcFER7fsKxQ",
+            "width": 2560
+        },
+        {
+            "height": 2237,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103355284811702018245/photos\">Tile Shoppe</a>"
+            ],
+            "photo_reference": "CmRaAAAALVIAXtIw8E3DMwEjnDd5vxtY14Ywr49K42y6T1UkyOmdZWdMXgxUSncn9lExvm2GhtRFIX-bLwmcGHjRRwUW412d3KvC1aDmDYBuda1Kf5royYvqPMYA933lMTzRkMm9EhAYiZO3By--kAMJCnVvQtr0GhQF3Xt5dDGePdjk6hDkI7FABXxXjw",
+            "width": 2361
+        },
+        {
+            "height": 1013,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103355284811702018245/photos\">Tile Shoppe</a>"
+            ],
+            "photo_reference": "CmRaAAAAzK7JvUYsubmuSvgx0hSMVo13aHM25GnalnWAPbNcvxbrT833gfarvGD5mUTa5d_Kx-hWJBm6q8fkwrRHj0ag9f3MMGOk7IHh9KOIZjdlsb_OX_iNsvtMbfmPP7MjlvheEhA3ejUiqmO_V-CQMHamtzkzGhR052V4IRQiKpUHJubt2bvssnKq5g",
+            "width": 2000
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116607910268507989312/photos\">Aarti Jain</a>"
+            ],
+            "photo_reference": "CmRaAAAAe-sphHEviYeQvZIh3lpTJtBUl7VXYB4R86uFhRPew5-5dX7GwqEBUW8KonOk2_pWay8jGJTJMjgMYFh2ti5c7zpVPM1mYKRPqCvyg0UPbQ6CsWcgFVj1ViNRXGtnjQfQEhAj2zyftTGx_xNmuOURR6lnGhQWZUU98Fd4OF2dN9bKieosL7j5fA",
+            "width": 2988
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103355284811702018245/photos\">Tile Shoppe</a>"
+            ],
+            "photo_reference": "CmRaAAAA6-zaMEUJU6_-QBHbfut8gBib1QUviZWMQAvWvjnqiDZ_Dmv9dSzNuVfe5hrXjBGrrHvMjLFL7CruC5eDhYel7b2mUIHcwtgCicWFX43arqTm1FPDk1wb9sJYI6dw_Q7qEhDmKDWI77NaPv86sMrEtJ6qGhSqXgoEd85CSEpwunm6dLkjEiTfvQ",
+            "width": 400
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103355284811702018245/photos\">Tile Shoppe</a>"
+            ],
+            "photo_reference": "CmRaAAAAXIkQou1IJdE8kanrChVCZbRV2RgtqOYC0ZQ7uNL6Ct_fwclyU-58WgzMBRYEBuplGIlia6ktfBdc5zQh5NUqQzbFn2rra4t91bcYGHXvIRew6SawQePfxSWJWmC_iDu0EhBIsj8wKkdnPGu3vIojesZaGhQ84bV8dtMIF5K0TznL6CcGRVod6w",
+            "width": 1500
+        }
+    ],
+    "place_id": "ChIJYeDs4u3R1IkRFVfaTCSJCL0",
+    "rating": 3.9,
+    "reference": "CmRSAAAAI8tR0qocrWzRfFFOzFTGwVH6SEpPpZj_ojGFBxWGlVWIpgMFpCnBm5DoakEYBSDft4iNKuoZf-_7GLu56JP6G7HT4xXDwr9CjJcizcCx9pJH2xCi_Rm-af-WNVTuZDkwEhCanAW7eBKeJB-8NgsECy5jGhRq2Z0O0uzWT7kPuwVHQzW-IfKhNw",
+    "reviews": [
+        {
+            "author_name": "Linda B",
+            "author_url": "https://www.google.com/maps/contrib/100429437793878527599/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cvD4wfnDiYE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1WBqYB4lqUDr1HXgo48NdZzaZ5Og/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Sharon was helpful over the phone and located the white shower thresholds I needed. Joe in the warehouse was very nice as well and took great care to load the thresholds into my car. Great experience today. I also noticed the sticker on  your front door as one of the 2018 Great Places to Work - congratulations.",
+            "time": 1527277804
+        },
+        {
+            "author_name": "Jessie Roppel",
+            "author_url": "https://www.google.com/maps/contrib/104163115451963065450/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-WKSdP2aB8eE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1AkE6n3M7jAyINzyzxrMqozZbCbA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Came in after a long day at work. A man was sitting on the counter looking at his phone. I went up to him with a picture of what I was looking for and said the Tile Shoppe was recommended to me by a friend. He briefly looked at my picture then pointed with his head towards the product I was looking for. I said they are all 9.99 SF do you have anything for less than 9.99 a SF? He did not look up from his phone this time just said they are not all 9.99 I went back to were the tile was and 2 were 8.99. I just walked out went to The Tile Store where they took good care of me!",
+            "time": 1525916844
+        },
+        {
+            "author_name": "Jeff H",
+            "author_url": "https://www.google.com/maps/contrib/111469446042261746955/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ERmZsPd6lmc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0-9Wnzfdpznh_F6SPS5mTEnuGQZQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Good selection and cheaper than the big name stores. All sales final though.",
+            "time": 1529334536
+        },
+        {
+            "author_name": "leto B",
+            "author_url": "https://www.google.com/maps/contrib/108175595505392606895/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vYrlLYIGlIU/AAAAAAAAAAI/AAAAAAAAAA4/_FFkj1owhN0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Good number of option. U r welcomed to the store and greeted when you leave.",
+            "time": 1525622633
+        },
+        {
+            "author_name": "Arnold Prasad",
+            "author_url": "https://www.google.com/maps/contrib/106958253903993176302/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-_COJPJA9aXg/AAAAAAAAAAI/AAAAAAAAL24/NQkxN7DhmMc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "False advertising on CityTV. Advertising 80-90% off sale but when you visit site nothing is on sale.",
+            "time": 1528167918
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13621287861983270677",
+    "utc_offset": -240,
+    "vicinity": "1279 Kennedy Road, Scarborough",
+    "website": "http://www.tileshoppes.com/"
+}

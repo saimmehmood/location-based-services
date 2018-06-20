@@ -1,0 +1,81 @@
+{
+    "address_components": [
+        {
+            "long_name": "Ontario 403",
+            "short_name": "ON-403",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5L",
+            "short_name": "L5L",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">ON-403</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5L</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "ON-403, Mississauga, ON L5L, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5603153,
+            "lng": -79.68651419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5616642802915,
+                "lng": -79.6851652197085
+            },
+            "southwest": {
+                "lat": 43.5589663197085,
+                "lng": -79.6878631802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "198f721d5e8f27ed9b3b49b33f6aa021d370e335",
+    "name": "Ontario 403",
+    "place_id": "ChIJMUSZ3XpBK4gRSZ7Ph9czpXU",
+    "reference": "CmRbAAAASXv27jdfDBqKMg9TAR-4ZlZUeMG4j2xB_HWIHHom2w3w6bEWnKgWOjuY7sv2L0gX83FFwOts6dPGO9Tr_MqnbcMEUC2M78ScYQI1uITkjG_iFVCgtFFBE9Q2w003uAHJEhCYmA4oKyfFqFZfN4i9EBKBGhTpKeQls42MjARrU6yOz3Dsvl2XfA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=ON-403,+Mississauga,+ON+L5L,+Canada&ftid=0x882b417add994431:0x75a533d787cf9e49",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

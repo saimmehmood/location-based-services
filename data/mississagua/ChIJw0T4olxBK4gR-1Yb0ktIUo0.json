@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3606-3558",
+            "short_name": "3606-3558",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gallager Drive",
+            "short_name": "Gallager Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2N6",
+            "short_name": "L5C 2N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3606-3558 Gallager Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3606-3558 Gallager Dr, Mississauga, ON L5C 2N6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5604077,
+            "lng": -79.6676112
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5617566802915,
+                "lng": -79.66626221970849
+            },
+            "southwest": {
+                "lat": 43.5590587197085,
+                "lng": -79.6689601802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a235bef52466c601ef4f044e914af3970fb1e4fc",
+    "name": "3606-3558 Gallager Dr",
+    "place_id": "ChIJw0T4olxBK4gR-1Yb0ktIUo0",
+    "reference": "CmRbAAAAiNTUKYRozE1emCtt4hRvMYp0-0O9H650BIrHNhqc6GesTPSiAXbgGAyQK8aKqQo2paWpVgpj8eUpjuqBlQ87H7JItUQWn1CwZ0TeyAZBKQlWMJ6X-HJKhKfNTiHtTH3zEhC-BN2aGiYil_9IzsB9MsEYGhTUJp44LP0o13iqUG4g_z2qq3Tg-Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3606-3558+Gallager+Dr,+Mississauga,+ON+L5C+2N6,+Canada&ftid=0x882b415ca2f844c3:0x8d52484bd21b56fb",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

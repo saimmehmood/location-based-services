@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "5-39",
+            "short_name": "5-39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Rainsford Road",
+            "short_name": "Rainsford Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3N5",
+            "short_name": "M4L 3N5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">5-39 Rainsford Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3N5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "5-39 Rainsford Rd, Toronto, ON M4L 3N5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.66953939999999,
+            "lng": -79.3073471
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67088838029149,
+                "lng": -79.3059981197085
+            },
+            "southwest": {
+                "lat": 43.66819041970849,
+                "lng": -79.30869608029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bcc7078c9aff4eb65a710192a5a5bc6fcdcf318f",
+    "name": "5-39 Rainsford Rd",
+    "place_id": "ChIJf2ji4PXL1IkRX6UFMcbrjMw",
+    "reference": "CmRbAAAAXQZLfT7rcPhQSxYoxlOEeSyC74Uc4kSYZN7q23azl_A9ash8_aAQvzyZ9sjsfIrjtxnJyoB_xXeZmzYBZ7dp3t0fP14SvDSNGiA52lemGM_pfhWeWtuDX4v8EO-Pn1R2EhDkm8te7YbWjor734LZ4IxHGhSfcaE1y2NN4cU-hm0RndcQ656_-w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=5-39+Rainsford+Rd,+Toronto,+ON+M4L+3N5,+Canada&ftid=0x89d4cbf5e0e2687f:0xcc8cebc63105a55f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "106-1510",
+            "short_name": "106-1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birchmount Road",
+            "short_name": "Birchmount Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2G6",
+            "short_name": "M1P 2G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">106-1510 Birchmount Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "106-1510 Birchmount Rd, Scarborough, ON M1P 2G6, Canada",
+    "formatted_phone_number": "(647) 405-6118",
+    "geometry": {
+        "location": {
+            "lat": 43.7580373,
+            "lng": -79.29111429999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75958488029151,
+                "lng": -79.28847370000001
+            },
+            "southwest": {
+                "lat": 43.75688691970851,
+                "lng": -79.29199449999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9f2ef8f1f00526920580a4607c10e92c7eb313bc",
+    "international_phone_number": "+1 647-405-6118",
+    "name": "Fuzion MMA and High Performance Centre",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 11:00 PM",
+            "Tuesday: 7:00 AM \u2013 11:00 PM",
+            "Wednesday: 7:00 AM \u2013 11:00 PM",
+            "Thursday: 7:00 AM \u2013 11:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112354115305001328129/photos\">Fuzion MMA and High Performance Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAqtijh1PURbDOULqFeEK8ry7v70Hw-OoZgwWxStDGN-ameCnWrso4HDIYckjKsMr0ObTgC3d3rZyLyvKgvdT-iv2anJldeo6gGlAE9yMFOzv0TDi85vYlzy6gWyYBBHSaEhABPGgsEFNsd5uKhYel_S4FGhRnVymyEFPVX1x9CW8hYwIcPblUrA",
+            "width": 2048
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112354115305001328129/photos\">Fuzion MMA and High Performance Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAABERflLmPyxFXnGCr3d8j2WwQAcegpOXju6ipchrqXmzNMv2AiV2IIJv58DUBl12dWvlVdmc6bEKXa5AF7T3ZhlI9Deeb_tJ0KGKgmlzGeBfKNs83s1yas1LXownNvw2OEhCT7idg47J9jOSJSFn6p7C6GhRQBa-dTiXum0P-dvkxChyxraBQ0g",
+            "width": 1280
+        },
+        {
+            "height": 479,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112354115305001328129/photos\">Fuzion MMA and High Performance Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAqkJ1Nwl5x6BDpzHzD9O9CZkRLP3B7uZuEKGJ1eaFw4VnNR2Ihvz7gkrRV3AihhGXFKVLC-wbgw2pfF4VEmjWViXypKrUdLQWRW3uClbboN1wK3odxzWSdnIG0JUzwy5oEhB6NDISIfkQtVYgKLyhVo_gGhTzYYqxODiQlUpAlYWYsLS_4x_8bQ",
+            "width": 748
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112354115305001328129/photos\">Fuzion MMA and High Performance Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAHoXgc7qtFVk0kRCZabZM2hCxSMtt_s8aDA--VdCpz6YAplrTKixJcyrIoHvVoaZ6t8agl4xwheHltDXehSAAoBuE9hTdtORSlA32VF8bOGK1gqigXtXxY0cOBdn880NhEhCYLNEzavrWzMqjC8pHI3cgGhQSt356aqR9yTu4EuFUk_MfQEamNA",
+            "width": 2100
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112354115305001328129/photos\">Fuzion MMA and High Performance Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAXdZ-dxYNjwUKmCGuR-2lZWxXYd0s9eV5FXdSwJZ6aALbLduWZJgvK9gxMYRFYOXMH1RMJkjUg8kwe5HVnoXa8nOHMXRE5Uq46QZdnruX37PszK-R5lbs-ZHgY4LBvgkyEhDCy_fuT-xnjwwQQLvMr5eyGhSxVlT6INgFa3QqGf2SqFA4J5YPkA",
+            "width": 2100
+        },
+        {
+            "height": 2100,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112354115305001328129/photos\">Fuzion MMA and High Performance Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA4ddqJ6ygMFQSS7WH8D0Hcfh1gKSZnWLk-VHtb81nToD-azGUWUauxUJ9s7uI-9gq4VXewFgy1xhQVVWLR_1iDSvpHiZoi0aoZuXS7N_nPVcxlwdwy3LzMMXqmybggKRXEhCDdImnhIwMXMKhrQ2jdpd8GhTqZ-Nl4IOd68TY6EVexxTTqDHjpw",
+            "width": 1500
+        }
+    ],
+    "place_id": "ChIJ6QX87B3S1IkRkfCFVHDwbUE",
+    "rating": 5,
+    "reference": "CmRRAAAAFrlV5BGWoE0thkn0uXD-btNmMzLM0LCfUHpTDWxKtMkZJU1Rzxltz9aCfefeVkSAi340dsVY4zTNlaoyDwdQMblnglBfdc2HEjfaiAx3boacxGi56gkQ2fqXswo_ovVFEhD4q2bcD1Vtlu2Nwm-iRixQGhSZQHPNzb1TY1FXtGeAweZ4TunBfw",
+    "reviews": [
+        {
+            "author_name": "Effie Lissitsas",
+            "author_url": "https://www.google.com/maps/contrib/103607260376687830813/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-r_-ZXEZxg5w/AAAAAAAAAAI/AAAAAAAAAGk/8mJCbsup6jc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This is a wonderful club with many friendly faces! They have an awesome martial arts program (adults & kids). I have my kids doing judo and really enjoying it!\nTheir boot camp is one of the best in the city! The classes have variety and are interesting! The motivation is amazing and the trainers actually know what they are doing. Love this place!!",
+            "time": 1497019800
+        },
+        {
+            "author_name": "Marie Guertin",
+            "author_url": "https://www.google.com/maps/contrib/114295280513591990047/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-PkudpxBw-a8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq17-DK80NtYgh7H6txZxs1g7rVfRA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great facility and workout environment. The coaches have a great work ethic, encourage you to be your best and help you to achieve your fitness goals. I love the progress i've made!",
+            "time": 1504106024
+        },
+        {
+            "author_name": "Seif El-Sahly",
+            "author_url": "https://www.google.com/maps/contrib/112810109521106702006/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0SKXsGjA6R4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0F6djAqLL6wMROnGhl4cYKWuV1eA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I only get the best workouts at this gym with Team Youssefs!",
+            "time": 1511825118
+        },
+        {
+            "author_name": "Maria Stek",
+            "author_url": "https://www.google.com/maps/contrib/104544355551725928056/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ybww32O8_Ng/AAAAAAAAAAI/AAAAAAAAADs/WDBRXnPUV5k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Amazing atmosphere at the gym! Great Bootcamps!!",
+            "time": 1509219447
+        },
+        {
+            "author_name": "Anna Markovic",
+            "author_url": "https://www.google.com/maps/contrib/114164707596183073181/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-SO2WYx5SIhc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq31A_Xaqxr1DyM2CPLj-kSZgj_XAw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "",
+            "time": 1528316094
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4714688750171844753",
+    "utc_offset": -240,
+    "vicinity": "106-1510 Birchmount Road, Scarborough",
+    "website": "http://www.fuzionmmahpc.com/"
+}

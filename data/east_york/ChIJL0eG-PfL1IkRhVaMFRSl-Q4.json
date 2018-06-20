@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "1967",
+            "short_name": "1967",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H9",
+            "short_name": "M4L 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1967 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1967 Queen St E, Toronto, ON M4L 1H9, Canada",
+    "formatted_phone_number": "(416) 690-0444",
+    "geometry": {
+        "location": {
+            "lat": 43.6695003,
+            "lng": -79.3015238
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6709434302915,
+                "lng": -79.30021416970851
+            },
+            "southwest": {
+                "lat": 43.6682454697085,
+                "lng": -79.30291213029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bdb0ca8f637cf0dd27d5de8bf7b6c57c1920e09d",
+    "international_phone_number": "+1 416-690-0444",
+    "name": "Elevation Architects Inc",
+    "place_id": "ChIJL0eG-PfL1IkRhVaMFRSl-Q4",
+    "reference": "CmRRAAAAIcN-B94IQlUHJnLMce6JZ3UI1tR4oqiC6eiN26oGKC6JuUb65FEjsh0MmDQfpo3EC7JQ74_T8gfY7RrZ_gjK1RwG46ESImqq9bR_AFTqLn34F43KApm9lp-125_-fUKrEhDHMhoF8eDKKCw9FzmglsOsGhSBjBYcQi-JmKMF_OdoKtToijAgOA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1079075091411392133",
+    "utc_offset": -240,
+    "vicinity": "1967 Queen Street East, Toronto",
+    "website": "https://www.elevationa.com/"
+}

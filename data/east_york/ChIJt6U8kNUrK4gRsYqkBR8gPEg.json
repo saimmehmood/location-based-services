@@ -1,0 +1,287 @@
+{
+    "address_components": [
+        {
+            "long_name": "166",
+            "short_name": "166",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Withrow Avenue",
+            "short_name": "Withrow Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 3C4",
+            "short_name": "M4K 3C4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">166 Withrow Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 3C4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "166 Withrow Ave, Toronto, ON M4K 3C4, Canada",
+    "formatted_phone_number": "(647) 560-8713",
+    "geometry": {
+        "location": {
+            "lat": 43.671264,
+            "lng": -79.346558
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725714302915,
+                "lng": -79.34519141970851
+            },
+            "southwest": {
+                "lat": 43.6698734697085,
+                "lng": -79.34788938029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "577a1f15c81ede8d141896b8743895fbf33089d7",
+    "international_phone_number": "+1 647-560-8713",
+    "name": "W & H Toronto Handyman",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 7:00 PM",
+            "Tuesday: 6:00 AM \u2013 7:00 PM",
+            "Wednesday: 6:00 AM \u2013 7:00 PM",
+            "Thursday: 6:00 AM \u2013 7:00 PM",
+            "Friday: 6:00 AM \u2013 7:00 PM",
+            "Saturday: 6:00 AM \u2013 7:00 PM",
+            "Sunday: 6:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111014654663269779166/photos\">W &amp; H Toronto Handyman</a>"
+            ],
+            "photo_reference": "CmRaAAAAhVYy6BuvXG2c_esdgFko9v6d3ScnQOmkOkq57Cx3Aw7Qd0_o7a6HpiuZSRHBQuEDOkcjQGmed22URZuaMJM3Qfp-BE0iM5OoDz1JkigWstHjBi1j7JEadK400fIIqIIxEhCh_8fLSD3ouTO-4fkxyuM8GhSC5Drc2AtIM-hbFZc4D6VSTI-Kpw",
+            "width": 612
+        },
+        {
+            "height": 409,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111014654663269779166/photos\">W &amp; H Toronto Handyman</a>"
+            ],
+            "photo_reference": "CmRaAAAA5yOVsS5kccPCnpGHeh44qoh_eYcmEL3IJKt_yttXQgZrNwMwAhBJ_ZB-YszyYGd5JW6yC3VVlqOT3guhHsZtJpglAXrZY6QhAv0HJJQeZLhOgpuuwdtDNqOPPLhlT11mEhAcCvmV3wV5M7nH30PmLv-uGhSVt3R7bbUybMzcaIYJiQUDGYKYMQ",
+            "width": 612
+        },
+        {
+            "height": 299,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111014654663269779166/photos\">W &amp; H Toronto Handyman</a>"
+            ],
+            "photo_reference": "CmRaAAAAzBlB-kDvxRdT78oWK7MUVMLtShx1VNd92qy5laI7p9zrwd1ZcolXir6EjVFuQKwB2A-aL6sjJcPqvpbXcKpwh1ZlmUpAEt2LS98MgzlcHfq-HyKb_WWOL6cC1QCIoIP3EhBxOxMv0boAjKEdJ9YYdwBVGhTwqyQLlt4_78NRMI6wL8hH7-7Gmg",
+            "width": 612
+        },
+        {
+            "height": 383,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111014654663269779166/photos\">W &amp; H Toronto Handyman</a>"
+            ],
+            "photo_reference": "CmRaAAAAK5I6VFlzas7EpRui8RnvzS4lu_TIvEwl6d1ZR5-cXrcPXZxxNZ0H2CHIeMvGBgx4eO-A93Yoy6xDe7fPUHS7z4p9p3hhCaBY7SqyDtGveXhxgyQnuil37meV6oESmtBcEhBhonha8w8swptvxZIfYtdcGhSx2WxBpAbSLJFtzkMdrt9X6W1e1g",
+            "width": 612
+        },
+        {
+            "height": 321,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111014654663269779166/photos\">W &amp; H Toronto Handyman</a>"
+            ],
+            "photo_reference": "CmRaAAAAMVRwM_lQwtw72_cVdN9lW7RgZKFczKYUnpW3RIlNBDdOPUUdWEMc0xaLXD1cHp-Ox3FwOXwEjGnqgJRR2LBOrPUfg-OFs5hzxPbQBu-0YCnByGAmtxDDwDHisUPM_oeKEhDs9P4Ocy--ho-G7mJ0LttkGhTS4C7OQ9pjfXTO1GWkYbAA8BmWGw",
+            "width": 612
+        },
+        {
+            "height": 320,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111014654663269779166/photos\">W &amp; H Toronto Handyman</a>"
+            ],
+            "photo_reference": "CmRaAAAAVv3xsQ0xIQMIFPy-ESuBcnQFXK0rmHJ2aDGJYE_FlaCbO9xFySYO9-lcZFI0QerbXvDXXEfKdm6gad777IWzvCI7Wr-fLF7iK-yLPMgjBRKB-ZAdN0g1N8ad_tPGB5YgEhC3cuWHmxmbfMth523hEjV_GhThQrxQxmVcMbsGgTrH5JdKKMmtCg",
+            "width": 320
+        }
+    ],
+    "place_id": "ChIJt6U8kNUrK4gRsYqkBR8gPEg",
+    "rating": 5,
+    "reference": "CmRRAAAAZtpjVB7EkKWuiy2kYUYm5lKVSUvc3yn-zasXx5coFlaXlnrj-01TfP9g4TQOp_eL9R_0M8hzJEPbdCiIwpAQImvT-TaANzYSpn90SOeERqfLXqzwy9bNAMs3Rts99oCCEhDBhQoQMQypvS65XXqib1o7GhRll-qHLLrqySHGLD7QjqOIO4MKTA",
+    "reviews": [
+        {
+            "author_name": "Otis Graves",
+            "author_url": "https://www.google.com/maps/contrib/107759443721431716529/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-_aojHS35wok/AAAAAAAAAAI/AAAAAAAAAAc/9EVP1FarhxU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The guy I called for came in time and brought with him his tools. His work is clean and I even noticed him trying to keep his workplace clean also. Such a wonderful trait to point out. He\u2019s very diligent, I had a wonderful experience here. Thumbs up!!!",
+            "time": 1525706045
+        },
+        {
+            "author_name": "William Hill",
+            "author_url": "https://www.google.com/maps/contrib/109679602396619912238/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2BWsatlX0cA/AAAAAAAAAAI/AAAAAAAAAAc/tKS4_N4O_gs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Called a guy from W & H Toronto Handyman to replace the glass on my window frame. W & H Toronto Handyman is very quick to respond and had a smooth operation. I\u2019m very satisfied with the results cause it\u2019s correctly inserted and seems to be really  sturdy. Thank you to the guy who came and Congratulations to W & H Toronto Handyman for having such many skilled handymen.",
+            "time": 1526918578
+        },
+        {
+            "author_name": "Bennett Ortega",
+            "author_url": "https://www.google.com/maps/contrib/103983900316161760100/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rci3cxlu1dc/AAAAAAAAAAI/AAAAAAAAAAc/qBxi4TLxt9o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The guys from W & H Toronto Handyman who came to our house listened carefully to what we wanted to do and executed the missions in the best way. They made us feel very comfortable while they were working as we could see they do a high standard job. We highly recommend this excellent and decent company.",
+            "time": 1525298718
+        },
+        {
+            "author_name": "Ernest Ross",
+            "author_url": "https://www.google.com/maps/contrib/115089540550710900745/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--wKCJzreIEQ/AAAAAAAAAAI/AAAAAAAAAAc/WNRkVJwH1sE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "W & H Toronto Handyman repaired my oven. W & H Toronto Handyman is my partner in appliances repairs. I trust their men and I am satisfied by their services. They are the best among the rest!!! Hope you guys will try it here.",
+            "time": 1526487549
+        },
+        {
+            "author_name": "Nickolas Reed",
+            "author_url": "https://www.google.com/maps/contrib/100870954764604999211/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FhQSreeRCk8/AAAAAAAAAAI/AAAAAAAAAAc/oqg3KxjMdh4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "A handyman from W & H Toronto Handyman helped me with my cabinet issue. It was my first time to contact someone from W & H Toronto Handyman. I was not disappointed with the handyman. It was a good experience.",
+            "time": 1527172844
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5205070586944195249",
+    "utc_offset": -240,
+    "vicinity": "166 Withrow Avenue, Toronto"
+}

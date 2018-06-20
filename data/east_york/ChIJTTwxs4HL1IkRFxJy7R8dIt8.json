@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "397-403",
+            "short_name": "397-403",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Leslie Street",
+            "short_name": "Leslie St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 3E3",
+            "short_name": "M4M 3E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">397-403 Leslie St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 3E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "397-403 Leslie St, Toronto, ON M4M 3E3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6706538,
+            "lng": -79.33341469999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67200278029149,
+                "lng": -79.33206571970848
+            },
+            "southwest": {
+                "lat": 43.66930481970849,
+                "lng": -79.33476368029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0fbe34b2e050383193fe12181f4136135f5c9a5e",
+    "name": "397-403 Leslie St",
+    "place_id": "ChIJTTwxs4HL1IkRFxJy7R8dIt8",
+    "reference": "CmRbAAAAr7Qu1gYmMBjpUS2ff8g9zDOEjkdhkaNiBWfdGlRgjyCMIQgQN0cMH_PGbIHPAWK8EDnNdG-JTdt7u-9te-GkKfs0bpSFYdJXBnCOypdh8g0unZ2N9shsutjid1YJ3yxZEhAlMtaBcT6-SRLmNaOr_ZMoGhSvOvhC6Up5X0vbybeNuYGaJ-MhLA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=397-403+Leslie+St,+Toronto,+ON+M4M+3E3,+Canada&ftid=0x89d4cb81b3313c4d:0xdf221d1fed721217",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

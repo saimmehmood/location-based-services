@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3161-3191",
+            "short_name": "3161-3191",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Erindale Station Road",
+            "short_name": "Erindale Station Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 1Y5",
+            "short_name": "L5C 1Y5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3161-3191 Erindale Station Rd</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 1Y5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3161-3191 Erindale Station Rd, Mississauga, ON L5C 1Y5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5604129,
+            "lng": -79.647128
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56176188029149,
+                "lng": -79.6457790197085
+            },
+            "southwest": {
+                "lat": 43.55906391970849,
+                "lng": -79.6484769802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3bf291358d7267bf56f773b9dbfdf108ceb10cf9",
+    "name": "3161-3191 Erindale Station Rd",
+    "place_id": "ChIJA_qWY7JGK4gRy7auw_MfEjw",
+    "reference": "CmRbAAAAGLPTX5e6vf3_dcwp08hc34cVfy4578PpQ0z9v_i4bW1bmRv_friP_K1tf0DDDnWn_J-Cex9dVJG6jGR9kbioLIq3LhZMnxEejtiKxUujLaNu-NuY0sjI79YWYyK67pqyEhA_3P_c-L3mPmmBlVGuj-WHGhQss84wNx1kFJ-VB7zkHcxa5UxRjA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3161-3191+Erindale+Station+Rd,+Mississauga,+ON+L5C+1Y5,+Canada&ftid=0x882b46b26396fa03:0x3c121ff3c3aeb6cb",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

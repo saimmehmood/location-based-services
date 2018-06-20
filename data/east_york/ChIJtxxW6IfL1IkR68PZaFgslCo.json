@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "133-205",
+            "short_name": "133-205",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Highfield Road",
+            "short_name": "Highfield Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2T9",
+            "short_name": "M4L 2T9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">133-205 Highfield Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2T9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "133-205 Highfield Rd, Toronto, ON M4L 2T9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6712062,
+            "lng": -79.3248977
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725551802915,
+                "lng": -79.3235487197085
+            },
+            "southwest": {
+                "lat": 43.6698572197085,
+                "lng": -79.3262466802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f98d9a11b4f342037d70755630fe9e3b59188f3e",
+    "name": "133-205 Highfield Rd",
+    "place_id": "ChIJtxxW6IfL1IkR68PZaFgslCo",
+    "reference": "CmRbAAAAST3vwv6r306kXDN-ZM5Y6ZIpnt-_DEsddnM4Z8irngmvUPi1RZT_vQkVJKkRd19FfM3gCvuZpAvFkOtlI8oLc5TrUHSJJDcSFrzCgBgqSJjjzCQ5r2yXhB-AecXbyY53EhCGK8Jcj4lrei0pqUkeI7YQGhQnb-3yU2hdqf_lF34mtfLWmXC6zQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=133-205+Highfield+Rd,+Toronto,+ON+M4L+2T9,+Canada&ftid=0x89d4cb87e8561cb7:0x2a942c5868d9c3eb",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

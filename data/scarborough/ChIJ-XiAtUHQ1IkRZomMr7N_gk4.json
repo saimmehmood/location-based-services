@@ -1,0 +1,264 @@
+{
+    "address_components": [
+        {
+            "long_name": "3495",
+            "short_name": "3495",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B2",
+            "short_name": "M1H 1B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3495 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3495 Lawrence Ave E, Scarborough, ON M1H 1B2, Canada",
+    "formatted_phone_number": "(416) 431-6607",
+    "geometry": {
+        "location": {
+            "lat": 43.7576056,
+            "lng": -79.22986910000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75950558029149,
+                "lng": -79.22874081970849
+            },
+            "southwest": {
+                "lat": 43.7568076197085,
+                "lng": -79.2314387802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "7007d4f849cd22910583ecc09a9c1d67dbef1003",
+    "international_phone_number": "+1 416-431-6607",
+    "name": "BMO Bank of Montreal",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 6:00 PM",
+            "Tuesday: 9:30 AM \u2013 6:00 PM",
+            "Wednesday: 9:30 AM \u2013 6:00 PM",
+            "Thursday: 9:30 AM \u2013 8:00 PM",
+            "Friday: 9:30 AM \u2013 8:00 PM",
+            "Saturday: 9:30 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\">Chen Shaowei</a>"
+            ],
+            "photo_reference": "CmRaAAAAYYH3CN3s4MOhKL9-VPjzeZJEHseEaDNmBcQPKxax44pmB4qiYUCZo_0xk1c9nZgPgq41KqKNAAIzRXYJgK8_ZEnIWPh1OvIGcFH72krff4O8U_aT3bbrtBdn4ohctg_cEhCVEoNhJ6XGtUbE9Ap_VulKGhRjJ367zu6wDTQlANm7xqmRTQmisg",
+            "width": 4208
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\">Chen Shaowei</a>"
+            ],
+            "photo_reference": "CmRaAAAAx2Qu_kRjWsN0VAtARB1Gch9qFQ6t2viXK2XLwIqkaDCbUeNYdbSOPCKFG0vF56mRWM9yBO4VqU7O7_PULCsgWRzImFFuFwJfHc6-i19VW_ikMti0qxbi7yuCZUVAOcs4EhCvjEQJVOR6BwszgRwMEgdBGhTFXZXfSqOB-f8ttGNEHUiPy-aDMw",
+            "width": 4208
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\">Chen Shaowei</a>"
+            ],
+            "photo_reference": "CmRaAAAApayAWeoAb046hIyGlAs0qe8vg4lM7_mavSW4CbXWcuGX-XoLYCZPPk9fdcrrJcBPTGbQaCxyV0IwAxtSDgSUeRUH1NffG4SZYJCLR1_ChpTa_vTkROX3UlXBwva--a_3EhB2GFIplbox_kpw9fR6Mzz6GhQOm2x_6EYGkV1OKn3lTGwOPTuvQw",
+            "width": 4208
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\">Chen Shaowei</a>"
+            ],
+            "photo_reference": "CmRaAAAAeZNpmmPliHLgqpdHS_giGNdL7Y2mV4Wc00i3B_SZHnZao1SLtLU4b1kvFFt3JM0GBE8UYuilVWgRgMWjAN_F3ZIoUQOICjtn85MPislYxLjunpg5mIgLBEDCCWaJsPUAEhAes1VSZPi8OqTuYZS9hjyTGhR3AGXN0VfS69vk6E9wKUWfEEoHkQ",
+            "width": 4208
+        }
+    ],
+    "place_id": "ChIJ-XiAtUHQ1IkRZomMr7N_gk4",
+    "rating": 2.5,
+    "reference": "CmRRAAAAScWVqyFZLV8gHS8ec_FFTrdWIARTZO_5pMtSxp56xycjDjy6S60EPYH4ZBeE2YYFjc5TzxB9ED1lT1owNCMIZKgYj6y-pRHON_pLYj-fNFMNbWXrIMwsHpoP0Iv8g9lsEhD6R8Cs748n4TFNDMJWOtaaGhQuEgoT-4bgtjlxP_Mr0RCv7BPxhg",
+    "reviews": [
+        {
+            "author_name": "Joanne Smith",
+            "author_url": "https://www.google.com/maps/contrib/106402710432279180450/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VWTHCzkCpIw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq14LYeDq9AIzsqzo12X_cxqNWeLZQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "\"Ana\", an employee, on loan to this branch has been super sensitive, understanding and efficient, and though busy in her office dropped everything to help me for at least the next 30-45 mins to help me solve my problem every time I have been in!  I am on crutches and suffer chronic pain and have been a victim of cyber fraud... She does all the leg work, tel. calls, including queuing up for me herself to wait for my cash while I sit in her office, but most importantly... She listened and was very empathetic of my emotional state and my entire tale of woe! NOW, THAT IS GREAT SERVICE, AND P.R... THX, ANA! AND THAT HAS GOT TO BE RUBBING OFF ON THE REST OF THE STAFF... Job well done, Cedarbrae BMO branch! I am thoroughly impressed, having worked in P.R. myself!! \n\n~js/M1G1V7",
+            "time": 1528487644
+        },
+        {
+            "author_name": "Anas Siddique",
+            "author_url": "https://www.google.com/maps/contrib/110770387428999157268/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-A-p_uuCS-ao/AAAAAAAAAAI/AAAAAAAAAiM/p3Equ8TbeWA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Refused to convert my leftover euros because they 'couldnt find them in the book' when I asked them when the old-looking book had actually been published since it was probably before my new crisp 20Euro notes were they just said 'not in book I can't do it'. So I walked across the parking lot to Scotiabank and they happily converted my money with a smile. \n\nRude staff and even ruder manager at this location. If you feel the need to close a BMO account I suggest you do it at this location.",
+            "time": 1524939232
+        },
+        {
+            "author_name": "Tashfin Awal",
+            "author_url": "https://www.google.com/maps/contrib/108986824858051544939/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iaY3lYS_w5g/AAAAAAAAAAI/AAAAAAAAzpw/rvK7OEIbCVc/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Super friendly staff and excellent ATMs, always my favourite to use",
+            "time": 1519370173
+        },
+        {
+            "author_name": "Peter F.",
+            "author_url": "https://www.google.com/maps/contrib/110715084003705223206/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-VlEO014vNHk/AAAAAAAAAAI/AAAAAAAADiw/dehGY74gtr8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Worst service, ever. All the way from Management to the girl who replaces the ABM envelopes. You guys think this is a s*** show - but this is people's money - their businesses - their lives. You need a complete revamp in there. The branch atmosphere is unpleasant. The staff are dead looking and in return everyone's mood and demeanor are down, which translates to a very poor customer experience. Horrible!!",
+            "time": 1494968076
+        },
+        {
+            "author_name": "Harsh Shah",
+            "author_url": "https://www.google.com/maps/contrib/104650145041571650509/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-3dvLAuYY-bI/AAAAAAAAAAI/AAAAAAAAKko/O0aq6UVSF-c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "They are liars. We went to deposit a pay cheque and the officer took to the ATM machine as there was a lineup at the tellers. We asked if we will get the money right away in the a/c and she said yes. It's been 2 days and my funds are still unclear. We can't withdraw our own money because they make customers fool.",
+            "time": 1495648674
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5657224491651860838",
+    "utc_offset": -240,
+    "vicinity": "3495 Lawrence Avenue East, Scarborough",
+    "website": "https://branches.bmo.com/on/london/32005/"
+}

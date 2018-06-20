@@ -1,0 +1,277 @@
+{
+    "address_components": [
+        {
+            "long_name": "1300",
+            "short_name": "1300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y7",
+            "short_name": "M4L 1Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1300 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1300 Gerrard St E, Toronto, ON M4L 1Y7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6712256,
+            "lng": -79.3271555
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725187802915,
+                "lng": -79.3257826697085
+            },
+            "southwest": {
+                "lat": 43.6698208197085,
+                "lng": -79.32848063029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "da277757e5695d8fed5bba7f3bb402306e4df430",
+    "name": "The Redwood",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2392,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109772144546874755489/photos\">Jo-Anne Lawryshyn</a>"
+            ],
+            "photo_reference": "CmRaAAAAoauloNVJauB8wEpcI2muHg47sBQyS7zKVvl-WPj8HnsmBDz9vRLG1_AIX2CYDfWv998t__B9qUEPWX493YpVJZCswaTS6aTEddGYswyKyIkIGu1bvx0j6fGsZcNrfIj4EhAZl1Nb8Jgw27pX6HMPRp0XGhRRe_8PV8vpfgmjgtMc5hbx49NcMw",
+            "width": 2392
+        },
+        {
+            "height": 2392,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109772144546874755489/photos\">Jo-Anne Lawryshyn</a>"
+            ],
+            "photo_reference": "CmRaAAAAmMNXlAYLIrWbD_JrphvpHVJQS662jWo-kIPjVLCD4KHo0fkhGUHMs1rQTfxNJ2ETCDCqcP9zQwjYyoX3JUaUm_mNHGq9wQG_apN0nDjOEyPfXwSfiq9CwauF3UcI3F2jEhD973elEsIqyaOCPG4yZbrbGhQB7HQU7YAcaX-xVArxoIU5iFkTHg",
+            "width": 2392
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105955160066103091777/photos\">Edward Trejo</a>"
+            ],
+            "photo_reference": "CmRaAAAATisx1qrLFmYdBY-X3kBBy0YzT6hT_Xno7kNa0LGVeR4-Tt4XFQDX_uqAW-hKJglPpnW_H4RXXPHVdZXJu7u02dcaMv8ha8SmcutrIDUiJXUzGya3_YHKafwvV4EhLnjCEhDRI1hgZu3Ywow3eVlgEkQ4GhRk2N0966Z44NeDDuebFy_6iwhEkg",
+            "width": 4160
+        },
+        {
+            "height": 2368,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107756301900701956396/photos\">natalia jakubek</a>"
+            ],
+            "photo_reference": "CmRaAAAABwkDFKrldHQ_IocffRQkMr_iyjZCH6Qfo3-73g0TB0kh1sqwSEXtv-WjLlmIFQPOCMemJYmQKKXSf44FMk8NtmTjZEDnM-RfB0suHLSoXD44U7FjYf9H9wVu_DaQEROVEhDlYPlyHNJpnZewHyYncKh4GhQrXdWN5BkOBrrjMtc2mmIOuZxjgg",
+            "width": 3200
+        },
+        {
+            "height": 2368,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107756301900701956396/photos\">natalia jakubek</a>"
+            ],
+            "photo_reference": "CmRaAAAAF1hLrMKmwYvpvaNRKI_HQ9DOP5IYdnQ84mNUOvnkCDaWoF5OshCA0Ss0uBdVTVgpu1uVQm_sJaaj-uRwhRRhHbCPiPe0OwjL5Uml6kvYqCodXLl-irkZgRNrM-HzxgLOEhA5oylpC9GP8-LbIjEd0e99GhRupa2sXt9Xw2YdjYwSm8IXSBQ2tw",
+            "width": 3200
+        }
+    ],
+    "place_id": "ChIJhRFbC4fL1IkRcbNq2b_FdQM",
+    "rating": 4.7,
+    "reference": "CmRRAAAAy5k9EVLjkDatR_rYlS-93F7tZlKy3XM2fRLgAKJ1FpeUhf9F4KQsvQktaJcKWX97KfnaXWYF0mu1PHun9R0-dLT4ip1lpj_U5IpXOmY8OK9D4QqaQcMBzG1RrmQPtRG0EhCIWrIJiu69o8zcMKmqUa9eGhRP4V73UXzQ3Dp7baRCN4P8e9bzNQ",
+    "reviews": [
+        {
+            "author_name": "Bert Myers",
+            "author_url": "https://www.google.com/maps/contrib/105523600264726323185/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-B1bamHxY7Gw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1cDsBPcFE5_6p0joSJRJQpie3Dxw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "IAM totally fine with this  emporium and have enjoyed all my visits .Great hazel nut clusters. \n       And they are only just starting out  with new folks in operation Bert.",
+            "time": 1529527652
+        },
+        {
+            "author_name": "Rae Rea",
+            "author_url": "https://www.google.com/maps/contrib/113306447286485486407/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-R_sgDXVbQog/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2PJwaPmvg2WbdiHSvtteoov15nug/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Beautiful theater with dance rooms upstairs. Flexible owner and lots of variety when it comes to who's using the spaces. Amazing creative space and awesome vibe.",
+            "time": 1522287297
+        },
+        {
+            "author_name": "Jo-Anne Lawryshyn",
+            "author_url": "https://www.google.com/maps/contrib/109772144546874755489/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-edRaO9rq3TY/AAAAAAAAAAI/AAAAAAAADNU/q9cQellZpmU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "I've been to the Redwood twice.  Both times to see a Comedy show  presented by Sandra Battaglini, . The owners are new and have done nice things to the place , such as, somehow made it warmer inside. The temperature that is, lol. However this is not a fancy place, just a great place for entertainment purposes. You can get beer or Pellegrini, or wine at this venue, and  prices are reasonable. So come catch a show at the Redwood, where your always welcome to hang up.your cost, and sit a spell !",
+            "time": 1521132671
+        },
+        {
+            "author_name": "Bo Wang",
+            "author_url": "https://www.google.com/maps/contrib/117609336484717391777/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-12RauU56KWs/AAAAAAAAAAI/AAAAAAAAilY/ZDooI9JeU3o/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Really beautiful historic theatre, 1914 ?!",
+            "time": 1528072209
+        },
+        {
+            "author_name": "natalia jakubek",
+            "author_url": "https://www.google.com/maps/contrib/107756301900701956396/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-xSgAnKWDflw/AAAAAAAAAAI/AAAAAAAAGyg/slFEQ5l3aRk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "i don't even want to tell you about it because i want to keep it to myself. a gem.",
+            "time": 1521647966
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=249322782166004593",
+    "utc_offset": -240,
+    "vicinity": "1300 Gerrard Street East, Toronto",
+    "website": "http://www.redwoodcircus.com/"
+}

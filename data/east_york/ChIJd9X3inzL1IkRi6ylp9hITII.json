@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "536-522",
+            "short_name": "536-522",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Carlaw Avenue",
+            "short_name": "Carlaw Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K",
+            "short_name": "M4K",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">536-522 Carlaw Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "536-522 Carlaw Ave, Toronto, ON M4K, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6703289,
+            "lng": -79.3438578
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716778802915,
+                "lng": -79.34250881970848
+            },
+            "southwest": {
+                "lat": 43.6689799197085,
+                "lng": -79.3452067802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e0c43176f81be4543e1b36deb68ce3488c8e8c89",
+    "name": "536-522 Carlaw Ave",
+    "place_id": "ChIJd9X3inzL1IkRi6ylp9hITII",
+    "reference": "CmRbAAAAdPk5ohK_-s89XpT8no_QY6Zo_PojhkrRYou9h9_Kd-IhegAmUpjJJcPjrmjq3j6fayAEk3PS-PLoi9fZGm9EqfZRDY9pie0japXd3FgJfSg2vaec77-SggQMRWqTZKFrEhD4zNcUFGKmh26lKbgHquBQGhQaulMVwWBDw-3ygppa6YYFv_kguQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=536-522+Carlaw+Ave,+Toronto,+ON+M4K,+Canada&ftid=0x89d4cb7c8af7d577:0x824c48d8a7a5ac8b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

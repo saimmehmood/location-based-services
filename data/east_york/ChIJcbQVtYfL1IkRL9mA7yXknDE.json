@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "106-96",
+            "short_name": "106-96",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hertle Avenue",
+            "short_name": "Hertle Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2T4",
+            "short_name": "M4L 2T4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">106-96 Hertle Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2T4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "106-96 Hertle Ave, Toronto, ON M4L 2T4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67000609999999,
+            "lng": -79.32552059999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67135508029149,
+                "lng": -79.3241716197085
+            },
+            "southwest": {
+                "lat": 43.66865711970849,
+                "lng": -79.3268695802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "05d4a2fa5e9130cff34b327acf03a608011b6ab3",
+    "name": "106-96 Hertle Ave",
+    "place_id": "ChIJcbQVtYfL1IkRL9mA7yXknDE",
+    "reference": "CmRbAAAAiz6bXvCOE2xOOhXLwW5TI81ntJJpmTntNtWQxB8xTPvU5tISAZ4QJvzw-1FkrCejGFQbBDzrAzngCfWt2X7BLCNwlVAa0i6fZQ9vggh9oi3XYVNeTvj7AgdUIMBIq29VEhA-UBjsBN76jruHvNWUVt_6GhT2xVJnlepaqhpdUwqQb_I9kWmSXA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=106-96+Hertle+Ave,+Toronto,+ON+M4L+2T4,+Canada&ftid=0x89d4cb87b515b471:0x319ce425ef80d92f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

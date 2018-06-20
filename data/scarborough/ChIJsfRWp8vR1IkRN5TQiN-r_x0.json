@@ -1,0 +1,201 @@
+{
+    "address_components": [
+        {
+            "long_name": "3030",
+            "short_name": "3030",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "The Scarborough Hospital Medical Mall, <span class=\"street-address\">3030 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "The Scarborough Hospital Medical Mall, 3030 Lawrence Ave E, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(416) 289-4402",
+    "geometry": {
+        "location": {
+            "lat": 43.7565097,
+            "lng": -79.24794639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7571856,
+                "lng": -79.24630941970848
+            },
+            "southwest": {
+                "lat": 43.754482,
+                "lng": -79.24900738029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b930f541bcb819d45d514fac034a4a26ac11b722",
+    "international_phone_number": "+1 416-289-4402",
+    "name": "Prohealth & Rehab Center - Chiropractic Center Scarborough",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1300"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 2:00 PM",
+            "Tuesday: 1:00 \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 2:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 12:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108232088449967308555/photos\">Prohealth &amp; Rehab Center - Chiropractic Center Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAKKXrNrAe11qCh1HBcRrWILEvZ1c22J1RAt-9cfRK9BBjw3CkkkfM6USRxqTCHWz3-MDbOIvUrONXYjdrRfYyJo7J7tYv9DbKgRD8fgX6HWl6NsMh0Us7JcZw5DMaGIGjEhDDRVKHGE-r2-NtoOxNbhQLGhS-Ted-_B-kJgoj6jZAal1AO8mWGQ",
+            "width": 250
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108232088449967308555/photos\">Prohealth &amp; Rehab Center - Chiropractic Center Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAwpTXNvTgXwlGDJabjpkmtE3VtHrNCID5ccw8lf_O9IlNr6t1Y8J6HobEVejqv3TZ9UnvEIMFbSocwkIPyEmdQIISQqepU2E_4Drs1No_6ST5uHKZNYza9mEg9UfH4acwEhBZLq382CeNFkWPXy5BxHGcGhSyGRBf8rOqlH_6x5BnlvnqIZr60w",
+            "width": 1104
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108232088449967308555/photos\">Prohealth &amp; Rehab Center - Chiropractic Center Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAva8GUVDIbxoYC5QZFm3gyxCRPzdxU3UOaE1zzX2M_fnTHYCzz1AAkR8eEAf0S3ifT84yeHZzQVj6qnxKSn73-SUggTuwjDD5YRMRxWE2ST84OQj2-vbtj4bN_sdzrpISEhC-UJG-iczjF9Gq3_E1Y2LKGhRuqADh9E18tOMd7ApRs8A7GNT_uA",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJsfRWp8vR1IkRN5TQiN-r_x0",
+    "reference": "CmRRAAAAC0CvWQVA6yb-IZdK7nNSIzxj_4csOxb3nhlR6UCQ0G3fpxgfVt-Pf8YQgbsjUY-IlrZTRpkUXxvC0SuxV0zAuOWV9F5WT1MQ4pc-QZVAz5sbwknC9CcHLiTUQa5ojQQtEhCcyzUYWxunsXoQizDC7Bz2GhT9gEo5Bfjug4b009UFtG1YeOkVew",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2161635322722554935",
+    "utc_offset": -240,
+    "vicinity": "The Scarborough Hospital Medical Mall, 3030 Lawrence Avenue East, Scarborough",
+    "website": "http://www.prohealthrehab.ca/"
+}

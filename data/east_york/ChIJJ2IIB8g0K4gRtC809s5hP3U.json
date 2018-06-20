@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "188",
+            "short_name": "188",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Coxwell Avenue",
+            "short_name": "Coxwell Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3B2",
+            "short_name": "M4L 3B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">188 Coxwell Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "188 Coxwell Ave, Toronto, ON M4L 3B2, Canada",
+    "formatted_phone_number": "(416) 598-5667",
+    "geometry": {
+        "location": {
+            "lat": 43.6711931,
+            "lng": -79.3185926
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725376802915,
+                "lng": -79.3172638697085
+            },
+            "southwest": {
+                "lat": 43.6698397197085,
+                "lng": -79.3199618302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "53fd4c9f935f5622e56ae731039ff1c0e86b0898",
+    "international_phone_number": "+1 416-598-5667",
+    "name": "Van Duffelen Law Firm",
+    "place_id": "ChIJJ2IIB8g0K4gRtC809s5hP3U",
+    "reference": "CmRRAAAAGnMSFWjMRqzf5xO5q_BNZ3LeLZj_10UufbMHPHZWEulKu9V9dbiu9Iu7rbWU2vTAC4YUerPLCsqRZGiE7ljqrMslqCL7OJOC0lR1IfBfhm_-stqWv8Q4nw5sqqjEzibgEhBW02HL24NqA7YRty_fLCkQGhSPsL3zMp7c7rKceb2-Bvdb8JYIgQ",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8448578967492112308",
+    "utc_offset": -240,
+    "vicinity": "188 Coxwell Avenue, Toronto"
+}

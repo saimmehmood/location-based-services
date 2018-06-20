@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "214A",
+            "short_name": "214A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwood Avenue",
+            "short_name": "Greenwood Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y8",
+            "short_name": "M4L 1Y8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">214A Greenwood Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "214A Greenwood Ave, Toronto, ON M4L 1Y8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6706339,
+            "lng": -79.32799690000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6719946802915,
+                "lng": -79.3265949197085
+            },
+            "southwest": {
+                "lat": 43.6692967197085,
+                "lng": -79.3292928802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "53a4bb0cb62d75001c0db38014cea0c0a55956b8",
+    "name": "John Price Brickyards",
+    "place_id": "ChIJv9GjGYfL1IkR8jRPQV6dJYk",
+    "reference": "CmRSAAAA_oPX4bWIXHSuRRTeo0GjonYsSl0RHrFsWdzIMr8G6DquamRYOlSPPQbIzcFadwF9rTOKEzqt_AvNCem_26p_Hu1jPYAjv9EtaBXGIW90JroM4iO74QGr0EHpkKFlrZqkEhDw0QhNOIIg10nM2Oq_aTavGhSJRQwgxBihCHBBlUPGDxqddEsMFw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9882477985482618098",
+    "utc_offset": -240,
+    "vicinity": "214A Greenwood Avenue, Toronto"
+}

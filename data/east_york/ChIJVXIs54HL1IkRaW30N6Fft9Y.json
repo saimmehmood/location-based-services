@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1094",
+            "short_name": "1094",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 2A1",
+            "short_name": "M4M 2A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1094 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 2A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1094 Gerrard St E, Toronto, ON M4M 2A1, Canada",
+    "formatted_phone_number": "(416) 461-9711",
+    "geometry": {
+        "location": {
+            "lat": 43.6700641,
+            "lng": -79.3347618
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711189302915,
+                "lng": -79.33328736970849
+            },
+            "southwest": {
+                "lat": 43.6684209697085,
+                "lng": -79.33598533029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5c81f60cb12f12b7b6794d17b94389afa51befcd",
+    "international_phone_number": "+1 416-461-9711",
+    "name": "Woodgreen Community Svc",
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAh_7blvFHIlEQXBn5WwMy77fQ6RsBCjU2T-Gbxh7W5Z84QLJK_fEhnTUkLUOkzUfDqg-tE7RKbSSOLex6kKRP0aaVovz5hDmjXthzjvMCRC0PoL4lx8VU7ESB_vGZEOnsEhAYzl6cBawz54bwGha5jRyhGhRR_bRaorvfTxWmVl-pNLp_Heg1Dg",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJVXIs54HL1IkRaW30N6Fft9Y",
+    "reference": "CmRSAAAA_omTltl3xwkug_aRvOrEHhNvSpKqZQvPwFSRkrbI8txVIB4sOdUvAAbRNtbu4L-SD1YSkdUHmY0zGH8Gj_0KeklkcwueaQqBuMGtIi-Ipz-yCWZktUWR9nnZta_H6bqHEhBqskWeS1Xf7J6ewU85S_9sGhSDEvcc3x1OpLhdNk0wXHHZvb9pGw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15471940190887767401",
+    "utc_offset": -240,
+    "vicinity": "1094 Gerrard Street East, Toronto",
+    "website": "https://woodgreen.org/"
+}

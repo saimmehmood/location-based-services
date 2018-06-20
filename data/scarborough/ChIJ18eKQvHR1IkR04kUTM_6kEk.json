@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "98-74",
+            "short_name": "98-74",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellendale Drive",
+            "short_name": "Ellendale Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 1N5",
+            "short_name": "M1P 1N5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">98-74 Ellendale Dr</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 1N5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "98-74 Ellendale Dr, Scarborough, ON M1P 1N5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.757616,
+            "lng": -79.28325339999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7589649802915,
+                "lng": -79.2819044197085
+            },
+            "southwest": {
+                "lat": 43.7562670197085,
+                "lng": -79.2846023802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "35b15a1f5f6f99729b11865382739688697ec38c",
+    "name": "98-74 Ellendale Dr",
+    "place_id": "ChIJ18eKQvHR1IkR04kUTM_6kEk",
+    "reference": "CmRbAAAA3cZOUEXG5yKyzTfICdv13gaYVgvNfEZUZDXg6jMRQ8trGgtCPHCU6YgfTaQjWIqoUuajsMdCN6s0RJ1x_XDCcQ1Kep7e3Id0bNvXHN7Kz95qDqO7orTlsaWEGX-KdIXuEhDvDmC7opEI28EUvEv5GwuEGhQdj5sEO4Wx0QsVB2JLuPQH4vjw5w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=98-74+Ellendale+Dr,+Scarborough,+ON+M1P+1N5,+Canada&ftid=0x89d4d1f1428ac7d7:0x4990facf4c1489d3",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

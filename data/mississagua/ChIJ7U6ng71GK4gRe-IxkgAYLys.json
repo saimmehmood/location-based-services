@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "2289-2345",
+            "short_name": "2289-2345",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Log Wood Court",
+            "short_name": "Log Wood Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 3G2",
+            "short_name": "L5C 3G2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2289-2345 Log Wood Ct</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 3G2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2289-2345 Log Wood Ct, Mississauga, ON L5C 3G2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5601914,
+            "lng": -79.62822469999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5615403802915,
+                "lng": -79.6268757197085
+            },
+            "southwest": {
+                "lat": 43.5588424197085,
+                "lng": -79.6295736802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8008dbacc169df0a12cb292739360f075d68aa64",
+    "name": "2289-2345 Log Wood Ct",
+    "place_id": "ChIJ7U6ng71GK4gRe-IxkgAYLys",
+    "reference": "CmRbAAAAPbLu-6eYPjpXHJC6SM32Vi3jHRreqFP4Il0d-ds1L-wkaM_TAk-j9wL-0H8b4P0erArHSxp2xGYfoM_pCSu9PT1YwQ0UDTknZuOFzDRqEjmMkDDBjESuuMk_88Sc5OqmEhAwLhKrcBrWCaK7dBS5POqyGhSKnN93SJ8zRJw_zOb7zmzduShzIQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2289-2345+Log+Wood+Ct,+Mississauga,+ON+L5C+3G2,+Canada&ftid=0x882b46bd83a74eed:0x2b2f18009231e27b",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

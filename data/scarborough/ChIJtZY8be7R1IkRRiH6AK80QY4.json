@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "1261",
+            "short_name": "1261",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1261 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1261 Kennedy Rd, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(416) 490-0499",
+    "geometry": {
+        "location": {
+            "lat": 43.7572305,
+            "lng": -79.27716319999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75851278029149,
+                "lng": -79.2761310697085
+            },
+            "southwest": {
+                "lat": 43.7558148197085,
+                "lng": -79.2788290302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7a45ea64ef849007087455de351142a2650b3709",
+    "international_phone_number": "+1 416-490-0499",
+    "name": "Methadone Clinic & Suboxone treatment Scarborough",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 6:00 PM",
+            "Tuesday: 7:30 AM \u2013 7:00 PM",
+            "Wednesday: 7:30 AM \u2013 6:00 PM",
+            "Thursday: 7:30 AM \u2013 8:00 PM",
+            "Friday: 7:30 AM \u2013 4:00 PM",
+            "Saturday: 10:00 AM \u2013 1:00 PM",
+            "Sunday: 11:30 AM \u2013 1:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 416,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101393132096060929863/photos\">Shafiqur Rahman</a>"
+            ],
+            "photo_reference": "CmRaAAAAq5ec1jaKVhTrZ_ZXZ4UXr0ocYFWYAQo6HFXBdFF0Zv5WCUi-p1u_hVqIgTkJtYOvUCtJi2LWDD2yvbuuo5AAeaCeafkduZORNqJuQ_mC1TA4bKk5BnxMm4YQQxbJLTrYEhAE8JprZVWNVLTlRu9DGoDyGhRYgPH6lECEa9fvzxTbnI-G6M1PlQ",
+            "width": 900
+        },
+        {
+            "height": 949,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101393132096060929863/photos\">Shafiqur Rahman</a>"
+            ],
+            "photo_reference": "CmRaAAAA3swed3syFXAAWPFbahO4EeM19PsucoQsO_L_1O2A42aLxXSHzY3yiwytUEDhj1JuqmReIVQKr2MuD4fataV8iz35r4zzkD5z_HnM6o4mXvqtjlsMFSu8lpXaEyUhEbHKEhAljhKQaO2avtqMLmuJ41HEGhSyfZW3rm_x2EDXGqoV9jdFSGUE2A",
+            "width": 1265
+        },
+        {
+            "height": 1296,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112980404636265958128/photos\">Methadone Clinic &amp; Suboxone treatment Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAd8ezrqh9iq_kYyu0brc9lLTOtpekad2dBDzfrbpA1NHFPNxPOetUKiElPivc9QsF08xI0uG8T2mm-R3rj_ar5l7OgrKRw6ZEW-AH9C8o74iJSmdnLvlxbX-qzp7jnfiJEhBwHN9-eHjy0CDbuUxmtmuEGhSeeJoBGuXmsn5B_cyl6ZhorMaArg",
+            "width": 968
+        },
+        {
+            "height": 1296,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112980404636265958128/photos\">Methadone Clinic &amp; Suboxone treatment Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAGVrvNsG3318EY_rjX6EY1i9qVr2D410Erx_B_fXdqkjd3FlS5GGNy32A9BMdtEJTY8uocLtRiZVIU3IoUDImQpnY9M5zjrs8zUhSaJKZVJ379M-kbuEiHYpk9WPjsChWEhAP9Iw84CezWxl2ybET7-D4GhTQ-2H4QDXfCXtukYKNFaLq1y__ZQ",
+            "width": 968
+        },
+        {
+            "height": 429,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112980404636265958128/photos\">Methadone Clinic &amp; Suboxone treatment Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAdMzoVw26Qd1_3BCq228ZKsb0ltHJkodK9aPdFg1pntRGsJAsaWopBgaot6O0Prc6ydlqMvS5AAiSsIi8RwRFioehFRoZKz5zeo4H93bV-RMVwO9nucEYxfpBD8J422bUEhC2CwmLolrZabRfvJxdsg04GhR_KnL4LkE-3Z_ZiEFw0Uq5knuMrA",
+            "width": 682
+        },
+        {
+            "height": 429,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112980404636265958128/photos\">Methadone Clinic &amp; Suboxone treatment Scarborough</a>"
+            ],
+            "photo_reference": "CmRaAAAAOas3cNIQ1WTpvASGXsoiu-Tea_Al8K_PgTBAPY43sD5wrFeqoSGMtbYnFJkyhx7_TkeIctuYv-pXfpG5RnzGhMrh9gLR07ot4mfgx7TyfoQWHsZynMc4xr7GUTgewjwjEhAhqNvr-snZ9nm3s_myW41BGhSdwyzhRyt_dCcgHEdlqMZN4r5BXQ",
+            "width": 429
+        }
+    ],
+    "place_id": "ChIJtZY8be7R1IkRRiH6AK80QY4",
+    "rating": 4.3,
+    "reference": "CmRSAAAAo3Pb2kn3bvzDjlg2HYGKSI7iBFCmRDu2Sy97jqd4PqZbItAknwPm9QYrNRggVdqT0E-PtY5nQazAV-8BUwikQbzyslUvRyj636gdqSdBrKEYlxpC_GLxFvNdtJsM_-dZEhA9Ss3TybZS5m2F67UyZl7tGhSBTtJPOY_z2PrVeQhc2ULNbkFQyA",
+    "reviews": [
+        {
+            "author_name": "Meagan Kelly",
+            "author_url": "https://www.google.com/maps/contrib/116566219783581217181/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-XSGnGR5IMzs/AAAAAAAAAAI/AAAAAAAAAE4/GKwHur5pIBo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This review is for Dr. Lao. He's an amazing doctor. Most helpful doctor. He wants to get you better and not keep you on medication.",
+            "time": 1488993019
+        },
+        {
+            "author_name": "Peter Xirogiannis",
+            "author_url": "https://www.google.com/maps/contrib/100617801622539135221/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qHfL6w128ng/AAAAAAAAAAI/AAAAAAAABPQ/yqyJHnoY75o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "This place can be good if your a robot if you actually have a life and need special request in your troubling time YOUR IN THE WRONG CLINIC they only think of you as a number or as a $ I should say.  I have never seen them work as a well oiled team they are not good at tasks you might need or faxing a dam paper on time could not even be done I actualy mussed 2 days do to them saying they will fax but didn't tgen they were closed and could not get any methadone at the shoppers where the prescription should have been faxed to or go to the actual clinic this has happened 2-3 times.  This p look Ave will drive you insane so do your self a FAVOR AND FIND A BETTER PLACE!",
+            "time": 1478873556
+        },
+        {
+            "author_name": "Rusty Shackleford",
+            "author_url": "https://www.google.com/maps/contrib/102151485608485626289/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-kjH7vDpBGd8/AAAAAAAAAAI/AAAAAAAAANc/X2Tia_lqsfI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "This place gets the harm reduction seal of approval in my books!\u270c\ud83d\ude1c Kind, courteous staff are quick on their feet and soon get to know you. Doctors are fair, and listen to client needs. Appointments are quick and painless, even on a busy day, but if you're stuck in the waiting area too long... just ask for the TV remote! What makes me really, Really! Happy though, is that they even offer HRT!! ...The glaring fluorescent lights, and the cold white walls are instantly forgotten and warmed up by the friendly demeanour of both patient and staff alike. I will most definitely be referring my east-end clients here. Non-judgmental services in Scarborough are so hard to come by...",
+            "time": 1444280379
+        },
+        {
+            "author_name": "Rayna Kirschner",
+            "author_url": "https://www.google.com/maps/contrib/114970178228420765694/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cEdV-xc0sCc/AAAAAAAAAAI/AAAAAAAAC_E/eDag7KRhu4Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Dr. Lau has to be one of the most understanding and non judgemental Dr's I have ever met. He makes coming to see him very easy. Its hard when you work and he is only there 2 days a week but he is very accomodating. I would recommend him to anybody that needs a dr for Suboxone or Methadone. It is in the very back of a building which makes it very private. Sure beats the ones DT and around Dufferin and St. Clair.",
+            "time": 1476119476
+        },
+        {
+            "author_name": "Brianna Money",
+            "author_url": "https://www.google.com/maps/contrib/102463546001757157599/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-A75iOp9IKkc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1KVXRDE35hquFlj6iDxGldDDSA8A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "On the phone with them was nice got my appointment\n set up right away with in 24 h Nice",
+            "time": 1479994605
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10250532153112273222",
+    "utc_offset": -240,
+    "vicinity": "1261 Kennedy Road, Scarborough",
+    "website": "http://www.tatchealth.com/"
+}

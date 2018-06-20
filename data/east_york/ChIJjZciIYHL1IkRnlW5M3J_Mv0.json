@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y3",
+            "short_name": "M4L 1Y3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4L 1Y3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.670252,
+            "lng": -79.330798
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67160098029149,
+                "lng": -79.32944901970849
+            },
+            "southwest": {
+                "lat": 43.6689030197085,
+                "lng": -79.33214698029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "92236126e72b996f1a307147c34cb4fa1960fa5f",
+    "name": "Gerrard St East at Alton Ave",
+    "place_id": "ChIJjZciIYHL1IkRnlW5M3J_Mv0",
+    "reference": "CmRSAAAAwqWY5zV1XGHkEVGQ0fL6ciYCAioNpD-GQbz-gCFgRFoo--KoWgEZWFS0Kw2wDLfsAoyR2yo-uFgLANBwb2QDUlVXarsEUjVs8BcZKnYScP8hIZjOiMJgjt_f4PdEQswoEhCCvasqAaqgzz6I85REX1dQGhQcN-69hO04OfZtmDHntJx2EE26aQ",
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18244785168902083998",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

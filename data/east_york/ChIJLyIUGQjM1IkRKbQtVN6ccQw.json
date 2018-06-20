@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "150-112",
+            "short_name": "150-112",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kenilworth Avenue",
+            "short_name": "Kenilworth Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3S6",
+            "short_name": "M4L 3S6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">150-112 Kenilworth Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3S6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "150-112 Kenilworth Ave, Toronto, ON M4L 3S6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67058970000001,
+            "lng": -79.3026841
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67193868029151,
+                "lng": -79.30133511970848
+            },
+            "southwest": {
+                "lat": 43.66924071970851,
+                "lng": -79.30403308029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fae7bb42089765652cb728ecb17a1e9ec727bfca",
+    "name": "150-112 Kenilworth Ave",
+    "place_id": "ChIJLyIUGQjM1IkRKbQtVN6ccQw",
+    "reference": "CmRbAAAA6K9AijEYS1i1HE6ovgk-gagNOZDCm7rpYkLPjcpsbNKPMZBxDxCEZMuBUZscEA42BSWu5cMCLgV2OwTbKSrsbOSiwPzUb3EtmesY5caybO0rESj_XmKbDDylRY7-_OtrEhATDocHuTV0tzZphBQo4Q4pGhQpWblYQ4Woeawe0BueDafNkvd02w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=150-112+Kenilworth+Ave,+Toronto,+ON+M4L+3S6,+Canada&ftid=0x89d4cc081914222f:0xc719cde542db429",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

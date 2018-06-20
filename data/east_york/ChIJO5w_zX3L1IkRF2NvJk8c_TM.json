@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 3P6",
+            "short_name": "M4K 3P6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 3P6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4K 3P6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.671525,
+            "lng": -79.341719
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6728739802915,
+                "lng": -79.3403700197085
+            },
+            "southwest": {
+                "lat": 43.6701760197085,
+                "lng": -79.34306798029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "3d5e849770c8344b0498547c99582d83ab602947",
+    "name": "Pape Ave at Riverdale Ave North Side",
+    "place_id": "ChIJO5w_zX3L1IkRF2NvJk8c_TM",
+    "reference": "CmRRAAAAt0XqLFUkxnhKfBOT5ySGuUFFxzOY9HMDVfFxSqqmzJi4UdC0pDOANgzEAIIeMPM7orESyDzrNsLxw87cT1b1HvHugpyqitox6OSGLfIb3TTTj6MGmrRuPSBA1UCoJ5MyEhBJOTHp2RdXztl9e1I4HW48GhQw06jMKDCFWJfQcHiJyzE50Ipn8w",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3746181591314948887",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

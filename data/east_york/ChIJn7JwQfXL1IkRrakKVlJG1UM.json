@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "2118",
+            "short_name": "2118",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dundas Street East",
+            "short_name": "Dundas St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1N1",
+            "short_name": "M4L 1N1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2118 Dundas St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1N1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2118 Dundas St E, Toronto, ON M4L 1N1, Canada",
+    "formatted_phone_number": "(416) 900-4018",
+    "geometry": {
+        "location": {
+            "lat": 43.6700617,
+            "lng": -79.3115442
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6713510802915,
+                "lng": -79.3101884197085
+            },
+            "southwest": {
+                "lat": 43.6686531197085,
+                "lng": -79.3128863802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b9906970298ac23daa361f65031fa02ae58bee8a",
+    "international_phone_number": "+1 416-900-4018",
+    "name": "Nextakeoff Ltd",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 3:00 PM",
+            "Friday: 9:00 AM \u2013 3:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJn7JwQfXL1IkRrakKVlJG1UM",
+    "reference": "CmRRAAAAWmOAspptdJLStKKKbxlSy8NezBZ48Jvc0BpvTHpY8H_Dz8T6mIkCLrjW1h5XNnySJnW6m0UWtGlC1XlhdTtf8F2nfoAT5aRXUk2pxSZ2GmCWKUGbNsYK498S3rJ6BHKTEhDICfLMk4PE-E4XoTFQXWA0GhSX388i-UilISFt_wpH_c3RYVrksw",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4887890290025343405",
+    "utc_offset": -240,
+    "vicinity": "2118 Dundas Street East, Toronto"
+}

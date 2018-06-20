@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "103",
+            "short_name": "103",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverdale Avenue",
+            "short_name": "Riverdale Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1C2",
+            "short_name": "M4K 1C2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">103 Riverdale Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1C2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "103 Riverdale Ave, Toronto, ON M4K 1C2, Canada",
+    "formatted_phone_number": "(416) 363-8048",
+    "geometry": {
+        "location": {
+            "lat": 43.6698202,
+            "lng": -79.3482258
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711489302915,
+                "lng": -79.34686836970849
+            },
+            "southwest": {
+                "lat": 43.6684509697085,
+                "lng": -79.3495663302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e8ed78dea7399783d8e94b2cb57a191eca4ec1f1",
+    "international_phone_number": "+1 416-363-8048",
+    "name": "Mary KE Joseph Law Offices",
+    "place_id": "ChIJcxzaBtI0K4gRkm0Fvuo8P_o",
+    "reference": "CmRSAAAAtr6LV0PgHrmWhJ-xzsvKAjzyj3ljncXaNdYk7vf_AF5F2V2BejsXgvZuy_IQtuy68ADnRayOF1EMn_jjjEcZBMM1oFpDrw8OSpcczOSIPH0fMaeDVtJ8A8j81hwDaxYWEhBk_dlZbv1_zaiBUmeTOLErGhQzLlFsSJWCgPlhOPjh-Z8lgfoOrA",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18032198411922795922",
+    "utc_offset": -240,
+    "vicinity": "103 Riverdale Avenue, Toronto"
+}

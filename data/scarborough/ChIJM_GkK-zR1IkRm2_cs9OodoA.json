@@ -1,0 +1,172 @@
+{
+    "address_components": [
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 4R6",
+            "short_name": "M1P 4R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 Nantucket Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 4R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "170 Nantucket Blvd, Scarborough, ON M1P 4R6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7576858,
+            "lng": -79.2754293
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590808802915,
+                "lng": -79.2738575197085
+            },
+            "southwest": {
+                "lat": 43.7563829197085,
+                "lng": -79.2765554802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ec664a05fb4fe18e3168e12fd12f374ea53055d7",
+    "name": "Kumar Mechanic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "place_id": "ChIJM_GkK-zR1IkRm2_cs9OodoA",
+    "reference": "CmRSAAAA-gQ5Pi-0T5IsTM4TjlqU5WZPdDeMeV3GpRcuLDX0WhKnHec_IN6hyBJV8VeCPsyso50tFJ5-nwh3ULJM6tR2sgJhTdCfFPgcyL1p4Gzr9jJvDW-uLHAX6uP5z1cFqVf7EhBJ73PuXBYrfv1BgnVBfY-zGhSMD6DEZgSoJuqJEJdX4dmOeEWdYQ",
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9256771711315767195",
+    "utc_offset": -240,
+    "vicinity": "170 Nantucket Boulevard, Scarborough"
+}

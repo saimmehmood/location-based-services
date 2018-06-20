@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "269",
+            "short_name": "269",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hastings Avenue",
+            "short_name": "Hastings Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2L9",
+            "short_name": "M4L 2L9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">269 Hastings Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2L9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "269 Hastings Ave, Toronto, ON M4L 2L9, Canada",
+    "formatted_phone_number": "(416) 461-7755",
+    "geometry": {
+        "location": {
+            "lat": 43.6714137,
+            "lng": -79.33191769999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67272928029149,
+                "lng": -79.3307187697085
+            },
+            "southwest": {
+                "lat": 43.67003131970849,
+                "lng": -79.3334167302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "60f43b664d93c702adefa9e1f97b6de3fbddf782",
+    "international_phone_number": "+1 416-461-7755",
+    "name": "Gourmet Beverage Company - Catered Cafe",
+    "place_id": "ChIJGQk0rXHL1IkRduv_hSebL4c",
+    "reference": "CmRSAAAAA9SlpiiZIIwsuhMm4lpihgZtYv5_JBY4x8U_MdmPxHFgsAY0Jca93bHY7pNkBSeB4746qiZuoZiSMqkwv-HnbIiWfaLH37XCY568lYAz8DRp27SCYYqUDGPkAtXwANMDEhBS4UvpqDvalRgLWUcEYdoLGhQBThkubbZrK7awga5mFeR6kuC4dQ",
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9741175113079843702",
+    "utc_offset": -240,
+    "vicinity": "269 Hastings Avenue, Toronto"
+}

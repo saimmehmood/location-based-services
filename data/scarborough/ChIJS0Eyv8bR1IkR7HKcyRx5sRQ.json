@@ -1,0 +1,187 @@
+{
+    "address_components": [
+        {
+            "long_name": "67",
+            "short_name": "67",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Medway Crescent",
+            "short_name": "Medway Crescent",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3T7",
+            "short_name": "M1P 3T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">67 Medway Crescent</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "67 Medway Crescent, Scarborough, ON M1P 3T7, Canada",
+    "formatted_phone_number": "(416) 727-8785",
+    "geometry": {
+        "location": {
+            "lat": 43.75746609999999,
+            "lng": -79.26102209999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7587315802915,
+                "lng": -79.2596396197085
+            },
+            "southwest": {
+                "lat": 43.7560336197085,
+                "lng": -79.2623375802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9d7d2ce7fa44cbdf7fbeb9fc6e070f03e0594481",
+    "international_phone_number": "+1 416-727-8785",
+    "name": "Ajax Real Estate Agents",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJS0Eyv8bR1IkR7HKcyRx5sRQ",
+    "rating": 5,
+    "reference": "CmRRAAAAJMU86SHHHdDZ97IPojCLA7PcpoGjZwlJoofKpvOVapkxirN9yCUazXUAtksMhaGF40v6IED9VwW6XsOZY9V6Gw6A7O208Vt4xVYkEoSvDxOqDQF5HcfrwbCpaLkgqwYMEhAPzfo_3WWENSutcXTg7VCIGhTVhPhJEZp_KgJAL6sT9sd9syu4XQ",
+    "reviews": [
+        {
+            "author_name": "Garrett Pinkney",
+            "author_url": "https://www.google.com/maps/contrib/107062088023747705016/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-YLanpq192rM/AAAAAAAAAAI/AAAAAAAACAU/0MKVpgKvwzM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1515203471
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1491106116184863468",
+    "utc_offset": -240,
+    "vicinity": "67 Medway Crescent, Scarborough",
+    "website": "http://www.markten-pow.ca/"
+}

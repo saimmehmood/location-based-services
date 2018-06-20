@@ -1,0 +1,209 @@
+{
+    "address_components": [
+        {
+            "long_name": "3",
+            "short_name": "3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd #3</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd #3, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 276-6666",
+    "geometry": {
+        "location": {
+            "lat": 43.7579021,
+            "lng": -79.2787343
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75931068029149,
+                "lng": -79.27709511970849
+            },
+            "southwest": {
+                "lat": 43.7566127197085,
+                "lng": -79.2797930802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bc2c7b38527796816e202467682e8c2eb1e437ff",
+    "international_phone_number": "+1 416-276-6666",
+    "name": "Sri Nadarajasundram",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:30 AM \u2013 5:30 PM",
+            "Sunday: 9:30 AM \u2013 5:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1416,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110533330959510304894/photos\">Sri Nadarajasundram</a>"
+            ],
+            "photo_reference": "CmRaAAAAVkkwRrkS85YXEIyykgc3up1lZ7dKbW1PIEiS0BtB3wuxTcJcm5cwpyTN1ou_VxotqL53db2r5NaTmFp60-53sscyEjK9b4piD3pMXnHO2dGil1aV6ry_Qzul13K9ROFtEhBEgOaIC399XdCcjubKl7UEGhQQS6ti-Ev8izZG8Pf3GlSekN2esg",
+            "width": 1265
+        },
+        {
+            "height": 956,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110533330959510304894/photos\">Sri Nadarajasundram</a>"
+            ],
+            "photo_reference": "CmRaAAAAaycgMO6gk3Udfh8LG-OHu8bXLRENJD4DnWou9bzEGAh81Lun7vRE6IsLG2uuh5b_ajncYjHEPHqdzNFWdav2imCduM8RSmRJGY7ohCjuoldxzlmRsIh2gT_UdiuHWEe_EhCTfdDapEHEZTQAW32qKz7wGhQjBtaZcJAEItfIveLbt7_XRHWhsQ",
+            "width": 951
+        }
+    ],
+    "place_id": "ChIJP4-D_O3R1IkRFCWsYA0RxY0",
+    "reference": "CmRSAAAAZ1Apfyo6cQhYmrEOc4tv0ezJjpXS35L2ipO2-Z4BHFoB7jxoNAHtGNfR5eaK04q8-5c_zET0ftzL-BicXRQuwriOdTD1osr38Wk1a3N7rJn8ZjyQ2OnWykQl7oaGbsdGEhBGx1XZEddSSPzuCysV0lW3GhQ9uvdJAT9fXCMVUz5yz2GvJeE1fA",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10215590078913979668",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road #3, Scarborough"
+}

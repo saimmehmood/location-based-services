@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "3030",
+            "short_name": "3030",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3030 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3030 Lawrence Ave E, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(647) 748-3668",
+    "geometry": {
+        "location": {
+            "lat": 43.7565097,
+            "lng": -79.24794639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7571856,
+                "lng": -79.24630941970848
+            },
+            "southwest": {
+                "lat": 43.754482,
+                "lng": -79.24900738029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9164c06db498b3214476876f364acfadc32f074b",
+    "international_phone_number": "+1 647-748-3668",
+    "name": "General Foot Health Clinic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 4:00 PM",
+            "Tuesday: 9:00 AM \u2013 4:00 PM",
+            "Wednesday: 9:00 AM \u2013 4:00 PM",
+            "Thursday: 9:00 AM \u2013 4:00 PM",
+            "Friday: 9:00 AM \u2013 4:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJyYmoZ8vR1IkR05zfxJA0EQc",
+    "reference": "CmRRAAAAXto6Pjjh7Pejt6Y3GJ_m0DCxMokLJ-GqSlzfuy6sR-5r3ui1sKX5Ae9vZ8pt34m-eLBiReXc2lSiGMZlghqY4cBAtmUlSFQAieIy4hiitr8KEtqXXfl5PGHjHa3CqKCiEhAK3d3XRQqrW7y4HgAf9auSGhRciRsKwY3F25ox8bMpnrx1_3sUAg",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=509246029252500691",
+    "utc_offset": -240,
+    "vicinity": "3030 Lawrence Avenue East, Scarborough",
+    "website": "http://generalfoothealth.com/"
+}

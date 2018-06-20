@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3471-3491",
+            "short_name": "3471-3491",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queenston Drive",
+            "short_name": "Queenston Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2G7",
+            "short_name": "L5C 2G7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3471-3491 Queenston Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2G7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3471-3491 Queenston Dr, Mississauga, ON L5C 2G7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5611489,
+            "lng": -79.6612258
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5624978802915,
+                "lng": -79.65987681970849
+            },
+            "southwest": {
+                "lat": 43.5597999197085,
+                "lng": -79.66257478029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "06375fc5a1dac12e72e24f2eed73817629eda094",
+    "name": "3471-3491 Queenston Dr",
+    "place_id": "ChIJXX_c_k9BK4gRKXx34moh-yg",
+    "reference": "CmRbAAAAaXRCb6Qi2dw7C1ZqlXUKXanTi4OIPYaxsVlQvFBn_gzXzMFmjweh4jWT2j684XouDnzBhhkijm2y7fBas8WqIntuOD3U1pG05KiEnofYx3Zgazs6wt7oIyV0wsyGOW6qEhA51ZdgHd394xkoxipsWn6eGhTvH4N3oY2QXTA6vfMIaac8SnxJew",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3471-3491+Queenston+Dr,+Mississauga,+ON+L5C+2G7,+Canada&ftid=0x882b414ffedc7f5d:0x28fb216ae2777c29",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

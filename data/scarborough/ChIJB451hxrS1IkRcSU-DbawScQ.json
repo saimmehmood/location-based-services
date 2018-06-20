@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "22",
+            "short_name": "22",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Barnsley Court",
+            "short_name": "Barnsley Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 3X5",
+            "short_name": "M1R 3X5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">22 Barnsley Ct</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 3X5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "22 Barnsley Ct, Scarborough, ON M1R 3X5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7575946,
+            "lng": -79.30095879999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7589435802915,
+                "lng": -79.2996098197085
+            },
+            "southwest": {
+                "lat": 43.7562456197085,
+                "lng": -79.3023077802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "158e2a785cd197faf774792f02be0b2d7481daf2",
+    "name": "22 Barnsley Ct",
+    "place_id": "ChIJB451hxrS1IkRcSU-DbawScQ",
+    "reference": "CmRbAAAA9xR1dIVKTkmFeKDXTBe2ZOJNaovGf5Id1XRCKP5z9EjV70RmHhWIn1TAQEkbgbF4_dGL-Q0i1hjAbWoZiRHMmlU_66umDKg_qjb0ep7EvNU73O2NVhHyV6prmMw8DshDEhCxFiPKA4cjKm98HzlPmzrsGhRp-izhr2N9mQfV6J4tyaXDRyASjA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=22+Barnsley+Ct,+Scarborough,+ON+M1R+3X5,+Canada&ftid=0x89d4d21a87758e07:0xc449b0b60d3e2571",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

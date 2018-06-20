@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "219",
+            "short_name": "219",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Withrow Avenue",
+            "short_name": "Withrow Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1E2",
+            "short_name": "M4K 1E2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">219 Withrow Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1E2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "219 Withrow Ave, Toronto, ON M4K 1E2, Canada",
+    "formatted_phone_number": "(416) 923-7979",
+    "geometry": {
+        "location": {
+            "lat": 43.6715338,
+            "lng": -79.34454199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67292208029149,
+                "lng": -79.3432096697085
+            },
+            "southwest": {
+                "lat": 43.6702241197085,
+                "lng": -79.3459076302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f0c9936813c95f405488787c45972897ab336e78",
+    "international_phone_number": "+1 416-923-7979",
+    "name": "Floor & Window Covering Nationwide",
+    "place_id": "ChIJz6AX43zL1IkRGCz2V1sRgm0",
+    "reference": "CmRRAAAAerWFSwGUqi1mLBLRxKKW7LVE1o0JsGaYhYabfL0Kj6i3ZHOMDFduqqdWlrL0CdTtQxP3L3f69TwjMmdWF5jbbIM9r00aUbb9wLv0pXetwl_XEjUQq4EggbFsXgNY1YeyEhCmdQtiSLBv1_wCfmG3YNKtGhRkd6goKy1hWnu2Mt_R1SFHPb2y_Q",
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7890888581121977368",
+    "utc_offset": -240,
+    "vicinity": "219 Withrow Avenue, Toronto"
+}

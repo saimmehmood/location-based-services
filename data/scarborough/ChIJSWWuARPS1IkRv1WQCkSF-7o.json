@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B7",
+            "short_name": "M1R 4B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M1R 4B7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75864,
+            "lng": -79.310138
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7599889802915,
+                "lng": -79.3087890197085
+            },
+            "southwest": {
+                "lat": 43.7572910197085,
+                "lng": -79.3114869802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "4e523a4065e9448f461d31b1a9707496345604db",
+    "name": "Pharmacy Ave at Ellesmere Rd South Side",
+    "place_id": "ChIJSWWuARPS1IkRv1WQCkSF-7o",
+    "reference": "CmRSAAAAaMsGczANxogqV0v0XURCmZZlmRL_VWB08YvvhQw9X4ipy6Odu3Td6_4y6Abn9I4Uzp_Wa0oOBv2cA_Um70nkta0wnEJE6BMQ7EMMuY2Gzo7hf-y_N2Qbz_zLE4ws0q5LEhCQ0H-TQ5o-fj0IKENg4TstGhS-Qo3LG1N2RJ9WJp-JUIApWJ-YDA",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13473509237490472383",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

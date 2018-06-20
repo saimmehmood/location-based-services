@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y2",
+            "short_name": "M4L 1Y2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4L 1Y2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.669883,
+            "lng": -79.332926
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712319802915,
+                "lng": -79.3315770197085
+            },
+            "southwest": {
+                "lat": 43.6685340197085,
+                "lng": -79.33427498029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aeaaee07765bde3c1a5bc6d2fa70ac8d9bcaa75b",
+    "name": "Gerrard St East at Leslie St",
+    "place_id": "ChIJxwZLpIHL1IkRkzqzYRRf0bk",
+    "rating": 1,
+    "reference": "CmRSAAAA2HMehRDJYLmBlCoO2B71QY3_0MYymajOQ27-vOYnB1preeHrqPHrKcTCPE0niuvQ02ckDAVATCd8le5swXojrTrUzZY6NV3S2UYu7In1wQ2teqnc44TT5-gJ6wuiYm5kEhC1BPUZYMLyHIUj5LBA6AOXGhSYqHJlzqzlOIXZf4tQqO4ABaWpng",
+    "reviews": [
+        {
+            "author_name": "Chongtao Lin",
+            "author_url": "https://www.google.com/maps/contrib/109665396889422144489/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-BGumHkM6dd0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1l9tppHaadQXMdyVHl0PQlzCNf3w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1516571129
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13389587708292315795",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

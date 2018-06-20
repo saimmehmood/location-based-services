@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "Mavis Road",
+            "short_name": "Mavis Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cooksville",
+            "short_name": "Cooksville",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5B 1C2",
+            "short_name": "L5B 1C2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Mavis Rd</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5B 1C2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Mavis Rd, Mississauga, ON L5B 1C2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5611114,
+            "lng": -79.6229487
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5624603802915,
+                "lng": -79.62159971970848
+            },
+            "southwest": {
+                "lat": 43.55976241970851,
+                "lng": -79.6242976802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5006a51aaab8170c329eaab649c9d819470c2471",
+    "name": "Mavis Road",
+    "place_id": "ChIJaW6dt5ZGK4gRJQLkOCDfMlk",
+    "reference": "CmRbAAAAsCu2809ufYojphBPtUBONYfFUu5hi2dIcF2BCMv6aUCErNYhX0QmPFZw1KVr-QhN33W922rFjPxtqYN0AF4zIb7pe6T5mmt_oIbj3qF2lrCTw23oCvXN67T_kkclLySREhC_2rv7VvOWKSREH6yoKEy1GhTcwHRhzaqpiN8ka38CDsXB96JVmg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Mavis+Rd,+Mississauga,+ON+L5B+1C2,+Canada&ftid=0x882b4696b79d6e69:0x5932df2038e40225",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

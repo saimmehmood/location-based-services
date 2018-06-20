@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "3030",
+            "short_name": "3030",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3030 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3030 Lawrence Ave E, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(416) 439-8897",
+    "geometry": {
+        "location": {
+            "lat": 43.7565097,
+            "lng": -79.24794639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7571856,
+                "lng": -79.24630941970848
+            },
+            "southwest": {
+                "lat": 43.754482,
+                "lng": -79.24900738029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a8c6631ca20ad3787bb29fa6da08693d07a7ad3b",
+    "international_phone_number": "+1 416-439-8897",
+    "name": "Nick Logarakis MD",
+    "place_id": "ChIJyYmoZ8vR1IkRPS9b-2XpU-Q",
+    "reference": "CmRSAAAAJnF8NqRwL-gHsWlmyeK_ZVSRE1qzdGBPkI4iwuxCjJkEG8whl3f-3_N73KLSVqoCE8phaV2bSnb9IyYYdUHZfIu9XUUiH5G_3voKs5PeE6pVNVmMEOEwv3RCD5BXdSz0EhBF5-6JLLssHAmZZyCGyCE8GhTkp4vYEX8XpH_NCcaUEvsEncN5eA",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16452750487932579645",
+    "utc_offset": -240,
+    "vicinity": "3030 Lawrence Avenue East, Scarborough"
+}

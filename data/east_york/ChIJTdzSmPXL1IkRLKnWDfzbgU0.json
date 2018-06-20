@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "41",
+            "short_name": "41",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dixon Avenue",
+            "short_name": "Dixon Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1N4",
+            "short_name": "M4L 1N4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">41 Dixon Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1N4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "41 Dixon Ave, Toronto, ON M4L 1N4, Canada",
+    "formatted_phone_number": "(416) 694-8574",
+    "geometry": {
+        "location": {
+            "lat": 43.66973840000001,
+            "lng": -79.30958009999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67106173029149,
+                "lng": -79.30821991970849
+            },
+            "southwest": {
+                "lat": 43.66836376970849,
+                "lng": -79.3109178802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5a619574c49fdcdad8ba4ec89b9730e22e7cd93e",
+    "international_phone_number": "+1 416-694-8574",
+    "name": "Media Watch Canada",
+    "place_id": "ChIJTdzSmPXL1IkRLKnWDfzbgU0",
+    "reference": "CmRRAAAA3L7Elyh2Urzp8G4PjQM1SpUrcs_5kwY_ZGKHPLQPRp6kHVlXx_0rK5M4hYR7-EiEAAHsPEhlP2QasHIXsrQJu1jMRoAcKDhV-5-vr7M0xD6NLeNi8PqWtnqPHYH1iLVYEhArt-0YMDoo8aURAYp4mwwvGhTd8rKl9yPyT7ntI6ixHW_b5hS1IQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5584986888526539052",
+    "utc_offset": -240,
+    "vicinity": "41 Dixon Avenue, Toronto"
+}

@@ -1,0 +1,192 @@
+{
+    "address_components": [
+        {
+            "long_name": "Unit 3",
+            "short_name": "Unit 3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd Unit 3</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd Unit 3, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 887-2555",
+    "geometry": {
+        "location": {
+            "lat": 43.7580112,
+            "lng": -79.2787487
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7594170302915,
+                "lng": -79.2771227197085
+            },
+            "southwest": {
+                "lat": 43.7567190697085,
+                "lng": -79.27982068029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "65a42c6de64e2a27098b5870f1dafde9c7a9cc8b",
+    "international_phone_number": "+1 416-887-2555",
+    "name": "Usman Ali",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:30 AM \u2013 5:30 PM",
+            "Sunday: 9:30 AM \u2013 5:30 PM"
+        ]
+    },
+    "place_id": "ChIJ17hL_u3R1IkRhi_s56Ij9tc",
+    "reference": "CmRSAAAAHDx9GbGfFS-AeDkYyn7TxNN5L3M6GPMFAcjav8QOJq1stj0l6g_rE4G02y72QR_MpsGO4kRL2TtvhBwvLusEYrRryOn8zDZrwCFg9dHr31QpxjAXfGzgeLIWO_4vK2qYEhB67FWlMdRxgzP8zLPS-dlBGhQ20NhBKgFW0GTHegfljwLngU3kTQ",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15561664745008017286",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road Unit 3, Scarborough",
+    "website": "http://www.searchdreamhome.ca/"
+}

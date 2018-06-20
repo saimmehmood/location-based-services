@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "45-101",
+            "short_name": "45-101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Leuty Avenue",
+            "short_name": "Leuty Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2R2",
+            "short_name": "M4E 2R2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">45-101 Leuty Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2R2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "45-101 Leuty Ave, Toronto, ON M4E 2R2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6695098,
+            "lng": -79.2960669
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6708587802915,
+                "lng": -79.29471791970849
+            },
+            "southwest": {
+                "lat": 43.6681608197085,
+                "lng": -79.29741588029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "faf48d612e280282346007564aea9e8206174280",
+    "name": "45-101 Leuty Ave",
+    "place_id": "ChIJHSd5qvjL1IkRnVAFUxRKMek",
+    "reference": "CmRbAAAAXGdvMnrSTsVhaYvrrDRJRF1lCT5zNQeJ4mQsE-WbHvfFFcYkNXFNa9U6_nqDkMdpqL1siU3eF9sxtc6zjwJkwK30tpyDkP9aBHHBUX4l3soiUgHbTpXXWHGmiwz7FQsqEhB14hvND-bhrRmM-CMlY5WWGhSsLoAckCMezPnvUTYGkgb7UtBnjw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=45-101+Leuty+Ave,+Toronto,+ON+M4E+2R2,+Canada&ftid=0x89d4cbf8aa79271d:0xe9314a145305509d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

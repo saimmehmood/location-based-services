@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1012-1010",
+            "short_name": "1012-1010",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Brimley Road",
+            "short_name": "Brimley Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3E9",
+            "short_name": "M1P 3E9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1012-1010 Brimley Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3E9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1012-1010 Brimley Rd, Scarborough, ON M1P 3E9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7577599,
+            "lng": -79.2567195
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75910888029149,
+                "lng": -79.25537051970849
+            },
+            "southwest": {
+                "lat": 43.75641091970849,
+                "lng": -79.2580684802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7c0a35bd3cfa3c4eb4ae9c75a31c395ed2f3b243",
+    "name": "1012-1010 Brimley Rd",
+    "place_id": "ChIJcQAqKcbR1IkRxcVmFfe9-dE",
+    "reference": "CmRbAAAAM_tPnmjZGSdhjEhNS3c9nL8gq1viVxdFUpWBUlMuDqYKMF2wWJ5pShS9jDvUw7vS9OhoO4tOHbdzhrsEw1_YNBaCvSjJBm1ZGZR5KWQaBkxyUk81ccrLy_E_RE2fs0mgEhAWaMxs9fQhEtQREz03Cpc9GhRsH7QaZyEGxjgwc4VNpiDtOdg76w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1012-1010+Brimley+Rd,+Scarborough,+ON+M1P+3E9,+Canada&ftid=0x89d4d1c6292a0071:0xd1f9bdf71566c5c5",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

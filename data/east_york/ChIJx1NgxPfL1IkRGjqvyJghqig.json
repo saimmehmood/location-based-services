@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "1966",
+            "short_name": "1966",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1966 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1966 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(647) 291-1192",
+    "geometry": {
+        "location": {
+            "lat": 43.6697902,
+            "lng": -79.3016677
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710860802915,
+                "lng": -79.3002965197085
+            },
+            "southwest": {
+                "lat": 43.6683881197085,
+                "lng": -79.3029944802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "858d2ab10ce5e5db3380e298aed924591dad9bae",
+    "international_phone_number": "+1 647-291-1192",
+    "name": "Bud's Coffee Bar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 8:00 PM",
+            "Tuesday: 6:00 AM \u2013 8:00 PM",
+            "Wednesday: 6:00 AM \u2013 8:00 PM",
+            "Thursday: 6:00 AM \u2013 8:00 PM",
+            "Friday: 6:00 AM \u2013 8:00 PM",
+            "Saturday: 7:00 AM \u2013 8:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102593036907000862354/photos\">Iva Atelj</a>"
+            ],
+            "photo_reference": "CmRaAAAAVxtxPfD6TOA_HTiXnZ5IqUF-5nbMMyNmvTRnLnO38D7cCUce6ruI_rDsP4CdLXMt5rCuj4-6K5As4NeubU6DOijJnY61gcnu1ZlwfrWxsafqbkCWEwIrFMvbp7iHkEJyEhBlAQV-WgvVqz0kMzyMrpGwGhTQDsh0QGliIwIyFTHuLqa8Gaod-Q",
+            "width": 4032
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113678254134893970239/photos\">Hector Vasquez</a>"
+            ],
+            "photo_reference": "CmRaAAAARdYfwAjp5adq2lrUBtWnf4FtSULu4svPALRxYGgSH3gi-6QXNQZeKoC95x0qJ9GYHU2gly6c3zpULoonLYS_kw6khz2v3BQVUOf-ZK_kji2svBxtKXG6bqpBtmRit1ZaEhBz6Qye_2CFWw77WfEQM67bGhRMrpbEw4JaqWOPn78Et9hHGl6kbQ",
+            "width": 3120
+        },
+        {
+            "height": 3366,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109128179703780508212/photos\">Christophe Friedli</a>"
+            ],
+            "photo_reference": "CmRaAAAA0cI24SNMZBQ8v2F_PwN-6QMAmogrrGK88y6JU3yHgG29FwrhSLzqvmnDqr1xmCX_hJpnxCDDALcbCEhBdzp1XENtxJN-7Kt74RScGaf-ZpIaCjCExFlumiQiKZ88OSz1EhDNxmLLkumQyLPjKRwmt5T2GhRZTbSOb-7iYLE9zoTkedw9blRbNg",
+            "width": 5984
+        },
+        {
+            "height": 3206,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105108204402607000300/photos\">Bud&#39;s Coffee Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAjqo1KrG_SaRLlR1rjMyBEpRTglmcpD3e_NCvu7Vb8Jl08r1dAGEXCSLqCg6D8872UFSyf6MvAbfUE4yss-sCHrw3T3ILiE6qKpevS1_revisRNxsVvtsCgREROwyICe5EhBMJwwBP3yHIfDtHNuJIuklGhTHH4gSJAJGVs-18A84pLokFLnNfw",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105108204402607000300/photos\">Bud&#39;s Coffee Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAOUOsDdID2-tQAjAHR0n5awtbQIyaUIYUaVttE6759DaZiH5MhTLeEn3cHEj6_9YFOmmokZc0BH1AEWz9llBhbQIi0QA0np_QetW9xxjCrgJ1Af6oY4avmzduBLO6lm7GEhCmvzT1PfW8o7Ais1M89McmGhRvOx4TBRocvsI5NiFmYWT8ZiBRdg",
+            "width": 3024
+        },
+        {
+            "height": 3935,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAA65zGPwYCH9xFttXXfT3kr7-iuZ7p3_IoiThJGtPUYtgNjgqERXYhE-EDeYqn56l5tedC-rDXvN3SZzcdAzQ5rJwGVeiVXJ2ANFlh4_cIW-uZi5fvQlcLYtEhBmea1zdZEhAUdsZmVIp9A3josmh9zHSSGhSvwHb6scJRGmHoch9HFy-Z-YN6_A",
+            "width": 2951
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105108204402607000300/photos\">Bud&#39;s Coffee Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAMNUNtXeySaPXD5UALTc11SHsHGSUrK0ou6-EEtt6tj4Q7DWScbFIjpvF4YYGY0hgFwOCVu_CSGR67WlH-9F57soXXCNoTPos8Q_vsY55wyghcIiZ7nBEacvJ_H9OWNCFEhAuklEgd5FBqRFqxNrPpmRHGhTtv8QSXrouYqu93suT9ZyovhdwAA",
+            "width": 3024
+        },
+        {
+            "height": 3856,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAXYsps6gcarFiUO0Uaf1R5dhlvlHNGtH3MiLwsVZ1XKEEb8W9OY0IIin5lEdKeC3OsUToG34_CllKwB1EH5tF6qz6hV3hCVvTSmQOOPeBIIFxdh27J13V9KAjE7l1QBVMEhDZhy0J0X-RMAsD_r1UzKpjGhT184nb0-NTTQavrSaIzy8XJ0t8RQ",
+            "width": 2892
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105108204402607000300/photos\">Bud&#39;s Coffee Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAADWB-UeWzf-l160mfO87IJ4oHohfe_4j1BQ8FMQfYntZeqdAZWG3NfAwRaZsPW0-zi0FNcd1WqhMf7VOt9IWnm9-37HGjwznkRvmCQalIpqmwM09tpBnZlG3LXAVbz_MDEhDDPwa3RZ77p3Yy1O-LgmQ1GhRRUz7dVWkgMnn-BuQC67yl9dUUuA",
+            "width": 3024
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111874267262921882095/photos\">kerry morrison</a>"
+            ],
+            "photo_reference": "CmRaAAAAUUVw0__miO68rIuIbsC9ttXmFaPBgaA3ULN3Se_w1Bo14KcopVRXRN0DRk1jZsgj6noR5jB85a6CSHA7Lmho6P-e1sRTWybLeUY4upMJl5kfYPJh8Gy74ErQQJwEIXBdEhC2d-rb_zhYZAF9DPy55vnsGhRyKJ874jvDZmhpp7VPzGxn3Gd2pg",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJx1NgxPfL1IkRGjqvyJghqig",
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "CmRRAAAABkjg0GaL6W2BpFKy61Xs8xua2cHjgSfk9-FOe8UlhM_FnDzbkgeS1BoZZNATU0k7lY8LX-MM7iqGcUPcPKLD7zJj_vqgexK5zb6GNiYY01HFXKNgTDMF6El0NYLg9X-gEhDuZpxcEhDzD0aih4GBqlBMGhS0NszO3KK9OZ0tKX1zXAO05CV9qw",
+    "reviews": [
+        {
+            "author_name": "A Cartier",
+            "author_url": "https://www.google.com/maps/contrib/116167134721249142208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bPAS-oMgXpA/AAAAAAAAAAI/AAAAAAAAIKg/HEu6OZfIdGg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "I feel like the Beaches are purposely keeping Bud's under wraps and not letting anyone know about this spot. I had no idea about Bud's and was dreading of finding a good cup in a new spot. With the overwhelming positives for this spot, I stepped into their door and was happy to Sam James beans being used. \n\nRecently, it sounds like they moved to a bigger spot and still making a great cup. It is still very busy... even on a lazy Saturday afternoon, there was no tables freed up and the constant line up was in and out of the place. It has a great friendly vibe and everyone here is quite warm with each other. It's clear that Bud's has made themselves part of the community because of the number of personal conversations between patrons or the staff and patrons. This was really nice to see. I guess Toronto can be friendly after all! \n\nI have to appreciate how they use the good Canadian brands like Pluck and Cut Coffee to create their drinks. Nothing like supporting a good local. I think the baristas really know their drinks cause the flat whites we got were surpassing some of the well known coffee shops that sit on Toronto top 50.\n\nFlat White with almond milk - The butter knife beans are just so good and Bud's did them right. This was a rich and robust coffee flavour with a touch of milkiness from the microfoamed milk. No acidity to make me wince. We decided to do the cashew and almond milk side by side taste test. I personally liked the almond milk more. I found it didn't influence the flat white as much and let the coffee flavour be more forward. I liked this one. 4/5\n\nFlat White with cashew milk - I found the cashew milk version to have less of a coffee flavour... it definitely changed the taste. I would say it was a milkier flavour but more muted for sure. I did find cashew milk to be creamier than the almond milk but also weirdly enough, I touch more sweet? So if you're looking for the texture the most closest to cow's milk, this would probably be your favourite alternative milk. Kudos to Buds for offering more than one type of nut milk. 4/5\n\nIf I'm far out east again, I'll definitely make Bud my choice to get a good flat white and happy I'm not stuck to Starbucks.",
+            "time": 1528760259
+        },
+        {
+            "author_name": "Veronica Morera Otero",
+            "author_url": "https://www.google.com/maps/contrib/102738323284564118377/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-GbKFna0g1Ao/AAAAAAAAAAI/AAAAAAAAAy8/JdQTiSf5wc0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Really good pour overs, super friendly staff and fresh baked goods. Really close to the beach so you can always tale it to go and enjoy a nice walk. The setting is really nice and everyone that comes in is super nice.",
+            "time": 1528773021
+        },
+        {
+            "author_name": "April Kay",
+            "author_url": "https://www.google.com/maps/contrib/102782549991631265568/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Flu2VKuHQDU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2yNvEDV3qf5-yQ4owfq2_7Ni2osQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Cozy, friendly spot. Great coffee & wonderful staff. My first stop in the morning.",
+            "time": 1528884742
+        },
+        {
+            "author_name": "Glenn Honiball",
+            "author_url": "https://www.google.com/maps/contrib/118361481616387324819/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-t_c3Hang-dk/AAAAAAAAAAI/AAAAAAAAAIk/rlVQUE5Q_ZE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great little neigbourhood gem. Great coffee, friendly staff. Nice place. Tired of the chains, this is it.",
+            "time": 1525129649
+        },
+        {
+            "author_name": "Arwenna Jones",
+            "author_url": "https://www.google.com/maps/contrib/102561250777242914483/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Is2sktgWH0A/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq21gDugI0ytak45v5qc3sxhTWKrEQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The place is quaint and bright! Coffee is delicious! Only thing was, the price for a flat white extra shot with coco milk was very high ($6.75) compared to Remarkable Bean or Hailed coffee or Te Aro.",
+            "time": 1520171903
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2930191447643601434",
+    "utc_offset": -240,
+    "vicinity": "1966 Queen Street East, Toronto",
+    "website": "http://www.instagram.com/budscoffeebar"
+}

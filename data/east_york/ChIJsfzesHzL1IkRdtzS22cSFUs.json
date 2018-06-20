@@ -1,0 +1,147 @@
+{
+    "address_components": [
+        {
+            "long_name": "Riverdale Avenue",
+            "short_name": "Riverdale Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 3B9",
+            "short_name": "M4K 3B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Riverdale Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 3B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Riverdale Ave, Toronto, ON M4K 3B9, Canada",
+    "formatted_phone_number": "(647) 928-6900",
+    "geometry": {
+        "location": {
+            "lat": 43.6703183,
+            "lng": -79.3460155
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716163802915,
+                "lng": -79.34489986970848
+            },
+            "southwest": {
+                "lat": 43.6689184197085,
+                "lng": -79.3475978302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "76a47a7b32f1b29e6ff077def84b25d3ce97bdcf",
+    "international_phone_number": "+1 647-928-6900",
+    "name": "Hire Order",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJsfzesHzL1IkRdtzS22cSFUs",
+    "reference": "CmRRAAAArKcgVusQzu9-8vhI0pWc3g7XWyjO1X7DtY8J7-MSr8hu76b2jsgNvJLeFa98E-thp2yNtGQBZh9LTYT-3nBP8CLXBXxgzbiQLppAK7yz-kiZSbukepO9KY_9VvYZErCcEhB62y4bUMSHW8vIJ8IFoQ66GhQXkwSHEcS--lffqEgAepViLlNxtw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5410250764634479734",
+    "utc_offset": -240,
+    "vicinity": "Riverdale Avenue, Toronto",
+    "website": "https://www.hireorder.ca/"
+}

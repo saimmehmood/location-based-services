@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "685-709",
+            "short_name": "685-709",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Welcome Court",
+            "short_name": "Welcome Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5B 3P8",
+            "short_name": "L5B 3P8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">685-709 Welcome Ct</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5B 3P8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "685-709 Welcome Ct, Mississauga, ON L5B 3P8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5612095,
+            "lng": -79.6235538
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5625584802915,
+                "lng": -79.62220481970849
+            },
+            "southwest": {
+                "lat": 43.5598605197085,
+                "lng": -79.6249027802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a6f3cc8d6c6b0dae0bc3cf190b77699847642caf",
+    "name": "685-709 Welcome Ct",
+    "place_id": "ChIJQbojvpZGK4gRfezXkgmccGo",
+    "reference": "CmRbAAAALgApgOLnRfskMraTxoSm_mHmiwBkJmHzUKyPMfPItptil7ZbK0pF_L8rpZnlaIXIHqItM_QFgTaTGi3EVsRnnzKLK15r2JmfC7ymB3wTxump8Tw6bWSuLprphHAa29WYEhDgIJy43m9rmIWmfYVN4o9_GhTqNHKOdRhIQ1b3a1vFTyByzEblyg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=685-709+Welcome+Ct,+Mississauga,+ON+L5B+3P8,+Canada&ftid=0x882b4696be23ba41:0x6a709c0992d7ec7d",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

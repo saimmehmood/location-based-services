@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2018-2002",
+            "short_name": "2018-2002",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2018-2002 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2018-2002 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6701819,
+            "lng": -79.29936889999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6715308802915,
+                "lng": -79.29801991970848
+            },
+            "southwest": {
+                "lat": 43.6688329197085,
+                "lng": -79.3007178802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fbda95ccb19a2b490135bbefbfc7636b27e3d73a",
+    "name": "2018-2002 Queen St E",
+    "place_id": "ChIJ-dH3hQfM1IkRw7Uv6FJIA44",
+    "reference": "CmRbAAAAm4mPedCOcUydL06KOCQZAqaLF9G_iZvrdoYARThkuCbavFlJymjf0s2GSZU7eROe_g2uQYKAbzte_8Fqlt8q43pgvP2msv4zW2sruv5NWJt-rUUZurHn4qv495Fu3eveEhC78-mV86QntKfYnpAdMzo0GhS2KPgDF0hRI61T7jXkrclNOyGniA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2018-2002+Queen+St+E,+Toronto,+ON+M4L+1J3,+Canada&ftid=0x89d4cc0785f7d1f9:0x8e034852e82fb5c3",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

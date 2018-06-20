@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1286-1274",
+            "short_name": "1286-1274",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286-1274 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286-1274 Kennedy Rd, Scarborough, ON M1P 2L5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75768009999999,
+            "lng": -79.27802059999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590290802915,
+                "lng": -79.27667161970848
+            },
+            "southwest": {
+                "lat": 43.7563311197085,
+                "lng": -79.27936958029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ffc142990941dd1d78d1b76ad6cad673fdb4e215",
+    "name": "1286-1274 Kennedy Rd",
+    "place_id": "ChIJiXUFCe7R1IkRY68c0yRMOSk",
+    "reference": "CmRbAAAAYeTAEXmuKOdyavYsEdo7iySsmQvGHNyhG74PzhbJJyq3IeYvESm0kFqxDByKnR9EGneS-sbAoO5hR6m_NyjQ4UwfcDViU8tq-IdU9Lkktg6LltGDsNwpebzmwBaqecl0EhCxYK0yEkCi2CfZvdsC2jUQGhRmoRMxuJxUQx1QzDwUMm218vUZuA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1286-1274+Kennedy+Rd,+Scarborough,+ON+M1P+2L5,+Canada&ftid=0x89d4d1ee09057589:0x29394c24d31caf63",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

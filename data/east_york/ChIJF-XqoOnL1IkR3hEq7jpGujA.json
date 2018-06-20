@@ -1,0 +1,131 @@
+{
+    "address_components": [
+        {
+            "long_name": "105",
+            "short_name": "105",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hiawatha Road",
+            "short_name": "Hiawatha Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2X7",
+            "short_name": "M4L 2X7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">105 Hiawatha Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2X7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "105 Hiawatha Rd, Toronto, ON M4L 2X7, Canada",
+    "formatted_phone_number": "(416) 556-8368",
+    "geometry": {
+        "location": {
+            "lat": 43.6713904,
+            "lng": -79.3223742
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6727156302915,
+                "lng": -79.3211351697085
+            },
+            "southwest": {
+                "lat": 43.6700176697085,
+                "lng": -79.3238331302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f21522578d3d4da84da366a97d9536723d27635a",
+    "international_phone_number": "+1 416-556-8368",
+    "name": "City Home comfort",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1242,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114729421414182969757/photos\">City Home comfort</a>"
+            ],
+            "photo_reference": "CmRaAAAA1VS5wUuhUpGYk8DZNLTvwCOPqenT9WZTZcXm8KKf4mo1FLecoLTak8HZro84T5IM3ApDgSCg_8nr8v8g8pXXpoYZxGN8UOAc_Coh7uJs5IRFLtdOl3KPOtP7wcTqBhbgEhBvISDibSBi8UyfdEdkhCx1GhS5ExSvYeD2aX60zQPmI59XDPWNHA",
+            "width": 1242
+        }
+    ],
+    "place_id": "ChIJF-XqoOnL1IkR3hEq7jpGujA",
+    "reference": "CmRRAAAAoQHlj65Ds8Ayu1enWNPsbr_e9HtXNA7QwcIuzmRVEXi8QXs-pYzWDlaqkuGzCod2MAYgd3uNBEPe1ipLfsfk5rD6UTpaL-Nm0-SEpbyp3TGBHjsohAJLipxLkzpa3_iZEhAXWDLXyJEZuMgxjaTRD4JNGhTIno3pzSKbF3FuwiofOG6J8432Aw",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3511196078406504926",
+    "utc_offset": -240,
+    "vicinity": "105 Hiawatha Road, Toronto",
+    "website": "http://cityhomecomfort.com/"
+}

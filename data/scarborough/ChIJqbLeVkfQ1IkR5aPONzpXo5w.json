@@ -1,0 +1,201 @@
+{
+    "address_components": [
+        {
+            "long_name": "SCARBOROUGH",
+            "short_name": "SCARBOROUGH",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B2",
+            "short_name": "M1H 1B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "3487 LAWRENCE AVE E, <span class=\"street-address\">Wal Mart Customer Service Desk</span>, <span class=\"locality\">SCARBOROUGH</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3487 LAWRENCE AVE E, Wal Mart Customer Service Desk, SCARBOROUGH, ON M1H 1B2, Canada",
+    "formatted_phone_number": "(416) 289-4067",
+    "geometry": {
+        "location": {
+            "lat": 43.7581544,
+            "lng": -79.22870259999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75950338029149,
+                "lng": -79.22735361970848
+            },
+            "southwest": {
+                "lat": 43.7568054197085,
+                "lng": -79.2300515802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4393f957c0b2f56fe9d6465b894aed94802b7381",
+    "international_phone_number": "+1 416-289-4067",
+    "name": "Western Union Agent Location",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 10:00 PM",
+            "Tuesday: 7:00 AM \u2013 10:00 PM",
+            "Wednesday: 7:00 AM \u2013 10:00 PM",
+            "Thursday: 7:00 AM \u2013 10:00 PM",
+            "Friday: 7:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 10:00 PM",
+            "Sunday: 7:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103202988499604956995/photos\">Western Union Agent Location</a>"
+            ],
+            "photo_reference": "CmRaAAAAHxowq3CznxSUvHRHfZrbb_iv6kvyK8XSd3vt9gbeakt-BdQWbGgQfD7Fytkg-DhdAg1m_HzEwDabF6l0DM2bxoeN7WN_UnTvbsbSwlLyeSCPHntyhck8IVWyjn5zWA1bEhBtaPkDGsD1VdhLq64BTCPhGhQrFj3VlkagHi1SCl6iWwA05GOqvQ",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103202988499604956995/photos\">Western Union Agent Location</a>"
+            ],
+            "photo_reference": "CmRaAAAAH-BYc7bf2_00NcEAr2QqJFBBpKoGIPerw0wlhnPDkP5E2mKZL1snAyUm2arHcB0b5aaXW5efd703ud3_OF-JCFulHS3TQq2GlCfwwxiv0LrSMD99BK6mNR11Um2QplMsEhAtON0hUYkfPGTD9HC_xRdFGhS8re0jtRcavyKG9KPiMFC2dEbjpw",
+            "width": 720
+        }
+    ],
+    "place_id": "ChIJqbLeVkfQ1IkR5aPONzpXo5w",
+    "rating": 4,
+    "reference": "CmRSAAAAnlnRMFxSMmF1AHMgdqTgkCvslAW2VRvuXwusGo8cBEF7TVplIsQG-fSTy-_avnkIZx5JEABFGjcXMeYKbZqLgzjfEFaX0S7HFrY3gi_YS4CK3qNoA6WFecNT8axeI1_bEhDckjkPrWks_I_KM49RBOtxGhQ7ZvLDjX9_dMIz_Yof9KlWCvvzPw",
+    "reviews": [
+        {
+            "author_name": "Ajay Kumar",
+            "author_url": "https://www.google.com/maps/contrib/108099597214515359383/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xFg04A8TN40/AAAAAAAAAAI/AAAAAAAAACM/41fO_b1zLXk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1520202915
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11286960998676603877",
+    "utc_offset": -240,
+    "vicinity": "3487 LAWRENCE AVE E, Wal Mart Customer Service Desk, SCARBOROUGH",
+    "website": "http://westernunioncanada.ca/?utm_source=G&utm_medium=lpm&utm_campaign=western%20union"
+}

@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H",
+            "short_name": "M1H",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Lawrence Ave E, Scarborough, ON M1H, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75787950000001,
+            "lng": -79.2342158
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7592284802915,
+                "lng": -79.2328668197085
+            },
+            "southwest": {
+                "lat": 43.75653051970851,
+                "lng": -79.23556478029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "18f6d17a1f39b8e096faf7430e87a5dffc15be12",
+    "name": "Lawrence Avenue East",
+    "place_id": "ChIJA7We-TfQ1IkRq1oefU614Yc",
+    "reference": "CmRbAAAAfrd_hGjvPgjyJ8qS4wC5thyyEqEO3TGwKpBelTe8OqS0CKYTrRSa9tMMo_LnlbWpRW41iDTIRd6-_aAffViL9M5siX1f9Q62q1kHhj7pcDKiNxqjlfLcocjeDkKXFWu-EhDzj-xY7gzw5K0GknDsHPRrGhSt4WkV6QB-jYTNUIgnnQIAU3KHfw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Lawrence+Ave+E,+Scarborough,+ON+M1H,+Canada&ftid=0x89d4d037f99eb503:0x87e1b54e7d1e5aab",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

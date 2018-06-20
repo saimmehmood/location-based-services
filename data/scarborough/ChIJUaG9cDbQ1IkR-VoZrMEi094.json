@@ -1,0 +1,225 @@
+{
+    "address_components": [
+        {
+            "long_name": "3250",
+            "short_name": "3250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A4",
+            "short_name": "M1H 1A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3250 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3250 Lawrence Ave E, Scarborough, ON M1H 1A4, Canada",
+    "formatted_phone_number": "(416) 821-6666",
+    "geometry": {
+        "location": {
+            "lat": 43.7574097,
+            "lng": -79.239049
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75853223029149,
+                "lng": -79.2376052197085
+            },
+            "southwest": {
+                "lat": 43.75583426970849,
+                "lng": -79.2403031802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8b2c8c9f992c2b60580864a66c86b3c607d9437e",
+    "international_phone_number": "+1 416-821-6666",
+    "name": "K-Mobile",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 7:30 PM",
+            "Tuesday: 11:30 AM \u2013 7:30 PM",
+            "Wednesday: 11:30 AM \u2013 7:30 PM",
+            "Thursday: 11:30 AM \u2013 7:30 PM",
+            "Friday: 11:30 AM \u2013 7:30 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 856,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112427631956261931044/photos\">K-Mobile</a>"
+            ],
+            "photo_reference": "CmRaAAAAxeFanEaWDKjYphDzE-USSWANDLslSFP5rtRqDMTru5CDBM2BXzbt6DMbcuNIeBDxNg43axqOZ0Gib-R7TepN0n9SIo5kaf6JN46G3R_m6UPnM18PNT1O16aLjI29JoFeEhDqk6afFrb3AD36QXH9zSnRGhRLei19KaYN9guZpvs70M-vhT9nrQ",
+            "width": 862
+        },
+        {
+            "height": 388,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112427631956261931044/photos\">K-Mobile</a>"
+            ],
+            "photo_reference": "CmRaAAAAxPdUxcxi0pLj56_NNaIYm7CeHhGiCxeUm5cjKjvcew0sYEEqZm6jTq98nWRL26atYp6Q3PqgjxTOkXQgx96ZdVuCSAufvV7AWTbJE58UFsIOT_qbkD7vJKm5-vvU6HUFEhDE1wOjPL6xoObc-DVLNwFeGhRt-0SnZap9wgi6HAzkf7ByWfP-0A",
+            "width": 388
+        }
+    ],
+    "place_id": "ChIJUaG9cDbQ1IkR-VoZrMEi094",
+    "rating": 3,
+    "reference": "CmRSAAAAy0Fxtw9LOytycHwEevDwHyD24tg4oqgNdOdkn5pmeYhxrEGgVzDc4MrAdP4i2XMM36JypjNK2F64SnFYQwSGa1mBDxJZxbCuHeI6csBQNjRh4GVKidznebltcPkzlgI-EhDF5b0ZkIWqEE-5CgcU25PjGhSolYhIN2QIsCM1m3edq1gyJaGlVw",
+    "reviews": [
+        {
+            "author_name": "Shan Saravanapavan",
+            "author_url": "https://www.google.com/maps/contrib/105310158531250569230/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-x4xpjzdqntY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3O2bmQZzFgzSLH-Tmh0nl9pSbiBA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Excellent service.",
+            "time": 1510870976
+        },
+        {
+            "author_name": "Aesha Patel",
+            "author_url": "https://www.google.com/maps/contrib/110092606743937401559/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-k0y299xouMc/AAAAAAAAAAI/AAAAAAAABQ0/Hxokp1eptoU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1512152090
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16056215311717325561",
+    "utc_offset": -240,
+    "vicinity": "3250 Lawrence Avenue East, Scarborough",
+    "website": "https://www.k-mobile.ca/lawrence/"
+}

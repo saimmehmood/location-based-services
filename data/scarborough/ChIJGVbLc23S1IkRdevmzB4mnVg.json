@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2125-2141",
+            "short_name": "2125-2141",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Victoria Park Avenue",
+            "short_name": "Victoria Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B7",
+            "short_name": "M1R 4B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2125-2141 Victoria Park Ave</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2125-2141 Victoria Park Ave, Scarborough, ON M1R 4B7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75755409999999,
+            "lng": -79.3150505
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7589030802915,
+                "lng": -79.31370151970849
+            },
+            "southwest": {
+                "lat": 43.7562051197085,
+                "lng": -79.31639948029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "639f01eee5090e7bad4ef895cd4b59781c9b75a3",
+    "name": "2125-2141 Victoria Park Ave",
+    "place_id": "ChIJGVbLc23S1IkRdevmzB4mnVg",
+    "reference": "CmRbAAAAhf4TOEifesON5CupTjI6vCgwh9LLnsdFlGwcf1aeVlbpWskN0U3lHIWNSk3kYAUJNskQEaHoQxlII_jb2N3hyuvsjs6DmlkWJWKKxegiCF3x6hQNGQ9AsIpoqfvdHNnUEhBd2D84PuUxTzPi0VRbUC34GhSVLlTuLheU8P2Q7p1oukHF5Y4jAQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2125-2141+Victoria+Park+Ave,+Scarborough,+ON+M1R+4B7,+Canada&ftid=0x89d4d26d73cb5619:0x589d261ecce6eb75",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

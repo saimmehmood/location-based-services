@@ -1,0 +1,154 @@
+{
+    "address_components": [
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birchmount Road",
+            "short_name": "Birchmount Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2G6",
+            "short_name": "M1P 2G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Birchmount Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1510 Birchmount Rd, Scarborough, ON M1P 2G6, Canada",
+    "formatted_phone_number": "(416) 443-3557",
+    "geometry": {
+        "location": {
+            "lat": 43.7580373,
+            "lng": -79.29111429999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75958488029151,
+                "lng": -79.28847370000001
+            },
+            "southwest": {
+                "lat": 43.75688691970851,
+                "lng": -79.29199449999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "a4da383e8a71552c0f23d0c63f2b53c6f0d9ea7a",
+    "international_phone_number": "+1 416-443-3557",
+    "name": "Um Al Qura Islamic School",
+    "place_id": "ChIJg3fkB_bR1IkRwAtphvmCfVM",
+    "rating": 3.6,
+    "reference": "CmRRAAAANroDBY9FNhUQZ6aBVj7oCoIxKuiA-nGTmdlsqTGZ-T1Ba7NWp1NHLBjMnhbH6r3CqtdQX7JBbrM0DtXMdPHo6Q-siI0FHJIbvihQ6nhctSpGTqNlUA9X9jtiaRJNs9XjEhA8UXIYefmR95_kDTlyUYhEGhTGl2fpb_YrZ3qbg0sG7uMQAQkH1g",
+    "reviews": [
+        {
+            "author_name": "fareed khan",
+            "author_url": "https://www.google.com/maps/contrib/108103862059431797317/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WdPoTG6Yyko/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Z5whQ8EfEcxOF47k3AACqhIG5kg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Most of the good reviews are done by the owners of the school to them selves.  Teachers are not qualified. Teachers get hired and fired more often. Principal has no knowledge of English. Washrooms are so bad. Students were asked to bring toilet rolls. I consider it my civic duty to warn others- this school is horrible. poor leadership is an understatement. Teachers are bias to certain kids specially \"Arab speaking\".  I would ask every parent to think twice before enrolling to this school. This is a failing school.",
+            "time": 1521849472
+        },
+        {
+            "author_name": "yusuf",
+            "author_url": "https://www.google.com/maps/contrib/106913502378587305553/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-UmEOBlrNSjc/AAAAAAAAAAI/AAAAAAAAC1o/7IjHMQdx9Vs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "It was a decent school cant complain. one thing id make better is the washrooms",
+            "time": 1515119364
+        },
+        {
+            "author_name": "Mohamed Salim",
+            "author_url": "https://www.google.com/maps/contrib/115672499195436909574/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-8IkqGHiAgBA/AAAAAAAAAAI/AAAAAAAAQ0o/DQsy42W3WoM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "The show favoritism to students particularly girls and the hate anybody who isn't Muslim and if they are Muslims they hate Muslims who went to public schools even though public schools are better then Islamic schools",
+            "time": 1515281370
+        },
+        {
+            "author_name": "Fatimah Ali",
+            "author_url": "https://www.google.com/maps/contrib/117236246654755127088/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bLY8bgZc0_E/AAAAAAAAAAI/AAAAAAAAAEc/LH2yeNcM7Es/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I have been a part of this Islamic school for 2 years the students and staff were very respectful and well mannered. One of the things that stood out was every morning the school would come together in the gymnasium to do the morning adhkaar. If you are wondering the kind of school this is just come in the morning and you will be able to see the order and love for Islam. I will miss the school very much as I felt like I was part of a large family.",
+            "time": 1457572300
+        },
+        {
+            "author_name": "Shazzaneiy Mohamed Nalir",
+            "author_url": "https://www.google.com/maps/contrib/108813408315328859866/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ADb9rgeFc_0/AAAAAAAAAAI/AAAAAAAACLo/xb5D8Bzc1HQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Throughout my 2 years as an um al qura student I grew immensely in my education, manners, and leadership skills. The teachers and administration were welcoming and respectful from my first day of school, encouraging me to be my best.",
+            "time": 1472486755
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6016108685450349504",
+    "utc_offset": -240,
+    "vicinity": "1510 Birchmount Road, Scarborough",
+    "website": "http://www.umalqura.ca/"
+}

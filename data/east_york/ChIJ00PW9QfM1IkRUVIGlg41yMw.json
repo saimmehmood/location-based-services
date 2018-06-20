@@ -1,0 +1,195 @@
+{
+    "address_components": [
+        {
+            "long_name": "1986",
+            "short_name": "1986",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1986 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1986 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(416) 724-7574",
+    "geometry": {
+        "location": {
+            "lat": 43.6701313,
+            "lng": -79.30047189999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6713912302915,
+                "lng": -79.2990851197085
+            },
+            "southwest": {
+                "lat": 43.66869326970851,
+                "lng": -79.3017830802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "58f2c05749e13c1be8dd1f6b351b8d3af7ff982c",
+    "international_phone_number": "+1 416-724-7574",
+    "name": "Biastoch Chiropractic",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1530"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1530"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1630"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 \u2013 10:00 AM, 3:30 \u2013 6:30 PM",
+            "Tuesday: 6:30 \u2013 10:00 AM, 4:30 \u2013 6:30 PM",
+            "Wednesday: 8:00 \u2013 10:00 AM, 3:30 \u2013 6:30 PM",
+            "Thursday: 6:30 \u2013 10:00 AM, 4:30 \u2013 6:30 PM",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ00PW9QfM1IkRUVIGlg41yMw",
+    "reference": "CmRSAAAAyY3eu50_QDfI-4WO8AbpfiAXva-DQGcgUIQGVoqeWip8wx52_3y4dqYxzitHwiFxK9l3zO7Bh3LiKsxtT_5a9T2rtK2hYVk6hcd_JuFqRSvNEE9zDc4f2p-83IJ6XHyUEhCRDN5PqpPTINYh3H66AKifGhQbf4dnyxvDgoAllfezAFaYMc3Igg",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14756102515842241105",
+    "utc_offset": -240,
+    "vicinity": "1986 Queen Street East, Toronto",
+    "website": "http://www.biastochiro.com/"
+}

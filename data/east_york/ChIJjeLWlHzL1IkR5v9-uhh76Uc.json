@@ -1,0 +1,158 @@
+{
+    "address_components": [
+        {
+            "long_name": "204 Riverdale Avenue",
+            "short_name": "204 Riverdale Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1C5",
+            "short_name": "M4K 1C5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">204 Riverdale Avenue</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1C5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "204 Riverdale Avenue, Toronto, ON M4K 1C5, Canada",
+    "formatted_phone_number": "(416) 778-7175",
+    "geometry": {
+        "location": {
+            "lat": 43.6705224,
+            "lng": -79.34509109999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67187138029149,
+                "lng": -79.34374211970848
+            },
+            "southwest": {
+                "lat": 43.66917341970849,
+                "lng": -79.3464400802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ca94df6a308d5ebfab74f60c2daaf30a146185f2",
+    "international_phone_number": "+1 416-778-7175",
+    "name": "House & Home Minders Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJjeLWlHzL1IkR5v9-uhh76Uc",
+    "reference": "CmRRAAAAxKeHS55_vQvdSPIQG95sqcV9_J4qPr_ZJATvEOT8EXDwj4qbIMxlvx9k16_1UZ7WztO6LhVZfICfHO6BFAwlmU1l2UMl6zH6n-7ahMV2KyUCyN3EUCxc4fF6HhBMBDd3EhBSaqgy75cMPIDrtML4TCR4GhTTrfWoSmCv8IeZyeA8IoBcus2k6Q",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5181808192404783078",
+    "utc_offset": -240,
+    "vicinity": "204 Riverdale Avenue, Toronto",
+    "website": "http://www.houseandhomeminders.com/"
+}

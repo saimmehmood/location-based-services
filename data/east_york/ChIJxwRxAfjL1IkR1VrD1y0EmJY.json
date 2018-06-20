@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "1974",
+            "short_name": "1974",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1974 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1974 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(416) 690-1663",
+    "geometry": {
+        "location": {
+            "lat": 43.6699339,
+            "lng": -79.30135609999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711951802915,
+                "lng": -79.29997046970848
+            },
+            "southwest": {
+                "lat": 43.6684972197085,
+                "lng": -79.3026684302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0c93f593d1842b501aa2c76012dbb9bf17dc194e",
+    "international_phone_number": "+1 416-690-1663",
+    "name": "The Artisans",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 5:00 PM",
+            "Tuesday: 11:00 AM \u2013 5:00 PM",
+            "Wednesday: 11:00 AM \u2013 5:00 PM",
+            "Thursday: 11:00 AM \u2013 5:00 PM",
+            "Friday: 11:00 AM \u2013 5:00 PM",
+            "Saturday: 11:00 AM \u2013 5:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAPiYWYMjFpxLRoS8UtdSO7RVb8wDJIIoax8amnxRXy8GvCIO7JaaRebitpu1zh3DQVVI0LG2b5T8N1zXeix0zfrY9EL4m0PFmgSahFMXRGMdYUoO0TZOHiHVgyGj2BdDZEhA_alSdjhMu320Bbvd3E-CLGhSUSWgP8eOmafNDypz_rAV0KlVgow",
+            "width": 4160
+        },
+        {
+            "height": 3906,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAANjH56KkbFJsOA58x2AMuyBIvGDZh12bxVQhqRQVTWAJDPae-TsC0Fd6sz_lBLqziClh4U0_LiAKOx8dKxCZ06I304k_5Au9_saOIJE1hPDOtAa9CefzH5cneB1vt1JkPEhCLPPjxs6eKnxXMl4jO7CIXGhSUlR7LyeB2UDPetiPpVPo57X-wcA",
+            "width": 2930
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAArMaEqML_9E31cPeizePIXojswiHakCQOt00oqMkwtPjAjZZicxgzP-R_7opnt2dxuUkK-GLdq_274hSjhTAk2XVIZBApN4I8AmbfS4MaKiXzRTk_u59gsNL-HGpEuL-jEhDCHMjg55jI33qGj8haGC4xGhREysX1GsdhwvQBdNUouDjM2RCBJg",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAhKdygq5EjBxRyeHpr-dXyhbmw8TNe79iRDSxmf5ivfc0eZtfdF8WDaovbXkAHW3gukrvaCzzJ4rSfSmRg3sQmgLEj1ndly4LoOl5HOFvyjDYqftl0KniP7Dq-j67epHUEhDtL2nqa1C2DtYeMeT9XDkEGhTMOarpWMw8I0ODb1eNyX9CLJc9Xg",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAdwRImu4_7cTcYqyo8HAFI2sMLv6vMZYWjmKThOuhKV-2irTR3tly1XZYiYeWNwKPyqgwTPpyV01ECkJTGF-7OHhJMvQ2XRsSTvAxTXfaKtQk29PyDZT8lP7-ZfyW7PhZEhAWpJ4ff88ZPiLJYwQU3as8GhQKEvZl41TSat3tBjCQVvJ-yBT32A",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAA6-sVG4wtjtVCzrp71HozKeMsq5ZJYsMbodR-BYl2cYb3AfiGuMvuEZV_-I8T03zigiudVutgtjVDPluA5rOcmL_rYrAkunr6ldO5xbpGwPZElqrjoNEZqXBbc_jAuHESEhA7syFgej8h-8YxOyuQT_ipGhRjPhQXayshydupv_Fp36JLW_r_dw",
+            "width": 4160
+        },
+        {
+            "height": 2753,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAEH5aL-uuisuWjtOtBVZDylUisas1rjj-sfUKYo_3iHI0pdUnCeq-i0_6Xgj25p2b7_ZoNuffmAuiJ9q36x8TvGRRDrmaDVoMXuwIVYpvL5Mi_HsFe1lTRPYblluHcdoDEhDgcQaFOJqUrz4yrz8yRAwPGhRPZ9-s16BzO6RVpt6wWUF-4670Ug",
+            "width": 3784
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAkvN4TChKu8qkd14OeubGsHN8q6CggJXi1aE88dzSdBIs_QfgFj2hH0cUQAcUMJt8ccjrU1C79icg5JirJAeEj28kdE_Dz_1mbpWTdD88JlYUFj_rD5_YVwrLFezGqWtHEhBIrECZvMqLTzbzbN2nO4sTGhS2GhY8cR4_itZ09_nkJQOvC4b9Kg",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAMPQyukQIk0b_1TAvsSbvzpnVhVtk4Nd5n3rcGo_LEg9nISchDY5AQrcN5IY2Emi86sr5ABI_9UVwrwYajnTLV1cCjDhpRnXe5dnE6UKSG7fjCwErtxwalPZAtWev8nmMEhA29DWxdH16_nCKm370eOA0GhSQhwekL0DoOdisT5fXO6-_JRoC9A",
+            "width": 4160
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAVcLA_nLZVNxgM8far4HG3UGn0tqXrUuY4bmrrc4nzIKeLr3fsgyVI4051oIpCxXXlk8oeUgd0yf6M_1orYbMRQg3GhPh9BrQc-F23_tvujN5t18peEWWakb-53JnAKCiEhBO2TI09Ifgn81Lc1qrJ9g9GhQwS3f-VxIslx0v4M3m5kdJmywzvA",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJxwRxAfjL1IkR1VrD1y0EmJY",
+    "rating": 5,
+    "reference": "CmRSAAAADbeSFEnxgdzoiC37YqUmmpB281P9P6vj7d_bYJQLeuIlq7R3EPcSkWm20v_GJoYuIH1mXDg_sqpvs5kyvYKadCt3eCIYnkdmincF9HyX1hS_Xldg2TN8pk3z4ZH-OTtoEhDUrmuTp7kWnTDXaYg62Zu1GhTbLFL29OpHcvBEV1RJlsn-T2UH4g",
+    "reviews": [
+        {
+            "author_name": "Thomas Javiez",
+            "author_url": "https://www.google.com/maps/contrib/109879359735046037214/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xr9c0ptucow/AAAAAAAAAAI/AAAAAAAAAIc/LZRrKe8MS8I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It's a fun little shop. They have good deals sometimes on small clothing items, scarfs, hats, fedoras, bags, purses etc. They have interesting handmade crafts and necklaces. Fun to browse. Wish they would get newer craft items such as sculptures etc. more often. They always have new clothing accessories items though.",
+            "time": 1525207310
+        },
+        {
+            "author_name": "Darren Smith",
+            "author_url": "https://www.google.com/maps/contrib/112251864533094337441/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7MRmCVZpAsg/AAAAAAAAAAI/AAAAAAAAB8c/R06NmgKzwOQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Long time neighbourhood bohemian import shop for foreign leather accessories, silver jewelry, and all sorts of nic-nacs.",
+            "time": 1529006771
+        },
+        {
+            "author_name": "Patricia Krafczek",
+            "author_url": "https://www.google.com/maps/contrib/115577347683717684801/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-hiImDvf-wrA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0ZzT21UiKwyeQ8Y3NyPU28gJ9IuQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Love this store ...i love hats and i have several from here .. Great points and the silver jewlery ,earings in particular r awesone .They also have braided leather bracelets very reasonably priced . I recommend a visit ....if you love incence they have a huge selection ..Enjoy !!!",
+            "time": 1527037177
+        },
+        {
+            "author_name": "Rachel Di Martino",
+            "author_url": "https://www.google.com/maps/contrib/114122505070879698441/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-W2jhM9MoAYA/AAAAAAAAAAI/AAAAAAAAAjY/8qm_nW5Vpw8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This place has been here forever. And rightfully so. It has great silver jewelry, small bags, and artistic pieces for the home. We always marvel at the great prices for a place in the Beaches. ",
+            "time": 1477886652
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10851427897089153749",
+    "utc_offset": -240,
+    "vicinity": "1974 Queen Street East, Toronto"
+}

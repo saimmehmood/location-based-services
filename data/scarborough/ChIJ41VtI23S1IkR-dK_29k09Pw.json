@@ -1,0 +1,244 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B9",
+            "short_name": "M1R 4B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "85 Ellesmere Rd, Scarborough, ON M1R 4B9, Canada",
+    "formatted_phone_number": "(416) 640-0328",
+    "geometry": {
+        "location": {
+            "lat": 43.7573776,
+            "lng": -79.3118752
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75872658029149,
+                "lng": -79.3105262197085
+            },
+            "southwest": {
+                "lat": 43.7560286197085,
+                "lng": -79.31322418029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a4f6a5f4014f3d6658e14cdc8bb02a66259b265e",
+    "international_phone_number": "+1 416-640-0328",
+    "name": "Keys & Collectibles",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAb-xFNxAdDZ1jTFDfniwIMDC8g01sg46vuCBJq3p-qUv-UqprUZgx29w590ikayOpwtgfFvzyLZB4yIXNE8zvazOBQ2GimlkMQyQCOhuN0_JjJkB18KZ8W1naCZtZ7AUnEhCJ0ayUVRPhn-OyBOZZSbZ1GhTDcaYYBaCfloxn61lGzZLgi6lmPw",
+            "width": 5232
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAA6wHpmreJQjrnLsAZZQKBvrgbtsi3uyG-pagiEMRzTP91D5AO8QwOMV3GDN0w-daeGjiSY_Ofw5KKTpJeUtqgNDF3vMKVW_nTLSaqubvz1jMgd9y2ZiOtRYZpIHl9MvlNEhAvfybIW5Qsv5LX_rpYG9LHGhSk_qt8Uq2-hIAW6EPrY6wqksqoZA",
+            "width": 4896
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAGLKTI6c2hNF6YDMwTTZ3d-MnMsnUdee5WrcGMeTKwmD-a7cK7x7J3QVf31_fbeF9Mdjmk14I12tUXVL41o3eN1286agSzfgy3OWA2wcF1evepMS5OpzBA6vO0SfD9wV7EhDsUgOkhNSKgznqO22p6e2NGhR7yvq4QHb81B5ug_rdjAzSbFB8fQ",
+            "width": 4896
+        }
+    ],
+    "place_id": "ChIJ41VtI23S1IkR-dK_29k09Pw",
+    "rating": 2.3,
+    "reference": "CmRSAAAASBF_ZjqW_qDOC1L3NPABHGvH409kBH2VgXqiOEqfTJ0UhGi6koFd8Bi5lSB5Yxc-GjqYPpH_GjUrSORJADn6fgjoe_52vsU9nQatQa07FsPzWjJcPQSzzj_ZarWQwtx-EhDnhcqGiFIvg1d41bgTlgwaGhT7vVN-W107Cr_f9t3vKVgNKyfjSw",
+    "reviews": [
+        {
+            "author_name": "Haki Batra",
+            "author_url": "https://www.google.com/maps/contrib/115009823168100025569/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-b5kN67pVcro/AAAAAAAAAAI/AAAAAAAACUo/06ZSpR1lcLA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "He scratched my watch and overcharged me to remove links. Horrible experience - do not recommend.",
+            "time": 1523387403
+        },
+        {
+            "author_name": "Stephanie Ferguson",
+            "author_url": "https://www.google.com/maps/contrib/111093215711905642822/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KI60ABUsqPQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3asU2Mk1vNt1W1frpqDKUN9lkL_w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "Brought in an older Esquire watch for a new battery and was recommended a cleaning. My first time needing a watch cleaned so I said fine. I was told it would be $50 and take 10-14 days. After 2 weeks I called to see if the watch was ready. I was told it was just about to be \"sent out\". I first asked where was it supposed to go, and secondly what had been going on for the 2 weeks? Apparently it needed to go to Movado for the service and it would now be $70.00. I was never told why it sat in the store for 2 weeks. I was angry but said fine, whatever; I'd already invested 2 weeks there. I called another 10 days later to check on it and was told there was delays and it still wasn't ready. I called another 4 days after that and was told it was finished and I could pick it up the next night. I was frustrated and told the owner my watch had now been gone a month and I was promised 10-14 days, also that the price was $20 higher that I was originally told and that he should honour the first price he told me. He refused to comment on that.\n\nI called before arriving the next night (5 pm) and was told it actually hadn't been delivered but it would be FOR SURE delivered that night before 9 pm. This was a Friday night so I wasn't waiting around for them to call me. I ended up picking it up the following day, but it was a different guy at the counter who knew nothing of the hassle I'd had previously with the owner so he could not alter the price for me. Also the $70 charge was only if I paid cash, otherwise there would be tax on top of it.  I was never told this by the owner either.\n\nSooooo disappointed in the lack of communication (I always called them they never called me) and terrible customer service. Will never bring my watch there again or go to this shop for any other reason.",
+            "time": 1429817318
+        },
+        {
+            "author_name": "Jimmy Hendricks",
+            "author_url": "https://www.google.com/maps/contrib/101253113336370670642/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-05_c6GC2dzI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3WwfroEp3rcAyxJb1YH4Uv2Owyrg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Went to the store, very nice employees",
+            "time": 1497582543
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18227251702174569209",
+    "utc_offset": -240,
+    "vicinity": "85 Ellesmere Road, Scarborough",
+    "website": "http://keysandcollectibles.com/"
+}

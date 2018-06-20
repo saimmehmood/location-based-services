@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "1969",
+            "short_name": "1969",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H9",
+            "short_name": "M4L 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1969 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1969 Queen St E, Toronto, ON M4L 1H9, Canada",
+    "formatted_phone_number": "(416) 690-9900",
+    "geometry": {
+        "location": {
+            "lat": 43.6695943,
+            "lng": -79.3014347
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710032802915,
+                "lng": -79.3001108197085
+            },
+            "southwest": {
+                "lat": 43.6683053197085,
+                "lng": -79.3028087802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "881e93be992409c1a0a51a0daea9d883cf4bf91f",
+    "international_phone_number": "+1 416-690-9900",
+    "name": "Brick Street Bakery",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109128179703780508212/photos\">Christophe Friedli</a>"
+            ],
+            "photo_reference": "CmRaAAAAjf3GEgj7nVGUz920eNhlGdX6BiwaQNEchGvU9nzFCpztGrpyZt8AHehDkyDLgx8MzgpgBrnmM8US_1kv3voC3_O-0zKWjb-2oupyjAT5ilNPH9Tvp91iaGwWfF8H5BFAEhBFZH82kHZ69WEwOssM7Tc3GhTGwCK11ytrcFDeGyBsaBUYWRyV-A",
+            "width": 5333
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAANGXdkkoCa0VRNs7NgbGUJ5yYB4Po4-3daFOpSq0fmEDbwL1EwLKxbJHaXhJP-lQ-CdwACPSicSMvXDfMrkYMX3Uzf2_jvR8uiMFROm12JuvhCfncAhyNNzgrOUfG_97EEhBvxT4aJgaNx6bD7SafXqTcGhQsYUVlrJil13KukwpPz1C8BHNy1w",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAABtlLs6pEw28dtlig6XSlJIrBF8izJrGDnoSejvidNxweneX1kzPY77HkIUUarrYoXylE7l14C02KE5Mc6NRGfvE4ScLTeNSNus1sbjzls5cGugSGiNhv-wT1aUxHm8_eEhCqX5k-U3nHiy0AIExDdhLOGhSupQVCXIujcbdVNQ9r_kRVWGk0Mw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAA4npdyq1eAnDYQBsNANBXZ2SHEtrqjtqoLFRwi197g0hE3IfBP1xUuD4S8zbxIcffx2Xp5_KZVBnBYkRETJNe4oq7-g5RC6KKcpPkSkwFKmVv5oxQeSHKhpD31fM2KxEXEhDFAxdpzlOLlzowBwyJkhwQGhR2cELGmX5Rs1LT0GWJ0truyCShMA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAAyGcPmkNVTC8h28a4Rg9xz8msI5xnxlxEKkqF8LefarZDTeGPem4zXRdr4mSD39RwYcNE8PI4i8r_WjX6TaxzZUEi-rhfBqEWG9AOI2-lKjaHw_Ylv_BSo3hGDUFK-d9_EhBx0UZGNMSCWb12T0XwtUiBGhTyAhQDMP8XN4kNn2fablCR9BV4tA",
+            "width": 3024
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102758557943383490922/photos\">Jimmy Lu</a>"
+            ],
+            "photo_reference": "CmRaAAAAGep_fpdsFq3KLGeZnvtT-xHAndbzdUsQpuIO4C1hMZuTWut5sGrZ8UiaHmUF3L0OAZpxBQiN4qa3-En15FUDDv92LSf_g8pQN8Ql0ZaVzy9QMuGt_ZRYMYy0bV35bnMpEhD_4Eu0W3Y8v7yoqCilzDtZGhSPdOxShvALU2kiRki5uZEBybhMVA",
+            "width": 4160
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109128179703780508212/photos\">Christophe Friedli</a>"
+            ],
+            "photo_reference": "CmRaAAAAifdviy9lM15kM_nzL-kJ_qNqF-Y6LDkpFRLMQq_vB62_MHa8OKpvA4SksOCGWN2cx5rpQ1V5V_C53yBq89CrgS88AWrFvqYhJ9_dcyhqv7CWj_hTEk2ggQTmZR-X-x0VEhAtIYDdZeEtKt4FzpRyUbIeGhTmah9lVfH2w2kZWW9ygwGXEOmQJw",
+            "width": 5333
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227670540073636912/photos\">Diana Mancuso</a>"
+            ],
+            "photo_reference": "CmRaAAAA0QQd_G8wmIK7S5V2ZdLgAY26t4VHzdGNuTOCQygQuaupr8IKUtSQ3TzJNxW1KsGX_h2HnMncXEK5SmtrJL5eC8_eGXatRUJNM4qU0QYtrMqG6bnowhlTBz8Qm7hUvX9OEhDItN9dOX69yQAz8PX4kmUMGhRWS4DQW6ZJJxM1PceURtO7Y0H3Sg",
+            "width": 4032
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109128179703780508212/photos\">Christophe Friedli</a>"
+            ],
+            "photo_reference": "CmRaAAAAJUfROMKNSVFSN-cSDm6hYAuwYdUV4U6LxRIblTkpNh65LRqWwCTpl7zw5apzfQgJLBlvPawOwh-f18u3JWZJ7_7O4Q9wNhHhgstmw_4Ao5rIpUFwFamqtzNkklQDcNCvEhB7R8p7Amo1E10p9iQyexvFGhSPZhKYrw-LLuLUl6LUbkeuDNmSpw",
+            "width": 5333
+        },
+        {
+            "height": 2197,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106327816430110787418/photos\">amanda hamilton</a>"
+            ],
+            "photo_reference": "CmRaAAAACOLbKv4MrMsNiM_Z4hWwBA-e2oXH2gPhLX6vN8lRjOavCjW8OyPGHYHWXlNxnCMrnLtXbWUQ-ZFW_oqna8qom8K6O7e_juoAy-4u3dESi4yXPEdfrCgnQqZTDLeFQp47EhAySwXn4eoh4tMewNASYcKRGhRJVk7drA_CYFqvU1Oc4cUNHlKhgg",
+            "width": 1923
+        }
+    ],
+    "place_id": "ChIJ_TQXAvjL1IkR5sV8zaGvLu8",
+    "rating": 3.9,
+    "reference": "CmRSAAAAqJbr1MBp3qwdYH9EYpJfCtxdUxVQW3yDGUZj8j-PWjwB1Jw76G-os9IHB-tQgF_wCeClFqbpHqFXJGP56RLp0q_nsBKcZnVIZPGbhogtPwaQErJetmDDWJRlwbDIKTkQEhCYiyKdFkXwl5VZvU0Gqp1oGhSF9qiFXEu4f-gMUHYrLAvGpDiFqA",
+    "reviews": [
+        {
+            "author_name": "Wayne Roberts",
+            "author_url": "https://www.google.com/maps/contrib/111783478131877082576/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-PxfdILiH6xE/AAAAAAAAAAI/AAAAAAAAAdo/i-scFHMHIDs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Fortunately, our home celebrates European and Ukrainian Christmas, so we get to eat hearty two times within a month. And both times we ordered plum pudding from Brick Street Bakery. We made the shipped cream, which really added, so we'll take credit for that. But the plum pudding won raves from everybody, and we just ate in silence to savor it. A great example of great baking -- not only organic and good for you but delicious!!",
+            "time": 1515470851
+        },
+        {
+            "author_name": "Evan Scott",
+            "author_url": "https://www.google.com/maps/contrib/107437827044579900378/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-d7SpNHUm90s/AAAAAAAAAAI/AAAAAAAAAR0/BLZ-zbLZz-A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Went in for a tasty Boxing Day sandwich at 5:00 on a Friday. Kitchen closed. Store closes at 7. Enough said.",
+            "time": 1526074551
+        },
+        {
+            "author_name": "Zlatko Zahirovi\u0107",
+            "author_url": "https://www.google.com/maps/contrib/117537222566980568023/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6wzlYlThEI4/AAAAAAAAAAI/AAAAAAAABJw/4XrcqLPkE0k/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This is really a 4.5 restaurant but I will round up this one time because the platform is limited. Let me start by saying I've been coming to this location for more than 5 years on and off. Their sandwiches is what keeps me coming back - they're huge and great. There are also other breads, muffins and pastries but I cannot vouch for those. Don't bother with the tuna sandwich, it's like they took a can of tuna and put it between two pieces of bread. The corriander chicken is the best sandwich on the menu by far and probably the best selling. I came later in the day about an hour before closing and they told me that they were out of sandwiches. I asked politely if an exception can be made - and it was! The corriander chicken is awesome but not as good as I remember it. I remember a few years ago it had more chicken and spice - now raisins and maybe potatoes are in the sauce. The cookies are huge and are falling apart soft. Will come back.",
+            "time": 1519601684
+        },
+        {
+            "author_name": "Martin Magloire",
+            "author_url": "https://www.google.com/maps/contrib/102598750896202197477/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-U6X8VqSAB-c/AAAAAAAAAAI/AAAAAAAACXA/yUCe8gQv5hE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Love the fact that you can have a stroll along the boardwalk, head up to Brick Street for a nice Coronation Chicken sandwich, and then double-back along Queen. Makes for a wonderful stroll with some great food. The staff are always friendly, and you can even grab a coffee, espresso, or tea to go.",
+            "time": 1515297457
+        },
+        {
+            "author_name": "Dana S.",
+            "author_url": "https://www.google.com/maps/contrib/112884543730774532057/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WsyygefyxR4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Kdbkb7hirHdmCSC2iBfAnNVJoaA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A bit pricy, but worth it. Delicious sandwiches.",
+            "time": 1525931623
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17234905933465568742",
+    "utc_offset": -240,
+    "vicinity": "1969 Queen Street East, Toronto",
+    "website": "https://www.brickstreetbakery.com/"
+}

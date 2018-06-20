@@ -1,0 +1,228 @@
+{
+    "address_components": [
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 4R6",
+            "short_name": "M1P 4R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 Nantucket Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 4R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "170 Nantucket Blvd, Scarborough, ON M1P 4R6, Canada",
+    "formatted_phone_number": "(416) 751-3530",
+    "geometry": {
+        "location": {
+            "lat": 43.7576858,
+            "lng": -79.2754293
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590808802915,
+                "lng": -79.2738575197085
+            },
+            "southwest": {
+                "lat": 43.7563829197085,
+                "lng": -79.2765554802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "457baaa87d63dece0e9b447386ee60708c6f40f7",
+    "international_phone_number": "+1 416-751-3530",
+    "name": "Friendly Mechanic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJd9Z0KOzR1IkRYRHOG6JsxnM",
+    "rating": 4.4,
+    "reference": "CmRRAAAA9eM-YZcAm7kr5BwxP7l-r0Zfm8G25xA2lxHGEJA_ZHE5n8nKIHe4LhukQzJeqxKzCVFi5Gdaa-ezVW3Kgc11tUs8PfryHPQp07YeX9AB54imNhHygptBAXJLOxNPQNYyEhDzFRdXKZhQplsw3Mi0nVL8GhRF63B5g9J0c--A7mhzK9nEVh7DxQ",
+    "reviews": [
+        {
+            "author_name": "Jake Martin",
+            "author_url": "https://www.google.com/maps/contrib/106672819166864546728/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-aXku-L1eBsc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3F3W94_flUj0jSG14sz8Of7NH6yg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Recently bought a used pickup truck off kijiji and the seller used this mechanic to safety the vehicle. It was my first vehicle so I didn't think to get a pre-purchase inspection. Anyways, after I registered the truck I took it to my own mechanic who said it shouldn't have passed the inspection. I went to MTO who sent a rep down and verified that the passenger airbag and emergency brake weren't working, and also that there was a large hole the size of two fists in the driver side floor pan and the cradle for the radiator was too rusty to pass the safety as well. It would have been about $2500 in repairs so the MTO officer got the mechanic to reimburse me for what I paid for the truck and the seller towed it back the same day. It was unfortunate to encounter such a dishonest person but at least I learned a lot about vehicles!",
+            "time": 1524447303
+        },
+        {
+            "author_name": "S COBAN",
+            "author_url": "https://www.google.com/maps/contrib/103812064486947332449/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-yUjaFZ29-oo/AAAAAAAAAAI/AAAAAAAAALg/KNC_xPav36k/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Yes, service is always friendly. Thanks for your helpfull support",
+            "time": 1520389540
+        },
+        {
+            "author_name": "Alan Coleman",
+            "author_url": "https://www.google.com/maps/contrib/102086831500851446446/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-DBfV0mCXIIY/AAAAAAAAAAI/AAAAAAAAAFI/3HTypqwRHn8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Very friendly and honest mechanic. Will not try to rip you off like some places do. Provides expert service",
+            "time": 1511046190
+        },
+        {
+            "author_name": "Amerdgu bb Synergy curvy 11qqr88809 to Sankari",
+            "author_url": "https://www.google.com/maps/contrib/100820133958709067377/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ZVmudlN34ys/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0avQIDSTeSPACgNYLUWmdkINwvhQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "He knows what he is doing. And straight to the point.\n",
+            "time": 1503158747
+        },
+        {
+            "author_name": "Mokhtar Houssari",
+            "author_url": "https://www.google.com/maps/contrib/105468582959387973763/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-E09sAe3QamY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3g_gJsuxc6wBrDJIsS_C2nVysRMg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Very good and friendly service.",
+            "time": 1503158776
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8342474803257413985",
+    "utc_offset": -240,
+    "vicinity": "170 Nantucket Boulevard, Scarborough",
+    "website": "http://www.friendlymechanic.com/"
+}

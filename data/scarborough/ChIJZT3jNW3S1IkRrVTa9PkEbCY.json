@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "97",
+            "short_name": "97",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B7",
+            "short_name": "M1R 4B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">97 Ellesmere Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "97 Ellesmere Rd, Toronto, ON M1R 4B7, Canada",
+    "formatted_phone_number": "(416) 383-9597",
+    "geometry": {
+        "location": {
+            "lat": 43.757119,
+            "lng": -79.3121085
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75846798029149,
+                "lng": -79.31075951970848
+            },
+            "southwest": {
+                "lat": 43.7557700197085,
+                "lng": -79.3134574802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f7af036526c230a63ff197d3132d694fd52a0cf9",
+    "international_phone_number": "+1 416-383-9597",
+    "name": "Dollarama",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103389553660983124906/photos\">DaVibe</a>"
+            ],
+            "photo_reference": "CmRaAAAAQoC3_UQfGrAhsw_6awE90njSz50YORMPm3aBxQoojYXLSb6vpEfse5McWFBukbFVM3iceuluC1OAdKMLxna4-O7NO84dP5Gia1IU59crTuex2OocG_SbHzxz2IDtUBfvEhDkFqL2MWuDiwqpyGR2s0hGGhTQk6RdXT6MfszLtrV4RErBCzkpyg",
+            "width": 2268
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAdCL5z_3dXQCntJsdfJfTzie8eFkHK5slMHhIqBjnjBUzUhKTpznEybkkk6vGKQ386rJ2IVYB4G1gawuzRpcEOQ66OH0udPvxA8FrCBI9pANFm7mpEMyIEfdLNaiCU6ZNEhB0t_FkbwsyYAoWQAqpMSgyGhRCa2DQUtzaguY7vqdE1ywIQ4fcLQ",
+            "width": 4896
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103389553660983124906/photos\">DaVibe</a>"
+            ],
+            "photo_reference": "CmRaAAAAwdAeYQq0v6glnKnT5rKBV0J8LffWdbzbZkvVSaJjsJqwjQFfkHOCVI4b1GzccYVr-fIEZ24HuA3EuKl4RHUg0F6sDfZ4Tyz6Za7Q3wD4G-xegHz3ZDxzKRJn4SJmAyeyEhAAkQQi4gV0MT4a6nLyl4zJGhTkm5lYl-jxHBOmLQp_0EpLxITICw",
+            "width": 4032
+        },
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAwPRSP5bpShq2cIJI8xbWmwmmcaBjYMUZHFVZSRgb2WvuW1T6GPwnGxFDYpW63ALe9rWrYDvgljLRWsgxE488Rq_aatrWXPsQKfWdKFUZaCEZN9hfEJZaSbHKGHgSWRGLEhBzsb7hR5QICKRTrz0I1MITGhQEHXasq6JfALHuLRu8Zwi70fZ3aQ",
+            "width": 5232
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102901623374597425878/photos\">Ms Cherry Cola</a>"
+            ],
+            "photo_reference": "CmRaAAAAvfl1DRGEgFdBL7PNhtTXS0W-xvDuNvGMnruDDZgzcg0Vdt5DP-OkyjdVLRsA0bCsX4t9UaTQ18iUYMydhwzLszNoFLQ8CBmrYCfk-C0yljXFPKBz3Rg1eQtOdmfBf6DQEhBoLyfwfiCDW6DHDPmTRfzCGhQbLFN554upwhtVCsjToa5HYuc8oQ",
+            "width": 5312
+        },
+        {
+            "height": 1776,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117346301002487898865/photos\">Larissa Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAAAI9vt7ijkdTfp07rkvBABShrlrkcpCjfChhKdjwkt_SqFp1sQ0WLQNuoeX01QAk3ILK1JCNE8j86boBvGLDptapKnIqfbw76ANWvhHisktAr0evIjg1D1jk-7BqmdtEtEhCVJtLsoyqajiIiry3NP1mrGhRWCosc0fLC7f8JqXZSS0P8mWM87A",
+            "width": 1080
+        },
+        {
+            "height": 1776,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117346301002487898865/photos\">Larissa Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAAwYYKuZRnCDjTACR_dUm99mBkwt3ApGqnnYsVuG4K0yBARatIGS3qHmHUpKJOtdIAKg56nYFkX1n1yPamDQoAcODs_iFYaxiH_8z6ZtxoYNJHPJfZd7EVAqd1FNgwUsMSEhDV3iLijBVnyUnC3fWrzgUXGhTuH-_J_sKIvgclFO7Lypd3NHu2OQ",
+            "width": 1080
+        },
+        {
+            "height": 1776,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117346301002487898865/photos\">Larissa Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAAwwFQCEEyeuL-GAYjN7FvZSm7W9oQOq2xZIeOsKfiSTXYOQdNgXG1FEPfCHtogO3BhuJeimqrPmbuQvHuzBh3B5-mrcTTGs2oY5oVO_xSfjoNo9oBOn_YPOMcCHy2xWf1EhArBJ1iDWYU-BvEffshJY97GhSDBCUh2nxxcBJlSUlTtDuiedJRsQ",
+            "width": 1080
+        },
+        {
+            "height": 1776,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117346301002487898865/photos\">Larissa Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAA0PdIvIyVwWWAdmq3GRuv15x7Gv79Tbpj2FIFC3oMXTIdZjKf8hzdJWOCqNR-x4zuyzyj48SUmh7LKsL0w0TLzcMSNOGRSlv1nVqtrUXXFsm5DxKraXCY94WYZnyCKw_aEhBiOp49jEU5M9RFBZ9JCzubGhQOy35mi6pLJcxBijX1z3n9fo-n2A",
+            "width": 1080
+        },
+        {
+            "height": 1776,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117346301002487898865/photos\">Larissa Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAAk2jQDJ90IbZNS_roMoumL8tWwlzoz1LqdpkYOcvaLTWtBPgb3_nyod-UWRkzHSEhC9mBBDS30WFElyCWsaSwkOMAHaLQOss3z_Rxoda9V3_j2dU5eUPQUJaOOeCiLiYBEhApDL4zv_Z3I9KXML0dDj3tGhSkWKmDnYtu1Ew4EklkWSmyv2fMZA",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJZT3jNW3S1IkRrVTa9PkEbCY",
+    "rating": 3.7,
+    "reference": "CmRRAAAAWT6YLRwoQQiY6_FP9sXL9QSV0IAOl0UVKSQ4wBI0oKLVs7cUhBAa7J8bdoeD9KvUFYNmJ7D0nyV1a5sZp6Fxn0QOiZyFNvAjZ2pJJ-5e8fg3SlWtwtuE9koNxpfNrrOLEhD0CecxKQ0VMyWuUPzOWfyNGhQ6ObWeJ_xNfUxiU0LL3RoaKVHF5g",
+    "reviews": [
+        {
+            "author_name": "Rajib Mazhar Hasan",
+            "author_url": "https://www.google.com/maps/contrib/118094408697740306291/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VOwM-aB3shM/AAAAAAAAAAI/AAAAAAAAM4w/OL_nVkjm0L8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Good selection and well stocked. The staff is helpful and not rude.",
+            "time": 1528147694
+        },
+        {
+            "author_name": "Edwin Cook",
+            "author_url": "https://www.google.com/maps/contrib/108352528148737118536/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-AhOKG_UdxIU/AAAAAAAAAAI/AAAAAAAADiw/xEhfpn0YenI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This particular Dollarama saved my Christmas party. We needed 60 festive table cloths and no other dollarama store had that many...this one Did! Great selection of everything.",
+            "time": 1514226516
+        },
+        {
+            "author_name": "Ms Cherry Cola",
+            "author_url": "https://www.google.com/maps/contrib/102901623374597425878/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3EUJi2iwTpE/AAAAAAAAAAI/AAAAAAAAE1g/U9DWUTxpZPI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "BUYER BEWARE:\n\nAS OF Wednesday February 7th, 2018 large variety of brand name CHOCOLATE BARS DATED 2017 being sold at this location. The price is still $0.82 plus tax. \n\nI am in food business. I informed staff at the cashier today and the cashier shrugged her shoulders as if to say \"who cares.\" Well I care because chocolate should not be consumed after 3 weeks meanwhile it still on the shelf 3 months after the fact. This a no no. I will telephone Dollarama head office to take product off the shelf. I not trying to be the food police BUT come on this is not right and what happens is they generally put items back on the shelf so BUYER BEWARE.\n\nI am disappointed and will not shop here again. Listen up people there are most likely other goods past their best before date in this store.\n\nListen up people: If you purchased a stale chocolate bar at this location telephone the manufacturer (information is on the wrapper) and explain where and when you bought it. Hang on to your sales receipt as you may need it for verification. The manufacturer may send you a coupon for a free chocolate bar. Return it to Dollarama and complain. They should give you a complete refund and if they do not then telephone their head office or do a review here on google.\n\nBy the way staff at this location are all aware they are selling stale chocolate bars or in other words chocolate bars past the best before date (\"BBD\"). It important because you may get ill. Chocolate may have turned dull and white and some chocolate get worms. Don't mean to frighten you but this is a fact.\n\nThe BBD is on the back or side of the bar or underneath the flap on the back.",
+            "time": 1518055198
+        },
+        {
+            "author_name": "Franchesca Marcelle",
+            "author_url": "https://www.google.com/maps/contrib/105699128858340416218/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RlMDh3cET24/AAAAAAAAAAI/AAAAAAAAAJ8/uWZW-lZ51jM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "What can I say, it's dollarama. Only bad thing is everything is not really a dollar.",
+            "time": 1525001046
+        },
+        {
+            "author_name": "Maureen Crawford",
+            "author_url": "https://www.google.com/maps/contrib/102598598844019265810/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iDg4piy7wvQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1nVcWnxTV1LQA33aFWDC0NZUJaQw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "You gotta love this store.",
+            "time": 1527767772
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2768593342527329453",
+    "utc_offset": -240,
+    "vicinity": "97 Ellesmere Road, Toronto",
+    "website": "http://www.dollarama.com/store-locator/?utm_source=G&utm_medium=LPM&utm_campaign=Dollarama"
+}

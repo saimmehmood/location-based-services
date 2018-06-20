@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "95",
+            "short_name": "95",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B7",
+            "short_name": "M1R 4B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">95 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "95 Ellesmere Rd, Scarborough, ON M1R 4B7, Canada",
+    "formatted_phone_number": "(416) 444-5237",
+    "geometry": {
+        "location": {
+            "lat": 43.7583286,
+            "lng": -79.310689
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7599256802915,
+                "lng": -79.30945651970849
+            },
+            "southwest": {
+                "lat": 43.7572277197085,
+                "lng": -79.3121544802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "3784400c540c961279d1f7cabdb30aa966e49d60",
+    "international_phone_number": "+1 416-444-5237",
+    "name": "Staples",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116470632875297008528/photos\">Kevin O&#39;Brien</a>"
+            ],
+            "photo_reference": "CmRaAAAAVN106qrFsp4984ojo-GUK9r73G5z75zJw_qOtE-iCTCNQyz1qhJmoFIh17_nLyxYeGLtwFSrjj32tSiCskjxSQuKvRghkG5OATZr96O5Ma4-56kux6xAWZEI7bNHODBVEhCq3iwmaCQHgeGfnWsnaiLPGhSr0jzcfWeqE3THF47mAG_T5vFubA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116470632875297008528/photos\">Kevin O&#39;Brien</a>"
+            ],
+            "photo_reference": "CmRaAAAAVdsPGgfYMfZXGR86PS9L_fU-p2dYgSXwPGM5FQsxU_njpzDkzIOj6SbVpcMYx2dWg9b1uwtn4nEmBItqa8wv4tGY4tqK-LOf-eUjeU7M6HI2XhHMUsqlHdyqjn2fyo5OEhAOXT97oo9ATOQirhG780yEGhThFGiXAkQc7pfIVETLb1aRtBbyZQ",
+            "width": 4032
+        },
+        {
+            "height": 1518,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\">Chen Shaowei</a>"
+            ],
+            "photo_reference": "CmRaAAAAAShcmR1yRSnUjXG7V2AAOzuDJrNQHrXUtHjMlBLCO7xkGAVep2fMbLp_0nvrKMmReiZQoWKsdtb4PULUIE6yjb3nOlZtCrCtomE0ozsuHeKLCIb67kPEfkBaxQ9QOlvpEhCa-oYYeVqzZCrbs_ach36OGhQaP4XoPK4CRCvPYAVbOIcRnMnwBw",
+            "width": 2048
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110885735180679324008/photos\">Amarender Reddy</a>"
+            ],
+            "photo_reference": "CmRaAAAAkQSaal28ZWHYUQSGH_ltvW_Li_zdcK3H4qT_UB0x_qj3qV3q-DJwBmB95NYRF0TGqwITp1bnVF2UB5xNzsyY7l-8RTdcVoDfOosnRl-JtZNMm7YJ4PozGOs839tFI2K3EhAZxwANGrCjmJPF1cWNBOxmGhRX5cuRSXOcSxQGj6Am2OewQ2ZCgw",
+            "width": 4048
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109137682276732389975/photos\">Rakesh Menon</a>"
+            ],
+            "photo_reference": "CmRaAAAA-Uvy2K923RxPQovGDV_0GG6aFUEAVZGI-2qFRxnD-Ir6QjPlIncvXTYfjjGYgNWChjs3fxa4LQ30xIkUdk-JL-TD8ZIGuoxa1I0zdvSNfnGpTWw--lrVPqQYYoPISU5BEhDN6sRy_70tzQX--c5OHzbiGhSq6ounqCJNQUTH_yx3I60SjUeBvQ",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116470632875297008528/photos\">Kevin O&#39;Brien</a>"
+            ],
+            "photo_reference": "CmRaAAAARKQksyJeOwg7YkbQHj2otqvezOLtGJAz4WTPN54Mdqz33XvutEtrvx5r1S5CJpPoD1ywXrFB5Of7DF3MLgj1CMxH152PLTwGTOUIZVhqpI55w5eq-RlSplF4-awMp0ZiEhDSXaSxcSPv_TYmszOucfFcGhSFtdM1SVeUSFCj8dNsm2DBxbQ5Ig",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116470632875297008528/photos\">Kevin O&#39;Brien</a>"
+            ],
+            "photo_reference": "CmRaAAAAKALaUHNd9NphZwdguiWMLq61jMXejrJWOfmDDbqKhIIF_UikLusduJItvs1EWzYPR3LKwfqP8Pef0tYERdh3hpuNCeKrvn_AD0LIQLlRmjeV2kp0ae1pSm8LqB478056EhAJdkQ6lT9Z_TlZ-_wtPhCIGhQAqOBOYiEol7U2oK8ROHagBVdtRw",
+            "width": 4032
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116533651620597637966/photos\">Toms Zacharia</a>"
+            ],
+            "photo_reference": "CmRaAAAAjGLugG4ZdtTpjOIDj0EEGvw3wOraNuA4AepCkLsqKDhxwivgDTJbt5MAYm8TBrDHBrjJYwkU8RRgCfMZTDmDtH_z46RwtBqIH_C8byCJW-Ital0g_DTS5opTA2aQgsDrEhD4tGjiKL6Qlcx_n4sNFnRYGhQEXZRnrebjdUr4uUOVrYzvyg6MXg",
+            "width": 3264
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110885735180679324008/photos\">Amarender Reddy</a>"
+            ],
+            "photo_reference": "CmRaAAAAdoypg7WyNhuTdoCvzvd61okQVDEN1jGa9OE1FcyL0OQJk4OPWJ1at9BGXL58_A5mb47zzH1EY7k6u7zStZqvAGVu52AGxMbPF_ZnG-E56LJt10nq81iThtaKhxWkPVYAEhCllSfgUBIYxpcLUK8YXuiUGhQnJ4wZCf3P7mYlDuwB39nVd8QL7Q",
+            "width": 4048
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116533651620597637966/photos\">Toms Zacharia</a>"
+            ],
+            "photo_reference": "CmRaAAAAV7fo3iaLlZ7J442aMZIUbqIyM2gjTyLxq9BOAAX4ihN7MUX-QFSUkKweFu12nkyd7aR51sMxJvbGqvO0vIqWE0XeVkjyWiNvlI-KJvhR3orlAlQcwj-NwICrXuuVvK1fEhCCdRsY77lgq_xN7azG28upGhTSaZ3K5QWOLykXoQvbjawbzi7h5g",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJm01x3xLS1IkRUoRe0dlPM70",
+    "price_level": 2,
+    "rating": 3.2,
+    "reference": "CmRSAAAAj3qbk_21IzE1tkYR9vh6oq6oF7lkI-IDU1QJgfh0DkXID1eXHcio7io4iCkUJqeYKCgmrjV0p-aNDvlT89HeFVuIA9oK4QnZP6tREpvdslffzOt1Vex6qr4utd2AOjXVEhCZcUoPlgKDMsk88OEGUeOCGhQGdQcIAsIqHPVcknj0Tx-5ezNGug",
+    "reviews": [
+        {
+            "author_name": "Darren C",
+            "author_url": "https://www.google.com/maps/contrib/113688018873181740009/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JafWXsPvaRI/AAAAAAAAAAI/AAAAAAAADq4/brPGhdWMrl8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Clean open space. They now have a better organized check out line area now. Lots of free parking on site. Decent store hours too.",
+            "time": 1527986186
+        },
+        {
+            "author_name": "Gaurav Kulkarni",
+            "author_url": "https://www.google.com/maps/contrib/111423508188568117154/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-IL23oxonU7Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1LfSvGqmX2V0S7_FN6AwFfbogSdw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Used the print shop today. The associates there were very knowledgeable, and helpful. Could easily get my order processed, and answer any questions that I had.",
+            "time": 1528418186
+        },
+        {
+            "author_name": "Quality Content",
+            "author_url": "https://www.google.com/maps/contrib/111899542055516657821/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kI0khqmjtAQ/AAAAAAAAAAI/AAAAAAAAD34/TiHYrHVQnwc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Garbage rude store manager called me difficult for making polite objective comments. Warranty sales rip you off as the extended protection cannot be used until manufacturer warranty expires. Do not waste your money on their rip off warranties here at this location",
+            "time": 1524605600
+        },
+        {
+            "author_name": "Niroosan V",
+            "author_url": "https://www.google.com/maps/contrib/117372514759365151288/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-OHS9SMOoz5Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0M_H88H5ftjUl2T9jFwH6yFHUsbQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "service was quick and efficient, I got my binding done as promised and on time. Very pleased with this staples after going here for many years for my personal and business services.",
+            "time": 1526663463
+        },
+        {
+            "author_name": "psxbr60",
+            "author_url": "https://www.google.com/maps/contrib/100062326605858579807/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-p6-jTZozZ6s/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Bes2gPJ9IjQnL2_2eQFxjqJtCqA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "I searched the whole store & couldn't find what I was looking for. Absolutely no staff to help out. There was one cashier & another lady just rummaging through things at the other too in a different coloured shirt. I asked her & she just pointed towards the middle of the store & said if there are any of the supplies I'm looking for it'll be there. I couldn't even tell what she was talking about. She seemed like I was bothering & disturbing her with my question. \nWhat ever your version of customer service is, it hasn't reached these people yet. \nIf you're bothered about me asking a question of you, for which you're getting paid, then go find another job that you don't hate so much. \n\nHaving said that, I blame the owner/s for the lack of help & the fact they don't care about helping their customers. Almost like having the attitude of they're going to buy anyways. Why waste money on employees or training.",
+            "time": 1517424513
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "furniture_store",
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13633328293919753298",
+    "utc_offset": -240,
+    "vicinity": "95 Ellesmere Road, Scarborough",
+    "website": "https://stores.staples.ca/on/toronto/95-ellesmere-road"
+}

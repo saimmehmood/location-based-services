@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "93",
+            "short_name": "93",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Cairns Avenue",
+            "short_name": "Cairns Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L",
+            "short_name": "M4L",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">93 Cairns Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "93 Cairns Ave, Toronto, ON M4L, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6717322,
+            "lng": -79.3154836
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6731205802915,
+                "lng": -79.31418406970849
+            },
+            "southwest": {
+                "lat": 43.6704226197085,
+                "lng": -79.31688203029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "618106475e0daa7b26d64ac39e827a7f3b37c9bd",
+    "name": "Cairns Avenue Parkette",
+    "place_id": "ChIJNSQ3eXXM1IkRba0vxgHmyA4",
+    "reference": "CmRbAAAAsw3NwBI15oQYF2rvjxSBZ28Pf6H6H9vhO-GRPmnUKp5El06YHd70pUz-DOsJ0tcuTNYE4rBxJ1lmCHh9nlyjzjoPP-3ewmxtBdgsA2szMkVLvS8KK-Vz43cY4nWwL34XEhDBNrKREWgIvBRsHC4JfGYDGhSzepBB6QmuAnxFDi8uNl7X3ngCIw",
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?q=93+Cairns+Ave,+Toronto,+ON+M4L,+Canada&ftid=0x89d4cc7579372435:0xec8e601c62fad6d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

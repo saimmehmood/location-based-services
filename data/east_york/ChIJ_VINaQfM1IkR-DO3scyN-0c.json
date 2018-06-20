@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "2179",
+            "short_name": "2179",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2179 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2179 Queen St E, Toronto, ON M4E 1E5, Canada",
+    "formatted_phone_number": "(416) 698-5548",
+    "geometry": {
+        "location": {
+            "lat": 43.6704841,
+            "lng": -79.29747979999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6718791302915,
+                "lng": -79.29614981970849
+            },
+            "southwest": {
+                "lat": 43.6691811697085,
+                "lng": -79.2988477802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6571ec7da3b6fa31b5efb7ee618383f3dd9561f2",
+    "international_phone_number": "+1 416-698-5548",
+    "name": "Nutty Chocolatier",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116980033931779187507/photos\">brad matson</a>"
+            ],
+            "photo_reference": "CmRaAAAAQYcPxx5Isw6_QmZpGduxe3GoP29I5nIRyw19lSgtg0fd0LbXyfGOWS8nSCfoK3OQ7h1B-XmtvZ7c6KuFnq95JN0RYWwwNtpSfsrUewulhUUlBqqnSftMskYcJ9eyUe7bEhBZhvVHXceqYuIxmQUFRrB_GhSsP6Bm1HQG9WHZSJi2sUUxgZY-2g",
+            "width": 4608
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111876533756909495205/photos\">Phillip Chong</a>"
+            ],
+            "photo_reference": "CmRaAAAAQZsbTIPxFHglJ0gsIsunCX2Ly1wS11dVEmqBdoXlZmIf68Argik4wmuFAqUZV_yKEeR3KFXOEq-6XzpPOsX8u2FB5NiqLBh-iHLvXlDaAxzB2UN5iHhwoUoPyCc-TkIqEhDG9XwUMyczsAnAMJjcH43RGhS0GuBQ4r0o7ptYblzGrU84UVpqxA",
+            "width": 4032
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111397641224719226337/photos\">Tuco Salamanca</a>"
+            ],
+            "photo_reference": "CmRaAAAAK0TslXAvKaqwu_ToUbS7CaVudsoSMsVu_hJqWthg2mU2i5C27uZkIHxq4AaLySFv5sHeGiQG2hEg7R8unaT1jBsIro6AK74ai_4VwJU2nNbIXGPKC77D4FrCVBXeEr-oEhAaC1yWX8c7Bs8QOJIDI0T_GhT7z9P1Kgac_O4KlXO__aETa3z4Pw",
+            "width": 3264
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116980033931779187507/photos\">brad matson</a>"
+            ],
+            "photo_reference": "CmRaAAAA9MozuARCwrC-v3aR8yfq4lhVrjUUfEq5UOW8Xsu36erN0DsbjpvfjHVTD9FAdop3lba_z1XeFSDrd4GZfh_XOFSRjZA2SRvndIRBLOnmXVYDzllebtJsJ4xswL5g3jmQEhAxN6nmXeUooDVzx8GlPfWSGhRxuwNG-JtQG7tszKPTh7n0WKi7ow",
+            "width": 1536
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111876533756909495205/photos\">Phillip Chong</a>"
+            ],
+            "photo_reference": "CmRaAAAAV4y9BxqQdSBEjZGUjxQ90KMyn-FxlJaTxoqvTBo4txTmVRR1ZlDcJRyog54004AiG75hxmT7bpC-20tyIbt_8ThWauYtnUjkP5FspQlZXDDWf-Ur4N_csQJQ_LICxqnDEhBODNLkzetvdv1-GvXrA9ZCGhQZtI4hqsda-rGGswWQvzjfQ0vAgg",
+            "width": 4032
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116980033931779187507/photos\">brad matson</a>"
+            ],
+            "photo_reference": "CmRaAAAAyyiz-YQxglOI8OBfRUOYvjpDkTtgwTV7waVEIdCEgRfAUwKKuYugEm0vWeA2mvL-suRMgUnyPG3R9PRnqNqBe4LT1wr_Qw8Spaa2OtU9pjukzq1SOYksLBzWh0LyQ3pBEhDNs8xUEBCOv1EYd09tNnlUGhTAw6u7Fg8I-SQLxn0Sm0AE3Nq-pA",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111876533756909495205/photos\">Phillip Chong</a>"
+            ],
+            "photo_reference": "CmRaAAAABq7x-rIATMsALNs_kPPSd2KaDGsO-6mZFAnke70NPZGS5kkv929QbKmVaFJ3S09rHF7yaroNul3vnloGx9UB6Ez7mk5kSdfJvrLHKKmySKISjh29GFfCxhx8GwCitwFMEhA38aJZQ1AfYoGMOJE6V1ARGhSQ328OpVc7CIVH2V67RF4zRdHZ3A",
+            "width": 4032
+        },
+        {
+            "height": 2159,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109128179703780508212/photos\">Christophe Friedli</a>"
+            ],
+            "photo_reference": "CmRaAAAA2_peobrph0yO_u3EQeteLCw4U5lCoThlG9pL8oEedE9h2_pgxcmtQk3m_JubWDHbA9l-mo0FEaQdxQkXHNT3m0hJhC0vxJDtK2ps6hCL5326AbGdK6hxyW5TePhB2Y_7EhCNatfwhn_2NVcfvghpMZ9SGhQnvInfyySwX08Y8tgCRmTJX5Oq4A",
+            "width": 3385
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111876533756909495205/photos\">Phillip Chong</a>"
+            ],
+            "photo_reference": "CmRaAAAAmJGxo2zac6EaxGq9frZxQhBwNjOyCqIvVQjPr7iMWcFmcAILbh2we7fQLGcq4bu4IMmy3ysWsAeWxiIbLF9vPlqq4GK26vOml9DerSv4TK0Jn8AJchMqG7lQhgT0zcZTEhDXD-s6tn_66Y96CNH06Bd2GhRj1L-BGoH7Om9FHtjBfUw54DzvXg",
+            "width": 4032
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103239314891256510881/photos\">Derek E</a>"
+            ],
+            "photo_reference": "CmRaAAAA5aWgbfUV1Htdry4uAF7JH9dd2lRqx4qnL2063XamyxUKgMhpTAOD9Rh4KXGVgSzqgb_8_tPqOJd4jIdVN3fQVaVoyUk6mRgM2aLUHFINsHDtpnYJwtCfLLzamXz4miQ-EhAigwSfx1a4IHGKziWGO2mdGhTYjJO8-uOxGP0A87lvRPkcC2yl4Q",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJ_VINaQfM1IkR-DO3scyN-0c",
+    "price_level": 3,
+    "rating": 4.2,
+    "reference": "CmRRAAAAs4_U9AxxUShoZc9LZnjWOTQjs_DfOdIIpQ36d8xWUuoW2FO3xY5ooQMGTIQlfjjn_F4TQJObHcsQ20XC1ManWKBnXCACT_RAEiYaNEMQ8cLBA6OccwJ7qp9AVwrZ7SVqEhDg6n036XUQ8j1vpy6VF4m-GhTxJPg9-hoBRncdf1xF_r5eehCB0w",
+    "reviews": [
+        {
+            "author_name": "Enzo Marcello",
+            "author_url": "https://www.google.com/maps/contrib/103257665427314347349/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-owlc7fHgO14/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2xI77T1WWu4WGgBRxP33lYpd3NBQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Price can range from $1 to well over $100. There is a good mix of well-priced chocolate to very expensive truffles. Lots of UK chocolate, a great place to go if you're looking for different twists on 'American' favourites. For example, different shapes. sizes, and flavours of Kit Kat, Dairy Milk, etc.  There are 3 or 4 confectionary / chocolatier shops within a mile of this place but Nutty Chocolatier is by far the best. It is spacious, friendly, and has such a wide variety. Highly recommend",
+            "time": 1522500220
+        },
+        {
+            "author_name": "Hannah Dylan",
+            "author_url": "https://www.google.com/maps/contrib/113143306625842739579/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-bn2d2wKGJHM/AAAAAAAAAAI/AAAAAAAAOs8/uQ1GPuM8_-w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The owner is friendly and very helpful always asking if her customers need any help finding anything.",
+            "time": 1517024500
+        },
+        {
+            "author_name": "Sukhi Sidhu",
+            "author_url": "https://www.google.com/maps/contrib/113526595276800148687/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FIQ1AEOQfc0/AAAAAAAAAAI/AAAAAAAAAMU/HGhXh9Abw2M/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "This place has the best fudge in town!!! I have been looking for fudge for a while since I got my wife some from the states, but was disappointed because there are barely any shops in the GTA area that sell fudge. But this place has it. They have a variety of them and priced well. Whole bunch of chocolate and candies as well. Must see place!",
+            "time": 1511040007
+        },
+        {
+            "author_name": "Brian Joseph",
+            "author_url": "https://www.google.com/maps/contrib/109968128123150759568/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-74ygBC0Un40/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3QkFPZ4hHm1nEas9sLpeLalctgYQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Owner was incredibly rude to us and her staff and when my mom called her out on it she took 10 minutes to box our chocolates like a toddler.",
+            "time": 1524363842
+        },
+        {
+            "author_name": "Kateri [Kat] Levasseur",
+            "author_url": "https://www.google.com/maps/contrib/108312408854924087297/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-he-vHb7ulco/AAAAAAAAAAI/AAAAAAAAAmQ/GKnMdlLUsb8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "This PLACE IS A SCAM. DO NOT WASTE YOUR MONEY.. I couldn't believe that for a CHOCOLATE SHOP they had absolutely NO SWISS chocolate! They only sell extremely OVERPRICED pre packaged British stuff that you can get at a flea market for cheap.",
+            "time": 1513727840
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5186895306141676536",
+    "utc_offset": -240,
+    "vicinity": "2179 Queen Street East, Toronto",
+    "website": "http://www.thenuttychocolatier.com/"
+}

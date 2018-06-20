@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "2010",
+            "short_name": "2010",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2010 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2010 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(416) 698-6036",
+    "geometry": {
+        "location": {
+            "lat": 43.67027429999999,
+            "lng": -79.29945099999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67157273029149,
+                "lng": -79.2980811197085
+            },
+            "southwest": {
+                "lat": 43.66887476970849,
+                "lng": -79.3007790802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "eb3940f6ebe6ac40a5dfea1b90190a51423aa682",
+    "international_phone_number": "+1 416-698-6036",
+    "name": "DAVIDsTEA",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:30 PM",
+            "Tuesday: 9:00 AM \u2013 8:30 PM",
+            "Wednesday: 9:00 AM \u2013 8:30 PM",
+            "Thursday: 9:00 AM \u2013 8:30 PM",
+            "Friday: 9:00 AM \u2013 8:30 PM",
+            "Saturday: 9:00 AM \u2013 8:30 PM",
+            "Sunday: 9:00 AM \u2013 8:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104667352161060108611/photos\">DAVIDsTEA</a>"
+            ],
+            "photo_reference": "CmRaAAAA5zcUcwCRXhgNYwatGuHsjiP5If_e2rdoHFdL9pY2UT6QGZn-bOFMgZhIl3WUaRKRyR0NxKgGvgGT9-hhCv0jyypRodkt9XKmvrc7SVYtc9PA8Nt1wgLmc7Wg7OVUgYRzEhARooZJ9kb3Yj5uCAgN7JR0GhR5_1EIWmFDC3LnONEkmfJLPJNvbg",
+            "width": 2048
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104667352161060108611/photos\">DAVIDsTEA</a>"
+            ],
+            "photo_reference": "CmRaAAAA8-E_hIK-DIvq789TVHoIHJtVlsoeJFpkZCV03naCXDy5YdsvzQaAZcFfATHHGom_IfEpsz1eqPpAuCVNy5DSgBxNx9PE9hvLaJdj3ypVkdfQSJBFNhrFraPOfJ3Ma9rCEhABEz6ydz5Vgg-cR_J0HY9KGhTm6LOqXhDDG9MVsoSA3VqXbalsfA",
+            "width": 2048
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104667352161060108611/photos\">DAVIDsTEA</a>"
+            ],
+            "photo_reference": "CmRaAAAAWsFAjDGvcLFARDVbpPs4kVsyt9M4Hvx0VZcAWBvCMjGDW8z3VVRLhNyPm8TB-zUB5E_QByYmQ0ZomudKHbCGlIsgLt4tjqSHQ7WVJrZL2Wppsvj-aVeUYR4yB53RHe6pEhAGPnxq61vV7tqhmr5YE1SfGhSSoDuUcPLq7__4ugrQdAX2sSa1Bw",
+            "width": 2048
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAytTSbuO7U7I4-0eyTnf7PDPMnedLKr-urCtvnRMIFKZO1zHC244_zuBy8qMmYUSEjC2Efy4Jc-JIxXiF-NsXcI3tKxIaG_Y4ua-1vEltOjELQjQah3IvW9AKRe84Jt_zEhDn_dCYd_RR8gUmA93w2RpPGhTiEBuZh4mCGCnRYsg4lh8L50IORQ",
+            "width": 3872
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102221505060182486733/photos\">Sarah Papadopoulos</a>"
+            ],
+            "photo_reference": "CmRaAAAAIpi8-p8NeIKOE-dgnl1-DaZnKpEe8ENztPPr_V4z1FMa52t0K5VPY67Vv-c22EMWiEbPnAgF4pc9-7pGwVLmWQz9NnKip495k4fVfyzrOd0lFXhffuODfxQ1IQA-kfBPEhCTRPoS6IlhyWy6gbtAVgGPGhTXoEeWI6JddcXv-YYuW7riFF8Efg",
+            "width": 5312
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112490082734368689410/photos\">Joshua Booth</a>"
+            ],
+            "photo_reference": "CmRaAAAAhluuTxcIw-LPVwHC0Km-yACkggZUhthPpW8v9bSio6HDKvcYK7CkCSxG_wM6YXuVl1nPAhl98aYYeVOnaDj04A-a6gI_XRygj-74-eMX4LLsVQ_FPPjLrcy8nz5GMJcPEhB1qeGkITROU-cYau-D7RjrGhQ42sbTnU1CS8zk46DqXpJmyf-S_A",
+            "width": 3264
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101804167005932092471/photos\">Saleem Jessa</a>"
+            ],
+            "photo_reference": "CmRaAAAAIMC4oT13DOHpCb2SJ3ZVezqV3DjAh5MbeGkoeLVfRPTznOEN4K4vQFu-1zrPNTIvQlwt3cWcx_xbwaorT5du0vGiDGEGWL4svP6S_B3dNi96W-ZDb3E2QrthdRkAj1bDEhDQdE4NIyle6gmTkE3zWw7NGhTE7wiWXuBVURj_XBwdqIytvgxtZA",
+            "width": 3120
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104667352161060108611/photos\">DAVIDsTEA</a>"
+            ],
+            "photo_reference": "CmRaAAAAG9HGanHm9QGh0-z4JqWevjjMqoW8tNfEerp5hrh8-fQnux1Ct3LwbhkFDh7vljwi6T8_HMa-iLyWGTE2h_1Jei9TlqJQzatdpeMd2wjczuAvmvedfGBVX8q5ZhQe4YtxEhCUFN8O79fM5OHjhg1Js79-GhRfgTygKG9RGlgF1KO-3KcpavrmMw",
+            "width": 2048
+        },
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104667352161060108611/photos\">DAVIDsTEA</a>"
+            ],
+            "photo_reference": "CmRaAAAAM40VH2uZyzyXwEdgsS7o1yS9lmFI3Gdabdhs_cJ311_2CR9taEpqUg24dxoYgT8LWl8N1Ytm4vqTJJPPfFoVidZleWq1E3OMRDkc61_2csG139qqdV9AyBjbde0w58lyEhCotLe2B7SnM-NVFlokps88GhRBQy3eJgaketLHJSK5KCS94votUw",
+            "width": 270
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112490082734368689410/photos\">Joshua Booth</a>"
+            ],
+            "photo_reference": "CmRaAAAAGk5jBeA-iKeMms-ui0CVcouBt5J91z-bd-dVUe3ELBrlaF7cro-mgiCtRkFDaBXdixBTwIt5YKwplT5TlC6JhI7fav6dyl254r032wUxI56z7mhdNoGcbIOit1J6nB0gEhCqMP9UIu2FhENzJDy6NgnEGhSRoBbbq6fMQsONYTYrA44mr_FOEA",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJIT4OjwfM1IkRL5aYpst4atI",
+    "rating": 4.3,
+    "reference": "CmRSAAAAELa2Azsgk11kQ5m6MhtDmneIya6iZE_iEQEyNE_SnFNjqdV3pGz1-b8AXe75ehHC4mTuihmdTa1jCB7M_b64BWc-NdzBOKCDsR-2f0IMXEmGnrlNz8HFzOhQdvdl7bg4EhAW3fyIIWYZ11anI_tVR0CXGhRKWLX4a-1BgjURjzdjuXWDbdCnjg",
+    "reviews": [
+        {
+            "author_name": "Sharon Paz",
+            "author_url": "https://www.google.com/maps/contrib/112585136831513244036/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0itlS4-48NI/AAAAAAAAAAI/AAAAAAAAABo/1nzqRfWCM1c/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "The girl helping me decide on a drink did a great job assisting me. I wanted to narrow down my options and because she was so knowledgeable, I was able to decide easily. I think their teas are overpriced but I can overlook that is service is amazing. Unfortunately, there are 3 tables so space is limited.",
+            "time": 1522478106
+        },
+        {
+            "author_name": "Mamta Verma",
+            "author_url": "https://www.google.com/maps/contrib/102128724739331450819/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Miu9qvVjer4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3WC3NnTTRRU31KLhbpqIITfYrL5A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "The low rating is for the customer service of this location, the Teas are really good. I recently went to buy 100gms of one type of tea that i really like. While I was buying they gave me a scratch card and it revealed 20% discount. To which I told the person preparing my order to increase the order to 150gms of the same tea. She packed two separate bags of the same tea, one for 100gm and another for 50gm. After I paid I noticed that she applied discount on the 50gms tea. I asked about it and she told me that their system applies the discount to the lesser tea.  Since, i already paid i didn't bother to argue but its not acceptable as it was the same tea only. The associate even though knowing their system works like this still processed it as two separate teas. WHAT A POOR CUSTOMER SERVICE. To me it looks like she had no common sense and no desire of offering proper customer service.",
+            "time": 1521142824
+        },
+        {
+            "author_name": "karen ogier",
+            "author_url": "https://www.google.com/maps/contrib/113402903182167010970/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-xfijU94DFnc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2j36U8Iy79Mj-mrKGYXu0dowV9BA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Hello, my name is Karen and I have two sisters who love this store, as do I. They stop in everyday to try the two samples of the day then in the evening I get a full critique of their favorites. The staff is wonderful with them, on occasion handing out a free sample of tea. The girls are so excited to tell me, did I mention they are special needs. It is such a relief to know there is a safe place where they can go daily. \r\nWhen I come down to visit I have quite a list of things to buy and wish to say thank you to the wonderful staff for their patience and understanding with my sisters.\r\n Kudos to this exceptional store, which is the staff plus great product.  \r\n",
+            "time": 1492898909
+        },
+        {
+            "author_name": "Michael Muir",
+            "author_url": "https://www.google.com/maps/contrib/117480880636154475836/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-djhTyNDRUYI/AAAAAAAAAAI/AAAAAAAAFxQ/b5Z71ctmFZ0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The staff here are really helpful and know what they are talking about. I just go in and say I need decaf tea for before bedtime and it's typically the first can I smell I end up going with. Easy and efficient. Love this place! ",
+            "time": 1486504752
+        },
+        {
+            "author_name": "C Patron",
+            "author_url": "https://www.google.com/maps/contrib/116604264440154896026/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_C5ovjgy8Xs/AAAAAAAAAAI/AAAAAAAAFgg/xZvo-szI_JU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Such an inviting place. The staff do a great job of getting to know you and what you like. I have never had a bad experience here. I always go in just for a tea or latte, and leave with a pleasant feeling that someone genuinely was interested in how I was doing that day. \nIf you ever need a pick me up, swing by here and talk to the staff. They're just a good as the tea they steep!",
+            "time": 1455370233
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15162063911564908079",
+    "utc_offset": -240,
+    "vicinity": "2010 Queen Street East, Toronto",
+    "website": "http://www.davidstea.com/"
+}

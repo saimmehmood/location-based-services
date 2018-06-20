@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd #2</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd #2, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(647) 939-7342",
+    "geometry": {
+        "location": {
+            "lat": 43.75807160000001,
+            "lng": -79.27872119999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75947258029151,
+                "lng": -79.27711896970848
+            },
+            "southwest": {
+                "lat": 43.75677461970851,
+                "lng": -79.2798169302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a63df17eb27ad4bd495e8f2ed3a579aac812cfc3",
+    "international_phone_number": "+1 647-939-7342",
+    "name": "Radiance Dental Hygiene Clinic",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM \u2013 8:30 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00 AM \u2013 8:30 PM",
+            "Sunday: 10:00 AM \u2013 8:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2018,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAA2F9NWwxKJD7jSKd0iae-aJhZT1SguRJGwDyCmvsrp-zeuRVtFLaF6owGLrZLH9KFzKKGY8ShNBI2VfOcXmQJBWVLrlpqvh3bfM1RzdyRNGkolJfL2wzYjMg_Yug2KO9-EhCvujMCU5nTOgtabqPzhW0vGhThmLLA2KRnDeqVuhrL62b2sPmnHQ",
+            "width": 3000
+        },
+        {
+            "height": 2251,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ9Gruks9TY5-MGGI-_zjqTQgJmn43HxVbz9GJSFnuAco_TP1h6yyWlEj0j7WqZEY-iX-hzxUtFEhMpYm4WDA_M3wf-AxvddiOXbPnYp-PfLqkejPuOg66L7R44LRkow4EhA71tcGsG5qbLz2ghlAs4D0GhRd6vftaZvDuAGTR8dMBLtS8Ea5Dg",
+            "width": 3000
+        },
+        {
+            "height": 2469,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAyy8WqCdww4f6UsybI8ZeOa2FNgLO7WyqGcXHNgrGDz6eEVeKDu4KC3QGLtlWaYB8yYpKP8WRABL9gjP-zmqDniiuz8xCxF__MYzBdclSvwJ44ie2Ulow3xrnIyihN7NQEhChL3RMlP4qfj2wUttIScDKGhTADV5ulDs2xtRll5ebisAGpyNgew",
+            "width": 3000
+        },
+        {
+            "height": 1821,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAJdea6ZiGDuE_rnO3YdDK1I6zu2bbzhCCBVA_sn4UqP7sapN0YFRZ5ZA4R1c96s3US7CmeO_tU-AJujqkB0_3K89gIdRYsz473saFpOONEfvX0U4ooJX-v-Pc5BMTl7yvEhATNUFcqXeUfDswDfrEhnuaGhSIKDUUwZt----CZTKAku8-0Scpew",
+            "width": 3000
+        },
+        {
+            "height": 2034,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAAHc1wPflMEmkhJPNY7Kl94mJgtqqXkt-oOTEB44imqCC7QRK3BQLvHJdQLlw-Jeig3upKycUp8cgDkXJPqpaygu9snIPbdCjjsCpbZO6Wl_7Dwfg0flilIYw6fGfRD4REhDqJLT_6u5O3GAQzIbJJSjQGhRrBEpHNtK_tLXB7RWPWxhY01Y3Jg",
+            "width": 1525
+        },
+        {
+            "height": 2250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAArzRO9XIr4etGzMicyG_xd55972H2-A2_N1lAJnifY98XQFdBjMEIBL2yFylL8TbhKNSxPS6qFDXFf33V6oVojPnkcBu4Hq_9Gcrw5l6td3Gi5QAN14Dcwd0tge0nU6SQEhAz2pm80HRIUfHBCL0oGelJGhTdCy_5S245FeYeRrlKBauyC4GTPg",
+            "width": 3000
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAkm9bP-ZYVRPUKGrG1N-lNnubniMcSLvqyPSf8M5fekfdID1cLYHLIJOgiqtF0zxmaqNxFlg-MUyDAESwMlSUiwIJXtiugKVFEHUiZWy4nLHlFp-ebKtESqtG_Qr5iC5sEhDJug3xx8m7Wug3iBMH0yhZGhQwvuDi4FLlqdWp4nrETiZJ9cD-wQ",
+            "width": 2560
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAApj92J-h-nP_Vg56fEiiFnMFw-Sl0UpbBmZl7zYPTZo4cBhz949xd7Vq8PrtSawbNwhIwwoMkHK9eHa1tv8h7PajtNq5jLjdwE7ak7DYji82s0OKjjl9mTVTl8RQxP52DEhDWGaCJm4GUCEqky2-gm6KkGhRKoobJqmw4bFGMO9I3BBYxj6zwqg",
+            "width": 1600
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAALc0w43J2twkTglq2TIrJCrWe-tBLG_Ds_6PpQGw6Ux4bzGO5nZtJiEZVgQU-qfH6JtQObYYxh586YBixYDxBQMkBEAxHa2sfsL-EoEdBBMdC0W_QUZFJ7U-5J9y1QDIvEhBS65l1Wj_4kGU2F_Di3O8lGhT06D13QodsGbQUFV0I9-11okqo-w",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464904539685629355/photos\">Radiance Dental Hygiene Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAA05YUp2iq_QL0sfT1vsxGqb9WApCOEIF1Bn4PESdcYL18dTQ2IPe0tKaqqQyNSMuDzriq20jxE4IgyVGRto72HlCc8flM1E8ZqTB2WPgmjg1AIYU9iko7x3VLDQEJXi6rEhAdZPe2yeYL9WOzDUo51KtuGhQZ_MqVniqq5nso_08yCB74gkbMLQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJy_1sB-7R1IkRKtoqfRboXqA",
+    "rating": 5,
+    "reference": "CmRSAAAAvdQ537vQBIx94a9bqOtCz3yEg5lk8aDZ5rFiWZF7YMSLL-wyQmKGTvjGgUFbuhGjuQIBQMqWTMAl7t4_FDiAZfFhuO4nPVLVm0ebr3qzV7HhPuDPPTRkg2yKyo2SyR4yEhCVuLN_fNvCOqLfdBTmKI_MGhR0oJZDBN9IMci5mBldPi8g0HHj5Q",
+    "reviews": [
+        {
+            "author_name": "Melanie E",
+            "author_url": "https://www.google.com/maps/contrib/112326050578740850733/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-sLADy2WJRv4/AAAAAAAAAAI/AAAAAAAAAPY/Wkb_JZnDXkw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great place especially for those that don't love going to the dentist. It's a clean, professional environment and has a massage chair :) highly recommended",
+            "time": 1526643127
+        },
+        {
+            "author_name": "Loubna Belghiti Alaoui",
+            "author_url": "https://www.google.com/maps/contrib/114322837160097131764/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-V9YCw8hEMHg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0F1KXXIGVtVumTqO7CxXbiPi6gqA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Thanks to all the reviews above i was encouraged and i went today for my teeth cleaning.HE IS  A REAL PROFESIONAL KEEN TO GIVE HIS BEST TO PATIENTS.i was Totally happy with the results,very gentle,friendly and I am surely going back to his clinic every year.\nThank you Samer.",
+            "time": 1514069594
+        },
+        {
+            "author_name": "Shaaira Auckbaraullee",
+            "author_url": "https://www.google.com/maps/contrib/103229673856869326577/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8kWrLVZyRDQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1BmnF8a7OZ-DoJgihk-JujohoOaA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "I loved my experience at Radiance Dental. Samer is very friendly and patient and takes really good care of his clients. Excellent customer service! He really takes his time with his clients, making you feel comfortable and ensures you leave happy and with a smile. The place is very clean and modern. I would recommend this place to all my family and friends. Keep up the great work! :)",
+            "time": 1498056898
+        },
+        {
+            "author_name": "Black Titan",
+            "author_url": "https://www.google.com/maps/contrib/101335631459837792696/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-hMZd6sBHHiM/AAAAAAAAAAI/AAAAAAAAAKU/ciVzRtKnC80/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "The Clinic is very professional, accessible, relaxing, clean and modernized.I would recommend it to anyone who is serious their dental hygiene. The hygienist Samer is also very diligent, knowledgeable, friendly and welcoming.",
+            "time": 1513531973
+        },
+        {
+            "author_name": "Emad Fouani",
+            "author_url": "https://www.google.com/maps/contrib/103515504715461712620/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-7t89yGDFGog/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq36JGvDkCeA_-b823QwTm3HXzckRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I had an excellent experience today. From when I first came office is so clean and smells fresh. Had a cleaning and whitening. Samer was very professional and down to earth. What I loved most is he did not make me feel rushed. My cleaning and whitening was amazing. His hands are very light, never had a cleaning like that before. Highly recommend this for all my family and friends. A+",
+            "time": 1496894477
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11555928877166156330",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road #2, Scarborough",
+    "website": "http://www.rdhclinic.ca/"
+}

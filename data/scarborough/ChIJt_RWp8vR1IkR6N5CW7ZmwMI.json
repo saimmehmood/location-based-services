@@ -1,0 +1,253 @@
+{
+    "address_components": [
+        {
+            "long_name": "3050",
+            "short_name": "3050",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3050 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3050 Lawrence Ave E, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(416) 438-2911",
+    "geometry": {
+        "location": {
+            "lat": 43.7565097,
+            "lng": -79.2479463
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7571856,
+                "lng": -79.24630931970849
+            },
+            "southwest": {
+                "lat": 43.75448199999999,
+                "lng": -79.2490072802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+    "id": "66871ce1e47746ac4c11503ca3d82828d9751df7",
+    "international_phone_number": "+1 416-438-2911",
+    "name": "Scarborough General Hospital.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 3:00 PM",
+            "Saturday: 9:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112878226686136949541/photos\">Andrew McDonald</a>"
+            ],
+            "photo_reference": "CmRaAAAAQzRoQ8W2CSfEmI6eUmQodygqrRGjfKMKMonQIYeHFNg_LzJZejr3e688E1ArdELh9PhQN3yn7eRKSJctO5x0FTyPa_Zyy2GnhFvfM9ldcInZ63MdDWw6f9SWSRGl3CzkEhAhLCAJdv1qDEn02PHdUuZZGhRMc79oYrPv-ABWUyu3YKXaSUDyww",
+            "width": 2592
+        },
+        {
+            "height": 1949,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109226546114786633911/photos\">Tharayilethu Chethackal</a>"
+            ],
+            "photo_reference": "CmRaAAAAyi1gMB5EFGXBv7puxF_HqgNlWO7QfRbYRjxByZ2ao5Ni1ZgrEwGxOOUlK-2dVNwh_Jxf04igO6teZltTrTiTodd1H-O__BIEf2djXduruu_TVwDf7ePH2f7GRgKsDxj-EhBxMAhTHhia7LHQSjTjD6q8GhQKrNYqE_cViOpWNbTHyIeiq7lhOw",
+            "width": 3840
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112878226686136949541/photos\">Andrew McDonald</a>"
+            ],
+            "photo_reference": "CmRaAAAAGYzNVVs_x5LTxBeXow4po-s_EnM0VH3McCdbIiA-KSH3Ix4iPMunoB_9FiYv-MNnO5VhMAdMa37i-ZZmtCnhV9DYqsOxOqCM5Sp2CNNnMdfcps_gQT4NbVPH8F3XihcMEhCV_0ifUVn9bzJxFEvWDBSBGhSFnZxqQmesdSkiU-GpohLeD4-hKw",
+            "width": 1944
+        }
+    ],
+    "place_id": "ChIJt_RWp8vR1IkR6N5CW7ZmwMI",
+    "rating": 2.7,
+    "reference": "CmRSAAAA3DFk7CQPpLYQZaH_8TyeJHMOFcYtqDJ6bwSfntVE0sXVXpZflsBpOBLvIqKIG_-SQgVUglkrotGlc619gfrtD8mnZOPRCCy8f3kfWGtPIDmcZWaP-LUdQb4jPuD_LOG4EhArPl1GgSZ8dedqn_O7YItrGhRS9HiXBc4znxdTsC10WV5G3O7dFA",
+    "reviews": [
+        {
+            "author_name": "Taha Hayat",
+            "author_url": "https://www.google.com/maps/contrib/107259678795230765045/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-TCU7O6mGqVw/AAAAAAAAAAI/AAAAAAAAAG4/HA1-rBMZaM8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Had to go there for a emergency I was facing, Dr Sobberman, Dr Pulle and Nurse Ingrid were the nicest people I ever met.  Took me in right away when they noticed the amount of pain I was in and kept me in close watch, some of the nicest staff I have ever met.   I have nothing but good things to say about this Hospital and hope their kind acts of generosity don't go unnoticed, very nice staff.",
+            "time": 1528346124
+        },
+        {
+            "author_name": "Drew Louis",
+            "author_url": "https://www.google.com/maps/contrib/114262387375682838846/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-s7ULyFz7ZZo/AAAAAAAAAAI/AAAAAAAAAFM/4I7mYAsdvqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Don't ever get admitted into this hell of a hospital if you love your dear life. \nI swear, I don't know where to start rating this hospital having been to others such as Rouge Valley Centenary, Toronto Western (BestHospital), Toronto general, Mount Sinai.\n\nI've only been for almost 2 days and regret why I chose to be admitted here because\nA) Most of the Nurses here JUST DON'T care if you're dying. The wait time is enough for me to listen to my 45 minute playlist on Spotify. That is enough time my mind wonders how I should kill myself for choosing this hospital.\n\nB) The ward I was admitted to was dirty and unhygienic. I don't even know if the curtains hanging around my bed have been washed in the past 6 months. Also  I don't care if this hospital is old or not but definitely, when I was being moved to my ward and was looking at the walls, I felt like the walls. The walls defined ANCIENT. The I.V stand RUSTY.\n\nC) Don't get me started with the food being served. Not an attractive site to look at and why are they using METAL cutleries?\nWIFI is also TERRIBLE. Couldn't keep a consistent stream.\n\nDistance has always prevented me from travelling 27+KM to Western.\nThat's all I have to say for now. But YES, I ADVICE You all reading this to never get admitted here. In fact, don't even come here.\n\nI should've checked the reviews before making a decision to come here. My mistake",
+            "time": 1521329710
+        },
+        {
+            "author_name": "Tharshi G",
+            "author_url": "https://www.google.com/maps/contrib/105204496134348013642/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-D5_mmZb9w6w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1VkMqb7xmbmMIQ0cdgSpPCA77_fw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Be careful going to this Hospital! Make sure you know what your loved one is being prescribed and taking the right medication. They put my dads HEALTH CARD as DECEASED when they transfered him to rehab. When the Rehab sent him back to the hospital stating that he needs to be in the hospital due to numerous complications, this hospital refused to take him in emergency stating that his health card was INVALID when my dad was at this same hospital 3 days before being transfered to rehab by this same hospital. Me and my mother ran around to service Ontario to rectify the situation since my dad is a CANADIAN CITIZEN and i was born and raised in Toronto so there was no need for his health card to be INVALID. We then found out that the Scarborough General hospital statused by dad as DECEASED before sending him to REHAB when they shouldnt have sent him there in the first place with his condition. My dad died a few days after due to the neglience of the DOCTORS and NURSES at this hospital. I have numerous evidence showing how unprofessional this hospital is.  The nurses gave the wrong medications and are negligent in taking care of the patients as they are educated to. My dad died in this hospital, he went through a lot due to the Over dosages of medications. The doctors and nurses asked  my mother on numerous occasions what was wrong with my dad when they had reports they can review but refused to understand their patients and needs. Please take your loved one to a more professional hospital, this is one hospital i regret taking my dad to.",
+            "time": 1519763438
+        },
+        {
+            "author_name": "Julius L",
+            "author_url": "https://www.google.com/maps/contrib/114819412344868825149/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oxSq4V1lOk0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Kmm4rGjwztIyPvT1EmxZv5M3hlg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "All I can say is just go somewhere else. Long hours of waiting. Poor service and rude staffs.",
+            "time": 1527921713
+        },
+        {
+            "author_name": "RC J",
+            "author_url": "https://www.google.com/maps/contrib/117452959252168730737/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-SWDjXwi9pRw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0U7ruevDZMOVDZkG5SXXMBiVdjvA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "50-50 Impression. When I had a knee injury last 2015 and went to their emergency section, the doctor and two of the nurses were nice and accommodating...while the other two slacker and rude nurses left for their breaks and only made one of the nurse man the counter. One of them even took away the wheelchair from me and wanted me to walk it off despite the pain. Long story short, my left knee is still not strong now that it's 2017.\n\n6 months ago, my grandma was diagnosed with lung cancer due to old age. She was accommodated very well and they sent mostly the nice nurses to take care of her needs. She passed away but was taken care of properly.",
+            "time": 1512007416
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14033329372287655656",
+    "utc_offset": -240,
+    "vicinity": "3050 Lawrence Avenue East, Scarborough"
+}

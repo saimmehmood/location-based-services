@@ -1,0 +1,174 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Midwest Road",
+            "short_name": "Midwest Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3A9",
+            "short_name": "M1P 3A9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 Midwest Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3A9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "250 Midwest Rd, Scarborough, ON M1P 3A9, Canada",
+    "formatted_phone_number": "(647) 641-9898",
+    "geometry": {
+        "location": {
+            "lat": 43.758088,
+            "lng": -79.27070599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7595061802915,
+                "lng": -79.26909461970848
+            },
+            "southwest": {
+                "lat": 43.7568082197085,
+                "lng": -79.27179258029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "66b2e9f04a54a136cd8bfa4586a2dd6879069d56",
+    "international_phone_number": "+1 647-641-9898",
+    "name": "Midwest Recycling Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJb8CwzuvR1IkR5ACOjrDDhhY",
+    "reference": "CmRRAAAAKVymzuP7bacDAgLcFZgS_PM3iiHz_jr_DOvB4LhjQ0x582Z9GWVy-tSWPWE5AiygR5EFR7hE9i7cSHoU7UN0iAinvNPygTwuhteCTWRzyBNqCEkR_STYXktlktbk_ISVEhDfClet6DREwGNKiUEF26oiGhS2o5DjLlyP7eVZn5_FrxLssDagIg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1623199878786973924",
+    "utc_offset": -240,
+    "vicinity": "250 Midwest Road, Scarborough",
+    "website": "http://midwest-recycling-inc.business.site/"
+}

@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "2185",
+            "short_name": "2185",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2185 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2185 Queen St E, Toronto, ON M4E 1E5, Canada",
+    "formatted_phone_number": "(416) 849-0694",
+    "geometry": {
+        "location": {
+            "lat": 43.6704298,
+            "lng": -79.2973181
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6718657802915,
+                "lng": -79.29600496970848
+            },
+            "southwest": {
+                "lat": 43.6691678197085,
+                "lng": -79.2987029302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "970c4cf95925083bc6a58fbe8e1681effa0c4d4d",
+    "international_phone_number": "+1 416-849-0694",
+    "name": "BeachMac",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAASImzHF8dgwPxoNY07Y0McDhn7KhZqctMoMn96IauGgC4REnJzwSa6D_ROmlW1_o78oYz_HQGLQU6NkPSOnrrY4sEBnM229FYyV7bGefFzF0BgVIcO_4pOfHgK8QlAPhOEhAhibf7NL1BKXEnVemfbAzyGhRxF83vWZ-Gjk0RBpZgDHdT02O7_w",
+            "width": 2016
+        },
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAA_rbJrtkEQThNGbvTjca0vuE76gplEJIuCblT8ntOlRi9R2XZOnHm41ZYxFNN-EDN-_B7J6eesGFngMyGUL0fVLuIbBIHj_aMlvVxNWuMpBESgMR-QxBKDjwwxa5xVjMPEhAXFXy5q3zHXc6hOu3TwXJzGhR842Mvm7tUxDExFSq9rCQD9-Imrg",
+            "width": 2016
+        },
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAAuKclg8xK4nNVN7lG5hEhaDRT8v2SPoWeKyQMQI_F64xoRhC-bZb3td0va3RXmkW6426JZMKB0wQWrPTN9NuCmc3s0lMWSOI8RUB_O7CC9Mh-z6A-ZZ8kTe-jMeoVsgaUEhAleeyRtZ7-RYikuvQQEvlDGhRwixlh-bpzT1VJzOZaFr4Dzbpu5Q",
+            "width": 2016
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAAH51tne8PrsBKIHrMZdZu46IH9jIlgNAlcZbmJTSnrVywFhHCNiOtm_Z9l1GFREUukXCABB4gz0uRfnU2zRDi016g8PruAOzaiLQcpPiJm4WlfYzXY2Rh85UZpl5xK10XEhBygGZsDp49FUCTeMpXouJEGhRtNg6dTWQOCvVGeuzDwlR9OjlLaQ",
+            "width": 3264
+        },
+        {
+            "height": 918,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAA_XkqESidcQYY0RKlGwUmbCbK-K3S8z0JHzL-GmPzfIOk4X6bQ4jlPkaO0OeSltqJDVG4yWzgR05Ar9EHASaT0opSZO523QhOMRITb6NTQrhtVR5VoTMb3jwvu2eOcSknEhBGZUOD4c5SiCnl0Cs9qjE9GhSIItbto3QlB6WebBbysSR-EXpvxQ",
+            "width": 918
+        },
+        {
+            "height": 1632,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAAp_bKsOQYvHeD3ycPagu0NvTOeKo6ijovFSYVvlsvGRuoyNlhl21sIypbb7OCu25f72apHOMRQeBLTJa_3o2HxObkN3FZM9CV8PXiVClyNYc6zLWNfawwhcTAL1vYE4TZEhAOjQipf2axWAykEJkNhvyEGhSJY6_CWr_Re36OgDUrfyplaCPsqg",
+            "width": 1224
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAAQhfzHZFoyn7mLn4S-e0qYJYIAu-9Fw4EHHHBj1-XIkf_pkVCm9qOIBqcQb2vlMUsJR3uQ2F5NAYMl3FNjbJUwR-Fyr-ICUXGUhw5hIXBh8NM3F472pBp29Ej8QCKi7JYEhDgODf3XIHkS9PnhwotcuqdGhQ42gK9KAKgv4k3uPVe5tVCDbRizQ",
+            "width": 640
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAtZ_A3ySIY_e3LZIU-MAbh2CWgxtQ-O6zpZv-Wch749QOqdkYuLYR_Jq58WKFTJBdha47MunxGHe13S1zrc87DeZOW5b1gJmurqc3GT0e3CaG_0RIwG6Klf7C6_BRche2EhBZqKS_4xwCIYUoJf6bYqDdGhRDQothgdEwf0r6qFvmT-ybRbF8RQ",
+            "width": 3872
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAAfqaWfNlfIJI4CH-fy81EDMdijb2Hws3ZXxlp3I5tsmtdlIspuxj-Ijl0dQbbLl7oOEBYany5xfNeMB5y1IGxHJB-zQKTohbVCVssG6wzKWAi-Npf-oxO9WKlM4ah-PiuEhD-YnJyujM0a_NPb4H8IFK7GhTvvFXnBHq_-vRWjS2fP0O8_fp-5g",
+            "width": 6016
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104963998902586978273/photos\">BeachMac</a>"
+            ],
+            "photo_reference": "CmRaAAAA2GPfJxx50vvrLv8WFWCMpV-TmlqaEY4_H5Jh6FgwwRsSa37A2eZY0efBb3VbzeRUZS_o1LUNwQ9Ob1UV-qOQWdRZxv3Cz34flqHwoavydtrBuHrDu1-niMiZ8jBGaKJ9EhDHBAOmY8GJ_rERabmEz-w5GhQPKqpx5i4SDXBIltE7PZbFvcxmaw",
+            "width": 480
+        }
+    ],
+    "place_id": "ChIJLdvWdarO1IkRHOY-tEMGupE",
+    "rating": 3.7,
+    "reference": "CmRSAAAAtXZmzlGjlelQmol6BhXXXFCFe0uhoRJJi1iXZhUZnLUOZznnKnrOQPr5msuASNBl-v9IVDupIdLQinNXosZDGTkTP8U-dUWf1i6CmVE3OqcyIfMLrxLrUki898JKCCzZEhAEC3S8oVOwUMIwiXsD-377GhQWHHRJ7eGPNk2lAbYNXIQ_pnbA5g",
+    "reviews": [
+        {
+            "author_name": "R. Owens",
+            "author_url": "https://www.google.com/maps/contrib/105931661438386319063/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-eKozKi1h6Hk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq034_-K0BOFHQGH5dshXCQpbxWK8Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Over the years we have bought a few Macbooks at BeachMac and every time have found the folks there [I think it was Chris (?) this time] to be very competent and knowledgeable.  Instead of trying to 'up sell' they give you the info you need to make your own decisions, for which I am grateful.",
+            "time": 1525125426
+        },
+        {
+            "author_name": "Shadab Sayeed",
+            "author_url": "https://www.google.com/maps/contrib/109409696717142735327/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ayJ3F6ExSeI/AAAAAAAAAAI/AAAAAAAAEMQ/UlttxvSYkMQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent quick service given that the hours are short. Friendly and very knowledgeable staff. Highly recommend this over the 24/7 busy Apple stores.",
+            "time": 1525362691
+        },
+        {
+            "author_name": "Chris Stackaruk",
+            "author_url": "https://www.google.com/maps/contrib/102759876145213028223/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DH9CygkeDwQ/AAAAAAAAAAI/AAAAAAAAFYU/nTN-DE1aK5Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My wife went in for help and had great service. Very pleased.",
+            "time": 1526581371
+        },
+        {
+            "author_name": "Ryan S.",
+            "author_url": "https://www.google.com/maps/contrib/101593316652538286021/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Z0JDIZNygOY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1sVuyVcMYwi0GTAthbj5Jx5ipCLg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Wanted to charge $30 before they would even try to help on a brand new Apple product. Staff had to google pricing when asked about adding Apple Care warranty...and still got the pricing wrong. Stick to the corporate Apple locations and not re-sellers like these guys.",
+            "time": 1520460581
+        },
+        {
+            "author_name": "adams sound",
+            "author_url": "https://www.google.com/maps/contrib/102353556860381520564/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8KcjK8-0Xys/AAAAAAAAAAI/AAAAAAAAAEE/48274wDWDhg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Fixing up a macbook that had something drop on it. Broken key and hard drive was starting to act up.\n\nTold me I was going to get a replacement key and a new hard drive. The dude at the back desk was nice and made me feel good about the deal. The replacement key was my big concern as any monkey can replace a hard drive. Told me the new hard drive was going to be way faster (which I'm yet to notice any difference). Called the next day and told me to pick up the computer. \n\nNo key. Couldn't find the key. Told me to go downtown to the main apple store where I would likely have to pay for more service. They also said I wouldn't get any deal as the key installation was going to be free. Also, they gave me back the computer with dirt and smudge marks all over the thing. You'd think they would clean it up a little and make me feel good about the service. \n\nMy main beef here is the fact that they saw I was upset and did nothing to make me feel valued. They just kept asking me how I was going to pay and wanted me to sign off on the work right away. I know it is in the companies best interest to go above and beyond when dealing with this type of situation. The customer has more power than ever these days. I own six mac products and will never go here again, as well I will help steer folks away from this store as I just don't believe consumer service like that belongs anywhere in this difficult marketplace. \n\nHope that 300 bucks was worth a lost customer and hopefully lots more. Thanks Beach Mac for making me feel like I don't matter.",
+            "time": 1506706789
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10500712369024329244",
+    "utc_offset": -240,
+    "vicinity": "2185 Queen Street East, Toronto",
+    "website": "https://www.riverdalemac.com/"
+}

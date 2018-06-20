@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y7",
+            "short_name": "M4L 1Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4L 1Y7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67100099999999,
+            "lng": -79.32785
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67234998029149,
+                "lng": -79.32650101970849
+            },
+            "southwest": {
+                "lat": 43.66965201970849,
+                "lng": -79.32919898029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "689628a20b116a67a1ada65b07482d30a0f840fa",
+    "name": "Gerrard St East at Greenwood Ave",
+    "place_id": "ChIJTWRFEYfL1IkRkPh9qoOdyt8",
+    "reference": "CmRSAAAAqIdQbpgHS1115YkyJveLv89V6ks4UxQYK2yyPNdp88m-NINBHGuVwpWthHzRppYCj4lh2rRY4MvdgYj_Qn2aqV3j5M9N1kMn-s3rYQvI_ExGfFgx3GVid377eXXfGE9dEhBvsZytXu5w0evcJPbapYD8GhS2zC9uHbldT9TGOgRSjg_jGXAK2g",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16125874604580141200",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

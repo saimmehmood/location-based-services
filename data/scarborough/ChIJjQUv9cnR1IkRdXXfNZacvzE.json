@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Gatineau Hydro Corridor",
+            "short_name": "Gatineau Hydro Corridor",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 4C6",
+            "short_name": "M1P 4C6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Gatineau Hydro Corridor</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 4C6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Gatineau Hydro Corridor, Scarborough, ON M1P 4C6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75858849999999,
+            "lng": -79.25077519999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7599374802915,
+                "lng": -79.24942621970848
+            },
+            "southwest": {
+                "lat": 43.7572395197085,
+                "lng": -79.25212418029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5e8e1b93ed94a68842c63fde074d9edc74724e43",
+    "name": "Gatineau Hydro Corridor",
+    "place_id": "ChIJjQUv9cnR1IkRdXXfNZacvzE",
+    "reference": "CmRbAAAAWSNA93lf51OIRLjIejAqm0CFVF5qXW5HmpYV9SbyK3vVSF8_VF6LmmZ1rf5XvnddHwau51BD_WM5w78bC5JpcyWG9XfVnUosEH2k6YpnalqB5-_m0lURN30oQVsbGsGmEhBPPqippn3AEoLNVXHPQqzcGhSqblJ00er-ZOc4G9cY23zar1p_jw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Gatineau+Hydro+Corridor,+Scarborough,+ON+M1P+4C6,+Canada&ftid=0x89d4d1c9f52f058d:0x31bf9c9635df7575",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

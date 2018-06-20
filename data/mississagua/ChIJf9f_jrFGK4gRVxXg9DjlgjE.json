@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "1018-1000",
+            "short_name": "1018-1000",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Forestwood Drive",
+            "short_name": "Forestwood Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 1G8",
+            "short_name": "L5C 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1018-1000 Forestwood Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1018-1000 Forestwood Dr, Mississauga, ON L5C 1G8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5609775,
+            "lng": -79.6440789
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5623264802915,
+                "lng": -79.64272991970849
+            },
+            "southwest": {
+                "lat": 43.5596285197085,
+                "lng": -79.64542788029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b16832504dba50e6082d09e1ba05c9a36b5e88aa",
+    "name": "1018-1000 Forestwood Dr",
+    "place_id": "ChIJf9f_jrFGK4gRVxXg9DjlgjE",
+    "reference": "CmRbAAAAfVMavYOr9724UIs-b66qPYKWISl8X5I4yG4yB5u7oqPxv7QMWL5J153PLtFE8nhahCrbrfy3g7-gR_C-COOziHt1RHcfMDCx_SVaAaFJwzuABBZlWV7UvJtTP-9koD-hEhAJKlz7I-aRWeoi2Gbqleu5GhSbLU0nBmHh-sy9yMN-InhKleQqgg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1018-1000+Forestwood+Dr,+Mississauga,+ON+L5C+1G8,+Canada&ftid=0x882b46b18effd77f:0x3182e538f4e01557",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

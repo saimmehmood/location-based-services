@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "900",
+            "short_name": "900",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dundas Street West",
+            "short_name": "Dundas St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 3X4",
+            "short_name": "L5C 3X4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">900 Dundas St W</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 3X4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "900 Dundas St W, Mississauga, ON L5C 3X4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5612769,
+            "lng": -79.6383346
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56262588029149,
+                "lng": -79.6369856197085
+            },
+            "southwest": {
+                "lat": 43.55992791970849,
+                "lng": -79.6396835802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ad1bc7deb9493bd67e298e8f940d0ad9eceb5dd2",
+    "name": "900 Dundas St W",
+    "place_id": "ChIJeyMUfbpGK4gRYefSsKtJUAc",
+    "reference": "CmRbAAAANcTEkqdPFq_QnTBcznj7LIvUcmo0oElGdaUq1pPQkgwng9zi2RHtnA0JT1naHeXVUUxyAtqqbAF6l2R2vIGWXWaRxR94pS4RXGIPxqfllJBdlmYDYnktbCoawWcKmdKsEhDsf3RnjHAqybX0epJurVGhGhQWs-vNEimZBgenM2VxswXM3TJS-A",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=900+Dundas+St+W,+Mississauga,+ON+L5C+3X4,+Canada&ftid=0x882b46ba7d14237b:0x75049abb0d2e761",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

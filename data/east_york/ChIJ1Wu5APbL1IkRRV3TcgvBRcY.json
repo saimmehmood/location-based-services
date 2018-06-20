@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "110-92",
+            "short_name": "110-92",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dixon Avenue",
+            "short_name": "Dixon Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1N7",
+            "short_name": "M4L 1N7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">110-92 Dixon Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1N7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "110-92 Dixon Ave, Toronto, ON M4L 1N7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6703119,
+            "lng": -79.3070434
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716608802915,
+                "lng": -79.30569441970849
+            },
+            "southwest": {
+                "lat": 43.66896291970851,
+                "lng": -79.3083923802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ca18348fc079e29a5b99aeacc9e6741266c0614e",
+    "name": "110-92 Dixon Ave",
+    "place_id": "ChIJ1Wu5APbL1IkRRV3TcgvBRcY",
+    "reference": "CmRbAAAA1NYqyCdr41Gp5uFJZJDTF41T89FUrWzlx1Toccv28fG5cNZxTOIITEMIqZQFnOcFQkkoxEYpTQ8PHnCQlzt8XdKLefv_AY7jj43fQOuARLaInaQlOX1BBP-Sro_eqs4FEhDIRWABxRZtp78fsiERRqeYGhQCUTXESQVweyLPAptDhgTdcTD74w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=110-92+Dixon+Ave,+Toronto,+ON+M4L+1N7,+Canada&ftid=0x89d4cbf600b96bd5:0xc645c10b72d35d45",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

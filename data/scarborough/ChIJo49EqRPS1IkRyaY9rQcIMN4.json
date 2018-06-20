@@ -1,0 +1,185 @@
+{
+    "address_components": [
+        {
+            "long_name": "115",
+            "short_name": "115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4C3",
+            "short_name": "M1R 4C3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4C3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "115 Ellesmere Rd, Scarborough, ON M1R 4C3, Canada",
+    "formatted_phone_number": "(647) 497-9304",
+    "geometry": {
+        "location": {
+            "lat": 43.75881589999999,
+            "lng": -79.3096477
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7603062302915,
+                "lng": -79.3083650697085
+            },
+            "southwest": {
+                "lat": 43.7576082697085,
+                "lng": -79.3110630302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5bd3dc0e0216d94a1ca23eeb11f3cd7735d456e4",
+    "international_phone_number": "+1 647-497-9304",
+    "name": "U-Haul Neighborhood Dealer",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "place_id": "ChIJo49EqRPS1IkRyaY9rQcIMN4",
+    "price_level": 1,
+    "reference": "CmRSAAAA12nbX6UKG6w0gBzmTA6BxeaQdyHf5ZRLayISgua23326O5v_laYM70O-80YnFzi96JnONtFQhCEvDPF4HEWcuLlkibGoQ7LjPmbDDJL6Lp8WmEzikDhM4wk6B_rRJACnEhC4tpEsEDn4VHQqM3M_yHqiGhTbylNGvJPW8YrhuNlgWWfpItuA3Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16010305504366405321",
+    "utc_offset": -240,
+    "vicinity": "115 Ellesmere Road, Scarborough",
+    "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Scarborough-ON-M1R4C3/047767/"
+}

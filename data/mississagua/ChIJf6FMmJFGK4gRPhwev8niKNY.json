@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "567",
+            "short_name": "567",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Isabella Avenue",
+            "short_name": "Isabella Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cooksville",
+            "short_name": "Cooksville",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5B 2K4",
+            "short_name": "L5B 2K4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">567 Isabella Ave</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5B 2K4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "567 Isabella Ave, Mississauga, ON L5B 2K4, Canada",
+    "formatted_phone_number": "(289) 232-0233",
+    "geometry": {
+        "location": {
+            "lat": 43.5607395,
+            "lng": -79.618738
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56208893029149,
+                "lng": -79.61726836970848
+            },
+            "southwest": {
+                "lat": 43.5593909697085,
+                "lng": -79.61996633029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8999c7cb479f6a319433090dc36dfc868381b30f",
+    "international_phone_number": "+1 289-232-0233",
+    "name": "Promotions I",
+    "place_id": "ChIJf6FMmJFGK4gRPhwev8niKNY",
+    "reference": "CmRSAAAABgIJrHrxWku8qIPig9nMFisPZFUQ9ksVKYUikW_hBKYfHdrsefYCMrviY1kPok_6RrR_E_hzhgmr28RsIK0EJmxL1cDR7r6iTJLeILV2Mltig4uvOr4pwB1-PL3B5MG8EhDxi-kFiJmYQqcdV3bo4p9xGhSj3nW8ggJINozCAbjatuLoDuL1SA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15431833479307729982",
+    "utc_offset": -240,
+    "vicinity": "567 Isabella Avenue, Mississauga"
+}

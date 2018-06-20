@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "unit d",
+            "short_name": "unit d",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1261",
+            "short_name": "1261",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1261 Kennedy Rd unit d</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1261 Kennedy Rd unit d, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(416) 551-7334",
+    "geometry": {
+        "location": {
+            "lat": 43.7572305,
+            "lng": -79.27716319999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7585151302915,
+                "lng": -79.27613006970849
+            },
+            "southwest": {
+                "lat": 43.7558171697085,
+                "lng": -79.2788280302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4796c8790a680a1cf4627a8461cb4cba6ea4dcbf",
+    "international_phone_number": "+1 416-551-7334",
+    "name": "Tech Vision Electronics",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 10:30 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109257739258799268486/photos\">Peter Breeden</a>"
+            ],
+            "photo_reference": "CmRaAAAA_iB8SEbM4QE15DNGU_ldVGk95DQSDJmJV9SVvQ3wrm3GT9G8n7njzF6FOf2xYp2gxOe9hnQWvP7HhC3re_qR8ObbGoHk-c2FV2dkwFoLrbWQ5fv7JfSC3_bIfXDpJpaoEhCtlKOomtDOWRHlXdCqIpjWGhS0lBzNY2T-r2d4GlsRlesvlRgLyA",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAQGkaR1UH-Pcd7f2s9aO54U0RwW3xFlGuk-X9FZr8iCYA0R-HLeRErPZka7pQF91xYdXGjlgZCfZxRY9c3gqzpgMW-yjJhzCro07g_a2h5oaxUugJ29vIqLHdxFFN6zlNEhBdciIodp50laq48MakPk6DGhQew8GwXXJNrpyZeaxCA1bgyR2deg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ-tF7Msr9y7zEoRTB5KuartSWD_-RTT-R8AOhaAOXkI9877ZhZcrRkSxgve_S4dYSZ-cpL4xXMw0w8ums6sfzg9Nk8jlqsnwm-gIxoCIICroeb_V7Kg7G0KJPkctTVatEhAwm2W74g9TsK8LGFuVwjrJGhRbxPgW9OshV4qdYLgOc00ByzIaNg",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAA2J1s__uq6Ik6TytYCkZlMZo9MdiQhcRKWIoDwBd4CMdackq5k0fBIZjJni7V2e3wJXBaP5pQa8Fb6ZtPQN8JRyLSnLIvp77D79R9B17_UvjGAGqdax164AAor6CIIW1HEhCWZwlumJ1prhLsSc0t6DO8GhQwdjwFWmqfowUMTrYAZG8Sens8dg",
+            "width": 3024
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109257739258799268486/photos\">Peter Breeden</a>"
+            ],
+            "photo_reference": "CmRaAAAAFlg85E1zcULS_KPJ5OzppADeb2nc1W3lKny0D6DRiIx0gWLQohyvuhA8_rPPGUd8WCA4dCvCxCcI3DMMeeuSu1C0pfoVrb73jz2DjEmxp6ZBwlrUIuTE7-YvwbM_4iK_EhByfJPGt3FktxMb7MytThh0GhRaEE9P77fZpT1DP9tXXLKR4JA1yQ",
+            "width": 5312
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109257739258799268486/photos\">Peter Breeden</a>"
+            ],
+            "photo_reference": "CmRaAAAArUhauKKwc2lPzOmMq4YgUUy1H_S9s_Lhxagq9Dxgo82MX_f-8bXSK0HKPiTn8IC2v5Dt5bOsUB4LYdNWpdyLf377Wm7mcZ_QmXOolfxl7hw0YGdacjIPxc091Og1MlYTEhALHFQv3qgrB62tJJAUHhXoGhSt0DOVmQj8xOO5c0MvL-N8MIorzQ",
+            "width": 2988
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAOX7AsRbpT7W00U-BhXhUQotdxoV0rZpcg3225yVS3AAuCKxLu9eeV2PW4pI4OhdHtJ5KGvEk2SElnq5ZcKr-YTvV9OyAppsH0GCkozp5WhkXIAIDB78M9R9-etIdGknLEhBnjF17lMUsD-0KFMQRBB-gGhTO3YwCKcXasLRCdYhs4oNUQZtBeQ",
+            "width": 3024
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAjhnEPRmPX7PMWnq0K1CtblG7anYzXVRKaMWq2M2d_LHZ6IYCL5PIMJyEvLsvzu_pBN974j6B-Xnrd43sEpPLSVH88XzjCiBhwIjcXuXs2BQr8RIHi0flxgnDZwWcnUImEhBFPlGKL5HzNgflTvO9KeaxGhTXRaSmM0t68QmydblBq-E_f0JRlQ",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAzY5fpniCBvDT36hg0wMFBjPqbyvMeMUV_jCxgC40QZvDrHDwNl7foqHw8DGwffR8kSbRBCxJUSGkyFToLQPAay-DA5B6IzxDsQ2kXlRHJH9kOdeHKQu1J6eGrqd7oTDCEhBU80zaN_ZcV-9hEljCD1YbGhSEq8PGMarzKeFSYMncw5S9mzAaHA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118289711464480534567/photos\">Tech Vision Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAEvJ5OlkCv8OP3cQs85jbAB2lW87H6cfQuhb5gNiBZ6aWJMHo2Tiignq4YqPcwZf4PZPMiKKJtOTrIrFh9HO9lu3q_WYK7G8sosmOmNPSAWB9SJLooFiBuC5vaRwJOnDnEhB8T4iYmzviSPet2m5O3VIFGhTs6k6RPxarLU5JKbK1U6P47CGcgg",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJOef2ce7R1IkR5iOKP3-KgJU",
+    "rating": 4.5,
+    "reference": "CmRSAAAAqHtoUobt4zCLj1Lf78KLuhmoetyevJZPyXLcHeSSRmDCSim5boDo1KOIeo-DLgo3uPG7OwS4x3hsu-ZM6HPHIPjjpHe0DSeMMtJq2KkQ_XJne-Xe6G8FHvBTebOWXzZ-EhAg5n_1SlSVLcz3RyVzwosWGhSyMlTMfw6ALivRKDo0FmdgfYUAxQ",
+    "reviews": [
+        {
+            "author_name": "Kashif Malik",
+            "author_url": "https://www.google.com/maps/contrib/116750897101046345099/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-IYEShNg7jIQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0B_cXsV1hMdmYg4c9VcwsqEE6xFg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Excellent customer service with all the technical help!  \nThe staff actually knows about the products and are more then willing to help you with all your questions and inquires. They have a great selection of all kinds of electronics at great prices . I would highly recommend the store.",
+            "time": 1529105181
+        },
+        {
+            "author_name": "Prateek Thapar",
+            "author_url": "https://www.google.com/maps/contrib/106029470238636642555/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-fgtv1Ne8ZCc/AAAAAAAAAAI/AAAAAAAAAJ0/I92hZlMjojI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "When I entered the showroom it seemed like a mall of electronics. Huge variety and prices were very affordable. This place beats Most of the electronics store I\u2019ve been  so far.  The owner spent his personal time to ensure my needs are met. \nI highly recommend anyone  looking for computer and home electronics and hardware/ fixtures. Good job done.",
+            "time": 1522286592
+        },
+        {
+            "author_name": "saima kashif",
+            "author_url": "https://www.google.com/maps/contrib/113024945907955489766/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vNY-5uzGoMk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq32trbsnSZAfC6Dkv1821Al1EZw5Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "As the other people say\u201dAmazing Customer Service\u201d I went there to get an IPhone 6 yesterday and Sehrish was so helpful and amazing .She took care of everything in no time and setup my phone at no extra cost. Transfer all my data from my old phone. They have tons of different electronics items as well . Biggest store in the area. I highly recommend this store.",
+            "time": 1528514096
+        },
+        {
+            "author_name": "farah faisal",
+            "author_url": "https://www.google.com/maps/contrib/115127977425602631164/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wG_D4Xxp7qs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3b1237TgnpwuDP5Mu_VRdAX4f7jQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Best selection of TV wall Mounts . Huge selection and best prices in the Area. I can say they have every kind of TV mount what you think of. Highly recommended",
+            "time": 1528375315
+        },
+        {
+            "author_name": "Derek Ewen",
+            "author_url": "https://www.google.com/maps/contrib/109051796303105928642/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-7vi5LrxiTbk/AAAAAAAAAAI/AAAAAAAABRQ/81CzhqzJjJs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Thank you so much for the time and care (and your patience with me) of solving my power supply issue for my european standard, quite old, non brand name laptop.  After testing various unsuitable plugs, we arrived at the correct one.  Problem solved at a very reasonable price.  Thank you Mohammed for your excellent and courteous service.  Also, the wall to wall stocked electronics retail outlet has impressive inventory. .  Glad that you can also repair a cracked screen on my smart phone. See you soon! :)",
+            "time": 1525795208
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10772762587801723878",
+    "utc_offset": -240,
+    "vicinity": "1261 Kennedy Road unit d, Scarborough",
+    "website": "http://tech-vision-electronics.business.site/"
+}

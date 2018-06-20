@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "1965",
+            "short_name": "1965",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H9",
+            "short_name": "M4L 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1965 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1965 Queen St E, Toronto, ON M4L 1H9, Canada",
+    "formatted_phone_number": "(416) 601-9284",
+    "geometry": {
+        "location": {
+            "lat": 43.6695403,
+            "lng": -79.30152129999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6709653302915,
+                "lng": -79.3002041197085
+            },
+            "southwest": {
+                "lat": 43.6682673697085,
+                "lng": -79.3029020802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "275956fed3c2a7c7fefbf286b926ce7148332955",
+    "international_phone_number": "+1 416-601-9284",
+    "name": "Market Partners Comm & Design",
+    "place_id": "ChIJZXUMAvjL1IkRtZ_ktmXIDPM",
+    "reference": "CmRSAAAAK_q0TU0a1SU_4uqDKrAMIVsT37SlGJokAFzrwJu7xkn1iCh08O_I_sy3IW-sW30fA8H_K3wgN7f182wZu0wozeSw_1XmxoHLa5vubY-i-5vUnvDgTim8PAo2nxsefn8AEhDMCYJABnia8mzeWrW4CvJfGhRLBWJ4JGf-DkoSnJPhBQu7_Y5wrw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17513593390122704821",
+    "utc_offset": -240,
+    "vicinity": "1965 Queen Street East, Toronto"
+}

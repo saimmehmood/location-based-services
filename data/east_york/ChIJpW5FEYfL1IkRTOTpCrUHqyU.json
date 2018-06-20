@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y7",
+            "short_name": "M4L 1Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4L 1Y7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6710079,
+            "lng": -79.3278685
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6723568802915,
+                "lng": -79.32651951970848
+            },
+            "southwest": {
+                "lat": 43.6696589197085,
+                "lng": -79.3292174802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "06754d60ce227e07fb206a434fff92b1269c24af",
+    "name": "Gerrard St East at Greenwood Ave",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100268316603915671765/photos\">Sean Simpson</a>"
+            ],
+            "photo_reference": "CmRaAAAA6p5rne17GBG_K6O4S6Hs3AI3ca2sS5WZONIQTqVb8drCEwuYjs02dZEfBuqB4JC-65nBFDheXzgDxZCPFOTUapghlqK1LxvJ7DweDih0v0pSscE_vCJnULidjU3SpXWlEhAo8E8bsOe91JYl4-pfOWMyGhSKmTAuFuoE03HbaAAi-0J3d88IQA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJpW5FEYfL1IkRTOTpCrUHqyU",
+    "rating": 4,
+    "reference": "CmRRAAAAI373j6j01bixGRrBFZkM92-BoECpKJG0OdadnQ1Ryoo3Mw_WkcEn4Nk_x666uFxD5xDj4eeypqxDjzz6jxtQCC_iZQtQGruYnWwBGkVljrX2JyH6YR85zalHa2KAdXNVEhB4D2a2G6-7ndZ_Kpjg3-h7GhQt-61RMSojtJ29XaGVNljPl0ZDng",
+    "reviews": [
+        {
+            "author_name": "Sean Simpson",
+            "author_url": "https://www.google.com/maps/contrib/100268316603915671765/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bLfgZoHYCIk/AAAAAAAAAAI/AAAAAAAALLE/ipYMbk9VpRs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "This line seems to have relatively reliable  service, at least compared to other streetcar lines. Plus, if there is a delay in the service and depending on where ones final destination is, the shuttle for Greenwood subway is right across the street and you'll have plenty of notice that's it's coming. ",
+            "time": 1497227229
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2714271674574431308",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

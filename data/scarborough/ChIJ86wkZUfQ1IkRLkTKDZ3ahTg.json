@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "3401",
+            "short_name": "3401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B2",
+            "short_name": "M1H 1B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3401 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3401 Lawrence Ave E, Scarborough, ON M1H 1B2, Canada",
+    "formatted_phone_number": "(866) 246-7262",
+    "geometry": {
+        "location": {
+            "lat": 43.75749899999999,
+            "lng": -79.2303431
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7594015302915,
+                "lng": -79.2292186197085
+            },
+            "southwest": {
+                "lat": 43.7567035697085,
+                "lng": -79.23191658029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "7635fdea114463f0d05bfcf531c92211454117a6",
+    "international_phone_number": "+1 866-246-7262",
+    "name": "President's Choice Financial ATM",
+    "photos": [
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105544948828718597324/photos\">President&#39;s Choice Financial ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAAYRSOO55D_CsUh2WmwvakTT3F_LMElQXgIr9iI_G6yMeFSGVnYgB-9Z0QB-E7WnGXn7t-RoKplV-0cew6U3pzizRlJgpW3mhB4COwqvLtPGrNfcM2l_ii_NFE9IBq2U2wEhA6Tejk68mzhmi0VTFe2pLDGhRhNWV-USVFYbVcnz-hD3tlMkgB2w",
+            "width": 500
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105544948828718597324/photos\">President&#39;s Choice Financial ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAA9QDWWlgvQHtW5fpTQGopLCSk8yRCYC5Ii5kqHLoEcHX9_2DN8rr7b-qp0LZ2CFKFLET5Gz301hGcGXPcQDSefIbVb7JfTdGZQlcbBB4DKf3Jrmz96GL0PBNXivijew4AEhBkM8bsJbmtqxfDbctSN8_gGhR-qTyREoXH-9MnWSU71eyWKRyyFg",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJ86wkZUfQ1IkRLkTKDZ3ahTg",
+    "reference": "CmRRAAAA-yYcK46DJ0OXYts2lU52okCO8ewxNNCOdLyfRrQcfpGc_oa5HM2EDSo2ijeCui4yMogX2jCDcIClj5_V6jXBBUhXXZGHR-O-04AJ3j3Tnrl67djMxd4auwoL7wLWSdfNEhBH0ftM84vHhVj-_-jT0Ws1GhSW6L9AOW8CncfxI2cSGiukwitB6Q",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4072901806102561838",
+    "utc_offset": -240,
+    "vicinity": "3401 Lawrence Avenue East, Scarborough",
+    "website": "http://pcfinancial.ca/"
+}

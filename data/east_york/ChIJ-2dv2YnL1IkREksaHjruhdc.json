@@ -1,0 +1,296 @@
+{
+    "address_components": [
+        {
+            "long_name": "236",
+            "short_name": "236",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Rhodes Avenue",
+            "short_name": "Rhodes Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3A1",
+            "short_name": "M4L 3A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">236 Rhodes Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "236 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+    "formatted_phone_number": "(416) 778-7315",
+    "geometry": {
+        "location": {
+            "lat": 43.67155500000001,
+            "lng": -79.3202651
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6729367302915,
+                "lng": -79.3187574197085
+            },
+            "southwest": {
+                "lat": 43.6702387697085,
+                "lng": -79.32145538029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "520504ac93f9abf66066b05213f76c03618be491",
+    "international_phone_number": "+1 416-778-7315",
+    "name": "Hue Lam Temple",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113252203502486123088/photos\">minhchau tran</a>"
+            ],
+            "photo_reference": "CmRaAAAAOzUJsOzGUKPoPk39JCjfy7vD1-wvGy0QdW-l6Vcx3vlX_gBCPQ0L4JzVuOnTmkffHV8oVGSOEwxNImWOQ_YcwhG-8F5qSvobez1wS2FJ8_4PGdARQaC3ERC5xCs4rdGXEhBrHvR6bC_syIDDC2tRs2HNGhQjQATqX6Fm5giWANsEUEvwQCKIzQ",
+            "width": 6000
+        },
+        {
+            "height": 3348,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116147001807377387536/photos\">Chau Nguyen</a>"
+            ],
+            "photo_reference": "CmRZAAAAf3wAtvvBbjOgLomfDXcIoW7ago7uJjTWMTib6_wdd_v_XTNw9i7GDBvfeoRRfhjlAfHi_0w7GJzrkxvdLFfGcVGcb0U0WqaUubLsA6V_6ViIumS2G62Pm-xCwZhyajphEhDodBVlxdKPQ1EIjtghQepbGhRf2XDsNpbfhSFhtK6zWP1aD8QDvw",
+            "width": 5952
+        },
+        {
+            "height": 5952,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116147001807377387536/photos\">Chau Nguyen</a>"
+            ],
+            "photo_reference": "CmRZAAAA5i5Z7i2w6DHuUb3k3YcIRSpl2YFRxplvWQ58NNkOGc3764ycdhkHqqySf5Iq21OZMRVd2mQduRoxy6Nm8KIfMkZIG9J3Hv1ESXQVhjb-8Ky-LT4UU2FOppCOasjOhsEWEhDi5u_WObN3rL6P1bLlXfrXGhQ4GTi4iQjdx_PXNSMXDbiDsQJAQw",
+            "width": 3348
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113252203502486123088/photos\">minhchau tran</a>"
+            ],
+            "photo_reference": "CmRaAAAA9oifUYHRWHAO6kllaVYsqC8cB7aDei_CZI5KVVskpqV_9KOrMGzNk9FhHs7XgZnFRPg_bG6RVyn78nLWMWQ1JxONgadN6OxBH_xs-RLaxVocOnUJ7XnEj6Z62pv8ModVEhACdEGRf10UeQVoaJe8McudGhSEyIzJw_DtxUxxTYChr6PolIBqsQ",
+            "width": 6000
+        },
+        {
+            "height": 3348,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116147001807377387536/photos\">Chau Nguyen</a>"
+            ],
+            "photo_reference": "CmRZAAAA306fsNKKdrkb-I-On9vpU6KyIy5_NaaD1fLuGJnPnNNmUbk2ejWRnz744tVo2KZFSk70vOgMwGCYAzWjG54PTiDalDXkzMCkkL7Syso2xzu5hYIRRP_8ScUpLrAD3HpNEhA7Hq6N8JvqS9B3KDu2PA2pGhQkPX08BHj341QKYQazAoaakTjYZQ",
+            "width": 5952
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113252203502486123088/photos\">minhchau tran</a>"
+            ],
+            "photo_reference": "CmRaAAAABuXnA4idqY4QLkV2f9kwcOx2nlsLJvgPHGwf9Dm9vKrXjoMZx_XzQxxxlKVj8P_5zfYVlyEw-z0gr6C25lysdX48L_wELUBOhr0vpExnSD2LIYexYvywuDK-8q5eI10yEhAQ3LvnVM47EJye85ubZGCpGhS5EZCMvikQQwKx35qAsFHvqNZsCw",
+            "width": 6000
+        },
+        {
+            "height": 6000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113252203502486123088/photos\">minhchau tran</a>"
+            ],
+            "photo_reference": "CmRaAAAAO4SnLbJDvysw1dlDRQDRlFwJ5BlJcz15DjQqNac0b8dGMCM2cXfCN9jvfU1yngHRl-BriDIT0QuJrqNok35d4Ub76WPVzZUysEmYcWMbcY7E6cWKrhH9ZmzYyP1lb2AIEhA32IZBVPlH80XhPbkrXK0xGhS4MBQA27ZueoGZs-voAleZHlZ5mg",
+            "width": 4000
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113252203502486123088/photos\">minhchau tran</a>"
+            ],
+            "photo_reference": "CmRaAAAA1fe02LA-3cwaC4YCBYMozDLBFlyRP-li6hEueb7vZjs4CbH_yBGqbG8j-PloG19EDABm63Zlph4K-32Kax3yjN6An9QrjrM0o6cUNqkzxg5v6YhGzbzEBrybPD0KB_mQEhATIM6eD_e0h0y8MNT1ge7xGhQJIvME--0vnCwgsOxoTS6BNMtq0Q",
+            "width": 6000
+        },
+        {
+            "height": 5952,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116147001807377387536/photos\">Chau Nguyen</a>"
+            ],
+            "photo_reference": "CmRZAAAAsyp2gRI9YYTrtJCa8CMquSv-DwWdNP73oCX3R1DWop4FZg-IVNnexBlc7ZtqEffJBCC2WWE-lTkeywJfvvXlJjvf4LxK5RFqu5eel8waaS4_kgVWe7BEOS7ALi1i9Hp4EhDrbpYiYHMkNVBb4MFGkbf4GhSSS7acST_S8tw9YWHIcUhj3gD69A",
+            "width": 3348
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113252203502486123088/photos\">minhchau tran</a>"
+            ],
+            "photo_reference": "CmRaAAAAjAGdOEyLi41KVq8xpdHs05kA6oXS8UGijcy_aFUkfnaew1_TONJG_ab7yUrxdFOkVWAINXexuuieLfsGsgxgJV6TmJaeYmMa-YQz3ongEkBbB5BQAVcwfx_LU3yaRqE4EhCxcQz1cTl_5RdVSUC0mBlxGhTOMR9xQaC7CJP6NH7by1DDcn_AfA",
+            "width": 6000
+        }
+    ],
+    "place_id": "ChIJ-2dv2YnL1IkREksaHjruhdc",
+    "rating": 5,
+    "reference": "CmRSAAAANWEAoy8eV-MKnOJ24nvxFn7O8ZEfxzKN31MxCcz6PVuCrr_Muwrq1kHVFC5-P5i8fcr-w892afktkRUevfrZKQCtzi_pTJ_obc2wwcvsEN5jRufHmDRUPrLftsOP5p_wEhD3ZyNdSLLa3gLnkflc_Ij2GhQpzFnxR78x_YrhKWZx-wYFF0wGKw",
+    "reviews": [
+        {
+            "author_name": "Yeiz The",
+            "author_url": "https://www.google.com/maps/contrib/116410979608382837083/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5Fub0dX54bs/AAAAAAAAAAI/AAAAAAAACrI/969nO7_aySU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "",
+            "time": 1527338932
+        },
+        {
+            "author_name": "minhchau tran",
+            "author_url": "https://www.google.com/maps/contrib/113252203502486123088/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yBnrJ1N7tzY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3bSfdRM1VI4WOTPszTkqHz2Xa0WQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1525718037
+        },
+        {
+            "author_name": "Quan Duong",
+            "author_url": "https://www.google.com/maps/contrib/118357676501473104565/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FbAM5ifwA5E/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq27EJlX-kfR05Cj4THnrzmuEAhfhg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1523021526
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15530080823437576978",
+    "utc_offset": -240,
+    "vicinity": "236 Rhodes Avenue, Toronto"
+}

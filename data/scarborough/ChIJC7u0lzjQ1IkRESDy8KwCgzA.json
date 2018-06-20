@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "3453",
+            "short_name": "3453",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B2",
+            "short_name": "M1H 1B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3453 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3453 Lawrence Ave E, Scarborough, ON M1H 1B2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7572735,
+            "lng": -79.2297141
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75943110000001,
+                "lng": -79.2286531697085
+            },
+            "southwest": {
+                "lat": 43.7565543,
+                "lng": -79.2313511302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "019a8b9a17cd637edd873ce6a516803449963ecc",
+    "name": "Cedabrae Hair Fashion",
+    "place_id": "ChIJC7u0lzjQ1IkRESDy8KwCgzA",
+    "reference": "CmRRAAAAheCH6wYjxmk7jRA5TECbsAu3VaI_w0SeB3WfpEdrWoPnfwp0OifsZnxlAlxVnzT63uIlmSfm3S6pKh0fyW39Ioo4f32rFOwB9fGNbtRY_GH7rqUkU5SVboubcupzOugcEhBAE7bCHxE5X3Rf8jE3oQ5SGhSHLV97X_vzCicSysA94-1KnDc6iQ",
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3495640677569667089",
+    "utc_offset": -240,
+    "vicinity": "3453 Lawrence Avenue East, Scarborough"
+}

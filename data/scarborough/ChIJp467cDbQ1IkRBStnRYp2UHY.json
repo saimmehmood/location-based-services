@@ -1,0 +1,279 @@
+{
+    "address_components": [
+        {
+            "long_name": "3250",
+            "short_name": "3250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A4",
+            "short_name": "M1H 1A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3250 Lawrence Ave E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3250 Lawrence Ave E, Toronto, ON M1H 1A4, Canada",
+    "formatted_phone_number": "(416) 509-5050",
+    "geometry": {
+        "location": {
+            "lat": 43.75751199999999,
+            "lng": -79.2390072
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75859188029149,
+                "lng": -79.2375455197085
+            },
+            "southwest": {
+                "lat": 43.75589391970849,
+                "lng": -79.24024348029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bd8a1c8bf743f54eb353aae16ba6f7c3dd96a171",
+    "international_phone_number": "+1 416-509-5050",
+    "name": "SMART TELECOM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105310158531250569230/photos\">Shan Saravanapavan</a>"
+            ],
+            "photo_reference": "CmRaAAAARIUQ2sXxb2QTTACppzDxXVjbA0JQ1Bx9P8E34swdWYIZxafbZc0MR87vG1jS5gt27V8m5ZRmw8k274gwtMHJkvEoPxL34lF8FiQF-6szsp90_qvuPgjzycVXwVnaoXRiEhC7UvXH6teeGRhG9KU6jXcNGhSPzTf8i7LjosEaWFlck5osiLn2LQ",
+            "width": 4160
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108536321050892267654/photos\">SMART TELECOM</a>"
+            ],
+            "photo_reference": "CmRaAAAAvZEPYunmlYyYaM-nltvEoByRvv42c9UzjP9sESp21sQDT17j9EC1N5nv3GdMy4r8x-StUaUUZkdBjGvuw8zSWI7f_EI1AnI8XPZ0RHRSmz8KVJuUm32HdRKnuL8T_s8REhApNZTeCLwOyj-rdDstkLDZGhSrJVDXW8_SIspRtJCxBA_1jl6cWw",
+            "width": 500
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105310158531250569230/photos\">Shan Saravanapavan</a>"
+            ],
+            "photo_reference": "CmRaAAAArRXni5cFX2rZxzLoz40tPfm4WKw8RxiUVRgwt4DyGMM2B79aJTmK7cyoeYRYh-l9lPTrRthUZ9bd-aNDhE5GIxmdoND89igZGBWubwQpW-eQy4BRQIoLu3xI1ffSMvg6EhB2en9SX0FOOew1iW8VEr_hGhSTotR871BWzHAL4JIFUAyL0EhMNg",
+            "width": 3120
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108536321050892267654/photos\">SMART TELECOM</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ6KQw1-sIwBb6CCUkyxwryVAcY66I1xzepNA1vtWVvB8OxrslPtyDNIYyQ1sdj8IaTNTSYFxAB4eHbRH1Sr1M55r_aPAEjjDJUGQ8JhUXQogsYsrb-CyAQZc5ESfssPREhAFD09RD5C7mXXms54HEXdQGhQB9J5k5E3Br7OQxgWjjD2BTgDMmA",
+            "width": 800
+        },
+        {
+            "height": 486,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108536321050892267654/photos\">SMART TELECOM</a>"
+            ],
+            "photo_reference": "CmRaAAAA3nbsFE18HfgqFBg3DvFWfUcDwXm4yaraa7SxHniGhVeuDL4q1m5CJvVoEtfi88iZkxAPJoSka56hHlC2n3dLFjBCwR0Vn_SPQJFZ1mlsRObvob9KPd4LDU7FUPOs7JP6EhA5uUoi6zeudT68ag67adIQGhTi0mmYpLJLkHbpDtlc-GZfwngUOg",
+            "width": 864
+        }
+    ],
+    "place_id": "ChIJp467cDbQ1IkRBStnRYp2UHY",
+    "rating": 3.8,
+    "reference": "CmRRAAAA9DMx8--gRh9FjP1apsoIqaRnBuB8bY7-QB8LUyK9LuzAwXDfaer-Oa6FzQZ32d2f2sjbhsSC4AOBYeRtqAkFggQy5_1JiCrZfJrkNJiQe96T6Q5AjngjetZp1yvmsTDFEhCWY6LT_pzdPl7IbV3w2MsgGhTxoXTfqPvAG6wW-E8pt2-0TkFo5g",
+    "reviews": [
+        {
+            "author_name": "Mark Anthony-Sharma",
+            "author_url": "https://www.google.com/maps/contrib/100824117837674475252/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-SPOS4dsWYmI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3KD019aWTMyl52fsVhMockykFWCg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Really enjoying my home phone services with Smart Telecom! The line is super clear and I have saved over $300 every year by switching over to Smart Telecom.",
+            "time": 1512599420
+        },
+        {
+            "author_name": "Pablo Sanchez",
+            "author_url": "https://www.google.com/maps/contrib/100471874192835529224/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oLmteUV8Cx8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2-wm_GlP35A26Ovcj73LQzs2TjRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I saved $450 on internet services just last year by switching over to Smart Telecom's internet. I recommend Smart Telecom.",
+            "time": 1512603819
+        },
+        {
+            "author_name": "Amanda Di Silva - Hurley",
+            "author_url": "https://www.google.com/maps/contrib/100891640949108268949/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PYoX0j2funQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2ZED1qDt--wo3SQSiMR1o3XN_cfg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I have been with Smart Telecom for 3 months now and I love it! I was paying from $80-$100/month for just internet services with my previous provider. Despite being with them for 5 years, I was never offered any promotions or deals unless I called in. I was sick and tired of waiting on the phone for 30-45 minutes just to get transferred between multiple departments. My colleague referred Smart Telecom as an alternative. I made the switch pretty simple. There wasn't a day where my services went down during the transition. A Bell technician came to my house and set up everything. I pay literally $50 for super fast internet service (Bell) to Smart Telecom. I would recommend Smart Telecom for anyone!!",
+            "time": 1512599323
+        },
+        {
+            "author_name": "Pirabaa Segar",
+            "author_url": "https://www.google.com/maps/contrib/102774964767652742810/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-o4Y9bJFGNPI/AAAAAAAAAAI/AAAAAAAAAew/_MVhzq7CblQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "smarttelecom's service is amazing also smart mobile",
+            "time": 1521306477
+        },
+        {
+            "author_name": "Jay Bray",
+            "author_url": "https://www.google.com/maps/contrib/106555829216832760161/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rikEkBEAbCY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1GPKHxQi9FpofLWZNCFw1F9zSK0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "This company is only ok if there are no real issues. They kept screwing up my info with bell to get my problem fixed and when the issues could not be fixed, simply said in fine print that we do not really promise reliable service at a certain speed, called me names and told me to cancel or buy an upgraded modem ( even though the 6 teams of bell technicians said this had NOTHING to do with my issues ). I seriously had 6 teams come to look st the issue!  Do NOT buy upgraded anything from them, it's a scam, really!",
+            "time": 1503536556
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8525444430854302469",
+    "utc_offset": -240,
+    "vicinity": "3250 Lawrence Avenue East, Toronto",
+    "website": "http://www.smarttelecom.ca/"
+}

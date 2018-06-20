@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "63",
+            "short_name": "63",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Scarboro Beach Boulevard",
+            "short_name": "Scarboro Beach Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2W9",
+            "short_name": "M4E 2W9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">63 Scarboro Beach Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2W9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "63 Scarboro Beach Blvd, Toronto, ON M4E 2W9, Canada",
+    "formatted_phone_number": "(416) 707-2550",
+    "geometry": {
+        "location": {
+            "lat": 43.6697048,
+            "lng": -79.2927425
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710459302915,
+                "lng": -79.2914296197085
+            },
+            "southwest": {
+                "lat": 43.6683479697085,
+                "lng": -79.2941275802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "195c6518104c45aa9268eeab34dc982142a41ef4",
+    "international_phone_number": "+1 416-707-2550",
+    "name": "Redakti Editorial Services",
+    "photos": [
+        {
+            "height": 318,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116232638293854237784/photos\">Redakti Editorial Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAjQxq6mBwnJxCrKlB9fE7c4vq2pCbIk0J6IZbCeb4dSVSO0mzDcOjAczxnnzj3xg_RffUP3YLjuntHjUztKTIQUrVrQhaoSja8BeOTyXEzqQ-ovK2UjprYyPxpG_G55D7EhB1TrmHpgCy-xhyWlhzc6CQGhRx71SbU70JwZgHFcfJ_bx8Zhmh8g",
+            "width": 503
+        },
+        {
+            "height": 279,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116232638293854237784/photos\">Redakti Editorial Services</a>"
+            ],
+            "photo_reference": "CmRaAAAA8GpzBDXU8A07ePHPqKOsEek-uNUqh8E1uAg8opjHoBWoFnkb8Ok3KDqgyT0VOIk6yRp5Kaqe_scyrsLQ4m87j-PjmpuiUu11XSOxwgatDm96QF1FG_fUwAbfnLg9ozraEhAwmwmRwqQnzrImAhZwQNEZGhQp3ua6nZzCZYNBKGvRuaHICjwNHg",
+            "width": 279
+        }
+    ],
+    "place_id": "ChIJux_SYgDM1IkRLliD4vH2dqE",
+    "reference": "CmRSAAAARrgI5JQUtDjrJQl-_LCY2DfvgeWTjWx7zqTNnSYQt1M2yadOlEmEpeRPUiWpQ7q56CHKBrlpzyRTycjr9_i29tIiMBDmmVzwRYJYTOSCH7EWBsgBIsTBhi_n2P56MjqmEhBKQGcKuB0ypGDBnmSNuOJ_GhRh_irE42Wpa4S-XyqATP6_6R5HHw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11634758206106064942",
+    "utc_offset": -240,
+    "vicinity": "63 Scarboro Beach Boulevard, Toronto",
+    "website": "http://www.redakti.com/"
+}

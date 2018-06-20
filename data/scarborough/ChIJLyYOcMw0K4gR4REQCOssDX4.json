@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birchmount Road",
+            "short_name": "Birchmount Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2G6",
+            "short_name": "M1P 2G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Unit #102A, <span class=\"street-address\">1510 Birchmount Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Unit #102A, 1510 Birchmount Rd, Scarborough, ON M1P 2G6, Canada",
+    "formatted_phone_number": "(416) 304-4001",
+    "geometry": {
+        "location": {
+            "lat": 43.7580373,
+            "lng": -79.29111429999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75958488029151,
+                "lng": -79.28847370000001
+            },
+            "southwest": {
+                "lat": 43.75688691970851,
+                "lng": -79.29199449999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "897ea97c086ab9082ec5b3ebd5d9695fca53e9e3",
+    "international_phone_number": "+1 416-304-4001",
+    "name": "Advance Fire Control",
+    "place_id": "ChIJLyYOcMw0K4gR4REQCOssDX4",
+    "reference": "CmRRAAAA4AgOVKXnD8RUT0fuQCIo2cbhAZjYZu_fjAfElkUj_EZbgNWbQxoHNBFsl9zzPLfZtcg0hR_L5oE41Ha8z_DlXv3ZudlsDa8RsiKqhWD5nge55RFmEOWZ3SiYxjsxc69FEhAL3EhGC6cIZfqw-Id7sMDeGhRqRcB-u_b2UfuC9BzErp9MsW_LXQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9082965411440366049",
+    "utc_offset": -240,
+    "vicinity": "Unit #102A, 1510 Birchmount Road, Scarborough",
+    "website": "http://www.advancecontrol.ca/"
+}

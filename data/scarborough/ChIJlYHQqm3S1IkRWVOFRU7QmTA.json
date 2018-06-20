@@ -1,0 +1,228 @@
+{
+    "address_components": [
+        {
+            "long_name": "214",
+            "short_name": "214",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4C1",
+            "short_name": "M1R 4C1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Ellesmere Rd #214</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4C1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "85 Ellesmere Rd #214, Scarborough, ON M1R 4C1, Canada",
+    "formatted_phone_number": "(416) 740-5400",
+    "geometry": {
+        "location": {
+            "lat": 43.75786469999999,
+            "lng": -79.3110645
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7596377302915,
+                "lng": -79.3098908197085
+            },
+            "southwest": {
+                "lat": 43.7569397697085,
+                "lng": -79.3125887802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a2d5f3eba37bf6c9a57bb7257e006f262f5a8e62",
+    "international_phone_number": "+1 416-740-5400",
+    "name": "Kevin Thatcher & Associates Ltd.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 843,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100528618919816391566/photos\">Kevin Thatcher &amp; Associates Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAR3Yd5U3H_eCmPcpXodt4siHNDVX3mHfIytr7_lC66Rm76rTU2WfFCam213biLzGkbKlu_msYj9LjDVvW5gdnFqE0fC2MezT1sL9L7Ynk_XtIBp9pG0XjIKBXcWQwsjlhEhCSNBP_fMdI6UslRRAGSH3ZGhSH_o0GqC9QfXfYyYbhshfXW2XbCA",
+            "width": 1500
+        },
+        {
+            "height": 385,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100528618919816391566/photos\">Kevin Thatcher &amp; Associates Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAO9JhSc9GJOzcYSBMjfSuMc9e_p5fMJmq8KRfRQRCpTJC-l-WpSjjixL8mQ63tXSZero_-W0SLNhkzjp5N7tUJ2fkmxuYU9QJL3krJivf0Q7KPiRaTbIubXMyeACXsuF-EhBc5gaYgg1u-_-eIPYgFoXoGhQ36rbNkFsd4tmJdnELooCKVuNgZw",
+            "width": 587
+        },
+        {
+            "height": 258,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100528618919816391566/photos\">Kevin Thatcher &amp; Associates Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAn-LJ8IV_2yyqE9li4ZXXda0BIPFeTQruqdGGnMmJwiUgXighTaJ6lSxy1gWeELEYaDFz6k51q0ULbxRKztCAER-S5-lhy8r3--YtlZ6N2iV3GxJWGPsQA9xH1OYcr-A5EhAYAinSlDG1uCoKc-Uqyy1BGhQ9Z-MFnXKeNkKX1rJG0Orw5oukdQ",
+            "width": 258
+        },
+        {
+            "height": 547,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100528618919816391566/photos\">Kevin Thatcher &amp; Associates Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAA3RFFfxOQxtqrW65wdMBnfvfjYQ8cvmHxnr1-0_ixW4doJQDFEtFQobFypJUFe_hZMiTfa4aTWA-iQflbpT7hdDYAxvWB4gRFedb3jVsRDm_bTOb66D6jgZIXdkgKj2x1EhCc5e88kaCMH03c84vBkWmLGhRDacnMhJhNsHFuy89gRKCU5je-Dg",
+            "width": 980
+        }
+    ],
+    "place_id": "ChIJlYHQqm3S1IkRWVOFRU7QmTA",
+    "rating": 4,
+    "reference": "CmRRAAAAif0SVOLLcXiaWvGRJLCRwVrWdRQst5yK7yx0gAFj0Rw6lfyVVyfYxGCyPqK-03yE4MZW_0QZ86Ajuy7BSvFmY063KWxUKwywhsr6LDNdIuVogOnSbjK63UhTEG8Q5XrcEhARFZzo4YzPZqc-WITJv65dGhRxbowks34ijAt7XEP5p18ObCC_GQ",
+    "reviews": [
+        {
+            "author_name": "Joseph Lowe",
+            "author_url": "https://www.google.com/maps/contrib/108832653482744109674/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-o1KhxFtbzzg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1cTBDq56NQzWcApAWLS6hBJaMFTA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Didn't get any bull from this guy. He told it to us straight and we appreciated that. \n\nThe appointment was free and so was the advice. He couldn't see where his services would help us and he honestly said so.",
+            "time": 1509403043
+        },
+        {
+            "author_name": "vipul b",
+            "author_url": "https://www.google.com/maps/contrib/103950762474642189344/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4yFPfFNOwrY/AAAAAAAAAAI/AAAAAAAAAFk/JndsoK5n4JQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1501645746
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3502059219849663321",
+    "utc_offset": -240,
+    "vicinity": "85 Ellesmere Road #214, Scarborough",
+    "website": "http://billfixer.com/bankruptcy-scarborough-west.html"
+}

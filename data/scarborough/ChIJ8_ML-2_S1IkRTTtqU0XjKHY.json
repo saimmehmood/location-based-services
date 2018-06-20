@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "39-49",
+            "short_name": "39-49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Treadgold Crescent",
+            "short_name": "Treadgold Crescent",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "North York",
+            "short_name": "North York",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M3A 1X1",
+            "short_name": "M3A 1X1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">39-49 Treadgold Crescent</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3A 1X1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "39-49 Treadgold Crescent, North York, ON M3A 1X1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7578508,
+            "lng": -79.3235787
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7591997802915,
+                "lng": -79.32222971970849
+            },
+            "southwest": {
+                "lat": 43.7565018197085,
+                "lng": -79.32492768029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e81de7f355a5b7502782283c0d05f0cb7f8e9bef",
+    "name": "39-49 Treadgold Crescent",
+    "place_id": "ChIJ8_ML-2_S1IkRTTtqU0XjKHY",
+    "reference": "CmRbAAAA413DgYJCckIAE48d5AwNP8HpZQK1DutKXoGkwyuU_-TtbTe3scZIRy2h5MyffkL6lE1bqkPzebm_ieUJxed4dI_AGe8yZ3ptci9ME20K0PEyun_g6eheklqSFRV1Do3ZEhAQPWY7feMkB5mPcawBOhHVGhTW2FNufd8GWbgfNqfpE9cd6ur8rQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=39-49+Treadgold+Crescent,+North+York,+ON+M3A+1X1,+Canada&ftid=0x89d4d26ffb0bf3f3:0x7628e345536a3b4d",
+    "utc_offset": -240,
+    "vicinity": "North York"
+}

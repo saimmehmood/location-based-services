@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 4R6",
+            "short_name": "M1P 4R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 Nantucket Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 4R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "170 Nantucket Blvd, Scarborough, ON M1P 4R6, Canada",
+    "formatted_phone_number": "(416) 543-5987",
+    "geometry": {
+        "location": {
+            "lat": 43.7576858,
+            "lng": -79.2754293
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590808802915,
+                "lng": -79.2738575197085
+            },
+            "southwest": {
+                "lat": 43.7563829197085,
+                "lng": -79.2765554802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e4953e59668ae2e8e18ec21f9a8b3b78ef9583c9",
+    "international_phone_number": "+1 416-543-5987",
+    "name": "Baywash Auto Care",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAg0cxjQj4zw8stIdI86dYCOj7KGLttPr8doQNX57Y4zEL_CL9Qgw58CD7tedqv_QgqSWrU0VwZpISFA0YTBIYutLWYPoiKDLDPBuqYE7URVrUwRNBTnu7DSxo_AFlSkU9EhBz_uLRzTCe2z3xsTuW2Q3uGhQEg0Gp5B-3hvwFxpp6Ek8BkyZbvA",
+            "width": 851
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAA25GlL4G_W9_CRQbnC2fc2zrvcd1phFJfnYUiUB7avJTM146Sca9I3MZZh00kHfwB8nJk12h_Og4iNbHvRDSmnMBYRYLwUECDZGhWxxd583w8WF9VWr9RhcnngksiUzxTEhAjGAbrhL3A4au9ndXsm6AbGhT-R-_Lk9eHmZJbWszRuSVOQOwkUA",
+            "width": 4608
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAhTJxos3i4c_MxtLSteZm18VgOajEAF9LMJ0AAJP083uqWGGN3ge4bS_C335APKaWngxmbxYU9Um4o2lHoTWMh4nGa4RdWdrGPuTXBcCpO4O6bvMPG4_LIKqF-xn79O9QEhB0M0ViLFoPFE3eib73xT9JGhSX6bhQ5DqqTeOaCvJJKMnTPU6hAg",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAARiGyUiUWBUYcuLTt1hXgg48ovXEt4tMzvrmOwkS36OGnZa3Q327DeteS0JE-39YAH8aCJA6_ACsOpY90Vt4c-6uLsqMVH3E2O_Na7mld7i55yXrF0i84L0ZCMQsf8Y0OEhAgdDlszDCuZTwUjssWZjVAGhR3W0STfuKFXvDxB8wBhAe4uonzDA",
+            "width": 4032
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAu94nVIPJJyDNrHqqf8JxizB75CFZ19XlmkYFYgQQ9Uo7glJxtnY6JCE1NNIytUrkftVK79fpxOYuybve5YIcC7saRGkK3CQwc8jUTzAKbd-mIMkQo8PZ4E4yu_NiZ_BQEhB2NtW60RwoNxfbJpXu2ZkzGhRUdpoHC0cl0LOprmDgi0-BMDupeg",
+            "width": 1080
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAFmEjLBlltcvc8X5ej55nRu0RREKlqLoE4RHlvwiwH6j72KZ5ZBPyjRV2PMX0OIKtsU3PNdCuEUe-HdmIek8gNyyQ4vUZhaeeP7QyNpS5kF4chJq2fRdggdN3l7MLOk7qEhBmqWw6vR1Hv2xrSNY4JrimGhSi8Vu7LRSDOdT3q3nZQEPh0yI6nQ",
+            "width": 1080
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAD0kAIFtETnj_jVkDlB_i1air4zL5mGDiEthufWcW9u_0q-Uj6w6Vxt1GFUB0v8eGNC3nr_3Flu7EGP_Gn37uInspJ-NT0pyT_BSBde2yTWauafECQFviI464tUfAQRn-EhBhd3jHwb92L1o8gWVZL2E3GhTxGUfVahCUih4KTUp4_xUcgbvRrg",
+            "width": 4608
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAV9qbtny_jc9t67FPFPh47fXe1Sw6z3cUCY_LnhOQmpRI2rgYTtz-Aha4i-Uh11wkUqufgvtdBdhKBS7XKmH-5qCLLx9U4k7OePZ7FVPYzTM0N5HyLE9wPOiKjIQaS6lHEhBuaEPCnvCV_mZXcqgrUZZkGhRvo9JkNpPXlBUNnZIJhfIVw5GtAQ",
+            "width": 4608
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAySm_CusRb4CGNUzFUfZnEf2LoH_UZuzrVSXZsi-tvKZYdsM2kO3Zfoq14GBRjA5qypIArCtPokT8SGBLqwZxg51dMbqu7hBh-wpk0o5PJxu5eE2BoS8rWBK1wtQKDnXREhBMmib9NLkHyIFokVD13RgfGhSfkP_rjVP_6m_z3GGGpBztGj1p3w",
+            "width": 1080
+        },
+        {
+            "height": 839,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111037555448548513118/photos\">Baywash Auto Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAVlGalVKPp8C535g2j22TThGq2I5vuUJmQ-GR94wA1BPhdY_38Ylaa4QfO7B5xIvj8OkSKelYDzIiWIdDUTjFciNPrxLZuFPSrF2bOUqTBH97Rt4DHwUiU1oWi-cM2InZEhBICeXTIl0hJjBNxvlJcFdLGhRCPgpj9JmSzui_zXqD0kbOXXrjwg",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJd9Z0KOzR1IkRlOV0N__emIM",
+    "rating": 4.6,
+    "reference": "CmRSAAAAtb2ERhuO0nieQKMGs51p98VwyVgTH3hN_J2q8NZ3wfcRhiDaYfZmamRAw9hCkKwom4dxj3Xa2havsWbhu9njL33r8d4EOx3kuZerVQ7Czzi_YrAu44JFhRwmrkn4MuXgEhACwmVFAVw6eXtv-Mn5mbMmGhREUZtpiUZI3J08snp8P0JvlzAvPQ",
+    "reviews": [
+        {
+            "author_name": "Rachael Kloosterman",
+            "author_url": "https://www.google.com/maps/contrib/101262309838600986904/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rWdOV1FbBLQ/AAAAAAAAAAI/AAAAAAAABMQ/SxL4TnS0v-s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great service! Couldn't have asked for better. They drove me to and from the Starbucks nearby while I waited and the car looked like new when I drove it away. Great service for an affordable price.   ",
+            "time": 1504390090
+        },
+        {
+            "author_name": "Andrew Moonsammy",
+            "author_url": "https://www.google.com/maps/contrib/118139514856598668941/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3wtC1eJlC7A/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq28TNFDNEKctcG9hZ0IM1OAp8-1UQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Amazing work from the team at Baywash Auto. Brought my car in for a summer cleanup- to get rid of all the signs of winter. The team at Baywash Auto did an impeccable job cleaning the car inside and out. Looks better than the day I brought it home from the dealer! I will be back again!",
+            "time": 1498488696
+        },
+        {
+            "author_name": "Stephanie M",
+            "author_url": "https://www.google.com/maps/contrib/112387727435510758946/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-eW-hdWKvlU0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3k0UPpIb-emha3l3pilbEXyxU1kw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "Booked an appointment for interior and exterior car detailing and came to this address on time. Not only there's no such store or store signage, the person in charge is not even here. Turns out the neighborhood mechanic technician said he is only renting a portion of other people's garage to do car washes, and he is not here the entire day today. Not only I had an appointment with him, but also 3 other clients came today and claimed that they booked from Groupon, but this person didn't even show up at the store. Highly doubt it could be a scam! I'm very upset and this is such a waste of my time!",
+            "time": 1500152488
+        },
+        {
+            "author_name": "Roger Ravi",
+            "author_url": "https://www.google.com/maps/contrib/110191521985464939645/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vQayjNFWgg4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3gOLhMVmHgeHBjidEHNizlJtBGtg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Earlier on the week I took my Infiniti Q60 for a quick detail. I was amazed by the quality of the work and the customer service of the two individuals Abdul and Rishi. Thumbs up boys! Will definitely be retuning soon.",
+            "time": 1498445937
+        },
+        {
+            "author_name": "WATCHIT",
+            "author_url": "https://www.google.com/maps/contrib/117210784525953853962/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-mouGOXD1v6M/AAAAAAAAAAI/AAAAAAAATQ4/ocATJ2bizNo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Im not the person to write reviews but after my experience with this detail shop I just had to. I took my dodge challenger in for a detail and I was amazed about how I got the car back. It looked better than the day I picked it up brand new from the dealership. I definetly will be returning.",
+            "time": 1498446455
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_wash",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9482574203157013908",
+    "utc_offset": -240,
+    "vicinity": "170 Nantucket Boulevard, Scarborough",
+    "website": "https://www.facebook.com/baywashautocare"
+}

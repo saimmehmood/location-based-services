@@ -1,0 +1,311 @@
+{
+    "address_components": [
+        {
+            "long_name": "1981",
+            "short_name": "1981",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1981 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1981 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(647) 426-2112",
+    "geometry": {
+        "location": {
+            "lat": 43.6698037,
+            "lng": -79.30038499999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712221802915,
+                "lng": -79.29906551970848
+            },
+            "southwest": {
+                "lat": 43.6685242197085,
+                "lng": -79.3017634802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "72f9d492c86bae8f372e66ff4856fa0d1e74cd20",
+    "international_phone_number": "+1 647-426-2112",
+    "name": "Fiorio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 8:00 AM \u2013 5:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAA6ADfmkMIF4jCK5qT0O5zxc8W5hZuLCX5ZbH9tGz9fZ9zC8lBKd4gmke2WrWpYyDXDeh9vJ6qMkT8ofYWprBwW1_A6ZEYDHNJ7yNQ06dwT_bFjX7lWbZTF6YSYt2iCFNcEhBtp9_zAQvKQ6ZL0sdU2LPJGhSNwAbbohWewYjCEOpAUhvSK3HAKA",
+            "width": 2048
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101177694052185685979/photos\">Fiorio</a>"
+            ],
+            "photo_reference": "CmRZAAAAudoQPbXPYZWAaJsDkzmxJ9mSlBkG1yoClvryCVPPvN9_D1cftFm5zZnO_tVRrZ0qtQLtffhMhkd8bH79Naxbcyn1aHXSPeMxXcr48XUth0q11S422Jpj1xlG7P5JOrGfEhBbzPoUfjNYvXuWFoDKPvMuGhSWTc7lMwwcLBvqzhDrT5MqP43-mw",
+            "width": 5760
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101177694052185685979/photos\">Fiorio</a>"
+            ],
+            "photo_reference": "CmRZAAAA6w73A7HcQL0nYx5HH6zvhGZc42zeYJ0Z1AbOY7DleEnkU95jzcDglykU5WG_Ouq4eNeS74DkTfEk8m0Xi3Vmsef9XFkfVZDZn48wg5YznnVCgRi7hcghyM8Q_xpEBnMBEhDXi-1o3BXTyBe3fBWHuY5-GhQ7DvLHJtsoQ0vgY5auDDbDGMxbIQ",
+            "width": 1920
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAAxMr9aXvqpe8Ea-dPXr-gYNGwE2wKsmNC_OAohZEYBhmKeu3f-Eq9JiYWm3U6iQ-iKh-pIo946L5jQW91yr_sI8Vna3aQyXkJhd6J7e2eQT5UknRX6Lye58mCyuDV1puqEhDBUkfFhNIWwIfEd5gPSWuWGhTO33CILpIMto7fzTBrGpwPGcq_7g",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAAX1nwPjmM_GiqC7x-f4IZ1ETnB2o1ct4lwDZSzNtfbkzxmrX8tkZWqcjvhD-K67MEB9atwr8upvr5j8LJV6JwxZBFsfEsPDTYYdMBr1nWRbVJporGBKfRndi9JnsvbtWaEhCaNTEfp0hKcTLm84mI92B8GhSzp_JzXIcUQ5wXZiTBEF-A-Rt21w",
+            "width": 1365
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAA8lnTGyWKCIRMRcf7ywL1aMcA7dWU9ulJyBByA6r0LfCm_xeJEMX7gNXgDVUCrAvXoFMC6tuRnfgWyffyfaun7VfK1FYReBw13GCxWXkIoNVBMqJ2uc7vX-7KRh67enNCEhDcyDSh-VCyzNO7356SOMPAGhRue6Ucuuja4fvAKdV2UEQzW5baPg",
+            "width": 1365
+        },
+        {
+            "height": 1084,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108312408854924087297/photos\">Kateri [Kat] Levasseur</a>"
+            ],
+            "photo_reference": "CmRaAAAAxoLXoPaeiRqgHiUWt7Ghk5Icp8ESa8I9IlZpjBr6yRMd5IH6WrJnxTQWKcbOr7-hHIyi1uWnbyo2Ln7Z4nFcyEqzo5YZzrCMTw4NMo6W-8Q15pDfCOXLpA8crbqzd8I5EhCKBARGqaAmboy7J-9RQc3uGhS94Yy7ME9B3vQamvdVdtp-Dy29Rg",
+            "width": 710
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAAMpJ61KG4EXDWKqCszzXANCzQcbYW-vh_iDoEO15Z16HEWPXJYCzaiwccruKRpiMqqKtGMIblq_zet0xkBFj7AwSZF86w_xRi9zeHAS4xiwR3Q_P4FjHpA8isSi2-oi0nEhAAc55rQUYpKxFI8tfwq8eBGhTjTSMgWtw2RgPA1nS4EaDF0BD4Aw",
+            "width": 2048
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAAeOFUfjJryrFTrUkxR8STbyhpcabRbxiSH-NVcLIG4eyaq0gTiH_YHvGzuYX78Xekm4VURlnE8reSDpWiC882QVuvU-XupQz-UXQ6oG0zOk-QkZwy-lpjnhXDemB5idY-EhDy8ti9Ug-HMkRmX4ZmuysFGhT3va41b17GNplCvuv2BlVc5NChCg",
+            "width": 2048
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537371836008352665/photos\">Alyssa Insanally</a>"
+            ],
+            "photo_reference": "CmRaAAAA4S73G2tPiOQ9RQ9AOd04_vGVwaLHEIAoz-V7OLwCHt3wsgrv8cTPqYcQUYgybxS1m1hEFUdCtBkHvwH9CXmJaSVKSgiXRW3haC38F9YEe7xcP468R_yDoEEK2ix0G1y9EhBC7r21hePAUqTlpyqHqzhJGhRknO1ZumRLjGiuyqfwGmd7H0mE0g",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJ75B0CvjL1IkRijikPlbq4FQ",
+    "rating": 4.1,
+    "reference": "CmRRAAAAHJPdHPnCLcTe6Z22Ndy7ckH-zi5uweQARGahpQoL2zR2vq6HyxGN5AtWSR7vKndZ2tqmW1KLmS-I3CQH1BTKS-_gnzy-f9LnF4kFhR-gcv99yY5J_tRYZ-yRWMd9_2LkEhAkEaZQz9rmLacBEiEbeAlZGhTHGVm0BADqBRPqREK3KuGnRhZsCw",
+    "reviews": [
+        {
+            "author_name": "Vanessa Kim",
+            "author_url": "https://www.google.com/maps/contrib/107240666042648556543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Wn4eHQ7y4zQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0O25tIazV6poY_WcEgawZvupGMAQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Angela is an amazing hairstylist. I have such a sensitive hair scalp and Angie is the only hairstylist that did NOT burn my scalp when bleaching and dying my hair. Ever since then, I will only go to her for colours. She is also very talented at finding the right colour for your natural skin tone. I highly recommend this place and Angela.",
+            "time": 1524768033
+        },
+        {
+            "author_name": "Mary Pat O'Meara",
+            "author_url": "https://www.google.com/maps/contrib/100599727456555889374/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-a-7-61t7Nqc/AAAAAAAAAAI/AAAAAAAAAvM/m2ViQ-T9jZU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Decided to just try out Fiorio since it's nearby and I'm on the hunt for a new stylist. I ended up booking with Angie, and I couldn't be happier! Angela is an amazing stylist! She really listened to what I wanted, and was so precise and professional. This is the best haircut I've had in years!",
+            "time": 1524678700
+        },
+        {
+            "author_name": "Avery Foster",
+            "author_url": "https://www.google.com/maps/contrib/114414323612513024314/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-nH-ab9-MwvE/AAAAAAAAAAI/AAAAAAAAAFo/Rpv4568iKCo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Had good experiences, never a great one and then at my last appointment  I asked for 1 inch off, the stylist cut off 5, one side is longer than the other! I let it happen because it's their job, they know what they're doing, but after the appointment I was inconsolable, cried the entire way home and then some. Completely destroyed my self confidence. Now I'm just waiting for it to grow out.",
+            "time": 1519599463
+        },
+        {
+            "author_name": "Cassandra DLCM",
+            "author_url": "https://www.google.com/maps/contrib/111071255761075351537/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oI3wjK00mbU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0AAkTwXX1q99qSmDNbJuc1DG6r-w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Been coming here for a few years, love the atmosphere, staff and services.",
+            "time": 1525714341
+        },
+        {
+            "author_name": "Laura K",
+            "author_url": "https://www.google.com/maps/contrib/110039446027548706433/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YTztnzqfzVU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2oRC33lIDC6PgoIMwAA0GyVLSX5A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Kat is the best at colour and Jeff is the best stylist. The best.",
+            "time": 1526764369
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6116145950108170378",
+    "utc_offset": -240,
+    "vicinity": "1981 Queen Street East, Toronto",
+    "website": "http://www.fiorio.com/find-a-location/the-beach/"
+}

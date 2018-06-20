@@ -1,0 +1,309 @@
+{
+    "address_components": [
+        {
+            "long_name": "3250",
+            "short_name": "3250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A4",
+            "short_name": "M1H 1A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3250 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3250 Lawrence Ave E, Scarborough, ON M1H 1A4, Canada",
+    "formatted_phone_number": "(416) 799-4444",
+    "geometry": {
+        "location": {
+            "lat": 43.75739979999999,
+            "lng": -79.2390437
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75852743029149,
+                "lng": -79.23760201970849
+            },
+            "southwest": {
+                "lat": 43.75582946970849,
+                "lng": -79.2402999802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e19d37b481e4c5387656517b4e5f9b16f45de26b",
+    "international_phone_number": "+1 416-799-4444",
+    "name": "SMART PC WORLD",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAA8jRZX8U7c5HDsJEKrnER0HusCR4LkqKrYvOD-WUwkQlR9UJoJ8IvZ_5UeOHRAbwBvaCsfahm2RisqiO6WfQ1H-JZFS0QOA4-VCPlAfbnSN4cfbiSmfqcIQeeaRJN9j8IEhDT_nTJiGn5sspsD1UE7bR5GhRfcErGaTb-XY8rV8bgDNa0gisxVw",
+            "width": 3984
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAACKFofS5uNLNWuIQ6ITTNnnsr2g3IWuVCk6nY8B3uh1kjCpafPqFaYG-MeFeGKGArW_mSOKw_6-UhlJcceH5NJw-8GFh5TrhlHxgZKBTmm0d1txPhQREoRwlF5Pf3JzSSEhDH3biEiGvHeFlRSUB7HUePGhSNVr8VYJCUdDIqBPRK42wCnUf1kQ",
+            "width": 3984
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAAPLyOmkV6wIiLtvTkvPLp6uJh5RVrg2uuCicMY3dVIwy_CAegKGSZ0_PVGPgSaqGBtUPaI9eGGyXRjSb8RSilHB_1sa3EcPqhwv16Lp4u-RBB9dyuUqbcsGm2wMUwL-csEhB-zAKULaCbRmtToCXu2X9iGhTttvjFNpFWFvg7n92W5m_K3iwEcQ",
+            "width": 3984
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109056984156563683734/photos\">Ram kijitha</a>"
+            ],
+            "photo_reference": "CmRaAAAAMa21gr5zeKpNxVRgZ1c5HHXvmuEdjhGQnEqIMBoWC7uS8fFYcwlAQchspFQN90K0o6GcZIfs3_QwijJfd8L_gvqXF0dUOhKpcaDyhUhai3xN8zXtUqQzUvEU8gyRXWqFEhCbX4uO0beTBTM1Ky266aqWGhRMDGHLzO8soRn1ODjupbSua1fzGg",
+            "width": 4032
+        },
+        {
+            "height": 3538,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAABUAz7Hg0_llmv-kB3mN9cOCUGZGAz1oKJrTFwJais2Lo8Ck3BKj5iP9xokBC2afjsgnecP3JgcTv3q9iQ0zVc0Fvn3xLxXhsfRBEULqmMllULg_NV8P8k2LlPyajnRFAEhBFJes5ERkHcVuVups_lXgCGhQhJpyidh32n5kxkGHJHUzyN9l52A",
+            "width": 3025
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109056984156563683734/photos\">Ram kijitha</a>"
+            ],
+            "photo_reference": "CmRaAAAAAaLW2XtKUwmQqewEtF99rPCFxMxlFzdt__uMV6J51WP1rtSd1SxLN7x29LgHVHMJrMIDigHMEu04L2chW8-o4oitq4AWhhiItH53gWrs5tJV_faLEemmSoHwJyGh3JOeEhCLxw-MelpcbCGKTAHIXXwhGhTx6fYUCA2AV0pA5YzG_XzuPkUW9A",
+            "width": 4032
+        },
+        {
+            "height": 786,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAA6wLnsbmXTzpXseC4a8WFd9iO18ZNr2YWlexsDgIlYuWGVZkNcw3TSGaftXJhjZRhJSLt-yoDE7k_Q5yLiT19qmoln83g5ED4EZ_pc8YyraCdGa8ZA8a2ByWH-5j1VGeBEhCH4yxukcdgmhpSyJsAhR9IGhRcD3_8yoNzzU1fOrixfLmfI7FPgg",
+            "width": 786
+        },
+        {
+            "height": 1094,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAAXH61Ep6IMSI8Mn1iEmDHJtV-fO6yQlWXekNsCugyrzLYyK3d3kxx4Mp5qBKW19kddZG4W5SXSeJFIzi6hnj8flDajnlsDaqJSx096dHMiZUiNNAfsZKLK2LTgQB6NvNsEhDUe3J0JD9_qEB6xh9guQtuGhRAH1wfVuNEwivTUbArzuGhsE3p_w",
+            "width": 3573
+        },
+        {
+            "height": 675,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAAfAJNetOMBswzRBepygJzlFcFC0_ShlY6-1wqchDQEbU1cCfw0G3fi9C8ASyO6Ai42UlUb3CZDkAQ9p4YDYxmKX6Gi5PFOLs1ZPs_-_-W3o6Gz6KzK8RM77hILnrq7FCQEhAj47Oh2xKHVqDx5QkZu5ooGhRecgn1fdu2y2KkTOOiYpoEG9Bj8w",
+            "width": 1125
+        },
+        {
+            "height": 1652,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109754767673286628995/photos\">SMART PC WORLD</a>"
+            ],
+            "photo_reference": "CmRaAAAAKCzFGQeBLPANL75Z0n5ptBC-GiFnjAA8ni-wW-LlfaTN-5IekFTtR0BSLU0y_EgtTP1jzXxwYAMJdP7C4sY1trzdZAWBzHqEsyuZ7ar4U84tHQ--9mCt29lSo8gUcg87EhAnuX3v0i7KEADszw8nR7E5GhQuzLE-QIqgKaSW0s4YFSR-bATyLw",
+            "width": 8346
+        }
+    ],
+    "place_id": "ChIJE5mnezbQ1IkRZ_Ttj2lsdSI",
+    "rating": 4,
+    "reference": "CmRRAAAAarZoq2B6OYw1DnQgA3pDCWRxMCBKFJwI5nlVkpx3ySU8kijoElXfzUHQ2SDUSBRwynqKLXtOXMHOb3fTPSHOvSO6PrYnjzUSSdETY-xOkmWfbg3nvhbba6TT6Oi_O2tHEhD6lCJmZRZXc4lkrMTjnY_2GhQZ71nmyajpqBXO8ZnH_K8S9vpWTw",
+    "reviews": [
+        {
+            "author_name": "Nirojana Sugumaran",
+            "author_url": "https://www.google.com/maps/contrib/112760218885300535667/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-yIkVMhW6cXA/AAAAAAAAAAI/AAAAAAAALLg/n4qNc_nsYbk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The owner is super friendly and welcoming. Affordable prices and a great selection of products! They didn't have a product I wanted and once I called and requested, they got me my computer within a matter of days! Would totally recommend checking out this store to anyone! \ud83d\ude0a",
+            "time": 1475883688
+        },
+        {
+            "author_name": "Suren Sothylingam",
+            "author_url": "https://www.google.com/maps/contrib/108278131791772924717/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kxz2hmqUYIQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq37w11EXXbx4tGwggyvv-IiRgusuA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A great product range and fantastic service.They gave me valuable advice.\nAfter discussing a few laptop model options with them, i purchased a Lenova  Thinpad. Excellent pricing and professional, quick and efficient service. Highly recommend them. I will definitely be back for more",
+            "time": 1476496913
+        },
+        {
+            "author_name": "rachel Billar",
+            "author_url": "https://www.google.com/maps/contrib/104948074334995508780/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-d7yrl0o7OVU/AAAAAAAAAAI/AAAAAAAAAIs/Fh6VV98Q8BA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1524024176
+        },
+        {
+            "author_name": "E . Segar",
+            "author_url": "https://www.google.com/maps/contrib/103597395606619957367/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MyHeueAG7_U/AAAAAAAAAAI/AAAAAAAALrc/o3UXJD80wPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1500692914
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2483009970206798951",
+    "utc_offset": -240,
+    "vicinity": "3250 Lawrence Avenue East, Scarborough",
+    "website": "http://smartpcworld.ca/"
+}

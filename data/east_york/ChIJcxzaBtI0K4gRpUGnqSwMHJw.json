@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "103",
+            "short_name": "103",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverdale Avenue",
+            "short_name": "Riverdale Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1C2",
+            "short_name": "M4K 1C2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">103 Riverdale Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1C2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "103 Riverdale Ave, Toronto, ON M4K 1C2, Canada",
+    "formatted_phone_number": "(416) 406-0038",
+    "geometry": {
+        "location": {
+            "lat": 43.6697052,
+            "lng": -79.3482356
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711108802915,
+                "lng": -79.34691021970849
+            },
+            "southwest": {
+                "lat": 43.6684129197085,
+                "lng": -79.3496081802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "28b933d6089ba90ad0f51edadd18192bfb1dd1d9",
+    "international_phone_number": "+1 416-406-0038",
+    "name": "M Joseph",
+    "place_id": "ChIJcxzaBtI0K4gRpUGnqSwMHJw",
+    "reference": "CmRSAAAA428t0IMwvqzN_aXWLZniKLl8oqCdUrI2sHhE6rcPq5SlAd2aHrdd3EsVKH4FLmfd0-doumuQwc9-OHa3_q1SFGETI3IUn9TbNWA0KrlFhJH2qbaPUqQq01HhtKwuF0hoEhCUAp52NNmGncWgbXYU1oMwGhTRYcFRKUo3sAKg3-8utPrj9MCF3Q",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11248879355229061541",
+    "utc_offset": -240,
+    "vicinity": "103 Riverdale Avenue, Toronto"
+}

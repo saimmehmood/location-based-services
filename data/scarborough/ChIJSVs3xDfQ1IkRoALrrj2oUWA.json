@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A6",
+            "short_name": "M1H 1A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M1H 1A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75775300000001,
+            "lng": -79.235734
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75910198029151,
+                "lng": -79.2343850197085
+            },
+            "southwest": {
+                "lat": 43.75640401970851,
+                "lng": -79.2370829802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "c7d7e9e12c3e965c95819595a8e7ff01f7d0cbcd",
+    "name": "Lawrence Ave East at Bellamy Rd North West Side",
+    "place_id": "ChIJSVs3xDfQ1IkRoALrrj2oUWA",
+    "reference": "CmRRAAAAFvbUyfqbRhClXu4a4mJNICPQLfYgGRMZrAsruH9jiJqNlWl9fjTmDqlYGuDHkkalbsiPKRB5d56nVr_P3DMStWPqGKqs4a57rJYgYw8Wj21ZF_JFy0gz6xMwacmN7ROjEhB6Zod3zuLz3AmO7L9wZCoKGhTUExyf5R29Ckf0F3Hf-ePA9aQMKQ",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6940513483635753632",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

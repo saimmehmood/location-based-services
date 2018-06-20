@@ -1,0 +1,308 @@
+{
+    "address_components": [
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "1286 Kennedy Road #6, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Road #6, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 750-0040",
+    "geometry": {
+        "location": {
+            "lat": 43.7580614,
+            "lng": -79.2787704
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7594103802915,
+                "lng": -79.2774214197085
+            },
+            "southwest": {
+                "lat": 43.7567124197085,
+                "lng": -79.28011938029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ce5c8da0a1dadf519db074f8103b7fb333734893",
+    "international_phone_number": "+1 416-750-0040",
+    "name": "Flooring Liquidators Scarborough Toronto",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: 11:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAfilAAyPndl0jJdoqzDPNCodnqpBngk6QQrNsLcQHEKGjs6sxb5gs3R1Nz1cgb_tWG_jCGkTVhlBiOEPQx4SsFAvhBBUWF2ylcLRxAVOMkPeKBtqwM5by0-wboZwev6SVEhBm0NPDltVoLKTE3fsy49h1GhSOtnrUaesz8iJ8Oj6jamENYLrUxQ",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAALAG_KtOEiqJW7RESc_qIvd-D35jnxbH2hl4sKPskl032A1njbqeyBl28hGNejn6yKf2AE7DMCSvfK6_g4isZRFCrMf9dBtnUpiujcnyerkjR8XQ4eL2PvVEgfwHEnsizEhCRPXZ-GCRBBX17lTSKARytGhT4O89lAT855Fz73v6yQ30qY6_ZFQ",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAARnMC67mVTxUpQtfjRNVNYSU2FAGDwHtIrkc1kWubhmlX1bpZVE1aGNWadhpR_pTKF5Dmu7CdNqmvnwIWzWQM_lc7yA39FnnCpj0tqkTBl9TuwByW-EsJxEyD0jrRw03jEhCK4p0QcV_ovSjmDaxdv_mqGhQovf1DWr3M9fyJyd2qnBA1fg6ydA",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAkkqV29f-dM9S2I_DjLdWaepYgeW0WndCPqSsjnjmY7AhJc0dfNjhhpp1sqI6nvnA1Ox2XV6cBNU1yAidZWBFf5RGj48NMwiYgA_QWj70nce-KQxufER1swVJ-8XdXhvyEhBdl5ng6lN7kQqXgUSViDkQGhR5f5FW-Y6Amn42FMDXKsJfsXM-ug",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAA02J-R_5Na3YVgJ-6psKh1FUnFQWg6D1LxiRFiOYQjjFy37AEapnUTDnpOJbtyGw9Q7qVe25mPbk-qmdJYLN5lxLAIAktp3UHOqt2kU8QS1AXai3t9vFXH5gGxq1tuu7UEhA_cVjgJq-7i5KTv9qyZwgWGhQnNHNivVIi-RPSEQDqam2fUnLc0Q",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAVZLlI9jFpS0HVWamFYG5VYQaLu5GhrXkBS5E7VPRV6k0xCqeh_05UDsYcg_sU1NSqjV2sfbUdnCviFJtFnb0nsZ4-gUQnNFaI7MLxM2sWRv1hFTBs8wZl_gOUEtuVbHdEhBxv7iekaiWO28xIN3MvvPbGhQoykCo6Yu3L0qrpQSMoHksvaIaEA",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAupQLdVWoRRv-WZw91kA3BiSmsryCLRpClRvAKjhPzIU_Dqmb1BO_PKOh-qA7urTzDLsbndtXB4t5LKvEPsQD-WORA5Oj35ktWej3cKA3JXLy-Jg-srzOOz44nJqtmkbJEhA-wCa0Adcyq1jLI5Z_3YupGhRP7kot2RF_fcD1VSbnCkNJLbwAYw",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAT5rzty7-J2zb4qbbJVNhugZFP6QaB3gtVSEHDLXjPD9JaJdOjx4HgqfIYMhgD5o9Hin8SUcjL3hV0HKudW27-Ffrpyhh-vJ7kXRp8IjLJGNWjFrhBoLV8Mg4kx3nP2lDEhD3AAXZSH82JlmMb7I_mwMkGhSMwvoT3ZEHWpoJfXLljPjXUI98Og",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAXK6cSBeXodouNrPqK85949PbyHz82OTcnOUPccCQ6E1a0ltKbkniJKElmCbSG7FTF1unr3ztfcB86SQGuekO-0_xIEpNsQSNSKmd1NHkBSdn0ZbdpOOqmWXDZnR07gXUEhCjl8noQyBcBVmnhv4KOgmIGhTEqcfPtqXqNYemlAv_AevO92I4uA",
+            "width": 5472
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114817090572518423255/photos\">K.L. U.B</a>"
+            ],
+            "photo_reference": "CmRaAAAAIsEaC-wXvoqLx5GtRDyYiQ0TpKHDZdE5ANgbH8WlE-DolELXxJZMXUAuJWk88QvNf3WlqTr-k7BKJjw7n76OmKrazADGQxEdK3pNEQ9aFGLM5h5Zh1kFFwLrU9yiKUmZEhCHcv_OAkBdNRPJLsu7gaeOGhQbSxButIEw9-rLvRlCCvbIJAAyrg",
+            "width": 5472
+        }
+    ],
+    "place_id": "ChIJP4-D_O3R1IkRUAUe4MatnpU",
+    "rating": 3,
+    "reference": "CmRSAAAAD_WBcR5V5a33C_ETRSqund19f5NQ3bGwZ44lcRC5YakVg2oDyfEu5JNiq0MQhSvY3KLxz12kgLz_fpFs0kJ2cmk1pR4ZwPiFyZCe304uhzpSAfkknPB7osH9KO0YNwhDEhCg7BSwsJB0fX5ZGZGwIY-SGhT-KfhsWnP07aHFy4YLOCg2sUaYcQ",
+    "reviews": [
+        {
+            "author_name": "Ms M McEm",
+            "author_url": "https://www.google.com/maps/contrib/104976533163997742734/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-y_g4dWL5M0U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2osCAu0BmI0x9-z6mbCweRzSw27w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Get EVERYTHING in writing. Do not agree to any verbal agreements with the sales people at this store even though they try to tell you they won't forget. READ ALL fineprint on their contracts. They backtracked what they said after we comparison shopped other stores. Get sales person to date all paper/contracts for product AND installation charges. Also ensure they date and sign any quote offered. I got Jamal the sales person to write the amount we negotiated for installation on a small Post-It note even though he said he would remember. Thank goodness I did this as when I returned to confirm deal and make payment, his $ numbers changed. When it came time to separately pay the installer, Jamal denied the installation price per sq. ft. he initially quoted saying he would never quote the rate as low as I said he had and that I was mistaken. Had I not kept written proof, we would have paid more to the installer. The installer honored the lower rate Jamal quoted, was on time, and meticulous in his work (Joey).",
+            "time": 1520779244
+        },
+        {
+            "author_name": "hassan farhat",
+            "author_url": "https://www.google.com/maps/contrib/107404105459927127464/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NSGHOX1saPI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3X_RtKHqMsTa0Y0VJxotjTTghlnQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I definitely made the right decision coming here. Very experienced and professional staff. They assisted me with choosing the right flooring that suited my needs. They even squeezed my job in on short notice and got it done on time. The installer they sent me was very polite and had amazing craftsmanship. Definitely recommend this place for all your flooring needs.",
+            "time": 1517266180
+        },
+        {
+            "author_name": "Carl Williams",
+            "author_url": "https://www.google.com/maps/contrib/107886648479998963916/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ptiCi_-RiDo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2TUzi0brIiSolVQci3DTjYXPeNxQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I bought 900Sqft of laminate and pad and it looked amazing! The knowledge their salesman provided was very impressive. Would definitely recommend for someone looking for a large selection to choose from. My renovation was stressful but they helped make flooring the easiest part. Thank you!",
+            "time": 1518969660
+        },
+        {
+            "author_name": "Rami E",
+            "author_url": "https://www.google.com/maps/contrib/103773488524958556087/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-n-3CKOdGLb0/AAAAAAAAAAI/AAAAAAAAALY/t6Zq47BabX8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Excellent experience! Not only was my job completed on time, Installer they sent was very polite and took pride in his work. True craftsmanship! Would definitely recommend!",
+            "time": 1517261183
+        },
+        {
+            "author_name": "Nicola W",
+            "author_url": "https://www.google.com/maps/contrib/115956201081840780164/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-whz29_Fztx0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1MY8o7NC7Y0onaycvawJxcdIYiBw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Worst installer ever never get moe to install and never listen to Neil they are both liers and only want the money, they do no care about the finish product. My floor has gaps now due to poor installing!! Will never go back to them in future wasted my money on this floor since i have to redo it and get professional installers not micky mouse installers like them ! STAY FROM AWAY FROM THEM",
+            "time": 1515003642
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10781245627646739792",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road #6, Scarborough",
+    "website": "http://flooringliquidators.ca/"
+}

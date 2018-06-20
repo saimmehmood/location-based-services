@@ -1,0 +1,151 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B9",
+            "short_name": "M1R 4B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "85 Ellesmere Rd, Scarborough, ON M1R 4B9, Canada",
+    "formatted_phone_number": "(416) 385-7527",
+    "geometry": {
+        "location": {
+            "lat": 43.7571238,
+            "lng": -79.3125399
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75847278029149,
+                "lng": -79.3111909197085
+            },
+            "southwest": {
+                "lat": 43.75577481970849,
+                "lng": -79.3138888802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6ceaf2f5f7e2cded59703a40522d6fc10fb53c5f",
+    "international_phone_number": "+1 416-385-7527",
+    "name": "Majestic Diamonds Inc",
+    "photos": [
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAAJI5bslBltAQmkgMciWSqXMfmgEwSve6_HmWpkDTgY-fLLhDU677hj4e1S1p_jvEWdrSutiGtJSznEM8pmFWM5rE8fgwIk9MzfmjOv3ONRMXQmWbWcx3gEmTmmvdMxJnEhCR9HECYXIpwpIUtjm4L1MtGhTrIuWXnuFch2LxPF0Xzl0GF9HfLQ",
+            "width": 5232
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAGgWrNJB3WE1ef2HHiq5jmU4sZDAXE1fEtjTDwjB21hrfBb2MEmJ1QxqNx3A-cnkfzsB-QTec8GQ5X0W9dPAONMW11ywQLIlX2XGZ2qhX7USOho2Hw3Dn35APGS7awbVgEhDz67wlqdr-azVYplfDB2AWGhRllaxs24z9CMJKTKRslUG8M99TSQ",
+            "width": 4896
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAxVtCyWR1fWIOkG2uhRTC1YoL_MYc01M-vBByEs3TSXxUIOKmitQfFpB4p9ivgbmZ8grCM9TT47NVqgrywtkMB5yE_T4tU4ufQ1GWA-lw90MKUvvNdlgu0bha29mGwoT1EhCW3eGsSWil3X1B_QJY9J9nGhSIX912WAItDpTlNsCmKorB_OqmsQ",
+            "width": 4896
+        }
+    ],
+    "place_id": "ChIJ41VtI23S1IkRnWguyyO7atc",
+    "rating": 5,
+    "reference": "CmRSAAAAc19r_CyCgf3yxHl-3_RS3XGA3XF5SVwN5Y5sNgpcC1XdsSwCQEPT70DIeVcJrXA-73L1eE-iDwFdrV1KQAOS-4XlXKV87K6SNclU5_-MKrliq_QHZ6CUYHrbM8oCWHaGEhC2DbquCdPB7qBnQZobfRpxGhRx0952wlKBOFziYRUdnp1qE_SjeQ",
+    "reviews": [
+        {
+            "author_name": "Razmig Papissian",
+            "author_url": "https://www.google.com/maps/contrib/111139457617120825316/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0n-kT-Xz8d0/AAAAAAAAAAI/AAAAAAAAI00/8A9pIfaYNQw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very friendly! The prices were very very cheap compared to what I saw at People Jewlery. Amazing quality jewellery!",
+            "time": 1496966954
+        },
+        {
+            "author_name": "varant papissian",
+            "author_url": "https://www.google.com/maps/contrib/104188953996053416144/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-T-8N4qVHvdg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq11jUF9zfDpb7Gia5UZI3NRsho8jg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Went in with my brother, found an amazing ring for a great price",
+            "time": 1496967033
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15522424828092901533",
+    "utc_offset": -240,
+    "vicinity": "85 Ellesmere Road, Scarborough"
+}

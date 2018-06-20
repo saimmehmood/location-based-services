@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-19",
+            "short_name": "1-19",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hemlock Avenue",
+            "short_name": "Hemlock Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3E9",
+            "short_name": "M4L 3E9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-19 Hemlock Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3E9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1-19 Hemlock Ave, Toronto, ON M4L 3E9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.66992200000001,
+            "lng": -79.3146733
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67127098029151,
+                "lng": -79.3133243197085
+            },
+            "southwest": {
+                "lat": 43.66857301970851,
+                "lng": -79.3160222802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ccbb3bd8ff08fc727edee0a666a81da2b620c175",
+    "name": "1-19 Hemlock Ave",
+    "place_id": "ChIJAQ667IrL1IkRSyt_T5P9gQ8",
+    "reference": "CmRbAAAAz3vc1bMI-Hhd85BCDW3Jiwb8NfHcbqXWV-70izbJnDxtWIo9Anffbu9UtMkkL1vzphuRyokEYNm_z0f1_mT7OMDcAWJNSgKaSo9DAmi79w7gYB3IsO6rfcZGffP49pgdEhDlsbi_-DJ2YpfphI3jciA-GhSJanMdTQEIRyovozZL-DwwTa2mRA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1-19+Hemlock+Ave,+Toronto,+ON+M4L+3E9,+Canada&ftid=0x89d4cb8aecba0e01:0xf81fd934f7f2b4b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

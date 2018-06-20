@@ -1,0 +1,208 @@
+{
+    "address_components": [
+        {
+            "long_name": "1275",
+            "short_name": "1275",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1275 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1275 Kennedy Rd, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(647) 223-3939",
+    "geometry": {
+        "location": {
+            "lat": 43.7578511,
+            "lng": -79.2775032
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7591450302915,
+                "lng": -79.2764248197085
+            },
+            "southwest": {
+                "lat": 43.7564470697085,
+                "lng": -79.2791227802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6360ee5a126d7d1275eac0a618d28a6d206202f5",
+    "international_phone_number": "+1 647-223-3939",
+    "name": "Lifestyle Flooring",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAA3CUGpd7MYg7bY0WrzHn25Dwk3YLm1BgmRbhSceyrFSey-_F3g1emcsJDIwsjtUw6CsVcVXdkL-Ard40MOpvDRKn6jH1YkJ-0FruhQM0L-3mRxHlM4rh6Sw9yOrh-ysTEhBlcRCn1iBGoVNEGTqJxMEvGhSI-eHhCu6DrUB58e5Ob98EhvVtmg",
+            "width": 2560
+        }
+    ],
+    "place_id": "ChIJJ0b7Cu7R1IkRsdaF2m6rtfA",
+    "rating": 1.5,
+    "reference": "CmRSAAAAvz58AVCtePGUze-mmymJvKMgePqDtTl9hbmwSkuRw3m6ynIFan1L5VYH_2SxuJAj85IqsvA-J5sCbDbMaGmhYfxO7sh4Up5SVvl37GSgYql35uFtNnclX46Wy414lRscEhBjJmhpapo5ShUeNbTmj5W5GhQFkR3G-mgBufNBfTX9VQGQCMe7_A",
+    "reviews": [
+        {
+            "author_name": "Systems Coach",
+            "author_url": "https://www.google.com/maps/contrib/101909407006280767577/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-mbwNFoi9A8E/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1_wOfhKVAs05x5LdAPIxAPTuSnGg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Website says they're closed on Sundays, but they were open. Went in and was completely ignored by all 3 employees who looked up, saw us, and then went back to playing on their phones. We left after 10 minutes, they never greeted us and never offered any help whatsoever.",
+            "time": 1506889460
+        },
+        {
+            "author_name": "John Creek",
+            "author_url": "https://www.google.com/maps/contrib/116925486178419395798/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6e83IPIk9DU/AAAAAAAAAAI/AAAAAAAAAZ8/uOxXg9edB58/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 years ago",
+            "text": "you get what you pay for, installation was mediocre, gaps at the corners, for rental homes is okay would not use for my own floors, installers laid out flooring outside getting it all dirty.",
+            "time": 1413862546
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17344958032488289969",
+    "utc_offset": -240,
+    "vicinity": "1275 Kennedy Road, Scarborough"
+}

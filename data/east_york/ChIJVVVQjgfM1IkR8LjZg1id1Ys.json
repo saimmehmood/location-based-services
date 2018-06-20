@@ -1,0 +1,226 @@
+{
+    "address_components": [
+        {
+            "long_name": "2006",
+            "short_name": "2006",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2006 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2006 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(416) 799-1871",
+    "geometry": {
+        "location": {
+            "lat": 43.6703344,
+            "lng": -79.2995804
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6715923802915,
+                "lng": -79.29819376970849
+            },
+            "southwest": {
+                "lat": 43.6688944197085,
+                "lng": -79.3008917302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c98aee9ca61d3159d1548299abf063184baaa1d7",
+    "international_phone_number": "+1 416-799-1871",
+    "name": "Dream Media",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 PM \u2013 12:00 AM",
+            "Tuesday: 12:00 AM \u2013 7:00 PM, 11:00 PM \u2013 12:00 AM",
+            "Wednesday: 12:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 PM \u2013 12:00 AM",
+            "Friday: 12:00 AM \u2013 7:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 658,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAvSgfhOrPiTSaeI8u74ltnRNnDeT9TOiy-_YwFEjk9H423OA01JLoFn8PDyiE74oIopje5VUczLk86PrnhTzb_8PJK8WZsE9GW9kLIP4FYJMv9FX4IxYiM-JLeMTFaGL7EhBo0TY-GQG5l1MjKrEWUqDMGhTeBgSVauW_BV91qEUveyF5Dw9xHA",
+            "width": 1024
+        },
+        {
+            "height": 635,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAFUiv3JF8HG_FcesCXKLhHPx8ljnDGcaW1XdYGhbtRXykiJcZyqy-Jx2LeczLUch9WWSV8Bs486Xc5Wy02Wu31basvxh2gdCPM6SKI1KDGfOxyFnXsi7wP51M2tA7fDe1EhB4cyldyoqR0OlD2ztNcZt8GhTEa5gfR58BrXU0pmDj5ERvm2DFcg",
+            "width": 847
+        },
+        {
+            "height": 549,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAz2rGmc_0xrgBBAjkryNKZ72rc_r7pT5KU66fTc1RuTGIIOeUMq6snbiyks-PBZtn1ksWXkms0J9QQhEDkHaJj3vBhnTYTokoaDGBobGKYemf3FZxlLY7mUb-4nImHZEtEhAMqDDucF2k7ghYTBZNfeGTGhSfEDtl9yP8Qqqsa-MpnMupHkBfNQ",
+            "width": 800
+        },
+        {
+            "height": 788,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA4D8d_eK5sS3X1BihhRTWCqN1LYgsHGxfRtcwWEFMnCkosRs37srIIY8f-g5jNQ0SWAytL9JkGxcohgpolbTFQL6KrdxqqWSGJtHyJWro8iNR0AthFw8coz6ZM0B0yXznEhDal849RECeRrc4wjqid3f8GhT35aIAUyqW-M1M68z8a3s91mJ7oA",
+            "width": 940
+        },
+        {
+            "height": 370,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA3b7o4DIM2-EjMENJx0zOVZl9uI8iPyqafLp9p005xVVsd-GrHKfRTz3PuMqrQTNWbR8xoJG47b6l5Drj7Pnwe_rhXX0AY-gcGU1O9Z8IYQ2UO92T4ofv2vMIa2RuikOUEhDu6dOegSrAtJjFWodXRmekGhRa7gzUCrq-eHLV0GtTBxXRBcc21w",
+            "width": 550
+        },
+        {
+            "height": 788,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAleUr8Ahp-pE1OOi7YG3ZtDmpgMwo9eD2Io2XOo6BQPRHlQZ9diRj6Gh9KQ4OwVy5i7tvghETC4QvZuamtQVAseIHuuJU4P38ApnOl4AbQtQjPJgPyfbdPwJu4UZE02mKEhDpCRMCq_WAHhWeLJyc3Zp6GhR6wz8a5lblhRP92CHOCP6EmgV1vg",
+            "width": 940
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAR7SNMKPWnIedpVBgLTqkNgzLgwW5pn_EqtwKucPaf1M3Hj97YtrNKItkswd9KFpln7KsYSflRlIB_DvPyVspdd5YHv6AFou9gwPNkL9g636MEVdTVjU7Sg5nmSsS3jUdEhA2Pyf204KX7INzjt4zIOzcGhRos9JbsvAGM3msF9COhP7sE5ANfA",
+            "width": 500
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAqDC9DCyqcHRxmzFeEC3vuf3lpPCAV-J0uiul8FA1tQboBc4g271p7VbUc5GYexSAQkDy9OXUh_g4klFFXGuMIrmoT8dk4hLarOMHGWXkhec7tppPqg3AeKzmcTpm0Yk3EhCz-WYkraOrhvuYFkHxmKCpGhQfssBRkoHXcp3lWg1lCMj9V1ErEA",
+            "width": 1080
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAwtmxuKuHNB9Eg-aRvM6Ctlv81HbDPQ73OLtpePWSukIpozlQCDkft0Yn3qf1ZCeCXgEpBRqIHO5G-w31q302weYlTO0tU1NXcnmVa35xFQ65peGH84pTO3W48zvRcn1XEhBdX4Pr4JH62WFVtmj5bbYZGhSHRwJVn3VvcFCPgYDhrzTeLDRqew",
+            "width": 1080
+        },
+        {
+            "height": 788,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111170806351389453443/photos\">Dream Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAp8d9tC3MYh5gU63m7-L4GtMNBYTwS03vgGMuxVEtaRitAgXoWPOA_b47RIcxS9qTDnkk4a1AZr11tzn8Xz-7eHCdmHhD8OeF-LDQIKPIT9CoF_G0gO9FrCzkPwM3XQOYEhCFq9f___3KVjpBCIySUujGGhSFsO0MDj1OwCrQymzzQlDzdhALgQ",
+            "width": 940
+        }
+    ],
+    "place_id": "ChIJVVVQjgfM1IkR8LjZg1id1Ys",
+    "reference": "CmRSAAAAKIIQTmJZ56HhCE_1Q9FQHkMyaHSJ4EyZgebnrGuGOujsd5vAn1tH2-b1scQlrDgA31pbPeYP8fk7XxwqZQt1PN7XzYLFpdxQqCljeaaPsRZSVb5Bbraqs1Ak9Ip1Ww1aEhBeAp7bna0GOKj4jzBe_PrsGhQ144DeOBYiip4Bkjr7_fSBsy4dAQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10076132744806119664",
+    "utc_offset": -240,
+    "vicinity": "2006 Queen Street East, Toronto",
+    "website": "http://www.dreammediagroup.ca/"
+}

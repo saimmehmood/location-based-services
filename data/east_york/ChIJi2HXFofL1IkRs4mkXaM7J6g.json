@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "1289",
+            "short_name": "1289",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y6",
+            "short_name": "M4L 1Y6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1289 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1289 Gerrard St E, Toronto, ON M4L 1Y6, Canada",
+    "formatted_phone_number": "(416) 778-4440",
+    "geometry": {
+        "location": {
+            "lat": 43.670737,
+            "lng": -79.32809499999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6721578302915,
+                "lng": -79.32678066970848
+            },
+            "southwest": {
+                "lat": 43.6694598697085,
+                "lng": -79.3294786302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "a55aa1bd84e324be03ebea1e239a8eed04151cf8",
+    "international_phone_number": "+1 416-778-4440",
+    "name": "Brickyard Bistro",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 3:00 PM",
+            "Tuesday: 8:00 AM \u2013 10:00 PM",
+            "Wednesday: 8:00 AM \u2013 10:00 PM",
+            "Thursday: 8:00 AM \u2013 10:00 PM",
+            "Friday: 8:00 AM \u2013 10:00 PM",
+            "Saturday: 10:00 AM \u2013 10:00 PM",
+            "Sunday: 10:00 AM \u2013 3:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1329,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117403579426994515223/photos\">Brickyard Bistro</a>"
+            ],
+            "photo_reference": "CmRaAAAAj_DMMqg6OhXtZ6Q1KJl2dPnDf74oXqL3lbb-LORLMxV76vAF6Iqu85-3LiIlUaUFj7ZWEuLp3sXqAHFQv2xCepR0jr7qxzedNg7UfAvTswZvmhlphHmereYXAT_6hBEiEhC7GdH0nCFOUlzFLCO5tLPqGhSFhVi8K8WXYd2Cu_Ax_0DN8F9iPg",
+            "width": 2048
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103197348475386917006/photos\">Mel Drake</a>"
+            ],
+            "photo_reference": "CmRaAAAAYvvEIZ8iOeUl771UdVHzOmJR2clg6RQT7MbBHJrCv0BgoEikq60hn4qVwoswqjaIdSTBeLKXQk1xENRPYb-SDj15P5T53EVp-vh3jymQpkX6sT4FKvzSrYcv6BqnNzEFEhDgqL1oK0m_g3K9HK-JMRfiGhS2yDnpMBgUMVkY4wmHceytrKahig",
+            "width": 3264
+        },
+        {
+            "height": 1936,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104184182520540909007/photos\">Lefteris Karagiannis</a>"
+            ],
+            "photo_reference": "CmRaAAAA1EhNgWLKUn4BqN1v7xal7EqHlVUeczX6qCNiNUFMz2sER06Cw2yQ0hcOX58dfPqR5Wvt060iSHlPrLSSIFVAmDC2fD2WnpYwVBnV0jZ1HjPxkBQ71-z6tSqjZ_fGPDwlEhAlAPqu4UvKiBGfgD32iWfUGhT7oHKXUTAu36BUhR7U3g4avookxw",
+            "width": 2592
+        },
+        {
+            "height": 1325,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117403579426994515223/photos\">Brickyard Bistro</a>"
+            ],
+            "photo_reference": "CmRaAAAAVaf1LU37LlCEEqpVVE3PTCXytbgru6gRlgl-5DKlBgO_F5xuBPGpdwxDT8mmaYVzmWngB4Actp52pXlcYubfLuLJwERMdHGY7sT8JLG6os4PJLeHVRCY0VvMWF33neZ5EhDz2wQXkHjsG0pyA4wkBxRRGhRDAyzxAOljSB8pFj6NNI_TVgGKCQ",
+            "width": 1200
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107445921590985996107/photos\">Jennifer Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAAABBLDcuNsr7wQwIyP0LSHdZaVZumoDsvfBX4p77ZeVvSZlZPuVRJ_ZMLxeiK8nKl1lhnjeuCHURducrFC17d8K-MUqQu8Ga0jnBLS0BlX__1375QtILOWDmBxQugrKf2EhChsj7SQRjzuoNwbvLbsW0lGhSvWwUtgRwMZ2HrbrT9SvAwSzkz7A",
+            "width": 3024
+        },
+        {
+            "height": 7142,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117403579426994515223/photos\">Brickyard Bistro</a>"
+            ],
+            "photo_reference": "CmRaAAAA_isr4XusMdblV8E2WtT1wHMLvwpcTp3IbT2SOU_dnhbpbPRiWPb9BnotHgPTtx_LNOCYM8U1TeyL4v0XqGaPu_jk15-sofsHdnC_H851hko2ptLnKdFRb4zRsxyMz75lEhBsAh-w8__EqPWMwEMxRv40GhRca1FqZ5EOx59bFzpS5wS11eJYCg",
+            "width": 4767
+        },
+        {
+            "height": 1072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117403579426994515223/photos\">Brickyard Bistro</a>"
+            ],
+            "photo_reference": "CmRaAAAAk5t-PgAMg74rGrMNA5Vv4bB3wDHfLX6qtRDSCDX16MjReixxu5W3YtUKlixZflYQsggoGw58FjBuEfDYBnxFVbv9FY9nUzukp6UB-pLy_EuCmgI4FFRvlQrCCkvgtOqXEhAolJtIfb7QlBU9-lFo-BrVGhSSyP0OKuxO_HmYg7NQbi0SDpHDPw",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111016402620332107965/photos\">Corey Durand</a>"
+            ],
+            "photo_reference": "CmRaAAAALNZ_SqW0DmlwQf2oStSjoSyfIMyJ-JWt_SknszGisW2Y1L41qnheDIWfS3dmu0aNJgrGwEEX3UZ8wtAUhzg4ml_B-EIA9LopzIJcq0AQYQkNhPIrTimrwf2CA7YhoUGKEhDXBGFAztNzoIG2n9qKVa8VGhR8jCtP4Sni1eppbmH0_tuHf5Pv_g",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110806098296595297458/photos\">Clivia Gardens</a>"
+            ],
+            "photo_reference": "CmRaAAAAYiNRwd4T6tgSCB-8Mprv8iX3tLMylXOWFPb_PZzsiJ33kWj2IB3d0oyA0aLCj9z47TqOglBzKSRJKUAU8BKNePBzuivUas0opGeMGBP-uNDjjMPPSpg8HG0UR6mp3fwmEhDftsihBnzMdCe4opsfME8tGhSL7Vev7VV59U6GNg791rgBmIa8Kg",
+            "width": 3024
+        },
+        {
+            "height": 1350,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101150318515768385088/photos\">Mezza Abdul</a>"
+            ],
+            "photo_reference": "CmRaAAAAP00H2lWnQytRIdixHb5BdjiZ3MhRl2kVQMS3x2463h6yrY8mPtnodw8Ep8SVxkvQO2pCdUsuv8RV8Iwro98_OU04vR8jrCggeGk4zr7h5iNMFS7ouPPJEGdhrkc6P6TgEhBHnayJghUQiJdkzaUQ7m-rGhTzjSni37v9C0w3ksGwdjSbTvmKLA",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJi2HXFofL1IkRs4mkXaM7J6g",
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "CmRSAAAApxaIKR7Cpb2W3ZVXg7SK7OaJxaQm_JQBDCrQWWZ5d84K-93T0JvBgvoo-XaRI0ek8YkYhFLSHI7VmlyrDNlYD6PwVMrECVhTZPsSvtEaWuoCkrXdBOPI233kmf-5cynUEhC0L_l3050WtF5Q1-uFTFzoGhQBh7AyvRbF-OtW46Zb6n23Bbt4jw",
+    "reviews": [
+        {
+            "author_name": "emily challis",
+            "author_url": "https://www.google.com/maps/contrib/111204088252584375092/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0N-SSXK-mx8/AAAAAAAAAAI/AAAAAAAA8UA/IGor6fNt4dU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "I do like this place, but today kind of left me feeling like my business was an inconvenience. I came in at 2:40 on a Sunday, just for a latte. They close at 3, but when I came in, it looked like they were closed already.\n\nAt the counter was a man counting money, who greeted me with an icy cold stare of death haha I get that he was counting, and didn't want to lose count, but you shouldn't be closing till until you're actually closed. He didn't say anything to me at all, yet throughout the entire time I was there, I could feel he hated me for coming in . _ . \n\nI get it, it is the long weekend, they want to get out and do their own thing. But if you're open till 3, then I shouldn't feel guilty for coming in before 3.\n\nA friendly woman from the kitchen comes out to greet me, and I tell her I was hoping to grab a latte. She tells me the machine has already been shut down, so I'm offered cold brew instead. Their cold brew is - amazing-so I happily excepted. But I guess I just still left feeling like, my business didn't matter as much is all :-\\",
+            "time": 1526844041
+        },
+        {
+            "author_name": "Dasha Pyat",
+            "author_url": "https://www.google.com/maps/contrib/118017881256334952586/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-s8yaiPE4Qfs/AAAAAAAAAAI/AAAAAAAAABc/5Espz6wvrlY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Just fell in love with this bistro for lunch!! Such a cute vibe and decor - love the brick and plants combo. So glad we found this in he neighbourhood. Great little menu! Salad was fantastic.\nFYI they have wine/beer weekday deals - grab four friends and reserve the booth in the back!",
+            "time": 1520363586
+        },
+        {
+            "author_name": "Andrew Haggith",
+            "author_url": "https://www.google.com/maps/contrib/116123670183172252645/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-tdhyzAdo8gA/AAAAAAAAAAI/AAAAAAAAAAA/WiNBwwAKmls/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I came with some friends to check out this bistro. It was warm and inviting, with a comfortable feeling. Like a place I would like to take a date to, and celebrate a milestone.\n\nI can't comment on the wine, because I'm not a wine drinker, but I did try a beer pairing with my meal, and it was excellent.\n\nIf you're looking for a fun dining experience, give the Brickyard Bistro a try. You won't be disappointed!",
+            "time": 1518060916
+        },
+        {
+            "author_name": "Paul Hewitt",
+            "author_url": "https://www.google.com/maps/contrib/108310251719566314465/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZIS127B9L-U/AAAAAAAAAAI/AAAAAAAAABY/hn7HpD_sPCE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We love this cozy neighbourhood bistro!  Very friendly staff and chef.  Small but varied menu has something for any taste.  Dishes are cooked to perfection and very reasonably priced.  Free nearby street parking is a huge bonus.",
+            "time": 1521772807
+        },
+        {
+            "author_name": "Mel Drake",
+            "author_url": "https://www.google.com/maps/contrib/103197348475386917006/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rbHBSoyveHs/AAAAAAAAAAI/AAAAAAAACOo/RN8RfDDTn5k/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Friendly service and a charming atmosphere. Like every brunch place, it gets busy the closer to noon you arrive, and even at 10:30 there's a line for take out coffee. The coffee and tea is excellent, the brunch nicely prepared with reasonable portions (though my duck egg was overcooked, a common issue with them). The service was superb, friendly and warm, and given the whole floor was run by one server! What a champ!",
+            "time": 1520178004
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12116718895300381107",
+    "utc_offset": -240,
+    "vicinity": "1289 Gerrard Street East, Toronto",
+    "website": "http://www.brickyardbistro.ca/"
+}

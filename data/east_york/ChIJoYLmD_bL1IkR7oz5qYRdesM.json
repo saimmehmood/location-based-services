@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "244",
+            "short_name": "244",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Woodbine Avenue",
+            "short_name": "Woodbine Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3P2",
+            "short_name": "M4L 3P2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">244 Woodbine Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3P2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "244 Woodbine Ave, Toronto, ON M4L 3P2, Canada",
+    "formatted_phone_number": "(416) 698-3130",
+    "geometry": {
+        "location": {
+            "lat": 43.6698612,
+            "lng": -79.30644579999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712310802915,
+                "lng": -79.30499996970848
+            },
+            "southwest": {
+                "lat": 43.66853311970851,
+                "lng": -79.30769793029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "6f972bb7098ceb87e1bb354be6db900fdfd4060c",
+    "international_phone_number": "+1 416-698-3130",
+    "name": "Leechild Innovations, Inc.",
+    "place_id": "ChIJoYLmD_bL1IkR7oz5qYRdesM",
+    "reference": "CmRSAAAA7u1Zu3tO4Vnh8ajrPbPeLM24HoCg9bxIZCEbKma7bBarxS_DcGpgMwq8yHdqkN8vc-hx8k5EOMdVRzv5JFhSSf813pO9fQ29bpHCa7iMA-ZA4AphfAZnMsQWI22IwzopEhDXtPRFDS5idiJwrtMw6XpIGhSr8HXKwQI10FYA4gWgFijor3lDng",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14085673608923417838",
+    "utc_offset": -240,
+    "vicinity": "244 Woodbine Avenue, Toronto"
+}

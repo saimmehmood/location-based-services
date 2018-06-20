@@ -1,0 +1,76 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 1G9",
+            "short_name": "L5C 1G9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 1G9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Mississauga, ON L5C 1G9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56084000000001,
+            "lng": -79.64427599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56218898029151,
+                "lng": -79.6429270197085
+            },
+            "southwest": {
+                "lat": 43.55949101970851,
+                "lng": -79.6456249802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "bc35d7d95513bc5d5525d80234a79041da1d5a41",
+    "name": "Forestwood Dr At Jessica Crt",
+    "place_id": "ChIJRQj9i7FGK4gRziOBAiQRcdI",
+    "reference": "CmRSAAAABC3Q5e39EA6Oar6ZrITfJeSVOHaGhFMS-CxmqmFI-_ko6LHD0wX1HUy1j09oJcQYNTsgCyRaUrFc95QD6V8llhHtGYuEN2wXKFQqAHw9CV0EnmSmq_JPvivUWE3I_ygLEhBdxuRwI7JfUCK4_6-6GqMhGhQp0mjS_UOt8XsUomLd-bv0wDX1Bg",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15163920266691683278",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

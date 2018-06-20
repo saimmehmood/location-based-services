@@ -1,0 +1,258 @@
+{
+    "address_components": [
+        {
+            "long_name": "3",
+            "short_name": "3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd #3</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd #3, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 270-1111",
+    "geometry": {
+        "location": {
+            "lat": 43.7579941,
+            "lng": -79.27873509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75939928029149,
+                "lng": -79.2771123197085
+            },
+            "southwest": {
+                "lat": 43.7567013197085,
+                "lng": -79.2798102802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e968cc9e284136f9e34ff4ba215583eb86cd6d83",
+    "international_phone_number": "+1 416-270-1111",
+    "name": "RE/MAX ACE Realty Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:30 AM \u2013 5:30 PM",
+            "Sunday: 9:30 AM \u2013 9:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2848,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117807509370451386527/photos\">RE/MAX ACE Realty Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAcHETmRuYT7Q4SjC8OQM0K6d1icGzUYubqmW6hQ5jkGS3Y1KPl4G8ZHbHfhOOJ5Dcgq7O2VEJSdZDZ9euDLRJQzhQOUrG-w6XZYRFo4xSx0fGsUk09xx_7gv4P4pySuQkEhDwtBGcXMze0bHfstMMDzYgGhSa9j_wTvqAHIYuuKwloboKDuED_A",
+            "width": 3363
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117807509370451386527/photos\">RE/MAX ACE Realty Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAvyf_DoNMNZK5GrfCJzEFC_4B-ImWSz8hoStw2s0-RBsxzyqvs_UizkqKsgmxlTjIJfdp0C9u7ISbqSpyjvYpRpNsEPJrCGW8we7OFfvpJlkUa4diSZmXePP-m0ukB_F2EhB11omfTtrqU8lweWoioFO7GhTybMixfzAWa1xYgwEVsJNd742deQ",
+            "width": 400
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117807509370451386527/photos\">RE/MAX ACE Realty Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAcRaIwMRqzKrbUETWHypJ5q02-3otUYoPWqQM2JlKlWw7K-67rQxfiHGXPkx6OyBEBi9fWuj0ccfqlGeVCiBL-04PaY9TnO3j_J3iXmCjv0xIz8xHUHOBhxkM9qtfrB43EhDNCrj4ZoGRqeBgd2QGK2SHGhRw1ohUpOHGheQ1OaKx_wBb3boACQ",
+            "width": 400
+        }
+    ],
+    "place_id": "ChIJP4-D_O3R1IkRXodmlvW2b9E",
+    "rating": 4,
+    "reference": "CmRSAAAAYpuq-mM3XB7dPqzCeZiP265hcykmYoYdqjVtdi5icB3B1S98nxCjyzkMrBph73unO7Ek9bHaAh4h5TAZBCQXwfZ8SoTaAmgsUUxBtN0DlEJn6M_MSNNT9gdgEcnprZxCEhA6utBrXDLTKckm7YW6RMq9GhTwa8HT9D5jc9ZKjJG4uzhNc6PNaw",
+    "reviews": [
+        {
+            "author_name": "Marrast Contracting",
+            "author_url": "https://www.google.com/maps/contrib/102709618531707827599/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wOfTs10ahpw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq103ekVunNHMl4PeKOQKFzm7v_62w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I have known Rathees, from Re/Max Ace Realty Inc. for a long time.  Very professional work ethic   He knows the real estate market very well, gives very professional advice.  Works very hard.  I will recommend him anyone for real estate services.",
+            "time": 1528734532
+        },
+        {
+            "author_name": "rahul menon",
+            "author_url": "https://www.google.com/maps/contrib/110957132783425495970/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WAYOk6Xynjw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2uaUsrnrUNAT5_bDK23KKSijAN_w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1525739258
+        },
+        {
+            "author_name": "Velayuthampillai Kannan",
+            "author_url": "https://www.google.com/maps/contrib/109301097221951652981/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iUzJsbLeenk/AAAAAAAAAAI/AAAAAAAAAYo/Lo4PvGz2tuE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1517523781
+        },
+        {
+            "author_name": "Kajan Perinpanathan",
+            "author_url": "https://www.google.com/maps/contrib/101002336156583273372/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dUKRqVrrz8A/AAAAAAAAAAI/AAAAAAAAANQ/a59eOAiO13M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1511476553
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15091482042248365918",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road #3, Scarborough",
+    "website": "http://www.remaxace.com/"
+}

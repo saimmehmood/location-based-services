@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K",
+            "short_name": "M4K",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4K, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6713355,
+            "lng": -79.342001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6726844802915,
+                "lng": -79.3406520197085
+            },
+            "southwest": {
+                "lat": 43.6699865197085,
+                "lng": -79.3433499802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8254df0c631bd902e89c659e9eb20e53bf06eaee",
+    "name": "Riverdale Ave at Pape Ave",
+    "place_id": "ChIJ-wd-NHzL1IkRiC6Q3pe78_g",
+    "reference": "CmRSAAAAl1k_Si-GjL4h3W_NIKX_0CJ0MdjTngS1ecsXJYyJYh8Bzio-014h4mRbKUHD_LmTGC2Yznw2Ei-Ri-VTyHhiCRRKlhpPPIY0Qo_Ducpj1bbYmLK4OUQd6C3eDTL5CRpWEhAvwXyw25twsz24fhkqYFu2GhRfBkOVljR755ze8Ojo5Sx466vV4A",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17938888001695264392",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

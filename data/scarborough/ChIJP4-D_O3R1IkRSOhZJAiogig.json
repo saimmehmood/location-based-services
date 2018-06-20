@@ -1,0 +1,209 @@
+{
+    "address_components": [
+        {
+            "long_name": "3",
+            "short_name": "3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd #3</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd #3, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 508-7169",
+    "geometry": {
+        "location": {
+            "lat": 43.7579941,
+            "lng": -79.27873509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75939928029149,
+                "lng": -79.2771123197085
+            },
+            "southwest": {
+                "lat": 43.7567013197085,
+                "lng": -79.2798102802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e742d14e01433707408db8e1538ddf0874ec4da4",
+    "international_phone_number": "+1 416-508-7169",
+    "name": "Mano Vaithianathan",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 9:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 969,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118398257721012255428/photos\">Mano Vaithianathan</a>"
+            ],
+            "photo_reference": "CmRaAAAARBQ9ZqmRHQ6nVxF9MZBKW1SbTCFwPr0a7Dh4N_GD-KVrcVoA2bl3YmUnbk9GBn_KBY1vQqI2CaE8rz3M4tBNomeZPXnyqGaLgrLrrRQsXyWKW4njCwT5uBPVYHUmisEdEhAmqiBBnGH3OyrhJlodjCe7GhQUW7nSvYfYx7WP7wslBvPh7zLTgA",
+            "width": 971
+        },
+        {
+            "height": 698,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118398257721012255428/photos\">Mano Vaithianathan</a>"
+            ],
+            "photo_reference": "CmRaAAAAxe1XFDtHV_PE36IjMccCBCiS41nhKBa0YgDcNYKuTyPvcOX2toVk9RCcvFYjxfDYST1l2WduH_j7XaW7G2fbC2XT_vk2PUbmZ411onwqzf1ngjsGcbCansfXrztG4kroEhCMKrgxg7LHwI3OEypbMKsHGhQT1qVGPmEPdFKS8iKVKQks7Rcz_A",
+            "width": 698
+        }
+    ],
+    "place_id": "ChIJP4-D_O3R1IkRSOhZJAiogig",
+    "reference": "CmRRAAAAxK3EjL7drVMFAR_uEi3z_x0i472W_b9oKSNEre1iF6aD4wg0h5incEG9dAEiIciWICjlx52_TE96e2NSSYolOMyYYvgbdlelFR_98RWhM4YRhStUvoxab3vvunqfGalsEhAt7vhwdddKa1aJytOJPWVrGhSSTEJIYuJ36U29n6auzypR1BVbCw",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2919080261412579400",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road #3, Scarborough"
+}

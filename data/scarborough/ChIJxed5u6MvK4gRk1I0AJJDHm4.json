@@ -1,0 +1,307 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birchmount Road",
+            "short_name": "Birchmount Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2G6",
+            "short_name": "M1P 2G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Birchmount Rd #220</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1510 Birchmount Rd #220, Scarborough, ON M1P 2G6, Canada",
+    "formatted_phone_number": "(647) 335-7004",
+    "geometry": {
+        "location": {
+            "lat": 43.7580373,
+            "lng": -79.29111429999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75958488029151,
+                "lng": -79.28847370000001
+            },
+            "southwest": {
+                "lat": 43.75688691970851,
+                "lng": -79.29199449999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3f1d820ac64eb91c8cff6b56b41bc0b11fb4388a",
+    "international_phone_number": "+1 647-335-7004",
+    "name": "Archery Academy of Canada",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 2:00 \u2013 8:00 PM",
+            "Thursday: 2:00 \u2013 8:00 PM",
+            "Friday: 2:00 \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105495590141199200145/photos\">Megan Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAA1JZAKlUgo_Jp6tvRVT4dxmFVCJtNYvLEKG7Wlc0RHczZKUxfbk0ui4alP5oJosHZeWtAY9q9XrKJVXBN1597lFGefCLSjdqB3HAJzmbNSyUrj3N2r6RKlVmYBauZRCGnEhCKP01l44UJaYtSWfxt73kwGhT-CofPfhdKcvlCFuCy0fUSpArmjA",
+            "width": 4032
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114889677439097767944/photos\">Andrespana Bohorquez</a>"
+            ],
+            "photo_reference": "CmRaAAAAV5jgW8NnNjdEy-FSdjntqyIGPsaWPONXQdFC9zyDhC7ALasMZeMG90U70NWqMNj5Z815fH9FtZmqLAFXEfHRrakFAmjamOsqF_Rt-oIqkb7kULqtPNB1MzYTYhje4SCEEhDO9a90VHFFjNj23Xyt33d-GhQTk-6kPN03WnFbLizDqdvI0eemDA",
+            "width": 3120
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105495590141199200145/photos\">Megan Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAA6xjNjC9zb0ufyHgZn31x0k1Zx0of9TsuGKc1aCTRoVsnWbWQXu3lkm2gR_cp6o3utz4jfA8fpjc3_Cug4s3zqaYvt8LijUx0YbzhAp-mXGwXRRL_Q4YxM6XB5G74uaJyEhC5ek8IMWIeVZ-Ru148KAi-GhT-p0TMWKDPptzBRlSSGT3sGdB67Q",
+            "width": 3024
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105579049128739590108/photos\">Tony Wong</a>"
+            ],
+            "photo_reference": "CmRaAAAAyjYMq0VXMN-P34x4lfnVDpsf-GohnNBmntEhKDlvdlPM9wc1hjpIfAt5sqcHy9XrFHragWKNJlHjMy5vsQKfBCRNQB9DmjGl67tUhx1kPNy5SJbLkEqzqKIlSVqPXKBiEhCf81y-uJz2c9Xv99dcjWolGhTZ5kj2B8cEZUtMmFcaFmfVG348uQ",
+            "width": 4160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114889677439097767944/photos\">Andrespana Bohorquez</a>"
+            ],
+            "photo_reference": "CmRaAAAAWotBWf4WFdbpmethZrNXcdPoxlmPBMlVqfq8dkesgG-hUag5YOmtB8XgECgsBasuySAeYXAbtPp-h4JjjfWUDx2GigF3NCFPqKNO7qLwlqa80NuND_tve6l3I-UYLxAUEhBRu0No_fF9Hj6femZCt-uMGhRPBzwt3Kgrtjh9BcjfdnEneG6bjg",
+            "width": 4032
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105579049128739590108/photos\">Tony Wong</a>"
+            ],
+            "photo_reference": "CmRaAAAAq0VpvS6RzIndNLVJaZIN5y3Q1r23-oyynjqVbiCwkD4hYn4Y-deCwh9CTk5dlU_Ol4soUjUyh7aX5CAMshhcqeE-vCAyWoP4HJVUI2bsp0QHuOQtvTVNLOQb3qfGP9IJEhAlC9fFC2y0r_5iPTfo7SRiGhTQmFK44KtQESNGD1x7AAC167NzrA",
+            "width": 4160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107922620935073333082/photos\">Archery Academy of Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAAfmcBpcBtd589eaIQ1BdBu5iO8nqWXWczhAsUI2PDOPLnoc1fxk5HCBGvO7bX_Devjxxfmq2Dzel92_q9vfA99-Tf4mVMlmN7Jp0cMZUSuFaYYHwcQmin2NH978_y6bPWEhBqlV-fa1V5M-Uz6xDOl8HFGhTBaysvLkezWKJq8WkVCbCtM2qCtg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105495590141199200145/photos\">Megan Oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAAovcRgzGoAYJQeIzqa2_YpVjooU4hwjEbIyTFswq8ESzvD2tDRi-uh2-vGqNFTjKoZT-2C8zccsWPESMyO4L4kKGlxmBvpB5_JsExRf8hc8iekFx38PE4rzTwWTAmAOUyEhAYzmRkDl2OCpA5LVfBRbTNGhTXV30hKiD-n4YoYWh4Kkd3U3WAFg",
+            "width": 4032
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105579049128739590108/photos\">Tony Wong</a>"
+            ],
+            "photo_reference": "CmRaAAAA4Y-Pv3e5oS_8DVS2738PkaQdY1BGlRxv5ea0G08J8RJ41muMOsOY5-W13veQcbRodf7LD1UwhZIya76uhX4Zj8ImT5DgUAVe24kd7bobwY5bDztT1SDmzUB4I4XJn5jDEhA0dHUa4yiDTEZOvHWaHrjGGhSg_i8Iaa2KV5-eLT1GW0wmD7v7sA",
+            "width": 3120
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105579049128739590108/photos\">Tony Wong</a>"
+            ],
+            "photo_reference": "CmRaAAAAUbRT-xfcKiJOd7VBTDg3JVf1pjM2Q2IGGHtnBbF5j9r8sgkbpAktIHLYTxC18AWEa1ZwT1y6v9bJe_k3KeVjGPAcDfowWPCS-CYa35_kskj9Ymlftg1Jcdlumj00D8-YEhBigEEKE3e6HlbaGhlUbElsGhSiCuMc6-33ZqhXrcWD8fwz6aVwtg",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJxed5u6MvK4gRk1I0AJJDHm4",
+    "rating": 4.7,
+    "reference": "CmRRAAAAMbmou_v_hOM947Pt8RrgV15V98c4RA94hdz7nMVNcVq6-NhnYP3Ilx2Q1bXkhOvsFElGh83s19usUYeuz9AAG8C_sVmpQDwZt5AbVzBzU6MbdygjIPl3UN3gK2qM3P59EhDJ38Y4FepLcTCEKhu5vfl7GhSFXX89w55pjZFt8nwpLfSqaqJbcw",
+    "reviews": [
+        {
+            "author_name": "Deepak Ramanathan",
+            "author_url": "https://www.google.com/maps/contrib/110630399365330657043/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ZrOy6y37Ngc/AAAAAAAAAAI/AAAAAAAADVw/HZit1UilVoQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A great place to learn archery. Very friendly staff and excellent instructors (like Sana and Megan)...patient, knowledgeable and super encouraging. A very systematic training program to support learner progress from beginner to intermediate and beyond. Another great thing is the pro shop they have, which is extremely well stocked, and the amazing knowledge of the staff when it comes to repairing any kind of issue you may have with your bow or arrows.  I would very highly recommend this place to any beginner who is either keen to begin their archery journey or just looking for an hour of some good fun. As well, to any professional archer looking to hone their skills! They even have moving targets, so what more can you ask for! :)",
+            "time": 1525536494
+        },
+        {
+            "author_name": "Saradha Selvarajah",
+            "author_url": "https://www.google.com/maps/contrib/115193450748172112017/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--2VWfLdW9Oc/AAAAAAAAAAI/AAAAAAAADBY/j9ePGjZAqrc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Thank you Sana and Megan for giving us a wonderful experience at Archery Academy of Canada. We'll definitely be coming again!!! My husband had an amazing Fathers day.",
+            "time": 1529287485
+        },
+        {
+            "author_name": "Tzipporah Witty",
+            "author_url": "https://www.google.com/maps/contrib/105056261001730642496/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-3h6HZsWoZus/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3YPqUMA4PwG1m66-Sg_bV2Qn60Pg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "We did archery and knife throwing.  Very cool, instructors knew their stuff and we had a lot of fun.  Would definitely go back!",
+            "time": 1528665769
+        },
+        {
+            "author_name": "Keegan Boyd",
+            "author_url": "https://www.google.com/maps/contrib/112333645213582443543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-W6l0JiuYIL4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3yEFsHn8aOFkFz7a3X59Fw428t1g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Awesome place if you're looking to learn the craft of archery, or just going there to have some fun and try something new. Megan and Sana are both super nice people who take the time to teach you the proper techniques and work with you to improve until you are a comfortable shooter who can work to better yourself on your own. They also will always treat you to a coffee or tea and some goodies which is a bonus and amazing after a long day!",
+            "time": 1522930532
+        },
+        {
+            "author_name": "Sabina.and.Lukasz Dynek",
+            "author_url": "https://www.google.com/maps/contrib/113104646721055816412/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-XR3MrWthzRo/AAAAAAAAAAI/AAAAAAAAAA0/DTQpJfjohuk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had lots of fun and get a new knowledge today. It was perfect birthday gift. Thank you Megan and Sana for your patience and all good advices. And for a coffee ;)",
+            "time": 1526166275
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7934853887821107859",
+    "utc_offset": -240,
+    "vicinity": "1510 Birchmount Road #220, Scarborough",
+    "website": "http://www.archeryacademyofcanada.com/"
+}

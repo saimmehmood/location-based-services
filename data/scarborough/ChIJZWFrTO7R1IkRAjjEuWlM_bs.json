@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "unit a",
+            "short_name": "unit a",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1261",
+            "short_name": "1261",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1261 Kennedy Rd unit a</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1261 Kennedy Rd unit a, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(416) 759-2277",
+    "geometry": {
+        "location": {
+            "lat": 43.7572345,
+            "lng": -79.27714809999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75851518029149,
+                "lng": -79.27612366970848
+            },
+            "southwest": {
+                "lat": 43.75581721970849,
+                "lng": -79.2788216302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f5f03402a0c91588df5399313aae0af832f25d98",
+    "international_phone_number": "+1 416-759-2277",
+    "name": "Frontier Fine Cars",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 367,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAAPcwH1R92TUpkVkiAYyRGfWLybLDUF7HNmjllridFjfO8c6ruSeNSggzBdnDKCPz2jt1c5c6FJpBTitu8ZiToKW4dzzHUeYp1_NMN6fRNYg4kxhVW2tgHDy5NyZu2TqU3EhDaTwsNHTDb5r_lTfR36LK_GhSKJerRVPr4lZy3IxZgN5rm7-To5w",
+            "width": 640
+        },
+        {
+            "height": 505,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAAdXnMSZewM_43JIqx3U1iwZfG0MwifCAcxT8JIJAr5ODhkYITW2mM7yVUQ52viZtiDOGpGA4msE-hWtNjK8IAAOLw3ND6ddl-4m8hsC0eVP_G-ehEvLBVki3BxGq5v7ExEhAKV-v0Iw6t8anAHajvSKQwGhR3EOCKOodznVLV2dyixZ5ss8Iprg",
+            "width": 640
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAANINSZWKOY6NN8k7RAI7HBZlM3LSzGtCywo6Pp29YQ6zO42HfmXKDuCbyvVpdLCMVNLonByfizsWvc-zT47PFaNwj6-CmCb-zur2hQXkFrxXmgVxYxkZClSLAUET4aaabEhBiacAMVfObFUTssZJTqmv-GhRWCwYcTkY0XdjOnIR7InKzja75xA",
+            "width": 2047
+        },
+        {
+            "height": 577,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAACHiOXCL13MhwGbglS3SPAmjjRYXVjM41Wy5EP4bJiyQiCfNEL16IfUqjcYVau91FzHKWRWQ7p6ajurwres2ISnZdFWn6888MzOVJy2EhNT01KoZmAKoOPvYoCv3ObanZEhAE77MQ_0mG62X38wW94sW_GhRkCbmZn2rFtY2Ry_juswIKqZNQTw",
+            "width": 640
+        },
+        {
+            "height": 510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104277088021428555772/photos\">Camille Mitchell</a>"
+            ],
+            "photo_reference": "CmRaAAAAj5tFRpcbizOLw1wJlkiLwKZL1zI_iN8o7ETtCgo6LYpZlornWJl0Fhrol7l6kduuHc0Db8XMCC0gvu5unN4S5j5jTR6D49XuX4n5h18EvEufIASqZnnFbD21c55o0IybEhBa-FKiyqsRQXfR95Fv7DJgGhSx6rLyxIZb1Owp4sFEsjpP2dSGkA",
+            "width": 640
+        },
+        {
+            "height": 427,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAAQIxbLDR8vr3nDYawdZq5KUPUObM150ZebDPpqa1APAkiGroTVLne2veOlso5OdzkgSCy93JpJSdWc9HWNlv6YwoOnIkGMAzKawP82I1QNNZfYTPe0wmvNsF_X3LmotwzEhAL3eTxWbjkGTVGgdDk3bPPGhQ3-4p-ChlNWX8eFmz5sdCspz0Fpg",
+            "width": 428
+        },
+        {
+            "height": 407,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAAPfmP9XX0lgWZF4UXGLd0LsD2sSmeHBzVkbtj4XPJixMVDaNNysoNoba1_SkWpbHkp8-UoyHBBMeYdvrKS3O-oGF2i4Z76yxowAZeNLTbVp4RB9Qx6VVi1zmRDsR8cM4KEhApOJpQbR8b_9God3KMQtNVGhTpn3BdFkSolnukx-gnu_HEoAf6Eg",
+            "width": 525
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAAeYU8qeK5eBFP_DD_M05vRI3tSTJUK6_CTmaglNQhgMkOgl4DFcEecraqyiBZIHUQ_LUvOtj14dixE0n-gNT1h5EDKASq7FEuYLFQB-MWP5p9YMe4MBkavE6qp9XOqECzEhDjHL2yvYU8U2GxxTTGOUTdGhT5T_m94J4JdpPlqeknG26yyUVWwA",
+            "width": 1000
+        },
+        {
+            "height": 301,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114897659549735553692/photos\">Frontier Fine Cars</a>"
+            ],
+            "photo_reference": "CmRaAAAAdbFux3jdr75dOZikfCY6zmswOK3e3nYQA6O2Usw4mf2ZiM2t0QcPwA4_SABBJjB0WxMWnpfD9NGoQORT_9k_xogmIoIWQiM87CGehwa8GwEndCtzJKbalSYKJgHTc_DVEhDyUbdKehc-YWReJmDrHU73GhQUDckQ5plOFoQDyhRAvGdKxk0rig",
+            "width": 644
+        }
+    ],
+    "place_id": "ChIJZWFrTO7R1IkRAjjEuWlM_bs",
+    "rating": 4.6,
+    "reference": "CmRSAAAAAgwErRSU-mFsTyd78A-eXp-1fEy40ABTsYdAi7-sMzPOEoqngt5Ufndzii21aj14IziTw2LjE-IOVjLzYQRlnSKlCvQqu3R74MR8EBuqmXj42l3RQMqkrGe0c6f_3EcNEhABtDPhJsb2qzty_2QBe-xFGhRO3bD15DnMAMIu95RDuLdCzErtAA",
+    "reviews": [
+        {
+            "author_name": "Janisa Locke",
+            "author_url": "https://www.google.com/maps/contrib/108334262719210475372/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iDmRUtv68eg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0J5_km_YwQtIJzwnfh1_G9sZV_6g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Excellent experience with Heather! Hooked up multiple of my family members with cars that they loved and were pleased with so I ended up going to her as well, the whole experience was quick and efficient. She made sure that i not only liked the car but loved it. Got me approved instantly, provided me with a new license plate and did the ownership for me, had the car within the same week i put it on hold. I am a very happy camper :)",
+            "time": 1527632110
+        },
+        {
+            "author_name": "Kayla Mcconkey",
+            "author_url": "https://www.google.com/maps/contrib/102372577700745289170/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-aE6479ef3u8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1q3FEkE_5rDQy-ViAfZwc0ZZlKUg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Heather at Frontier fine cars is absolutely the best! She made my car shopping so hassle/stress free. She went over and above my expectations. She knew I love sunroofs and she made sure my car had a sunroof in it!  I would highly recommend Heather to anyone that is looking at purchasing a vehicle! I will definitely be back again when it's time for a new car! Thank you Heather!",
+            "time": 1527299210
+        },
+        {
+            "author_name": "Samantha Gonsalves",
+            "author_url": "https://www.google.com/maps/contrib/110060480861116358267/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-weYgnEymQMg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0g_FCdqhWSGVpmkwSk2qPOevjGgQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Sam was an absolute pleasure to work with. He explained everything thoroughly.  Very friendly and professional. Once I made up my mind on the vehicle I wanted, the financing was done very quickly.   I highly recommend Sam at Frontier to get you in the car you want and he will also work out the best deal for you!!",
+            "time": 1529350217
+        },
+        {
+            "author_name": "Melanie Reimer",
+            "author_url": "https://www.google.com/maps/contrib/109691583225251803471/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ODeBqdCBa0g/AAAAAAAAAAI/AAAAAAAAAAA/9O1ixUfRbIE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Heather was great! She helped me get exactly what I was looking for as well as a better interest rate than I would have gotten anywhere else! She is very pleasant to deal with and went above and beyond for me! I highly recommend her!",
+            "time": 1524944077
+        },
+        {
+            "author_name": "fruitopiajess83",
+            "author_url": "https://www.google.com/maps/contrib/115836847897159434067/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cJ-ef-pVQfI/AAAAAAAAAAI/AAAAAAAAAaA/wNnFgUTXX44/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I worked with Heather Sharp to find a new car, the experience was fast, efficient and pleasant.  Heather was a great help, and knowledgeable with all the questions I had.  I will definitely be a life time customer!",
+            "time": 1528288972
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13546067271172241410",
+    "utc_offset": -240,
+    "vicinity": "1261 Kennedy Road unit a, Scarborough",
+    "website": "https://www.frontierfinecars.com/"
+}

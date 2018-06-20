@@ -1,0 +1,179 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Coxwell Avenue",
+            "short_name": "Coxwell Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3B4",
+            "short_name": "M4L 3B4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 Coxwell Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3B4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "201 Coxwell Ave, Toronto, ON M4L 3B4, Canada",
+    "formatted_phone_number": "(416) 704-1941",
+    "geometry": {
+        "location": {
+            "lat": 43.67164,
+            "lng": -79.31860499999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6729739802915,
+                "lng": -79.31732496970848
+            },
+            "southwest": {
+                "lat": 43.6702760197085,
+                "lng": -79.3200229302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "87eaeee27bd545f93671a7e4c3c90a8b3a38d902",
+    "international_phone_number": "+1 416-704-1941",
+    "name": "Off Centre DJ School",
+    "photos": [
+        {
+            "height": 3376,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111388508493120265843/photos\">Off Centre DJ School</a>"
+            ],
+            "photo_reference": "CmRaAAAAEPo8MyRYqvlrOAtfY5K9Zr00X_rFePBqHNQpgxSWg5WGpeJtWN0cBN_r_r78_c7eHo_XOIG3sQipEfZtidXSxsVzBejr443bpz_Ze7Qn3LI2W2lMrzVnX96OPDe0kEfsEhBGjLjtA69kZZcR1w4Kd7aVGhR8oLW8dY5hOY2yU9joR6fqwnXIpA",
+            "width": 5984
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103852195480213841756/photos\">Ross Whiteford</a>"
+            ],
+            "photo_reference": "CmRaAAAAYvL6pB4AN7YKrWqqrHbhQ2tjyDOYUodKXR9bw3wXZP5MyDim-3nt_G7--sF6d9k0mcrzFwvULc0iU2nlN6BLUWPGTYxtCs_tfMAyPH8hteBdL3z5ToCREhNSZvmx6ZhlEhCU3d91cmdDQQehGqQ1d-ecGhTDn3n1YvhfG33PH6ZLoqe10Xbsxg",
+            "width": 3024
+        },
+        {
+            "height": 527,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111388508493120265843/photos\">Off Centre DJ School</a>"
+            ],
+            "photo_reference": "CmRaAAAAu7G5FxYSIE0ieSKVyOSQQc6vxgQRwtVbuN9cgzB1cZZaGwcBDFzYoZhaSZQnM4FsldgQFl9j4802F_6zodjX4OBQwNPXPZasxKu3K4kvdqGdB9RM_56llsEVoGphxhAoEhCdPjgWk84zCRElF6IhuWeUGhSqix5cIEJ4aKlpG6LU1eZppMWoZQ",
+            "width": 526
+        }
+    ],
+    "place_id": "ChIJhd8L_onL1IkR3V6_-eQSYro",
+    "rating": 5,
+    "reference": "CmRSAAAA1GVMZcl8e7t_44BnTUSiztjSr95f1-stj1pBgIx6w6y6o4gh8jVnwliojdxOcSO5umavwxa81e06ra0AUkJcsI0Lf8ztNcYMtyKc19X6m2ujRIU5URMkyOvqxH_dclS6EhDrTrozNZKoi6Eo8UgWFoMlGhQbQIsHd2c441G9hd5wAkh4tVtidg",
+    "reviews": [
+        {
+            "author_name": "Shirlee Williams",
+            "author_url": "https://www.google.com/maps/contrib/100521298114131711030/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-oI_00J0ij8E/AAAAAAAAAAI/AAAAAAAAABA/ziwYQH3Paq4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Taking a DJ course has been on my bucket list for over 10 years. Right off the bat, I felt welcomed into the space. I am an older women who runs my own business. These guys were amazing, professional and the program was so much fun!",
+            "time": 1524663938
+        },
+        {
+            "author_name": "Mark Guzm\u00e1n",
+            "author_url": "https://www.google.com/maps/contrib/113601801381840614386/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BOl4J9ZxQfg/AAAAAAAAAAI/AAAAAAAAABI/cp7o0RnJMKY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The best school that you can choose! Just go through the school door, and you'll feel the good vibes on it, like in home with friends.. But with extremely high level instructors, teaching you EVERYTHING, and they know what they are doing and what they are teaching... without filtres.",
+            "time": 1521923129
+        },
+        {
+            "author_name": "Eliane M.",
+            "author_url": "https://www.google.com/maps/contrib/104791086773729790909/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-uaxodOU0NWA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3obllXywpjAsDh1zoXnWbUDAGOWw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I signed up to the full producer program without any background or knowledge in music and no idea if I would even ever be able to make a full song. Now, one year later, I have been making and publishing music non-stop since completing the 12-week program. The program was well structured and well thought out and provided me everything I needed to get started and find my way into this magical new world of music production that I stumbled on. They really break down all the basics of what you need to know in a very hands-on setting and supportive teaching style. And the physical space itself is very well set up and inspiring!",
+            "time": 1511803880
+        },
+        {
+            "author_name": "Benrod A.",
+            "author_url": "https://www.google.com/maps/contrib/114402198100489122847/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Wm85-My7kZ0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3CI_Yu6bvfJ2T7nfN3N6AEfkr2uw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I took the Full DJ Program in Fall 2017 knowing absolutely nothing on how to DJ and came out after the course with a ton of knowledge and feeling confident in my abilities to take the next step. The instructors Chel and Erik are really awesome, down to earth and friendly individuals who teach with passion! The course takes on a maximum of 5 students which is amazing because it makes for a much more intimate learning experience. The space is also very warm, welcoming, and inspiring. Highly recommend you take this course if you've been thinking about DJing and want to learn! You won't regret it. Thank you Off Centre! :D",
+            "time": 1515643725
+        },
+        {
+            "author_name": "Remi Blais",
+            "author_url": "https://www.google.com/maps/contrib/107586229200892286935/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Dc2vvtLoWOQ/AAAAAAAAAAI/AAAAAAAAAA4/WLsIgar623Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "If you're looking to grow your DJ and production skills this is your ticket. Hands-on experience, helpful, skilled and talented instructors, professional equipment and great vibes. Network with others, create full length tracks, develop and perform DJ sets, remix tracks, learn and grow. Get your ticket! Recommended.",
+            "time": 1514211868
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13430317813424152285",
+    "utc_offset": -240,
+    "vicinity": "201 Coxwell Avenue, Toronto",
+    "website": "http://www.offcentredj.com/"
+}

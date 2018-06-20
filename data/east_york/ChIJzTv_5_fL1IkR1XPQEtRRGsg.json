@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "1946",
+            "short_name": "1946",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H6",
+            "short_name": "M4L 1H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1946 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1946 Queen St E, Toronto, ON M4L 1H6, Canada",
+    "formatted_phone_number": "(416) 482-8060",
+    "geometry": {
+        "location": {
+            "lat": 43.6695966,
+            "lng": -79.3028862
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6708581302915,
+                "lng": -79.30149951970849
+            },
+            "southwest": {
+                "lat": 43.6681601697085,
+                "lng": -79.3041974802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a82f7cc6e627b6d1fee701b00dac91b65b3859a0",
+    "international_phone_number": "+1 416-482-8060",
+    "name": "Brigham & More",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 6:30 PM",
+            "Tuesday: 10:30 AM \u2013 6:30 PM",
+            "Wednesday: 10:30 AM \u2013 6:30 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100778345869559077740/photos\">Brigham &amp; More</a>"
+            ],
+            "photo_reference": "CmRaAAAAYaXr9m9rN9LXTw5iUQPxomxiDpd9FYCqXS-yfsyfI1L6ncfnGtN0joWJRlUkEhyM9-Gd-3e-scKDJenMcNkaLhbYKK6DJe0oGCDlBVj-0KH1knrnCb8SCGHGOnQSmsmiEhAJp27ig57K6PUbYIlnn96rGhQnOgygV_pqenVV_0osS7gBhycslA",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100778345869559077740/photos\">Brigham &amp; More</a>"
+            ],
+            "photo_reference": "CmRaAAAAp70v9t9vvM3iiSXo7IR8bqbYBF25ceZPeJYsK8NQTC2Mah3TOfULdMX6JI_v9UlTxaAuA-a9lI8D1SAd19fCW6z28jXkPox8-kNmJP4UvuxDWhhdZplGIr-y6fT9sNmiEhBlGlprnS94f5xM5fXaeh_MGhTHN68pwFL8AE7CGEgzoKkOn1ezJQ",
+            "width": 5184
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100778345869559077740/photos\">Brigham &amp; More</a>"
+            ],
+            "photo_reference": "CmRaAAAAr34quPIgk0nmwIkbvHPnA36E5_JClWawo00wGaktB3L3NXmdqkTW4kztBwuGFGwGoigTLwGZjv3u3V-L0WPcbHn46_MPfh5vd4Ikjta2pjPnTvYFeKuKeRZDAqZZ4gy1EhAMAzhxtrWShE4cI9jneiaPGhS8FcZ4ylB--Zk3o-ND5DlDYbunlg",
+            "width": 501
+        },
+        {
+            "height": 1180,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108312408854924087297/photos\">Kateri [Kat] Levasseur</a>"
+            ],
+            "photo_reference": "CmRaAAAAO7SylevHAhEEekJIWkmz5y3PqqHlr_hHcq0Dzg-HHWd_OXndYEXhnqP_aZC8OiiwB6TDsjAgMJYd5wXp01yZLrtU_KOIpciI3G7_Sky05EUIxKxx2zFCWEQjDAlpxj9JEhC6_828c8_dAQ_T9lVZhdw0GhQ910OuZR3x7FDCZ25l2Efv3BU6IA",
+            "width": 884
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100778345869559077740/photos\">Brigham &amp; More</a>"
+            ],
+            "photo_reference": "CmRaAAAAILsMhW8_5eLhNLnRjr0LBooXQxcx4tTJKLD32szWSaVPJNu8iOgZkBpywfTbBJnv7Np32RHHV6x_JaVCGVzyhs0_ZJjgmUwULemvVZktqCuwgUef052YgGXf7zg6dtNkEhDx5Wh8x8gbYCFv2rOh2l7vGhTn0x6wC94pCattxebYW-KJ3Oo4JA",
+            "width": 940
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100778345869559077740/photos\">Brigham &amp; More</a>"
+            ],
+            "photo_reference": "CmRaAAAAxJ83WQHu-WctOrdvI0A7aiYq-VIH6mJQyhITIjCgovyNOOH8QXJt1HtE_pcXqTkNhbbcfLYTL-Ifow0a5j2n3clJRJEzwy0JWigT03jvY9vadDgBDTUGX85jpB_I6YHlEhAe9FENL35OXgKbDoJNDTfDGhTW96rN37A9-j4TRbfOeDolc8W7dQ",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJzTv_5_fL1IkR1XPQEtRRGsg",
+    "rating": 4.9,
+    "reference": "CmRSAAAAyxLFqEf0OlZW0Gu1Qn7iwrwLfAmi94kcZhBjS4EwpyT8YtoRCdHU1Rb0VL-Y3u0CJM2hUoNmXLzYfp0Mqt8T_YEcXyWkWRLnhu5BFZrD3fN-qUZjSflD6vPPmCcwIY__EhAN5KI_YSOA-mwkDlCXBWuuGhRhK_RV_0uLHF2YjAWZolqW43mRDw",
+    "reviews": [
+        {
+            "author_name": "William Holdsworth",
+            "author_url": "https://www.google.com/maps/contrib/105977627017994850566/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vYhh4nmZAjQ/AAAAAAAAAAI/AAAAAAAAAC4/KGL-pjpNIrw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Excellent place! Great selection of cigars, pipe tobacco and accessories. Very friendly staff and knowledgable staff, also has a very nice back patio!",
+            "time": 1527931170
+        },
+        {
+            "author_name": "Eli Ouimet",
+            "author_url": "https://www.google.com/maps/contrib/101479241181363990968/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4aPS5wIKuSg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq12wUiI9F7iyHIrYTLvzt-aPnR9Rg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great store. It\u2019s a lovely little shop with a good selection of cigars, pipes and accessories. Very friendly and helpful staff that will give you there honest opinions and not push to upsell you something you don\u2019t want. Would highly recommend shopping here.",
+            "time": 1519588917
+        },
+        {
+            "author_name": "daniel Esper",
+            "author_url": "https://www.google.com/maps/contrib/116197756006346127561/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-s4PAsedw64U/AAAAAAAAAAI/AAAAAAAAABE/WHdmNl0ayyw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great spot if you're new to smoking cigars like I am. The guys are super helpful and knowledgeable.",
+            "time": 1520141879
+        },
+        {
+            "author_name": "Bob Degagne",
+            "author_url": "https://www.google.com/maps/contrib/115251779654065696898/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Nx1uSrKUkis/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3qE8W5GZoH6T6EcuX4QYWcCDKLLw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "THE cigar store in east Toronto ! Excellent selection and excellent customer service !",
+            "time": 1516412438
+        },
+        {
+            "author_name": "Brennan McCarthy",
+            "author_url": "https://www.google.com/maps/contrib/112605148495710330575/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jsD9hm-puEs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3bHZ6lVab5ZXK8qpxUNKAXkgOY-g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Fantastic selection and friendly staff. Always a pleasure to visit.",
+            "time": 1501628246
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14418927128270631893",
+    "utc_offset": -240,
+    "vicinity": "1946 Queen Street East, Toronto",
+    "website": "http://www.brighamandmore.com/"
+}

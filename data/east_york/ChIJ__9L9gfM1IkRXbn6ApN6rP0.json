@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "1984",
+            "short_name": "1984",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J2",
+            "short_name": "M4L 1J2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1984 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1984 Queen St E, Toronto, ON M4L 1J2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6700491,
+            "lng": -79.30058199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6713354302915,
+                "lng": -79.29920641970848
+            },
+            "southwest": {
+                "lat": 43.6686374697085,
+                "lng": -79.30190438029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ecebcc5fac333ca3206e28f2416cf48b4c75a29a",
+    "name": "Quality Software Company",
+    "place_id": "ChIJ__9L9gfM1IkRXbn6ApN6rP0",
+    "reference": "CmRSAAAA6xSOddUKKcs8zdpY9ANngwt5T8kOsRoOC0Azz3G4zHU60ZX0gGpgT61uk5hWTlxCKotCMpGb7TDVeQaS0H2sqOCq0s_CnPWDDGBxc-lsq6ui8YPZafkN9RfN3VMQQypyEhAtcLMHNHsXil6STBjrrRWyGhRfedkt44LnUPLL9Ik7uiiTLl65AA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18279119759418767709",
+    "utc_offset": -240,
+    "vicinity": "1984 Queen Street East, Toronto"
+}

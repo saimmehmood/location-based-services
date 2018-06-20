@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "761-785",
+            "short_name": "761-785",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hurondale Drive",
+            "short_name": "Hurondale Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 4N9",
+            "short_name": "L5C 4N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">761-785 Hurondale Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 4N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "761-785 Hurondale Dr, Mississauga, ON L5C 4N9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5608381,
+            "lng": -79.6314388
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56218708029149,
+                "lng": -79.6300898197085
+            },
+            "southwest": {
+                "lat": 43.5594891197085,
+                "lng": -79.63278778029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "94869d3b633a18524a8d8b1742d15d55818a5a04",
+    "name": "761-785 Hurondale Dr",
+    "place_id": "ChIJZYR4WbxGK4gRS6GUwMEeplU",
+    "reference": "CmRbAAAAhH2JoBksMMIdVN6DytMDycGllYs-UmxPruh_CQ-DUc9coRuWWlN8DRURZnbKQPb7dOi2SLjh_fp8vrSHEue0iXkpWoEoPAI3a1ZeGOyNfOUb0IdK7ecxyqongWxRtSIiEhAiPdANOyrT4uqBZ6tNbPXFGhSUzLqXfhgQMFx0RzD9NZwraaAJOg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=761-785+Hurondale+Dr,+Mississauga,+ON+L5C+4N9,+Canada&ftid=0x882b46bc59788465:0x55a61ec1c094a14b",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

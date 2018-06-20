@@ -1,0 +1,245 @@
+{
+    "address_components": [
+        {
+            "long_name": "1981",
+            "short_name": "1981",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1981 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1981 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(416) 968-9996",
+    "geometry": {
+        "location": {
+            "lat": 43.66981089999999,
+            "lng": -79.3003287
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712317802915,
+                "lng": -79.2990102197085
+            },
+            "southwest": {
+                "lat": 43.6685338197085,
+                "lng": -79.30170818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "45a495ad2cc1ff4a238686a50717eaafbfd7c843",
+    "international_phone_number": "+1 416-968-9996",
+    "name": "Fiorio Beauty Academy",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107361564184876838735/photos\">Vince Dumond</a>"
+            ],
+            "photo_reference": "CmRaAAAAq7jXZ-BDhUGwzw9j6MupAWOvSF240I5kMSQMV3KbAmGKC32QuhlQFhqYQyGQ3Zg0rtapNWae8oOSMd029ETyUi30b6GedQHIFZxJeAX74sUfiS9btrxvr0pDsfdIIL59EhDbbimvxAaz1no2yKA2_Ab0GhTf_6RaynQrgxfqP7eFc3_BM7Oa3g",
+            "width": 2560
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107361564184876838735/photos\">Vince Dumond</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ9TDqCWuKh48M-HMhJGa-BtsuNwVq652D9YGpC-DBIAT2Iyd2kfDoyd7gPV9WSC4GMdjNedr1-GUKHAuuK0xP98of8cqs38vQybEzunmCAg0x_XvhO6vLFmk5NHlEVmzEhABB9AassqQphjG5AY0PxSZGhTmJ2XvfFxDOjdv_xL23CCnI_Z5yA",
+            "width": 1440
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111163481899649632001/photos\">Fiorio Beauty Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAATv_xNZjyCnleno-9fJhlUjrGiTqjkp7dGjYZUDHp1fG4Ix6y46K-AYOarYD54-C3l0RZBtcxqmeO8iT5AOPjxX-RTqvrtrXiUPfYOPZPQjvNzo0NHgZGvWRgnZIpBopiEhDBnj7Bea9l8DEfht_e8dQoGhSD80IAwd62w5wnNdDZx-9Mtwurfw",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJv8wTrzgzK4gRt9HuuHJploE",
+    "rating": 3.8,
+    "reference": "CmRSAAAALeSV6IZWGlI8_xTKbA-2aacvqZn-vJ_EzWS2jNcPL6uABU7PaMZunM7364tmTPwEybldghjn_pc8OYY8Y75iu8ZQzXCYZwfFNfPnzDwoiuo4PuwJuN9JbdXJVI6CxRxREhCEi45Xu0HSgOkGLpw6HvS_GhSOYuL8I0WSRxWvH8w7TqPk4iX5DQ",
+    "reviews": [
+        {
+            "author_name": "Stephanie Bonnar",
+            "author_url": "https://www.google.com/maps/contrib/109554627155499066132/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-scMuSh7NRAo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq11z3wA0ZCYXs4rQ9aHtwijrSDyHw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "First I would like to say that everyone was very nice and the student cutting my hair was very friendly! However I was very disappointed in the lack of instruction and then supervision provided throughout the haircut and at one stage the student said \"I'm just going to ask my supervisor to check and then I can move on to the blow dry\" Still no sign of the supervisor and when the student came back she said \"she said it's fine, she trusts me, that's a good sign!\" I was so disappointed that the supervisor didn't have the sense to oversee the haircut! My hair was cut much shorter than I wanted but I was fine with that as I wanted a change and my hair grows fast so I can get over it! What bothered me most was that when I returned home and was fixing my parting I noticed tiny little tuffs of hair sticking out around my roots! This was clearly a result of thinning scissors the girl used on my hair, which were obviously used incorrectly! Again another instruction not given and no supervision provided during this stage either! I absolutely hate thinning scissors to begin with but I didn't want to be rude and ask her to stop (which I regret now) I'm so annoyed that my hair has been left like this, it literally feels like a razor was ran over the top of my head, the strands are that short! Thankfully I have really thick hair so I can cover them but the next person might not! It will take years for this to rectify itself! There's no way of fixing it, I just have to let it grow out!\n\nIf going here make sure to ask for the supervisor to check after each stage of the haircut, DO NOT allow anyone near your hair with thinning scissors and whatever length you want, be sure to say longer, that way you might get the actual length you were looking for!!",
+            "time": 1510382658
+        },
+        {
+            "author_name": "she The Cat Lady",
+            "author_url": "https://www.google.com/maps/contrib/102895651144918284388/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wNLiGv22Ons/AAAAAAAAAAI/AAAAAAAAABs/no5RP5PIg9Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "So I loved this place....but recently learned a lesson...ask for an experienced student and or instructor.",
+            "time": 1519074768
+        },
+        {
+            "author_name": "Trish _",
+            "author_url": "https://www.google.com/maps/contrib/114034791196641288135/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-FJ5Kw76jJ9U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1p7tuDBAMB247JuIvH_eRCKg60vA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "I had colour, baylage and hair cut done here. The instructor supervising the colour was fantastic, constantly checking in and adjusting the student's work - the balylage was not bad but great for the price.\n\nI received a hair cut which was lacklustre - the student honestly did not do a good job and did very little cutting. The instructor did not supervise closely though after I waved her down did, step in and do some cutting which was done well. The student was left to finish the front of the hair and honestly wasn't able to finish it or do a proper blowout. I just left at that point because I had been at the salon for a relatively long time and was exhausted (thought I'm sure if I had waved down the instructor again, she would have fixed it). Overall, very worth it for colour!",
+            "time": 1496963313
+        },
+        {
+            "author_name": "Trevor Dubois",
+            "author_url": "https://www.google.com/maps/contrib/100841101090663164781/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-e-fyEd_zmXs/AAAAAAAAAAI/AAAAAAAAABo/Ht1MtcPneOc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great service, cool location, friendly staff, and pretty good coffee too!",
+            "time": 1495656661
+        },
+        {
+            "author_name": "Vanessa Vella",
+            "author_url": "https://www.google.com/maps/contrib/111662667066915176149/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-HJhn4t_Cnro/AAAAAAAAAAI/AAAAAAAAAME/n0B316_75-I/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "It definitely takes a bit longer than a regular salon, and you are having your hair done by a student who needs to check in with their instructor regularly, and other than that, it's awesome! I paid under $50 incl tax and tip for a cut and blow dry.",
+            "time": 1495458784
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9337766818849149367",
+    "utc_offset": -240,
+    "vicinity": "1981 Queen Street East, Toronto",
+    "website": "http://beautyacademy.fiorio.com/"
+}

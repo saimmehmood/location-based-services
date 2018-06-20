@@ -1,0 +1,244 @@
+{
+    "address_components": [
+        {
+            "long_name": "#207",
+            "short_name": "#207",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "3495",
+            "short_name": "3495",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B3",
+            "short_name": "M1H 1B3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3495 Lawrence Ave E #207</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3495 Lawrence Ave E #207, Scarborough, ON M1H 1B3, Canada",
+    "formatted_phone_number": "(416) 431-4222",
+    "geometry": {
+        "location": {
+            "lat": 43.757629,
+            "lng": -79.22803300000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75977985,
+                "lng": -79.22696921970851
+            },
+            "southwest": {
+                "lat": 43.75691205,
+                "lng": -79.22966718029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cfe546ab9b24076165ebd333aa216ac0828df876",
+    "international_phone_number": "+1 416-431-4222",
+    "name": "Cedarbrae & Danforth Orthodontic Centres",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 8:00 AM \u2013 5:00 PM",
+            "Thursday: 8:00 AM \u2013 5:00 PM",
+            "Friday: 8:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111411771176552664406/photos\">Cedarbrae &amp; Danforth Orthodontic Centres</a>"
+            ],
+            "photo_reference": "CmRaAAAAqNiJ3VnqAzCImWGpIzcvZg9kiJ80lhL2zCkXO4tWGUwignagPTD9uodvZEOiLktTQ2YCOsQvPMO9i24VNSr9lazPDGHc_RYmFVI9ttqnxj-oxZQen4MhwWM5hEpyb3-LEhBPo4cZ3_FvCyi0ab6Awr6kGhQ7QR7Ssc2cqT9hQpMRg-VYMkje6Q",
+            "width": 2048
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111411771176552664406/photos\">Cedarbrae &amp; Danforth Orthodontic Centres</a>"
+            ],
+            "photo_reference": "CmRaAAAAncZYgGT0vly1ScbHmEKHxSEpiErRpyWw3z6EbWjR6Zmtm5aEGxK0TvF-i0hDGW6f6QjHquaRZ4iao_AaO2PRGn8pUXtTwVPvcACY8aHlAdvHECRiJJtCibyO6VtlZHoyEhD4dJti9FTzb5jtZb4g40cnGhSVsmA_gkFKFh8qLtKkIDy5xzfwUw",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJ3V7umUDQ1IkR1eCmTHMyV00",
+    "rating": 5,
+    "reference": "CmRRAAAANbVHz1oCtc8YFL83ayOcefSgKfEmJjcW-2h4sY0uPwD1xauQLz2ig-DBA2v0w2jZK_uh_TtwW6aN7PTnTLZiPS4dhRFDwURcfLNzsFssirHcxjeY9lo6vnBeicL38TUVEhB-mtLgSOuqkQjJFzG6OwJgGhT4bxU_YiBbG4uwgCzYtEmp_qPNqA",
+    "reviews": [
+        {
+            "author_name": "Kerri Wilson",
+            "author_url": "https://www.google.com/maps/contrib/116190907835265490882/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-el0GnLBIaiE/AAAAAAAAAAI/AAAAAAAAAAc/cA-qsq0mwTQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Great staff, great results. They do their best to make you as comfortable as possible with a friendly attitude. My teeth are now beautifully aligned!",
+            "time": 1512837399
+        },
+        {
+            "author_name": "Geraldine Martino",
+            "author_url": "https://www.google.com/maps/contrib/111396741631227419840/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-KIONYgHjgyA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2fDW_qVF53ng9UPv7IvQa09u90gQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The Cedarbrae office has a professional staff which is genuinely caring, friendly and competent. They produced great results for me and I am happy with the outcome.",
+            "time": 1515984942
+        },
+        {
+            "author_name": "Tracy Sebastian",
+            "author_url": "https://www.google.com/maps/contrib/117216466585287177316/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-sqv2GeuaHlI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0ngDpd25iH8vgI3I2pd-UspabNiw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Dr. Banack, Dr. Pearlman and the entire staff at Cedarbrae & Danforth Orthodontic Centres were wonderful to work with.  They made sure everyone, including our daughter, understood all the procedures she would be undertaking and put us all at ease every step of the way.  Our daughter was greeted by name every time we arrived and their confidence and open manner assured us that we were in great hands.",
+            "time": 1496243877
+        },
+        {
+            "author_name": "Kristan K. Erner",
+            "author_url": "https://www.google.com/maps/contrib/106207573927614102892/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tEmBfu8UUc4/AAAAAAAAAAI/AAAAAAAAAEw/aGx4qDF3abY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Solid people. The staff are great and really accommodating.\n\nI don't want to point fingers, but I will.\n\nRight from the start Wendy was extremely accommodating and helpful. Next was the consultation with the Orthodontist. Then pictures, imaging, moulds, plus a good reassuring talk and a bright smile from Melissa. \n\nSue then takes over and tells you about her life like you are family all while taking  authentic care of you with finesse.\n\nFinally the Orthodontist, in my case Corinne Haiat, takes over, and with precise skill turns the bad and the ugly into a work of art. \n\nA real genuine team effort. The care goes on until you are completely satisfied. Amazing, thank you all!\n\nIt is never too expensive to make you and your loved ones feel great about themselves.\n\nWith thanks,\nKristan",
+            "time": 1456955032
+        },
+        {
+            "author_name": "Sam Kaba",
+            "author_url": "https://www.google.com/maps/contrib/113791867702464423509/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-A9793aYfksM/AAAAAAAAAAI/AAAAAAAABaw/7ao17aKCC2k/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great clinic. Excellent service. Staff and doctors very friendly and easy going yet professional.",
+            "time": 1482082440
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5572978534682910933",
+    "utc_offset": -240,
+    "vicinity": "3495 Lawrence Avenue East #207, Scarborough",
+    "website": "http://mytorontoorthodontist.com/"
+}

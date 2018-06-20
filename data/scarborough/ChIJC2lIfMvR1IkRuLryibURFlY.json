@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "3030",
+            "short_name": "3030",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3030 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3030 Lawrence Ave E, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(416) 431-5452",
+    "geometry": {
+        "location": {
+            "lat": 43.7565097,
+            "lng": -79.24794639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7571856,
+                "lng": -79.24630941970848
+            },
+            "southwest": {
+                "lat": 43.754482,
+                "lng": -79.24900738029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d06b083dc6e06df6876eec798baa9e3c95920b06",
+    "international_phone_number": "+1 416-431-5452",
+    "name": "Medical Professional Corporation",
+    "place_id": "ChIJC2lIfMvR1IkRuLryibURFlY",
+    "reference": "CmRRAAAA0e0CMY8V42di83VfAU42f1ZRrRA9-tZxdDokeds6wb8L-Uk5vfW19lwifcDA6V3ngUAU4PGlkI7094-CG8_2VIBLr4ml0pO40s204r0ZNOctektTB5tyyq5I_5ZZJkB9EhByNRyg5DQ1ry23etY0nBFVGhQfBQ3u2O2cVseHaHcmDhKU9zsZFA",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6203165008150575800",
+    "utc_offset": -240,
+    "vicinity": "3030 Lawrence Avenue East, Scarborough"
+}

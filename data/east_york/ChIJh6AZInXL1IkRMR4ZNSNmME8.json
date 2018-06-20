@@ -1,0 +1,86 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4B 3H6",
+            "short_name": "M4B 3H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "45 Cranfield road unit 15, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4B 3H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "45 Cranfield road unit 15, Toronto, ON M4B 3H6, Canada",
+    "formatted_phone_number": "(416) 465-4638",
+    "geometry": {
+        "location": {
+            "lat": 43.6699298,
+            "lng": -79.343687
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712787802915,
+                "lng": -79.34233801970849
+            },
+            "southwest": {
+                "lat": 43.6685808197085,
+                "lng": -79.3450359802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1610c4ff45cd93c3952a379fee171bb2644eaf1e",
+    "international_phone_number": "+1 416-465-4638",
+    "name": "Gaslight Studio",
+    "place_id": "ChIJh6AZInXL1IkRMR4ZNSNmME8",
+    "reference": "CmRRAAAABCnFUw-P3A7hFcgE4Dog5imcK9ia1IH20UnCTlr9p7gQW8JAtdLhDARO__5MOrF8Htq11gLiCY0Qu0wFAH-_AnIJNWnIQ1Uzme1P97-krFMVjg0DHKfBlqG-4uV2x9ULEhAjMbmjykakdDJDH41Rlf08GhSJDMYZvGwXmsqPGiasVwvTKrrXYQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5706173029279145521",
+    "utc_offset": -240,
+    "vicinity": "45 Cranfield road unit 15",
+    "website": "http://www.gaslightstudio.com/"
+}

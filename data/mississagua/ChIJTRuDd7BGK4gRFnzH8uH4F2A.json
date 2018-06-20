@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2T2",
+            "short_name": "L5C 2T2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2T2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Mississauga, ON L5C 2T2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.560644,
+            "lng": -79.63914199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56199298029149,
+                "lng": -79.6377930197085
+            },
+            "southwest": {
+                "lat": 43.5592950197085,
+                "lng": -79.6404909802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "773aca511dd99c1f6d4a15ce268dee0e8cd5308c",
+    "name": "Dundas St At Cedarglen Gate",
+    "place_id": "ChIJTRuDd7BGK4gRFnzH8uH4F2A",
+    "rating": 5,
+    "reference": "CmRRAAAAqz0CXxvU7O9p_6lXvAShdxFqZggHeAdV4UVYWXVdWHb-xwletDxXtdogBbRNADDdf1KmC5vUidGUDwXrduGF7cs0mr2cIAqIi-34tJrsvZApTmBO_L9RdpG7Em52rmKIEhAB66u_7H6div9TZdK0gu__GhRoU6dgaTcGLxf3OK-9zuTHCP8aWQ",
+    "reviews": [
+        {
+            "author_name": "Eric Latour",
+            "author_url": "https://www.google.com/maps/contrib/115688996194053848991/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-mFr_XCsKcWg/AAAAAAAAAAI/AAAAAAAADBA/gSfqSyC9GOI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1479260434
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6924276601429916694",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

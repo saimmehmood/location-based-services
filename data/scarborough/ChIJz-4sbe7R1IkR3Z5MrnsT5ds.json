@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "1255",
+            "short_name": "1255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1255 Kennedy Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1255 Kennedy Rd, Toronto, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(416) 752-1560",
+    "geometry": {
+        "location": {
+            "lat": 43.756975,
+            "lng": -79.27748299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7582983302915,
+                "lng": -79.27625601970848
+            },
+            "southwest": {
+                "lat": 43.7556003697085,
+                "lng": -79.27895398029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e451fcda8663c04aeeeeb861879a314b9e947938",
+    "international_phone_number": "+1 416-752-1560",
+    "name": "Snow City Cycle Marine",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114936108175536288685/photos\">Taylor Moore</a>"
+            ],
+            "photo_reference": "CmRaAAAA0tsLO70YrrAE0yBgSQdZ0VDBocfg2ZHBoEKsEEsSam-seF-fk6I-4YMlvFGNHSkMSw-g_auYbe5huVM6ZjGNv7z1bWGIzAsRxk6Vj8Gv6YqG7Zts3cv-olrDYag2dNTJEhCOL_4Tm1IE0yypOPaGXntTGhSoWAWVIcvW6Y320E-f9YOgFBAVUg",
+            "width": 1920
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110486286836757757471/photos\">savio C</a>"
+            ],
+            "photo_reference": "CmRaAAAASmQHUs0KE-bh4nl7n13rN7er_n__whnmLFDCg_x5DoKMHRcCPopOar9gpVtPZP1v5dmh89fvoPmUfimUEfD0Ds1cfT0LFb0GVodlzWqe8QSgj_O4fVMd1cZQhPBe7YgGEhB9tKyz0EobDCSgr7HjLRHZGhT-a5PosXdoaEL1vRKbSX4TfGxc8A",
+            "width": 640
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114114059291246663798/photos\">Christopher Tsang</a>"
+            ],
+            "photo_reference": "CmRaAAAAk8ispyb3fugqftxm5dget4er5zwIIF3tjXenARqs2wdkrkM51LDqCF3bb8_Sd_rNIQOM-14vfpfqA-XdmUE7N1X5HG9AirwMoYKl5xZncPGRKfZq8HgV7KXtn6RrZv6ZEhAVnn9ImnGp-Uzr0OQynbj4GhSK4qT8yqjeG1YT6fK03pxhq9Aaww",
+            "width": 4640
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110486286836757757471/photos\">savio C</a>"
+            ],
+            "photo_reference": "CmRaAAAAgk89_olsgGssRm6mLl0SpZj7IqkEsRs2XDC7_bSAG2L29Qs7XKN8HynGm8mqrV46Wl5JqIAGinufWzv5eeRBD-b4Aj_-AAsrxpDD3weg7YdxrBGHlTwlm1Zhk_PqzlzwEhD1jUtDFqtE5uA_D2L6eONRGhRRbvN3bmig4ElzFpHUOhP6i33mww",
+            "width": 640
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100500922452314474352/photos\">Snow City Cycle Marine</a>"
+            ],
+            "photo_reference": "CmRaAAAAyE2AbpqlvGI-_A8EtB4Jn2g8ceIuTj0qAfrBZqqrbpUvuBHblv0IZhpxTORsU6GWRACpvt0Kd8nqj2F0f3gVTMA77VteIsRv2tgmHrrUrhlavZlnsuPA05VYBx5W5_25EhCQzLe3-BK6lugsmXUcr8K_GhQGXN83uyGTztxvg8Feq7K2jZpWWw",
+            "width": 5184
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104708934419361200166/photos\">Raymond Lam</a>"
+            ],
+            "photo_reference": "CmRaAAAAoJKOxmePzO4I82MQX7UWOT0YztPzR3OwKPb4AlHnu9u_j_0cpdD_wDwqSX1f9g44FtEQ3C4Vp7V30XuAmklnLBtcz0Doo_wtDRLqe83vx81xbzCPCQ7hBvlb6sQMeT_3EhCrY3VIW6e9m9R3N3jJVyetGhRdSY-SyVoS2OWypEL_wP6B2zHuqQ",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101104609630889439085/photos\">Greg Joseph</a>"
+            ],
+            "photo_reference": "CmRaAAAAYfo_N-eD33tx_YlTAakQM4E9SNTs4LntGFpJlL9jgtVAdXfg4emO44pgIoKfMQsaQEeJzdAFl5ziYEg1nYMzKpCQ_6TAAlEpJrcanof1fHCBDFHAd8eE7cRJpM9D7IIBEhBzzW0KOyedN4a9b4-wXpWkGhRTbAd-yerHYFrTExP99v46tVIS_A",
+            "width": 5312
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109814627933402504314/photos\">Luigi R</a>"
+            ],
+            "photo_reference": "CmRaAAAAIpv0eZ8eyVoetqKSDWc5J2QQSya23zGKwzii-ODd_TiO67sPvu9uDz5ypnnoB2Y-cCerYJ-o1yKv-RcZ9Z3Bs1pgw1CyZQh624BGizW8S0x7OfhTNFiIV5A4QA9GLdUyEhBB4mNcSzsTkxdXXr5M_vo6GhQuC2ZucJokQILpY2g8jpgpKalxDw",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109814627933402504314/photos\">Luigi R</a>"
+            ],
+            "photo_reference": "CmRaAAAAhUl4BVodKSyZzgldyWeOVgly-FeadDd0RhU012O8GTxBeQXCzUGYUwgJBHlNQ9Bu8DyVAB2NN6xO_Yw8ONlgMZM1-W0jU44ApxAJlxJn5UfAiDL30xPGfJOy3YAsImliEhBfWNYdwrEmRjeuFdZJ27WwGhSUTaFWbMb17yPhmEIwphMoieOIWg",
+            "width": 1920
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109814627933402504314/photos\">Luigi R</a>"
+            ],
+            "photo_reference": "CmRaAAAAanYC8_A581kijEsy8smRosIXuF_mGyuhnH8nxO92DjV149K0uX1y8OmnL7hVzMnR3bva6e2JsJ0aqz5uG8yYOh37--5v_dtgIZdIlO52_k4T27UkX_3id6nCq0ueu5OzEhDG0HkYS6DRIPnDqSk0vfY4GhT4ZPLVNxTvmDnx-qnpydvEzTnBpA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJz-4sbe7R1IkR3Z5MrnsT5ds",
+    "rating": 4.5,
+    "reference": "CmRSAAAAU5Vx1kBk2t-LkR31r2_HmxmKS92Ujthpa-6LpEkxahvWUsUfRc_nWkdOaXw58by4DaG2OUWvH8KxCmTtBpAdM72CnMKzP6hjPTlaUrvoj6mrARZfAXOU3KQaIVIWCXfsEhA423oqXFNo4LPiZimibbk2GhTafc9xBRbJyEfhW7DHxoZoNhc0kQ",
+    "reviews": [
+        {
+            "author_name": "Iam Dreamfire",
+            "author_url": "https://www.google.com/maps/contrib/103339733809704974645/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rjb8YUkEW_g/AAAAAAAAAAI/AAAAAAAABUU/d609_i5nAPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "We had Sean Hearty as our sales rep and he was super helpful with our million questions. We are new riders and he answered everything thoroughly and did not only on the store hours but after hours and went over and above to ensure we got the right insurance, knew every step of the process and gave us all our financing options clearly and listed out any discounts we could get etc. We felt very cared about and it wasn't a bunch of sales talk but just information to let us decide what we wanted. He also sent me photos of different types of bikes when I asked as I wasn't in the store  yet and never once made me feel like I was a pain. After helping us with purchasing our 2 bikes he helped me to get mine on layaway until my M2 is done and delivered my husband's bike himself and spent a bunch of time off store hours ensuring the bike arrived and that my husband was familiar with it. I would totally recommend Snow City, they have always been very helpful and supportive of myself as a new rider and they have GREAT prices for quality bikes and accessories. \nWe got the second bike, ran into a snag and Sean and Snow City were right there answering all my questions and assisting in any way and now we\u2019ve got both bikes, they are beautiful and operational. I definitely feel way more stable as a new rider with a Yamaha dealer there that are encouraging and supportive. Thank you all!",
+            "time": 1528058804
+        },
+        {
+            "author_name": "Funkapotimus",
+            "author_url": "https://www.google.com/maps/contrib/113410479120474685721/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-pb08o5kw9is/AAAAAAAAAAI/AAAAAAAAAJk/ZdAO-lOPStw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Firstly, huge shout-outs to Snow City as an entity, they really nail what it means to provide excellent customer service.\nAn extended huge thank you to Sean Hearty for providing an excellent level of customer service, he truly embodies what it means to communicate effectively and display a level of professionalism that is otherwise difficult to find elsewhere.\n\nI had my eyes set on a '16 Ninja 300, and being that it would be my first bike purchase, my knowledge band in the world of bikes was limited. I had a million questions coming into the shop and Sean shed the light on all of my questions, and answered/explained them with confidence, humor and most importantly, honesty. \n\nMaking any big purchase is no easy task, and having interacted with Snow City employee's, it really provides a peace of mind; no one wants to lay down large amounts of cash at a shop they don't feel comfortable in.\n\nIf you're new to bikes or have been riding for years, Snow City won't let you down!\n\nKeep it up Snow City!\n\nEdit:\n\nSnow City recently delivered the bike over to my house!\nLoving the bike, thank you guys!",
+            "time": 1521946843
+        },
+        {
+            "author_name": "Pirathap Vijayakumaran",
+            "author_url": "https://www.google.com/maps/contrib/110368465578294188648/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1xIUWwtv2U8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2tAKAiVMc9vTxEUVQ0cfQy39dHyQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I want to thank Sean Hearty for doing a excellent customer service. He communicate everything effectively and he gave me the information need whenever i email or message him. Snow city is doing a great job in customer service. I bought my apparel in Snow city, the helped me in selecting without any hesitation. \n\nThank you so much guys. Keep up the nice work.",
+            "time": 1525406844
+        },
+        {
+            "author_name": "DC Don",
+            "author_url": "https://www.google.com/maps/contrib/108081552491765937780/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-B3tZ7uLUWIY/AAAAAAAAAAI/AAAAAAAAAVY/xYk7M7msZm4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "5 stars for sales department. Very nice people.\n-1 star for awful attitude from service department.\n4 stars in total, Divided by 2. \n2 stars overall.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nWent again today, great experience from sales. 5 stars.\n9 in total, 3 stars overall.",
+            "time": 1527259222
+        },
+        {
+            "author_name": "Jireh Lau",
+            "author_url": "https://www.google.com/maps/contrib/107808696096797420597/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-XDwpiFGE31g/AAAAAAAAAAI/AAAAAAAABRs/1P8_fwvmzRc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Got my very first motorcycle from here (2017 YZF F3 ABS). Luigi was the sales person who sold me the bike and he was professional, friendly, and not pushy. He gave me a lot of other alternatives and suggestions for me especially with me being a beginner rider. He also priced it out for me to consider and told me not to rush in my decisions. I appreciated him a lot and this gave me ideas and thoughts on picking out my first bike. I eventually went back to him bought the bike i initially wanted. He was not all business talk, rather he was very chilled, relaxed, and will share his biking experience with a beginner rider like me.",
+            "time": 1526416692
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15845092285899120349",
+    "utc_offset": -240,
+    "vicinity": "1255 Kennedy Road, Toronto",
+    "website": "http://www.snowcity.com/"
+}

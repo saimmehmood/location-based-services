@@ -1,0 +1,154 @@
+{
+    "address_components": [
+        {
+            "long_name": "79",
+            "short_name": "79",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hiawatha Road",
+            "short_name": "Hiawatha Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2X7",
+            "short_name": "M4L 2X7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">79 Hiawatha Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2X7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "79 Hiawatha Rd, Toronto, ON M4L 2X7, Canada",
+    "formatted_phone_number": "(416) 686-6809",
+    "geometry": {
+        "location": {
+            "lat": 43.6708575,
+            "lng": -79.3222278
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6721900302915,
+                "lng": -79.32095486970849
+            },
+            "southwest": {
+                "lat": 43.6694920697085,
+                "lng": -79.3236528302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "64d8b99b287bc8a11958e7ed436be6c5702340aa",
+    "international_phone_number": "+1 416-686-6809",
+    "name": "Neighbourhood Unitarian Universalist Congregation",
+    "place_id": "ChIJay69QIjL1IkR8isPqHUIiJU",
+    "rating": 4.6,
+    "reference": "CmRSAAAAtIPdl4UsBJy5pUSrKCsVhdM7fV0EFOF8czt5yzlLLEr_awA7_gdJogBGFjoYlaqPsMh-3bHDNBRUeKcppXbRWswLMXqHJKvI_vdk9U_oeH3WXzw1LvJJJ6ILgUoER4XXEhDQlu226r7bjCngd_0sGiEQGhRF698DAansbH1zbTEsF97TeC8GWg",
+    "reviews": [
+        {
+            "author_name": "Lisa H",
+            "author_url": "https://www.google.com/maps/contrib/101311442192925713372/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2ONt_aKhpbE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq32OmYnRVa9P7_m78reHwnU1P0pRw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "A very open and loving place.",
+            "time": 1519577376
+        },
+        {
+            "author_name": "Michael Polanyi",
+            "author_url": "https://www.google.com/maps/contrib/106776629982749454006/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FT7Jt0z-_4Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3TxSujNw8L83Cmn6gpv53E2gH4vg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A welcoming congregation focused on asking big questions, personal growth and taking action to improve our community and world.",
+            "time": 1497749566
+        },
+        {
+            "author_name": "Andrew Heard",
+            "author_url": "https://www.google.com/maps/contrib/101519996815557758186/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-d0iR8rZcHEg/AAAAAAAAAAI/AAAAAAAAABo/I2bHFTXiRYA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "I attend a non-religious meeting here weekly. Inviting, clean facility. ",
+            "time": 1501067354
+        },
+        {
+            "author_name": "ARRJAY",
+            "author_url": "https://www.google.com/maps/contrib/104311701241706378963/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RetMWEy-a8k/AAAAAAAAAAI/AAAAAAAAA9M/S1aM0GUsDWQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "The mission of Neighbourhood UU Congregation\nis to empower spiritual growth and shared action for the care of our world.\n\nIt is an open, sharing and growing congregation.",
+            "time": 1373071076
+        },
+        {
+            "author_name": "Kyle Kralik",
+            "author_url": "https://www.google.com/maps/contrib/100347084541076078584/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-H9uXho2_s_s/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq24NobuRLsRTDFND6CVum8DlFWwqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1500208471
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10774871409907674098",
+    "utc_offset": -240,
+    "vicinity": "79 Hiawatha Road, Toronto",
+    "website": "http://www.nuuc.ca/"
+}

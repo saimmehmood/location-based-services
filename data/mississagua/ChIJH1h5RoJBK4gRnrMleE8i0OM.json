@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "4624",
+            "short_name": "4624",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "The Gallops",
+            "short_name": "The Gallops",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Erin Mills",
+            "short_name": "Erin Mills",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5M 3A9",
+            "short_name": "L5M 3A9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4624 The Gallops</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5M 3A9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4624 The Gallops, Mississauga, ON L5M 3A9, Canada",
+    "formatted_phone_number": "(905) 607-2115",
+    "geometry": {
+        "location": {
+            "lat": 43.5608765,
+            "lng": -79.6970637
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5621741302915,
+                "lng": -79.6957912697085
+            },
+            "southwest": {
+                "lat": 43.5594761697085,
+                "lng": -79.6984892302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "c42a898fe81a47d84f9cc7dd68722e679a2f4659",
+    "international_phone_number": "+1 905-607-2115",
+    "name": "Saviour of the World",
+    "place_id": "ChIJH1h5RoJBK4gRnrMleE8i0OM",
+    "rating": 5,
+    "reference": "CmRSAAAA2wbHIiAxKILw4DSKvU9wMopdE8UfE_9DcX2O0XINe1bJKZfJe3ZJKx0RnZ3bJle9sSxgo4hWHbE6VQgm6KbNfDR2UzBZO9a0lNUg0BY0JxgFE9bND9sIwpiu4WrKc2QcEhAtDLS_oRD_0BXP1VRzYRb7GhQVfmmlyltytMKI1WciYhh8KGS5fQ",
+    "reviews": [
+        {
+            "author_name": "Lily Lin",
+            "author_url": "https://www.google.com/maps/contrib/114957989896959693626/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yGAdPvtTExU/AAAAAAAAAAI/AAAAAAAAD88/7jzFLBIFucw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1493509290
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16415658366478955422",
+    "utc_offset": -240,
+    "vicinity": "4624 The Gallops, Mississauga"
+}

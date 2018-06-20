@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "3-15",
+            "short_name": "3-15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Prust Avenue",
+            "short_name": "Prust Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2M7",
+            "short_name": "M4L 2M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3-15 Prust Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3-15 Prust Ave, Toronto, ON M4L 2M7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67103210000001,
+            "lng": -79.3308492
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67238108029151,
+                "lng": -79.3295002197085
+            },
+            "southwest": {
+                "lat": 43.66968311970851,
+                "lng": -79.33219818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "25c2642147688755e0f2ab5b2d2dbab6e6251a58",
+    "name": "3-15 Prust Ave",
+    "place_id": "ChIJTTItw4DL1IkRL-1iSXAimx0",
+    "reference": "CmRbAAAAg_1vSTVkg3Oo7xgN0_4nH37hf5KTsQloQqUC4MDihHE0fpBKYk4N9QMmlH9DdRM8IVU1o7T0ySp5xf7Q4O3jykkzjpHa7IvhQcmn2wvM92UlGC38JUd3pThcLHgJz3PtEhBUaxBorYTpZPd__UbsO0D9GhQgYp-cW96_2LIO3psKJxz5EYwAxQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3-15+Prust+Ave,+Toronto,+ON+M4L+2M7,+Canada&ftid=0x89d4cb80c32d324d:0x1d9b22704962ed2f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "1094",
+            "short_name": "1094",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 2A1",
+            "short_name": "M4M 2A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1094 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 2A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1094 Gerrard St E, Toronto, ON M4M 2A1, Canada",
+    "formatted_phone_number": "(416) 393-9820",
+    "geometry": {
+        "location": {
+            "lat": 43.6700641,
+            "lng": -79.3347618
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711189302915,
+                "lng": -79.33328736970849
+            },
+            "southwest": {
+                "lat": 43.6684209697085,
+                "lng": -79.33598533029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+    "id": "9334197205e1fb00c79003c722f33ce968ecc0f2",
+    "international_phone_number": "+1 416-393-9820",
+    "name": "Riverdale Collegiate Library Learning Commons",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0945"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1515"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 4:00 PM",
+            "Tuesday: 8:30 AM \u2013 4:00 PM",
+            "Wednesday: 8:30 AM \u2013 4:00 PM",
+            "Thursday: 9:45 AM \u2013 4:00 PM",
+            "Friday: 8:30 AM \u2013 3:15 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJAQAA24HL1IkRNn4ipXyDCA4",
+    "reference": "CmRRAAAA4ppxogZiGojNas_Pq1xqfWaeQmtTxeed1CeYRAapxNNRggDq2NzzN2nHUojAzFYTQII3uZtLUj2KU5sj5mJ91GsnQByqYf-AmMGmmVyQAH5AH3J6K55nyhZ4mSrHIxjpEhDZaM9nvMSDjyx1dDFMvNKGGhT17qRB6BGbPreUPuTX4FexDJoMJg",
+    "scope": "GOOGLE",
+    "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1011202687714360886",
+    "utc_offset": -240,
+    "vicinity": "1094 Gerrard Street East, Toronto",
+    "website": "http://schoolweb.tdsb.on.ca/riverdale/SubjectAreas/LibraryLearningCommons.aspx"
+}

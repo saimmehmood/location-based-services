@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "10-8",
+            "short_name": "10-8",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgewood Avenue",
+            "short_name": "Edgewood Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3G8",
+            "short_name": "M4L 3G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10-8 Edgewood Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "10-8 Edgewood Ave, Toronto, ON M4L 3G8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6700738,
+            "lng": -79.31268380000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67142278029149,
+                "lng": -79.3113348197085
+            },
+            "southwest": {
+                "lat": 43.6687248197085,
+                "lng": -79.31403278029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "51d7e92c52fb773586a42d7bf0205b23506823ae",
+    "name": "10-8 Edgewood Ave",
+    "place_id": "ChIJIz8hS_XL1IkR4bHbw2EZaWw",
+    "reference": "CmRbAAAATi74CZ_J2d27hSmibgedVQ5e96LnN2ra8C-7kzMA5HWP4xOT86oDo14E4E_mXSq3q6VgrhF5HxPeccWRl2hbBM2CVOXtZ3R8cCC26Qg3QC1gLo5ukvivfyXf_vwzSxOFEhDlPhC75sD51SmMASV2fHWnGhRw67tTibfDaOyBr-X0bStI7tPMPQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=10-8+Edgewood+Ave,+Toronto,+ON+M4L+3G8,+Canada&ftid=0x89d4cbf54b213f23:0x6c691961c3dbb1e1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

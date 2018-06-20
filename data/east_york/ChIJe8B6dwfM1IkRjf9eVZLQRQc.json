@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2109-2169",
+            "short_name": "2109-2169",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2109-2169 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2109-2169 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67037690000001,
+            "lng": -79.2984475
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67172588029151,
+                "lng": -79.2970985197085
+            },
+            "southwest": {
+                "lat": 43.66902791970851,
+                "lng": -79.2997964802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "085fb892aaf66ca094e6c085fedaceadd8c5b55a",
+    "name": "2109-2169 Queen St E",
+    "place_id": "ChIJe8B6dwfM1IkRjf9eVZLQRQc",
+    "reference": "CmRbAAAAm_qY3quRizEi1TayRA5trnkYxx4aH3CxLeRFTXDYWB8j3jmUSDgZtcl12AxLzNEqewa4X5b0gH8oBrWiYJCrkAG4qyx25-alaJ82iGlp6X83YMpqsLWMFMnkgnuXw4mMEhDLLWLr9Por5TvW7OobD8-0GhT5uE1eJKnd-QDejEmEcXq85SVA5w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2109-2169+Queen+St+E,+Toronto,+ON+M4L+1J1,+Canada&ftid=0x89d4cc07777ac07b:0x745d092555eff8d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "4",
+            "short_name": "4",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "180",
+            "short_name": "180",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2N9",
+            "short_name": "M1P 2N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">180 Nantucket Blvd #4</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "180 Nantucket Blvd #4, Scarborough, ON M1P 2N9, Canada",
+    "formatted_phone_number": "(416) 757-7233",
+    "geometry": {
+        "location": {
+            "lat": 43.757881,
+            "lng": -79.27583299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7593073302915,
+                "lng": -79.27411046970849
+            },
+            "southwest": {
+                "lat": 43.7566093697085,
+                "lng": -79.2768084302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0185bf46a447fd6a0887d124c15c8ee496cb45ef",
+    "international_phone_number": "+1 416-757-7233",
+    "name": "Safe & Sound Installations",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464834420734545319/photos\">Mike Joyce</a>"
+            ],
+            "photo_reference": "CmRaAAAA5s7qSbxLGP9HpFU8Me7_yymDKo_QAYtgeNLuXGCSuGNECZGRuX67HrdMCe9SUiCStCWJuwk1pPyBj4yHKgM4F-fK9NyZ94YXpvL0vndZIZHBqIMLOcH9IebLedMdA_4sEhBQjrHuEwFymrON4jvlkyL7GhTpzzL-7QOCpJMrI8CAIj4bOm2uaQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464834420734545319/photos\">Mike Joyce</a>"
+            ],
+            "photo_reference": "CmRaAAAA2JbzRA0yon38pTedfUPKzjvV6C15Nr5-eEqIThLCG4QKM9UMtuzjsBhY7CDpOdZ1k_ynMzhe4tIDQdQLflDMQgO6hLCL01qw_tulMBkXJZu_z5fNbAHo_TZFMtqatmguEhCyH-3dcHbRiVPeaeebqZlqGhQ2wQ2TQHBywsZ6FSyPscqD1d8gLQ",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAAoEOj8b932gFT_tEjFvxtKMwagHt9Idm4r-yvfDVjSP2aMHbpQ76Ifrpk2MljXWv7h7DLrOKQ4uLtGQlkt3M6mXFnpMnEztbNvDmG1_Qx-eTJ4zx3SW9PQSGKTcGCWPW0EhBGKkVyxG4zr9DRcJ6wPmepGhRtFjoms3w5AKxnjtEmGIQ59Jfx2A",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113464834420734545319/photos\">Mike Joyce</a>"
+            ],
+            "photo_reference": "CmRaAAAACYtdchfQ6v-Y5fMKg9X9zyNWydpcw_zgibV6NgMov0XGwoVKHE9QIOQ3byfT2BsT8mCiJgNew3nJR-XOQ98MLPzKwpQlpD2Cq6qF0fhcVNy93IS4KBrWi6PUTwhW7rQpEhCxLOdSPiSDtNuI7lZn7ZqMGhS5dgNmPiMbsNfUUlFN1RbWHoYRbg",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAAiw83FLHsoJlO7DhX6e_P6-_zVb1MehfzjwKszYDcsUQgJnmCB0xfP119tP5IDrHUfENk3PdTOnhYXoG04sISli3LrYDAwUJTeEuKbOvqq-PWf53D0TVStVqv7JhaTSVYEhAlesb3QjNSftjBC4Ao02IzGhSCf0jkhTXJ2F8NeMn6_orXih__5Q",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAAdSgMJqEmT-BMTg3fzMffBd81ts_KGHLYWPBrIsgU5g1pc9W7EQINDghTjArU1aytUthLKDO2ZivlDfB8ea7tHPm5MSuqp_YlAONFy1zlnJjXl6KAuLMNStKmK6sjeVdbEhBvPKBvD3A7CTW99VA_t22hGhTHW0iNfeAjrekZU-OftaydrOw02g",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAAxaY7Yt6zuIN7wR3vOMoW-kzv2m6fsX4MxChkgU0veWzIehduNrKsD_mP0GAPMnCUVwUDoUQyP6ONw31TlyfAC13KDAqzIBHlUkJMPTW7F0l_jGG5lUkdKOuoxC1ADYbREhAcxitUH3TPk8tfSKB8_DBKGhQo20Lyz1iaG-0X_4D6HSeKfbbyUg",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAA3RHM9-Lr_w95cKMacFW_d5USZCeNQqmqQ76zSHxPfq-cWwazK9Evibds3CbPO2nCdSWUAC3TPRxFofIhxdQfiNyDotVvJ9n8FMIMUfhJXrmpmKYS9rO-vIJ8L0cNTJnoEhBOUhFQ-i27RLN3oZuEJJsOGhRS_EZajci6r4GUs2_9uWhWEBZcdg",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAAjGBo6Xis1ufxrPVf99T_JChsF_1UxlRomMUiATrpI2DikHTZZgy3Dwr4NWDqpax3mFeMHVSz7wygGRlYNC4HzOijTTIBss1_HHG61kxgzsJctvYEDy30O1pxsnaUNs4JEhCaXzwOVNuomEMbbGp2GSKcGhS2dPJhLkJ5S8zQ6vylN5ju-79DFQ",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111598409474510109520/photos\">mo Issa</a>"
+            ],
+            "photo_reference": "CmRaAAAAwEhWEytvvI6YKOL0nkyd2NYgTb1kAr7R9Zsx2P5oU6PcgthgTFm7YMkc2-dyF3C_8AAD8YCkWDxvRhGU6eFrFs2wziskEPc7bAycPfOBffs9DMVwR3WCOEQb7cV_WnRbEhDwxqt6t6xNNN5qn2HeKuz1GhTEWFfZw8BHy7LnPyaGiVMs_mV5WA",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJBzD8JOzR1IkRWebL-TzDci0",
+    "rating": 4.9,
+    "reference": "CmRRAAAAe9tnm3-55FX3zifCwEL_i7q2uAM7uCvvokmTcMRBWoDyDQGiCz_FtEQkdjX9SUaeLeKvNXekxxuqopjJYYNHuEVMzRI8OmCKprrU4VqaDuJx2Scj73RkCgdzRqWb5aPOEhC27sJxArhevHWwVoABP25WGhT1rWeURGWcf1ep7-dXygP7usVB9g",
+    "reviews": [
+        {
+            "author_name": "David Almack",
+            "author_url": "https://www.google.com/maps/contrib/117567483228883362964/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pOY_qerLLfo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3LkqqsKd-KYiLy7NwIZ2jX0euVKw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have used Safe & Sound on several occasions.  Owner is very knowledgeable, polite. skilled and prices are very reasonable.  He fixed a problem with the alarm on my neighbour's 2000 Honda Accord that the Honda dealer showed no interest in the problem or no knowledge of the cause.  I recently had louder horns installed on our CR-V. again well done and reasonable.  This is the place for installations or solving electrical problems.",
+            "time": 1524006175
+        },
+        {
+            "author_name": "Tudor Zaharie",
+            "author_url": "https://www.google.com/maps/contrib/101538300410118666227/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HVJy8rmHaVs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1umR4YtxanK3CggIsq8QTxuiHuLQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Professional quality with a friendly and informative approach. Quality product with unquestionably after service. \nGreat experience!!! Thanks Moh!",
+            "time": 1526996758
+        },
+        {
+            "author_name": "kesavan Balasingham",
+            "author_url": "https://www.google.com/maps/contrib/113036322006937520864/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-DUjJguhGxwM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3LdOOzWxAOk0bbwLidyspkJL582w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "After calling a number of shops, I came across Safe &  Sound. I needes to install my auto starter for my 2008 accord. Mohammed was very helpful in the phone and asked me to come by. \n\nOnce I got there, he made sure my module was compatible and even manages to give me an appointment with the hour. \n\nGreat service and great price!\nWill be recommending my friends to this business.",
+            "time": 1521045462
+        },
+        {
+            "author_name": "Varjitt Jeeva",
+            "author_url": "https://www.google.com/maps/contrib/102296349740754498013/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BMdZxt8jDDQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Mspkj_4HXWuaH7zMUIen6U9jd1Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This shop caught my eye with 30+ reviews having a perfect rating. Went to get a remote starter installed, very friendly and professional. Experienced techs, clean install, very fair pricing, no bs. Definitely the smoothest experience I\u2019ve had with a car electrical shop. The rating is well deserved. Thanks Mohammed for a great experience!",
+            "time": 1515514084
+        },
+        {
+            "author_name": "Chris Birrell",
+            "author_url": "https://www.google.com/maps/contrib/113146908740381726714/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-9drzNhmbnD4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq29_f8eiTOP93EtC-IymuWoFrfhqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This place is great. They installed my car stereo in 15 minutes and did a great job for a good price.",
+            "time": 1520341310
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3274894545708115545",
+    "utc_offset": -240,
+    "vicinity": "180 Nantucket Boulevard #4, Scarborough",
+    "website": "http://www.facebook.com/safeandsoundinstall"
+}

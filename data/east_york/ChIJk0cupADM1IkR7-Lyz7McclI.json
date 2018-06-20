@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "41-121",
+            "short_name": "41-121",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wineva Avenue",
+            "short_name": "Wineva Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2T1",
+            "short_name": "M4E 2T1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">41-121 Wineva Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2T1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "41-121 Wineva Ave, Toronto, ON M4E 2T1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6697581,
+            "lng": -79.294941
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711070802915,
+                "lng": -79.2935920197085
+            },
+            "southwest": {
+                "lat": 43.6684091197085,
+                "lng": -79.2962899802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c2272e9a74ee38830a446faa7145ac43da014f7a",
+    "name": "41-121 Wineva Ave",
+    "place_id": "ChIJk0cupADM1IkR7-Lyz7McclI",
+    "reference": "CmRbAAAAnLv0fteaIXFEMll0SHk4-WSVrR2vCoWT_lH6uKVksp1b-AZrcLKdvgwC87yMr-rtfompSYx5xYppK-a1mBMQpxP1vf9W0k1oSaioGrQ5Sr7beUhfqHTLox_X5iwCFN_CEhAz8fkwoEi0LHqLOfvh3WQ1GhRtf56vIdX85qmDGQ4FDidwZPHutA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=41-121+Wineva+Ave,+Toronto,+ON+M4E+2T1,+Canada&ftid=0x89d4cc00a42e4793:0x52721cb3cff2e2ef",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

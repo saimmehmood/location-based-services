@@ -1,0 +1,298 @@
+{
+    "address_components": [
+        {
+            "long_name": "1261",
+            "short_name": "1261",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1261 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1261 Kennedy Rd, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(416) 757-3504",
+    "geometry": {
+        "location": {
+            "lat": 43.75723499999999,
+            "lng": -79.277148
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7585156302915,
+                "lng": -79.27612371970851
+            },
+            "southwest": {
+                "lat": 43.7558176697085,
+                "lng": -79.27882168029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2a24a7ae1411393416bfc3379b773d50847ae52e",
+    "international_phone_number": "+1 416-757-3504",
+    "name": "Tele City Electronics - TV & Appliances",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 7:30 PM",
+            "Tuesday: 11:30 AM \u2013 7:30 PM",
+            "Wednesday: 11:30 AM \u2013 7:30 PM",
+            "Thursday: 11:30 AM \u2013 7:30 PM",
+            "Friday: 11:30 AM \u2013 7:30 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 810,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAAJQ9CiHj_BvBAPPdvVUJeXtLtDs4GJvFw0rwmky39gkN2zS1_705-728cBH9pq8MSq2p6avBaTkK-3TJ9tUAbuP4-KFh3E5WE3IfswF1NtCQ3_6tx9I4XYeSvUpttKcl8EhAHXwrS9A3sreB5syn9tIXSGhSPs_lGuus28QzBuSrNGNs8P51xvQ",
+            "width": 1080
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAANp5Tfgb3Cxo2wk4CQmNTyUPRrAlgcNME2KBdE5fQR9QNv8aoq7au3z00zD8qTl-a4KMT9KEISrG2OIwprDu-awf0AvB9T0sRD-e0IdvE4GJgZKTOSgxJdNZBYRco_IOjEhBMdyA0ZT3hKqxbK5_Y1QmvGhTsPM4v_aXePinzH9X_10uAAKBg_g",
+            "width": 4608
+        },
+        {
+            "height": 810,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAAREC5dGf-C15d1z9qlqAKXH37agMI2UE4LtJzjkFhrvnNBzINg42Mly1M7DBD77Cwen8XZu3M6z6goN1ZMfjQ2XKHdZWrI4TQrBggbMN8lj5a1evRRDHliFw4ogSmTgRsEhDG8NPSczAsKZIHsJDoeLL_GhSGznDhj_PFUKGouCbVRuLAYatb-g",
+            "width": 1080
+        },
+        {
+            "height": 2630,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAAri2LJ3EeUMbZMh1MGiK5LA0nZdekR5pU2PajZQAqw2EknZJ56ERcexsjpArVQnzAwePcv5r0YJA5rrPllqc6Rl4j-DICOX3SVzVgRrv8hr_8SB0rmQFICLaZbyxc_0DlEhBgT1TVE4KNCmm4Z5Ufhr0AGhT7xlYJfU_2mrV7_oXcgt6zGCryNg",
+            "width": 4608
+        },
+        {
+            "height": 810,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAACPMMYnt5oVLzizIZE8o_KbK5A0uj81xvr6JCFUcsTK_ow8guQ6ZZ4EOQqusJ5BYZk0pI-_Nxqcy11vJTDLbx2lKzmT73AWkm-jtX-1QVe-5kb3Cls9FCTDZ3dokeoiZoEhAtEZckkVDVF9cRs5aS7SG3GhRctaRBdaoH2gUMZCUiZtWU4sbP9A",
+            "width": 1080
+        },
+        {
+            "height": 411,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAA1OZ2zFyMTXYQjAZoLt2yCLpGnAmJ-9s7XbP72xcdtEoE0UxB3uqymtYJi5Jo0RSL6qvylD8ZaRiGznddEjZl8H9Qy376uivj9Rom7dS5X6Geq-X9Ba1uinQKdt1-AMRNEhCOQ5K5Q4TBKvuds1QTkrW1GhS_8D2qhMBSN2FZEBx1SdAv_khbgw",
+            "width": 1080
+        },
+        {
+            "height": 3034,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116352855421588947446/photos\">Tele City Electronics - TV &amp; Appliances</a>"
+            ],
+            "photo_reference": "CmRaAAAAen67_wJd5JZohySGI8Ez2Zz8_8S74xeJPMw0qn5rzDBdiOepFmlO1EQLufeYvC6i7745slKOSNdV7ZqPnf1fKD9KnvZ5Vgfkc6Av4dt1oZUb1NN0sVRQaK-vyrl_2BkKEhDYwTWmIOyd9H3KALJh3sxxGhSzPA_RPadC3UJ4N3SUXxxx9DGEyg",
+            "width": 4608
+        }
+    ],
+    "place_id": "ChIJOSAUNak1K4gRrNk1VxScziQ",
+    "rating": 4.4,
+    "reference": "CmRRAAAAiLGcC6CN4rMTpCwabbHXk4jahXvJUdahPpdiG6TT-q4owvrAph8ZcxBirE_KXGerZcHA_VEW9t2Ujvw2x0OaPb8WI6KpAo1RIYLxzH1mDWd-tBr4fQNlFXwnz0cElAscEhCjHhyMRx_4mt5FGW6pIkNtGhSd7UemWR6pMK-BJ7IxMnAGdP4skA",
+    "reviews": [
+        {
+            "author_name": "Melissa Janicas",
+            "author_url": "https://www.google.com/maps/contrib/106441748557616091030/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-fmQ_Asw2zbE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3zfGRW1j7D4wZSqO8WaX9Ni18wmQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My dad and I just bought a Sony TV from Tele City Electronics and it was nothing short of a great experience. First of all, we entered the store without being hounded and we were able to shop freely without pressure. The prices were amazing and the store was very clean. The TV we chose was not in stock and the staff at Tele City arranged a delivery for us without hesitation. Overall, we are very happy with our purchase.",
+            "time": 1525625911
+        },
+        {
+            "author_name": "Ryan D'souza",
+            "author_url": "https://www.google.com/maps/contrib/110840118596428627081/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WTdc_xF_k8M/AAAAAAAAAAI/AAAAAAABNIU/srCg8V2S-JI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Amazing TV store. Great prices and excellent service. If you are TV hunting I would highly recommend you check this shop out. Their prices can't be beat and the staff are super knowledgable. I really appreciate the ultra quick response and service I received to my email query on a particular Qled TV I was looking for. Sunny was able to answer all my questions both via email and at the store. Loved that they open and check the TV for you before you leave the shop. Will definitely recommend this store to my friends.",
+            "time": 1529282048
+        },
+        {
+            "author_name": "Leonardo Guerrero",
+            "author_url": "https://www.google.com/maps/contrib/104917325597009853604/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oBDgs-2UcIg/AAAAAAAAAAI/AAAAAAAAEGw/r4Uas8WCf5k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Amazing experience!\r\nThey had the best price for the Samsung TV I wanted. I emailed them with a few questions, the sales guy I was talking to was always quick to reply and ready to help. I didn't have time to go into the store so they delivered the TV to me and I payed the driver! The driver took his time, was very careful, helped me unbox and tested it for me. I had the mount ready on the wall so he even gave me a hand hanging it. \r\nHonestly, I cannot remember the last time I had such a nice customer service experience.\r\nGreat TV, great price and great service!\r\nI highly recommend this store.",
+            "time": 1528501857
+        },
+        {
+            "author_name": "James H",
+            "author_url": "https://www.google.com/maps/contrib/101718508693889880157/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DckWzSFQj74/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0rOhxeDdHucTiotinXCmXlSOd5hA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Don't let the area or the store front fool you, this place is a authorize reseller of many big brands. More importantly, look for Sunny when you are here shopping for TV. He's a friendly guy with great enthusiasm that doesn't try to sale you but really listen to your needs and suggest accordingly. If I were to describe is that he does not feel like a salesman but your buddy from high school. \n\nOnly thing to improve on is that they should add more speakers/sound bar presence in their product line. Not something I was aware of but wish I did in store.\n\nOverall me and my wife both had a pleasant shopping experience and are enjoying our new Sony x900E. For sure we will be back if for our future A/V needs.",
+            "time": 1523279560
+        },
+        {
+            "author_name": "Henry Liu",
+            "author_url": "https://www.google.com/maps/contrib/101523786640530862164/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-9TSexEvLKzo/AAAAAAAAAAI/AAAAAAAAAI4/9Pcuxwm6jAo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very reliable service: Kept me informed of change in delivery plan due to sudden weather. Excellent service: Un-boxed, installed and ensured TV was working. Fair price: I did not even have to haggle, and a fair price was offered at the outset.",
+            "time": 1525701093
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2652228841744226732",
+    "utc_offset": -240,
+    "vicinity": "1261 Kennedy Road, Scarborough",
+    "website": "http://www.telecityelectronics.ca/"
+}

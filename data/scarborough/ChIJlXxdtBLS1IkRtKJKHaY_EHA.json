@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B9",
+            "short_name": "M1R 4B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "85 Ellesmere Rd, Scarborough, ON M1R 4B9, Canada",
+    "formatted_phone_number": "(416) 445-3108",
+    "geometry": {
+        "location": {
+            "lat": 43.7569921,
+            "lng": -79.3126302
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7583410802915,
+                "lng": -79.3112812197085
+            },
+            "southwest": {
+                "lat": 43.7556431197085,
+                "lng": -79.31397918029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d888864749387769c7430e8fcde387d0d7db235f",
+    "international_phone_number": "+1 416-445-3108",
+    "name": "Parkway Mall",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 9:30 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110123134542227265120/photos\">Richard Tung</a>"
+            ],
+            "photo_reference": "CmRaAAAAuO9qqs15kYZ8wfOudKqBaMQZDO36Iyj9j4nB1goc-KSY4Bt6AEONBUNEK5-6DdJ_L1v2Mxg3z72ZjghnhI263XR2GjkOpdjNa1Xn-6cxg2EErntLWzRitg6CUYNvIMJnEhAc5-CKtXStAU9mXEd6gNEMGhRl04omFVXJ3fVFMxCXGtwKpoEtkw",
+            "width": 3264
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110440100409080005381/photos\">Andaleeb Kabir</a>"
+            ],
+            "photo_reference": "CmRaAAAAJpH_cbhL2Um6vgz1ygAd4G3bARvL4C8yIGgZD9l5gbmx3paF1Sy4xonWSltzxOJruGd2qVS9F7Z-9SjdE0Q2cAJNg3HrGYnmWVkY6ERN-TGfjQcLFiIaLTEFmFfdqKZhEhA-ntrIwhlpl_wWYCnAQ0SeGhRbdvl5ILvweG9lZCasBI6CBlg5Ww",
+            "width": 4048
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105749263936112991628/photos\">i georgescu</a>"
+            ],
+            "photo_reference": "CmRaAAAARvhWN5j1xNx-yQhFW_UFNbTNOyp3-vzOaJF_NhtDidSjEHLRzB74ZAE-jfoI5SzMrCR4hs4-QtNW6t7_aSZ7QjiH9rRpASVWxKa-c7vo4a3Kyl-CuSIOfxL-BphCqQXVEhB2SJfc17BJGsIGghqwKHM3GhRTDvVj2p_b9Wy-AG9n6AGCOZ3Pig",
+            "width": 5312
+        },
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAqQRWWPq889dX9ONR1H9IOp9AGk1-RXfZ2ef1T-DPrktepd_x8ijIWnlu181i4Ozi_RzP29VPw0CcDwII4WrUTTIxRxPD8E15VV6XEfBmGDcQJyuW_14oRpRlYzdkPhPvEhDV8NLlbJwyPwV4EytClhuSGhQvl8TpNHDiqf0e__4U_-zKVdRJYQ",
+            "width": 5232
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100244596075377846477/photos\">Margaret Chow-Lee</a>"
+            ],
+            "photo_reference": "CmRaAAAAZGdjy5MmhVB34Rrjk3tB2ptEzG3XKSS6sNsRF_GCQLcDLw8Kp4AXKC3Y8yDfRwBcsOMJSCYvprWbPZI0wONNXSt9hD973_xH2aaJJCgNO3tkuOuQmQJ0tevSxHHjx-tjEhCtZZcd-ZPsb_u5UiX4Nw5uGhTs-qzBpXsc7Dam_4rI7MJk2SNNAA",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103260602904963139722/photos\">Teresa Orfao</a>"
+            ],
+            "photo_reference": "CmRaAAAADjLPtNxhxleox5dqI2IZ5m-0GXqbZfqJ-UCZ97c0mXVePQ8F3cJSQvXwfW4ij9NKXJVJMSPyR0twP3YkAtZCYzxrRmzJifEZU664cwg4XaMnxzB4fGzr8jCakQ2hgvW_EhB9KhdktqYZqOQW8LpjUTJsGhQqM-KjkZq1yc_YjGVNU5WUBMLFXw",
+            "width": 5312
+        },
+        {
+            "height": 3072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103908606795354359799/photos\">Z Adwan</a>"
+            ],
+            "photo_reference": "CmRaAAAAdKAezOaKfUqPQc93Or1FJqyTS1-lX_3vU2bGdT4SsZo25wDxDPFN5fBt6AgGLw8H1xMr30dVhRHovK6lIGZkUiFO26pWFDPs3G7iloM4N0EFrQUl9hHs_mYK18-nUlIlEhC4VlTUEdfzyhDm9fYvvdJGGhSANpfJDIHXHsznODSkCZ934qaXfQ",
+            "width": 4096
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101526743727992273951/photos\">Mark Kingston</a>"
+            ],
+            "photo_reference": "CmRaAAAA4vZ8D6r0k2fDkIO1PtrWsJqLQ7SnHHRpts7Ekex9itP40sLNGdVBFr6AxXfo0sL7qPL0Q8evS-_zoTbpIlHFGR9AAomzVACcl7qGooIY0yKB9j3Exld-lidzhB5A5vSpEhC8wKhZjt4hsSE_NBJ8WtS6GhSipJOZrLg3lbwdBriXCMnK8UyuXw",
+            "width": 4032
+        },
+        {
+            "height": 2992,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109117590552702119147/photos\">Robby Hemraj</a>"
+            ],
+            "photo_reference": "CmRaAAAADGoPvr44-CayxIysW2o_4vRkexvq5guz0H7m5PUoIsXWbx1iv5OgC3mbo9N6QVISLstrcrkmxTWfYLLBhBW9w4RFnSgH3pcc0zIfCH6Sg8YiFY-AAYXFKd-sJt6SOTHCEhB-WSHk840TEN3Qrbad-9AnGhRunYpceu874YFf4cMiP7q25DxZ5w",
+            "width": 4000
+        },
+        {
+            "height": 3492,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110141816483869664251/photos\">Jasmine Tsang</a>"
+            ],
+            "photo_reference": "CmRaAAAAZh8FPQZD35bUOTmDUvi2E6QF1n3doqVB86O-ZIt-Pz0EvCGg04ELIs-_AUuQU_yzRA3eGvr65-J7GZhrlsFwY3kN-x_vD3-NR71p0LRH7EuKJnIRNBG5B07V-nYkL2ETEhBJc6Wj74cwx-Jqj5KsxjRNGhSA4lceZhND_FYGgdrRLITKt4YNow",
+            "width": 4656
+        }
+    ],
+    "place_id": "ChIJlXxdtBLS1IkRtKJKHaY_EHA",
+    "rating": 3.5,
+    "reference": "CmRRAAAA2PEg8U_7Jqta0hJgCS6X1TRN17hF0rFvQC07gWStre0bhQqImoRQ_036YVvzLI_75_hdYnWbzbPcXdE_YRT2IEmo5wTfQmbXmF5SC8GI5UmZYLIZXJEH_mQvNegDeDqCEhCEX1Hcl2JygYE2Mh8eXC3wGhTLbch95ebt6pCwvagWbWs5RRoUQQ",
+    "reviews": [
+        {
+            "author_name": "Olayemi Omole",
+            "author_url": "https://www.google.com/maps/contrib/117278510325438811060/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-t9b5I3Gij2I/AAAAAAAAAAI/AAAAAAAAAN0/52foj1kK7es/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Easy accessibility.  More and more shops seem to be closing without new ones opening. Seem emptier than before each time I go in. What is happening? Great neighborhood mall with a little of everything, I used to think. Not so much anymore.",
+            "time": 1529254040
+        },
+        {
+            "author_name": "B D",
+            "author_url": "https://www.google.com/maps/contrib/104037559427275518618/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7NcBqX6uolU/AAAAAAAAAAI/AAAAAAAAJgw/GV9f5OgazkM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "I couldn't find something all over the city but this mall had it and other things I didn't know I needed. Really love the healthy planet and metro. A community mall that is quiet and never too busy. People are pretty nice as well!",
+            "time": 1529288342
+        },
+        {
+            "author_name": "Snow White",
+            "author_url": "https://www.google.com/maps/contrib/106082519979469932188/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-NxKFUk3Qd2s/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Vuo8gduR9Z8DOzPy2m8qwkrIHvQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Overall it's good as it is mostly small businesses and is a blast from the past. Needs a good sit down restaurant to perk up the business. Good deals at the home hardware but long line ups.",
+            "time": 1529268823
+        },
+        {
+            "author_name": "Ioan Polmolea",
+            "author_url": "https://www.google.com/maps/contrib/102704489789702259088/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-mBTfwfh9P7o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Lg_X-fijPflgrTLlXgakUvzSmXQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "It has a lot of independent stores versus the usual franchises you see around, definitely a better change of pace. You can practically get whatever you need from here. However, wished there were more options at the food court but again they have mostly local options which is great.",
+            "time": 1523375455
+        },
+        {
+            "author_name": "Ari Tash",
+            "author_url": "https://www.google.com/maps/contrib/109030800724619176643/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-TbZwA2XqkMg/AAAAAAAAAAI/AAAAAAAAED8/tv4KBWDPkuk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Mall needs people and stores badly (lot of stores for lease.. poor design .. specially blocking off staples bad idea .. I remember when Kmart was around brought in lot of foot traffic.  Good value stores exist however example home hardware.",
+            "time": 1528863359
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8075024114563850932",
+    "utc_offset": -240,
+    "vicinity": "85 Ellesmere Road, Scarborough",
+    "website": "http://www.parkwaymall.ca/"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "180",
+            "short_name": "180",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2N9",
+            "short_name": "M1P 2N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">180 Nantucket Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "180 Nantucket Blvd, Scarborough, ON M1P 2N9, Canada",
+    "formatted_phone_number": "(416) 702-5000",
+    "geometry": {
+        "location": {
+            "lat": 43.7578486,
+            "lng": -79.27599029999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75929118029149,
+                "lng": -79.27418916970849
+            },
+            "southwest": {
+                "lat": 43.7565932197085,
+                "lng": -79.27688713029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "027f30a479ab417407f9ec161c70c3b4a18992b8",
+    "international_phone_number": "+1 416-702-5000",
+    "name": "DURMA COLLISION SERVICES",
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117664963304872666568/photos\">DURMA COLLISION SERVICES</a>"
+            ],
+            "photo_reference": "CmRaAAAAKNIk1x1aknOW9CbnrPQkmh9DfM1R2Tp3L5UBoa7hbrFIajBej0JKr2szn_OEJGETED4nShZggS7Cpcxk_Fbx8RQjMk9DWHwdMCyBFRGHdGQLrD-CW9cmW-xc_XCBuVMjEhBTmSEMwH3U0X9w6hlVZOp4GhTA9sORMubl7lxMEykPNL70PyhA3Q",
+            "width": 765
+        }
+    ],
+    "place_id": "ChIJBzD8JOzR1IkRcXFwxx5Xobc",
+    "reference": "CmRSAAAA-mVbAyRz1NV9N8L-7TuFwdFcnkoJI5YfGVsLE9KC4qI8BBUKyc_WsI70Xjc1S6ObL2oDLHCO8mtuBkf5F9w8Mo2qQa_cVEtZWoVn6rQ0AHC9nXZnUWtkctr4MmGRFbBPEhDSS75i05-Rrwe6-gNKhi1GGhQ-XuIHCnXMp3i9k1Buo-5fgDskcw",
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13231952969897898353",
+    "utc_offset": -240,
+    "vicinity": "180 Nantucket Boulevard, Scarborough"
+}

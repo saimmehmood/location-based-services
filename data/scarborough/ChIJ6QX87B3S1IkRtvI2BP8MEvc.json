@@ -1,0 +1,259 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birchmount Road",
+            "short_name": "Birchmount Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2G6",
+            "short_name": "M1P 2G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Birchmount Rd #220</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1510 Birchmount Rd #220, Scarborough, ON M1P 2G6, Canada",
+    "formatted_phone_number": "(647) 335-7004",
+    "geometry": {
+        "location": {
+            "lat": 43.7580373,
+            "lng": -79.29111429999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75958488029151,
+                "lng": -79.28847370000001
+            },
+            "southwest": {
+                "lat": 43.75688691970851,
+                "lng": -79.29199449999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5a72d70ba1675f69f259240c14f3b9abd17ef94b",
+    "international_phone_number": "+1 647-335-7004",
+    "name": "Shooting Academy Canada Ltd.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 2:00 \u2013 8:00 PM",
+            "Thursday: 2:00 \u2013 8:00 PM",
+            "Friday: 2:00 \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104365956360901123980/photos\">Pete OHearn</a>"
+            ],
+            "photo_reference": "CmRaAAAASjLOk4fBFt4KeSQkaTKqY8EuUw8UoSbOD7z1scrbZmHW8sGnY2DzWHz-dCfz43N_xfxXh3sT2qYQk29SmYL4CDRGR2c5WwdBbrsy18u7YexexLXYUchov_1LhiPK1IoYEhDA6WIfzukQ7jK659e-SrjMGhQMAt6PFmgEimXrPuRjp4PTZVWfyg",
+            "width": 2048
+        },
+        {
+            "height": 573,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106850319733412985743/photos\">Shooting Academy Canada Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAAZKpXGTHM88R5Un7mDjm57jvLKDh7ylCkz6KhDj5PWZHbQST8PuRC6gy8YlIThQ3ffTMz_gQ6SPn2m0CFdBU3OikPc4cZNGqpWzF4aw7iLbn1YdEQbQZBm8-cK6nRZMeEhBD_GHHdGdatDiP1Xf9Ry52GhRA7VP_mg7fahwYRJq7n8CGyRpTVg",
+            "width": 574
+        },
+        {
+            "height": 526,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106850319733412985743/photos\">Shooting Academy Canada Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAACt9GiVU7nZwu6T0i2RXFU0B3SBj_v6r9g7misXTnK9Zc8sXhZqn_IV9VsrXTqj_fiUDFWOM7BSLRA92S7VNzqsnDLEpCSvl_kmRx6gfZY9BwuNFbrIlQlPfKkcHAGQEdEhC1cqeP0QZctCnEoi2iyYhOGhRRPT4iIwNAgig9LWTMHcUodfk_Lw",
+            "width": 1099
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106850319733412985743/photos\">Shooting Academy Canada Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAJGrFIYxmxatsEaTcS-m-jONhde0G0wn5NCNIzXe1izoUIdTs977qRLR0bn-Jo0E0CfkZfYxd0hYeDS-bzKhn7dUqalUjaIhgB1wvhlPn0H8Cwr4xnHnEKkP_I3DdfC8cEhBNyi5IssxNTvR0VcSIXYsuGhQwrgF3OxNmEwB8dhbIzYMDcaBEkA",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJ6QX87B3S1IkRtvI2BP8MEvc",
+    "rating": 4.1,
+    "reference": "CmRSAAAA55Aq5AQiAYDgOO5UhxmYfb9_LxGkX4k9Fwft4hapH0rFXOrrCp45sMCoJ2aQx0QyxTqVtGYZW5MbpUtuSUvVGzR8eD3882PFkc1O_e_8Yg5NmMzpPKbGYnh5hEb82_ywEhABeXMnTWgDnrKzurMJ8dMfGhSRqKIHTPk-3EyfQoQvlLV6-OlKTA",
+    "reviews": [
+        {
+            "author_name": "Pete OHearn",
+            "author_url": "https://www.google.com/maps/contrib/104365956360901123980/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zGPYkx-O-fs/AAAAAAAAAAI/AAAAAAAADDs/fLgxJKPuaY8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had a great time at our first lesson!\n\nFrom the moment we stepped in we felt welcome, Megan (the owner) was at the front desk, and was friendly and encouraging.\nObviously, anyone in customer service is expected to be this way... but in her case it seemed to genuinely be her standard demeanor. \n\nOur instructor, Sana was incredibly helpful.  He was careful to step us through everything without breezing past the details. He encouraged us when we did well, but wasn't afraid to be gently honest when we didn't.\n\nThe shop is well stocked, and well equipped for repairs and service.\n\nI can't wait to go back!",
+            "time": 1524421035
+        },
+        {
+            "author_name": "Lucy Zhang",
+            "author_url": "https://www.google.com/maps/contrib/101724783544200448935/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-TELHxp3xtgA/AAAAAAAAAAI/AAAAAAAAA-A/-tkQQjjkGMk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Had a great time with Megan and Sana, they were very professional and accommodating. They're extremely knowledgeable and helpful to beginners such as myself. Got the 2hr combo package and had a blast. Thanks for a great time, guys!",
+            "time": 1529113712
+        },
+        {
+            "author_name": "Chris Talbot",
+            "author_url": "https://www.google.com/maps/contrib/112918232294965834141/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FpWFnvg9RZo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0xjGCtQfHHvlb_WFIL73cxmZsnVw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very friendly and knowledgeable staff who have a strong attention to detail and safety. Highly recommend Shooting Academy for enthusiasts and hunters alike looking to sharpen their skills. Great place to get your compound restrung as well.",
+            "time": 1524432096
+        },
+        {
+            "author_name": "Ruhi Kn",
+            "author_url": "https://www.google.com/maps/contrib/111496128787222729328/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BWJqdeztIGM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3aImaY8kDx6wsFMnt_Tllxd6vUOA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I loved the experience ! It our first time using firearms and Meghan, Sana and Derick were amazing at explaining the rules and regulations in detail. We had so much fun, they made us feel so comfortable ! I definitely recommend this place !!! You guys are the best !",
+            "time": 1523831373
+        },
+        {
+            "author_name": "Adolfo Jmz",
+            "author_url": "https://www.google.com/maps/contrib/115829440636979008617/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-RUlyRMBMov8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1xaDfCQt5z13djThnpKQRaQCiJYg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I went there for the first time with my son, we shot my air guns then a crossbow, the place is great the staff and specially the owner are really good people I will come back again for sure. I wanted to get a year member shop but first I\u2019m getting my gun license so I have to save some money for that but definitely I will recommend this place . They made my son feel good there and he want to come back for sure thanks again great place great people",
+            "time": 1523149667
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17803306566375895734",
+    "utc_offset": -240,
+    "vicinity": "1510 Birchmount Road #220, Scarborough",
+    "website": "http://www.shootingacademycanada.com/"
+}

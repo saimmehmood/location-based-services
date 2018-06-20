@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "1275",
+            "short_name": "1275",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1275 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1275 Kennedy Rd, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(800) 260-4814",
+    "geometry": {
+        "location": {
+            "lat": 43.757728,
+            "lng": -79.277897
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590635802915,
+                "lng": -79.2766139197085
+            },
+            "southwest": {
+                "lat": 43.7563656197085,
+                "lng": -79.27931188029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6382a786de8d3132771998356b8beb31185c5e39",
+    "international_phone_number": "+1 800-260-4814",
+    "name": "Focus Timber Products",
+    "place_id": "ChIJJ0b7Cu7R1IkRakx-7479ESs",
+    "reference": "CmRRAAAAJUX7woyXL5kItvrR2qyWBv3U26FZ4_y3zQqF28Pf-pGomI83qHPkB-OPxWKdFxnzHV6KOIjW6R5rIe5VYumVHoDn__zH5TWpGox2_wOYq0i3Mn2WKjTFcZNolyMLBUGQEhDc8B_0EtwFVt5_9vWHlXZ3GhSeGscb695Q5IXvPnIK4Pe0JJKZ0g",
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3103540408580197482",
+    "utc_offset": -240,
+    "vicinity": "1275 Kennedy Road, Scarborough",
+    "website": "http://www.focustimber.com/"
+}

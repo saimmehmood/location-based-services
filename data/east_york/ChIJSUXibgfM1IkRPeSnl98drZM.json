@@ -1,0 +1,238 @@
+{
+    "address_components": [
+        {
+            "long_name": "2175",
+            "short_name": "2175",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2175 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2175 Queen St E, Toronto, ON M4E 1E5, Canada",
+    "formatted_phone_number": "(416) 698-5244",
+    "geometry": {
+        "location": {
+            "lat": 43.6703564,
+            "lng": -79.2976178
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6717964302915,
+                "lng": -79.29630631970849
+            },
+            "southwest": {
+                "lat": 43.6690984697085,
+                "lng": -79.2990042802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "27879fbdbbd0aa395208e3d6a47782548de88c77",
+    "international_phone_number": "+1 416-698-5244",
+    "name": "RBC Royal Bank",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAIiMCALZtH9JQ2cij_ttwwFclrsYGvVEtsjkbWp3EA6ycocCNX04AnhH2228pOATJ3ryEpQu5gieQ74fQUCtTARz5mAP0MbtykYjY26wmE_umSvqXuMYAFrIdFww_MunPEhDs1fcUSJBQXV6H8zTULCHpGhTDsEIHMdtCdUb5Pp2kTia1oHkPiA",
+            "width": 1000
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAeTGa1JzJkZgqnmraP6OJHV9uXaDJWUGUeU_NQnwgqtBGT7Uf07ajXriJJtUHdY8kdTxCu3264uJvPHLCHBPskchJF4P0YBemJwMPpnHEb_mXVogo57uU6bZO7PgUZq2sEhAHOxvDU8RRnNgYLP7vCv0bGhQ-kjTTUhDDPkzq5xjRdLUo1d3U-w",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJSUXibgfM1IkRPeSnl98drZM",
+    "rating": 4.3,
+    "reference": "CmRSAAAAqYcTEvHTeGKwzKwiilppvazLTdMNeWZ2kAa8Swh-FEVZ4EYKm2sI5UDRiSwqjcksOeggIVUQH7ZXmeENKCHavB_Y5dUCtfLCMBipjJn0nMp4Vi0YdiE8sHNoilaeTY10EhAYCsCpH1-PHTcIuCEjCVvnGhRJiySrla8ZTWvIQA64sfRV0lRaVA",
+    "reviews": [
+        {
+            "author_name": "Kimberley R.",
+            "author_url": "https://www.google.com/maps/contrib/111244808311121992852/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-aDFJn_FpDfc/AAAAAAAAAAI/AAAAAAAAAII/XbKvvx5zywo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Excellent service here.",
+            "time": 1521239288
+        },
+        {
+            "author_name": "FourPointO",
+            "author_url": "https://www.google.com/maps/contrib/108302100704956569381/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nhS33k2ffoA/AAAAAAAAAAI/AAAAAAAAAyE/nIwliBM158Y/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Really great place and it good because it's not crowded unfortunately some of the staff are not focused on their work",
+            "time": 1464706780
+        },
+        {
+            "author_name": "Paolo Ricci",
+            "author_url": "https://www.google.com/maps/contrib/113452509532244937165/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-i5-04h5WoMw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0dJDbk7NJosPCL-0bkMHM5NfKHsQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I like bank I get the money so happiness and I can spend it so nice. Thank you.",
+            "time": 1464211182
+        },
+        {
+            "author_name": "Stephen Freedman",
+            "author_url": "https://www.google.com/maps/contrib/100538286733365015272/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DyPeuz4-R0c/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1urtQ5be_H9xOSTa9q0-lAEw8G9w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Decent branch.",
+            "time": 1468177190
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10641194340705625149",
+    "utc_offset": -240,
+    "vicinity": "2175 Queen Street East, Toronto",
+    "website": "https://maps.rbcroyalbank.com/locator/searchResults.php?t=6262"
+}

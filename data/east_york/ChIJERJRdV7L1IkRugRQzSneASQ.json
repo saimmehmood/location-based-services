@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "146",
+            "short_name": "146",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Withrow Avenue",
+            "short_name": "Withrow Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1C9",
+            "short_name": "M4K 1C9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">146 Withrow Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1C9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "146 Withrow Ave, Toronto, ON M4K 1C9, Canada",
+    "formatted_phone_number": "(647) 821-2398",
+    "geometry": {
+        "location": {
+            "lat": 43.6711508,
+            "lng": -79.34713040000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6724522302915,
+                "lng": -79.34576146970849
+            },
+            "southwest": {
+                "lat": 43.66975426970851,
+                "lng": -79.34845943029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "5ddf3b82dab04f98014b0c57cac1cdab351771d4",
+    "international_phone_number": "+1 647-821-2398",
+    "name": "YogaInRiverdale",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2015"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0645"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:45 AM \u2013 8:15 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:30 \u2013 11:00 AM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJERJRdV7L1IkRugRQzSneASQ",
+    "reference": "CmRRAAAAZ1eDO89oO8initD-UKqUHc2LEw7vEIg18pt-gX707jp2ydS08ORio_wvLUGhkEzkcKktfvN6pzFsbpP-aaPcUtA7qf9ehdqht7frAos4TWVzPbrSlWH9Ojwis3iVd3ktEhCbZ_53HIK7cZ8uFrH8Jl0tGhQO5F0581ebbs-B1XELg-obMyHenw",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2594599131461715130",
+    "utc_offset": -240,
+    "vicinity": "146 Withrow Avenue, Toronto",
+    "website": "http://www.yogainriverdale.com/"
+}

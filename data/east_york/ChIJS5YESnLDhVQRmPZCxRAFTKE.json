@@ -1,0 +1,158 @@
+{
+    "address_components": [
+        {
+            "long_name": "Lee Avenue",
+            "short_name": "Lee Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Lee Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Lee Ave, Toronto, ON M4E 1E5, Canada",
+    "formatted_phone_number": "(416) 799-1871",
+    "geometry": {
+        "location": {
+            "lat": 43.670426,
+            "lng": -79.297922
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6717764302915,
+                "lng": -79.29656581970849
+            },
+            "southwest": {
+                "lat": 43.6690784697085,
+                "lng": -79.2992637802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b2cdadc2f7aeae7e51974970a971aa557e63baeb",
+    "international_phone_number": "+1 416-799-1871",
+    "name": "Zen Zones",
+    "photos": [
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAP4Yg0GBPnG2h2t3VkoP239ykYTm8bjf9AjYK9nM48vRokukOQxsZlH4RosqakQt9dEd1mnNmNvbd_1CK8sRGrnvXrNDkS0F3BEdJ4ksS3GjBTkX8vBCYXs6x5BAPGde4EhBePDqdepQOZa7BPt0NRrQ1GhRJBgyQVTUB1qSYfsOb-LARrQCmtg",
+            "width": 550
+        },
+        {
+            "height": 424,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAQN9_TOGl1HYkAJXFrMruFfQ6jkKIz7xLUmQAXXMCrE4ITWaWM1CiPfAj0703-qQ5JXKPCMXXI7wgEc-5b9h42ce6Y5qwNkX44EtmA50XKTjVKA9Txxc4-GsiuXForPHJEhDYeCjZyD7jyl2RcVwJVvOIGhQuckDXvoy-b7phhpEDXfNNG55V-w",
+            "width": 500
+        },
+        {
+            "height": 469,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAetciClFm2GCw0641QtQvM1bPcn-KAiJcTAgy_LNFK0jCobQPXXpiUXGDuPZ4oZ42pci-ZLeSsxL41DVSYFemU3OiLGmw1ybwjI6Ia-1wtQCmfiCznrYmn13yfUGzKWkbEhCf66YGsf5aiFfd0XhI3wjYGhTolqv77z2DnztqXDaBjiXvWvSEFQ",
+            "width": 600
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAP-21op-9c-oNjeZqr6odOoe-o3-uYE9nKvqIWn4_hF7Ksmcdm9BIY46ILO4HsYLnpOA-BlNVRw4X5_3qKTJfavLPdBpkLLhzR6pZcuPs8CgLv6BmAphaN6RnUHW_c-yOEhB7BTAkFDK32bBxwHvsZUuNGhSc2tTgao30DMg5lK5cI4WQW9y6RA",
+            "width": 450
+        },
+        {
+            "height": 540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAz9k9xaGkZze_2i5pZuSvukZhH_bUT4EPWSgciS3cX7QkZHwX0pIPhlOZ7DMGNWD6VI0pE1JXb65vgz5jAp3kye2ykJIveKAlr1p7zK0EQ2fw_9JSq8tsIxgfHS_Kg3HSEhAM9DCt16rH-hXE1LkDaLl_GhTaIaSXCO6BsqOaCxH0yTDNsnRHwQ",
+            "width": 540
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAA2w_FAHKFSFWEsi908Czy4wtNKX1gacVyxg2_K4tVYSwV-6A0illcWmd1GseBVc3W-4c5MWGUZwfXC4ojTcR_mjGRrze6aAQtu-fslPbQ7AsLB0bjKBEWS569jK27Q8c_EhCoQOwujard0nWZkQ42qIcJGhQbUojNJ1T_a9RPCd6ehLObBvw6rg",
+            "width": 500
+        },
+        {
+            "height": 1724,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAuJWsbeU7tz33dJUjZGH9bRC-BQmbG9sG6i3ZBNtU88rQ3OBvjKZ_ZYa96tx-NoT8D6_r4x7nUES8R95TBZ0NrOD1umpZK7NpPk1GpcEw77w6tKyuihWpsy53k3V68CNQEhDU2kE_TM9-45wW19b03T8HGhRxKgxNzHrQGDpKA7IDIs7kKOS-JA",
+            "width": 1725
+        },
+        {
+            "height": 325,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110482163485575745873/photos\">Zen Zones</a>"
+            ],
+            "photo_reference": "CmRaAAAAU1HReSdY3dv0aGOgJpN_K81XieXzBSmBlNipN0I4UV7c-7zyJAMM08cgonqPh1pQEU0pQl1oqAmFCUP8NUHRrHBbD851G4MG9GxJ5a4Nu-Ktv7_rZbbedwsJu-uTwITfEhAUMFzmXP0RDmKLYgTYzsjVGhQBMSZTzj36gpdSx7gZc7YzGxfyiA",
+            "width": 325
+        }
+    ],
+    "place_id": "ChIJS5YESnLDhVQRmPZCxRAFTKE",
+    "reference": "CmRSAAAACFnZyADUNq7BvXTQxzuMo2OvDIrM5CAfEY7IT__uPsbQpVfg9bFjSQ-sJbIp6_Fqo57hJWxbGijehmzIFwllcNSRYikcbF3cwbC4dTyUKnYSXjc_2iR3kePrZ-CEbdz3EhBwz7t0he4CiKPTc2CU35ewGhQ_GBa2Q38CDLQr865kOXFDUD2Ptw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11622670307923523224",
+    "utc_offset": -240,
+    "vicinity": "Lee Avenue, Toronto"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "15-105",
+            "short_name": "15-105",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Scarboro Beach Boulevard",
+            "short_name": "Scarboro Beach Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2W9",
+            "short_name": "M4E 2W9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15-105 Scarboro Beach Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2W9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "15-105 Scarboro Beach Blvd, Toronto, ON M4E 2W9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6697676,
+            "lng": -79.2928534
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711165802915,
+                "lng": -79.2915044197085
+            },
+            "southwest": {
+                "lat": 43.6684186197085,
+                "lng": -79.29420238029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7e341c3918e6c90eefb3e1f701e50be796bd915c",
+    "name": "15-105 Scarboro Beach Blvd",
+    "place_id": "ChIJ4TEnfQDM1IkRv3mta5i3_wM",
+    "reference": "CmRbAAAAP7jsyUuis1erujSJvbxmewvqK4OJl_K8sOEru0A1gg9kfF9551MnsItGVST8KgHrLk4ot8RXlWEBJhME4p94GwcztmMPo2aiFVl214M4b9gP3DVuedgP62FUJY1GCRecEhA7xX6wQG_K3JiqupQUdA2eGhToJwfbBy788A2oKP1XQOvLEeP9nQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=15-105+Scarboro+Beach+Blvd,+Toronto,+ON+M4E+2W9,+Canada&ftid=0x89d4cc007d2731e1:0x3ffb7986bad79bf",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

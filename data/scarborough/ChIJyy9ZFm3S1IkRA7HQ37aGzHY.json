@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "30",
+            "short_name": "30",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4C1",
+            "short_name": "M1R 4C1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">30 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4C1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "30 Ellesmere Rd, Scarborough, ON M1R 4C1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75812320000001,
+            "lng": -79.31432559999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7594654802915,
+                "lng": -79.3129734697085
+            },
+            "southwest": {
+                "lat": 43.7567675197085,
+                "lng": -79.3156714302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "162e3f0ce91f8c2f1a23591a6d2aa90f72b1cad8",
+    "name": "duca shopping centre",
+    "place_id": "ChIJyy9ZFm3S1IkRA7HQ37aGzHY",
+    "reference": "CmRRAAAAW9QcYSW4i-HXH8TS_bD6HfvJizEUnzJiOTTuc1IGB2yplTZFKw0fxAsmx4pMlcEGsz_0HkSE6CwTtIiuoRlMgCgJFU9gieM225hez_I5eivmQCwLXiqjv9h4eBVU_xTtEhAdgd7X-wwHETAlpomW2rmpGhQ1uRtTkWSC7Opd5sMrgIhuR-xhyA",
+    "scope": "GOOGLE",
+    "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8560365111721636099",
+    "utc_offset": -240,
+    "vicinity": "30 Ellesmere Road, Scarborough"
+}

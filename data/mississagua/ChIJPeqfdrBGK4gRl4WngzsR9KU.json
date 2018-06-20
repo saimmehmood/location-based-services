@@ -1,0 +1,76 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C",
+            "short_name": "L5C",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Mississauga, ON L5C, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5603913,
+            "lng": -79.6392402
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5617402802915,
+                "lng": -79.6378912197085
+            },
+            "southwest": {
+                "lat": 43.5590423197085,
+                "lng": -79.6405891802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "709e3eb3f1d9f62115617f740c1b6f9bd6baad96",
+    "name": "Dundas St At Cedarglen Gate",
+    "place_id": "ChIJPeqfdrBGK4gRl4WngzsR9KU",
+    "reference": "CmRSAAAA3RzllTbuQiLjGq5jkNyTFzw0cZRDn4yeSBasm4ygAs7KQlBA5YaODeOLuVNUZ4EWHkM95iqX6R1EFpE4wmOsK58RXmvwLwnyrfwJheap5QZT16Gi95llNhtqjCzMtKLJEhBtNhiGmqjL8T-a3zR1SI9QGhTXOK6cSjlQ65a5Vdr2YgFF0p1RcA",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11958201857885046167",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

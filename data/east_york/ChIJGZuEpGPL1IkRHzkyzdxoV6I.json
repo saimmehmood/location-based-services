@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "84-70",
+            "short_name": "84-70",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bain Avenue",
+            "short_name": "Bain Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K",
+            "short_name": "M4K",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">84-70 Bain Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "84-70 Bain Ave, Toronto, ON M4K, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6713656,
+            "lng": -79.3499309
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6727145802915,
+                "lng": -79.3485819197085
+            },
+            "southwest": {
+                "lat": 43.67001661970851,
+                "lng": -79.3512798802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1eae30a8f78954496627d676cf38f72d542b94c7",
+    "name": "84-70 Bain Ave",
+    "place_id": "ChIJGZuEpGPL1IkRHzkyzdxoV6I",
+    "reference": "CmRbAAAAGPalHEpTXzitRl_7Lkvnt_JFQEFknazmdl_EcUmt0aW7Yq1gpXb5lGglLWe6rwNHxJ0kuHCVp-xFzeM25-kSAm8bjLM11p2AlLn2dlJEfe4DBteZ38FvYCICJAG4_w59EhAOYHw-5PLR4E8xMoA4grTuGhRaFZ8JDB4llr3SjMzB1CA2njYuhg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=84-70+Bain+Ave,+Toronto,+ON+M4K,+Canada&ftid=0x89d4cb63a4849b19:0xa25768dccd32391f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

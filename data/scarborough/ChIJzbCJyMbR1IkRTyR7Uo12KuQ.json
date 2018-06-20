@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "35-57",
+            "short_name": "35-57",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birkdale Road",
+            "short_name": "Birkdale Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3R4",
+            "short_name": "M1P 3R4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">35-57 Birkdale Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3R4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "35-57 Birkdale Rd, Scarborough, ON M1P 3R4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7576128,
+            "lng": -79.2613763
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7589617802915,
+                "lng": -79.26002731970848
+            },
+            "southwest": {
+                "lat": 43.7562638197085,
+                "lng": -79.2627252802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "29f18a5b39f5a2128ddd5fd8c658808da5eb391d",
+    "name": "35-57 Birkdale Rd",
+    "place_id": "ChIJzbCJyMbR1IkRTyR7Uo12KuQ",
+    "reference": "CmRbAAAALxpmJN__DMIOQOr-eZLEVOte9MtqDjvz6gA4s1SxyaHkIEC7oz9lfzpBQCxS7YMPeO5hataSH_si5pLLo4tx4j1Giqh4rw5onDygi6LjaVS5GhbD-yzVHXQN_spfJG1sEhCF8JPAhhtQTWAKdHDY5b8fGhRML0v0jJrSrBpPQ_WSihxBIxKLqA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=35-57+Birkdale+Rd,+Scarborough,+ON+M1P+3R4,+Canada&ftid=0x89d4d1c6c889b0cd:0xe42a768d527b244f",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

@@ -1,0 +1,255 @@
+{
+    "address_components": [
+        {
+            "long_name": "2075",
+            "short_name": "2075",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2N9",
+            "short_name": "M4E 2N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2075 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2075 Queen St E, Toronto, ON M4E 2N9, Canada",
+    "formatted_phone_number": "(416) 392-2489",
+    "geometry": {
+        "location": {
+            "lat": 43.6701043,
+            "lng": -79.29879969999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6715448302915,
+                "lng": -79.29748526970849
+            },
+            "southwest": {
+                "lat": 43.6688468697085,
+                "lng": -79.3001832302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "674b0fa2318fb5fd039270e4249140526733ac75",
+    "international_phone_number": "+1 416-392-2489",
+    "name": "Kew Gardens",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106543613089373602663/photos\">Boyd Carter</a>"
+            ],
+            "photo_reference": "CmRaAAAAh5LoFrUGxr2peb662nGhVl4oIX5mvvr7nQoKSYPS_GdmKeMJWbhBgJsRmvUYEtbVAPrWep-2-SHgoHDwDLF6TEG3uLN5T3VDdxKoAcQ8LjEBQkbVk2yU0CdWaBfcYvS7EhCkMsT0jvuZYkmStBMMHNPDGhT3et0UPXMHAJYzRX-yct8irmUiVg",
+            "width": 3984
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102628410111670810782/photos\">Ronald Thomas</a>"
+            ],
+            "photo_reference": "CmRaAAAAovlK3BL--J-tgLdUIlBRAecgN5h_T4z1kNhxBijQrE1mlhS6jfoxTgjrJE_NvNjZ-WyeyU45H4PVUvLfV_0JYafqcz76VoaMr1OqkDNm3bU1otS1tn92ITWgbY6F6an-EhDAH6G5JPSHHqWrzWXy_pEUGhQyfzk7aUJKUoWQs5ENhFGMXBF4Ug",
+            "width": 5312
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109665282224863751110/photos\">Robson Souza</a>"
+            ],
+            "photo_reference": "CmRaAAAApe9wetdBrQkqWsxKcJrQRr7NrpHt8BmWyxwkbAV5Es78oyQ9EW2eIbKPwvIRYC7BPkKidc4BGsz2Lgu4Dz8WuNG-1863wygqytTodiHzMtvmIvujxItCwbkx-46HkT0iEhCDxQ2UnCg0SGbMLDdOJCexGhQEsK6bpqySThjEWb--iDXTFFcx2Q",
+            "width": 3264
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101756259977965383425/photos\">Julian M.</a>"
+            ],
+            "photo_reference": "CmRaAAAAKpknVPwN_jk3SvioyznVedeOhTOCgIhZsFliM6OcOw8tgD4rVw4I1IHSZpu_jeWGfZ1pXSdcmaRU26cOGYe8ey077ik0_mUsuwkTcU44wWR9XitqL9tdFpCgky6zez8SEhD0rKdHplSFL_h8oxWEAFuuGhReyRzEGGx74nAXTciIlPenWkrIZA",
+            "width": 5312
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAoBnXH1YYjUq4RGyW9yCIC5f-rZpEHFKAoUPBV7H7o3Y8lXOe9k6yFnYBBi7BXMQcpZcepILv3qOuR6mLqINet_VPr-GKHDPnrKQo1Rjg6oXhFhQzEibNUTCVJgZjDNRGEhAQLvXMdxhFo0oxZ5bCf2EPGhTJanydkEKDtf6S2qSMba1UcRpD4Q",
+            "width": 2048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100479457086229799740/photos\">Marco Rodr\u00edguez</a>"
+            ],
+            "photo_reference": "CmRaAAAAklUKHVUgVzoPhwzEKzx0WMaqGWToV_yhvNK-pCrK63da3lAzcg0W9-0-CWVd4wz8lIeiB_CK95xgzt2Wl96zUTZTRLmlEYq2ibYjYmO9IoPt6rfeibCDmF3T8K1XsDHREhDB_hP68VoGkrPc5F47c2tVGhTbEujp6jPFbRezXjlyJp-JUZBjrA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111363717744055975719/photos\">Ben Bo Carter</a>"
+            ],
+            "photo_reference": "CmRaAAAAX1jezRKNGnqiOZ92PZNVwRjbsT0RdTZoN4RgULI46e5Ulr3GaQruBcum8b6McXiCZoS_B7K5h0datRxEW7Zt2WloyshQX3R79PiBG8KFW1sBcNjgW_AFobxXB-fG8bajEhDR-7BNdo50Rzn50DVIdfBaGhRWkZI1iCuYIYTvt6TwDK7F3NneRg",
+            "width": 4032
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAsZQjCctWi8P_86MWVjnKcDKIl5fD3Ax4GE2RBOAHeU7lieeFazsLPI0tKsawCbMpcCeaK_gdyGFj15R69sdbpse_SF816gzkxtqgOgIxP-YmZ8ETS-ajuNOxwOF6isnMEhBbsKUnlxC1Ool-rXlooUQtGhR4vR_9ffVHMZu6cDFFPePMwENzkQ",
+            "width": 3872
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112356891235295260465/photos\">Brynn Smith</a>"
+            ],
+            "photo_reference": "CmRaAAAA4_1llCz_TSUkxgMC110L-eLpk4T4DMqcMdHzZvbs7UmoPY1T1Hf1MBbCgyBJZAeGLrRWqq5D2EnmF9cuZlo6VYxqTWhfW1K73olPxJVBlrCU7gHGBv6JCeWwmb1lj96WEhDQ_LMI9qVOmbn3r510YNN5GhQlZ2N6zAvMK34oqomYb9PAGqFVJw",
+            "width": 3984
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113816684667711119173/photos\">Cassie Miller</a>"
+            ],
+            "photo_reference": "CmRaAAAAQWAkKMVnPCTSJ6qBspfsxJJIi5NeoZWxRiih-m42sd-Uanup9B6_DppOzJUhscVQ3TQZ32EM_KvV_9Z4PU0p1weGNmDrzOckFvUW5CF8AijpphnIj1d4-PMQzPIAlfmXEhDfvZE_FP94yeW2r_ZCw6YmGhRaoA46ulKTp2xaQarzTlsbCYC5LA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJKVQvggfM1IkRe6GC00_xt9U",
+    "rating": 4.5,
+    "reference": "CmRSAAAABZ4AZs4S2D2AM2lYKxqJlAeXZ7gOSOhL87vnGx9V75gUvSadBuCofUTlPcOqb1bUk-9mSIc6Hcc1XUGecDtS4QVTihO_eqWsWHnatUMN8FDlXLPCyzN2DPDqjZlBnU5KEhCHmmQ9pdY3ubTasvLRaDI3GhQC0ON7Je73t3V6VDiDf3EOtaT6Mg",
+    "reviews": [
+        {
+            "author_name": "Eytech",
+            "author_url": "https://www.google.com/maps/contrib/106554386353574683546/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zqvPRGtkFJ0/AAAAAAAAAAI/AAAAAAAAAWI/-FYUd_vatAQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Really nice park in the beaches, family oriented and dog friendly. Saw a maintenance worker keeping the park clean, removing random objects and debris. Makes me feel my puppy would be safe walking around this park on his leash. Will definitely come here more often. Also nice flowers, scenery, and small playground.",
+            "time": 1526317198
+        },
+        {
+            "author_name": "Julia Szczepanik",
+            "author_url": "https://www.google.com/maps/contrib/105627531380843272452/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sehXdyVfqCo/AAAAAAAAAAI/AAAAAAAAHLw/ymtgJjZx9jc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Wonderful place to hang out with friends and family. The flowers are beautiful and the festivals ate always fun as well as the movie nights.",
+            "time": 1529243330
+        },
+        {
+            "author_name": "Vic Lam",
+            "author_url": "https://www.google.com/maps/contrib/103395961450813574360/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-OEKFaYK31hs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0FMxnC21htgVGm8XRhwAUTjDWx0A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Always a fun stroll along the lakeside. Love to walk along the boardwalk. Sometimes lively with st.side musicians.",
+            "time": 1528554314
+        },
+        {
+            "author_name": "Mateusz G",
+            "author_url": "https://www.google.com/maps/contrib/109382672274946143695/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NyjCBmYZPSA/AAAAAAAAAAI/AAAAAAAAAEw/Nd7UaAiC3-w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Beautiful place and quite a historic one in the beaches community. I would definitely recommend going here for quiet, peaceful walks. Not quite as big as other parks in Toronto, or even in the beaches but that does end up bringing it a lot of character.",
+            "time": 1521234707
+        },
+        {
+            "author_name": "Reginald D",
+            "author_url": "https://www.google.com/maps/contrib/109244864376644350160/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-hpeqcCDzLls/AAAAAAAAAAI/AAAAAAAAUPg/p3YF_wVj2Tc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Having a green footprint within the city is awesome.  Parking is a pain. Had a wonderland stroll around the garden.",
+            "time": 1528752422
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15400042775969964411",
+    "utc_offset": -240,
+    "vicinity": "2075 Queen Street East, Toronto"
+}

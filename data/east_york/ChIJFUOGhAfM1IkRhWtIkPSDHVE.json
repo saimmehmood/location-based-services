@@ -1,0 +1,216 @@
+{
+    "address_components": [
+        {
+            "long_name": "2016",
+            "short_name": "2016",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2016 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2016 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(416) 690-5533",
+    "geometry": {
+        "location": {
+            "lat": 43.6703354,
+            "lng": -79.2991134
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716390802915,
+                "lng": -79.29774661970848
+            },
+            "southwest": {
+                "lat": 43.6689411197085,
+                "lng": -79.3004445802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8f633cc620aa3a06bc3dab88c6d6473299920062",
+    "international_phone_number": "+1 416-690-5533",
+    "name": "Posh Clothing Ltd",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAoCQ_Tqw8oHOz2nyj7Bu4OfUywD7Yg0Bm9gBku_WLT_lybSHNfXqoDp-PKBgyHzCvw84QoULXG9KX1eY488Fn3i4gaDdeIKCuaQQc14ufNzdjH0ag3pA5a_4us783XIHKEhB4dK_kbbygKRjhWZqPcqGjGhRngn89tr560HKTG1rjCKM3tuzcEw",
+            "width": 3872
+        },
+        {
+            "height": 2905,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109128179703780508212/photos\">Christophe Friedli</a>"
+            ],
+            "photo_reference": "CmRaAAAAWQNqxd4ebUsrhABOfU73dgEbFGk50O6zIhWw7zSO8fFfLwDEpwv48ereOz23n6ko4_ulsKtbiPPFFs6RM7kCf8vNr6QI00vu600jJBVskCQ52_mCct35DlEb_s5h4qYQEhBa7pmhgJdPwp4PIgAhQ6Q6GhSiIfkSBpV9cWADd7K5Hs_HZ35mig",
+            "width": 5164
+        }
+    ],
+    "place_id": "ChIJFUOGhAfM1IkRhWtIkPSDHVE",
+    "rating": 4,
+    "reference": "CmRRAAAAsgR1Taoy4ShXx8x4iQG6tmtNRlO65MRJF6yfeGnvUYw86YY8yDx5MPRYtPHMSqGkLnHWqm7LW-7iR8XjwsCovQTHsRe7WZssAxSsgh9ilklwtCnZDL-Y1_dkdEli39LyEhBELW-YTp28ydTZf07tSk8DGhQiQaMPF-nWk1s8nepz-bNcBcR56A",
+    "reviews": [
+        {
+            "author_name": "S Jones",
+            "author_url": "https://www.google.com/maps/contrib/113873322263951113072/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-g4Lk_VZi3jY/AAAAAAAAAAI/AAAAAAAAJOU/GyK5IpjfSwQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1510545786
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5844972977812695941",
+    "utc_offset": -240,
+    "vicinity": "2016 Queen Street East, Toronto",
+    "website": "http://www.posh.ca/"
+}

@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-3",
+            "short_name": "1-3",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kiswick Street",
+            "short_name": "Kiswick St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4J",
+            "short_name": "M4J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-3 Kiswick St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1-3 Kiswick St, Toronto, ON M4J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67145680000001,
+            "lng": -79.3390435
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6728057802915,
+                "lng": -79.33769451970849
+            },
+            "southwest": {
+                "lat": 43.67010781970851,
+                "lng": -79.3403924802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b461c172d09e2a353d2fcbcd77fca9035fd8c7bf",
+    "name": "1-3 Kiswick St",
+    "place_id": "ChIJcRlsWX7L1IkRa3YN7Rox6Gs",
+    "reference": "CmRbAAAAolUsoxap2T7d0s8bp1U0IMVoIlMM3Aa5SlX8QZoEmUKH4NdaMxaX_bJsBabMhh2GAnP-BsAUgjjOp35mgfuWcpXf3sMNGGrmjsF2-Bo3owxDeHs_M53cr7F7sTMTtYq6EhBxwVjC0sOCcWDZsF4t8gm6GhSybCm1Mbiy6DLcZmDL1TK7RRhlvA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1-3+Kiswick+St,+Toronto,+ON+M4J,+Canada&ftid=0x89d4cb7e596c1971:0x6be8311aed0d766b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

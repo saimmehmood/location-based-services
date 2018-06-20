@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "1322",
+            "short_name": "1322",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Z1",
+            "short_name": "M4L 1Z1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1322 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Z1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1322 Gerrard St E, Toronto, ON M4L 1Z1, Canada",
+    "formatted_phone_number": "(647) 343-2111",
+    "geometry": {
+        "location": {
+            "lat": 43.67153099999999,
+            "lng": -79.32584109999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6728182802915,
+                "lng": -79.32446541970849
+            },
+            "southwest": {
+                "lat": 43.6701203197085,
+                "lng": -79.3271633802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8db5b660974f2719ba469d6bd04044b72f28c32b",
+    "international_phone_number": "+1 647-343-2111",
+    "name": "Dubai Meat Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 11:00 PM",
+            "Tuesday: 10:00 AM \u2013 11:00 PM",
+            "Wednesday: 10:00 AM \u2013 11:00 PM",
+            "Thursday: 10:00 AM \u2013 11:00 PM",
+            "Friday: 10:00 AM \u2013 11:00 PM",
+            "Saturday: 10:00 AM \u2013 11:00 PM",
+            "Sunday: 10:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228453768803910723/photos\">Mohammed Akram Qureshi</a>"
+            ],
+            "photo_reference": "CmRaAAAAhbAg9qaaC7paOIiXNlqC7I2tv4NY-sjlze7txoOflv1-yAzEWbR1rxr9TAK5DYkUD5iIvFYmNbR8SfK1xw-XHB6EQanF83kAYl8SWSOQZhpBewkht5gOgy4iY7UKq0MTEhBiE-NVU87Dwb-3q-Sloe9fGhS4dC0jMifuxUboCL9sKA4lbzvc5Q",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228453768803910723/photos\">Mohammed Akram Qureshi</a>"
+            ],
+            "photo_reference": "CmRaAAAAVDpYseDg4H87RZHXO86DGIrDWw7hRSGwfd5xzd24Ma1ga4RtExnajYcyXQvwdf6hcezY0NEbveGxfWKtUv932aaH9MsJ6_NUOLLtkAQif0V_NxQ1o_EjtQwKpXlUr82NEhAJ8XVD7hR8o72K-4LDs5eMGhSQdl8du1AAIF0L-bJ9KpN2WNGGHQ",
+            "width": 3024
+        },
+        {
+            "height": 3872,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAy1b_N3HBe6g4p6ZV_LwwoIWwblwvosiwRtkMT_ff6KIdpWdz1wOGkDwMUsxugP6SC7x637LWYJ8PhmV-C9jIbIg3OGd9zMgkVyQ5BZS1CLxz7dayYcDzIesVQASlBgJBEhBg5mpig9GhIML7Vh5xauANGhQlpFQZzXI4T2T1BuoZ3PTmccHdfQ",
+            "width": 2592
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228453768803910723/photos\">Mohammed Akram Qureshi</a>"
+            ],
+            "photo_reference": "CmRaAAAAZllyYSD9K-GIMrWThMc1PXhioukaSWqxkRqu8GW6BOMk7ftPQNRtA6Io1PoIA2T0-t0wc3HCjEDC44k7XDUO0mZ_nZjeC67k1wqn6tzCfBRMK7svc6G4Kk-iC_-DiNNlEhAvwffN9EkXWppOXzcv-aQiGhQiSEWt1ShKSLsIJgEJDFnr-C-pXg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228453768803910723/photos\">Mohammed Akram Qureshi</a>"
+            ],
+            "photo_reference": "CmRaAAAALi1hcdrfsrDbNbt03fykysvMDxII4tmppF7soTBQm5VKOpGAhijGgYZF3bMSzouclhNyof7Mr5yywTWR00Q7oyHN4z6GzDg_uG81XU-jI28w5ov_PW9oLS6ZHQUZ3EwNEhBWVJgQvMaVOT0quNnzxnWCGhRyvQjRFZX0hrSciLeR6lvAxl3WGA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228453768803910723/photos\">Mohammed Akram Qureshi</a>"
+            ],
+            "photo_reference": "CmRaAAAANjGIuhDoeEWE9zdzfxWAfBhArmmJwVho-QS9W8hwQYuDEGZH9epE-pK9FliObXtZ8tmtPpOWGKBsZxUHq6x2QFxS5rHBmIl9Y68c9XQTEqBuI46FRpFqPIGosnpR6C_4EhBeN9BVnlqF6tjhx0t_QfdNGhRzCFZJjutgV3B9UTtIPgkI1YTcSw",
+            "width": 4032
+        },
+        {
+            "height": 772,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104785635680707026230/photos\">Dubai Meat Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAA8IC4jaxR5kFGNAX7HSBYF5x9Bo6Gsy03glOUy42KFdVVSPxwWbSGlzEGkD8cGG75BjdEL8AVyqn8E2WLHWiLkvst4KE7EKs3tT8j8NDMJc83tiN6Tl_rdNaH0dCj8KSHEhDj1Gns95a70u5o2PiQVBwOGhQlvslWFebLLNfXehcc70iQOeOrUA",
+            "width": 1074
+        },
+        {
+            "height": 778,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104785635680707026230/photos\">Dubai Meat Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAs0D3BEt5SuhDvQem1lztLPAUXulmjsRDAvEj2zkoP8cui2Unl8k6gf0eRMpia2U9wctaFUOhqReDVziUjfZWrDWuiWSG5dEOF-cv8gdTvLwe6wdJAgD9tcuIMHhQpjBzEhBUgHRMmRDwT1Pcg9wVi5z8GhSWbYt6JWio1-ukWt2DoQ7m0oh4WQ",
+            "width": 778
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228453768803910723/photos\">Mohammed Akram Qureshi</a>"
+            ],
+            "photo_reference": "CmRaAAAABltkM7KxFkxJAcfULErmcooY3UvWX9ZntGSUGGTJ0pvtr09m4Bz6JDKEDu11ODO8WrGbomXk1QJltq_JFyz0arX2u77k3Yket7LrpSD_4wNGEsapd2n2W5NC5TO1XUz9EhBdIzntamqR7hHhNBJuDnVuGhQewKYyICaTmAfzyvaHnCUD5NDcOg",
+            "width": 4032
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAgTOoM1q4L2svc6F7Y06YXN804UuYQcfmEIqYxa434TXotdXsaQmWZfYmOahRgX1-tSBAUymTpxaVBaMtg1RoXZ7y79T5JfjuWxUfcztP2UvgPyyEYSk_0arplrrukveqEhBTmT_PKBcDLcob7XEmfol_GhRkcOyTEdgqzuHyHDDeOadQQKEc0w",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJdahpkYfL1IkRyk-KZADhEUg",
+    "rating": 4.5,
+    "reference": "CmRRAAAAOhBkxo7i504UqnDfEKs7pDYxfgK3LFXS2xzMGu8hEcMeCWflKdsNT90AO1FPeZAVc3bh1_WNav0u-Kr5HrPAEGppuRFFo_xTkxXKHi2fCmvlRNRbeo4RQRv0qHIunVj1EhCpqj0mM4zjyxioycme8J_jGhSeSxvxnPgujue5zd048vaK3Dg7rA",
+    "reviews": [
+        {
+            "author_name": "Casandra Harding",
+            "author_url": "https://www.google.com/maps/contrib/112985972397479672580/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VlUuA2x5M3k/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2-fZvPJxPUh3BuzoUBiWYjUb1boQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I love this butcher shop the meat is amazing and the prices out standing...  I've never met a nicer butcher he is friendly and is always smiling... thank you so much \nMy uncle and I will always come to you!!!",
+            "time": 1527880714
+        },
+        {
+            "author_name": "Sunny Gafur",
+            "author_url": "https://www.google.com/maps/contrib/108695419158042361407/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-SRLQwwAXrYA/AAAAAAAAAAI/AAAAAAAAG9A/rMTitGOnt8o/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very good quality meat. Meat is cut to my liking without any additional charges. Lots of premarinated options as well.",
+            "time": 1521500343
+        },
+        {
+            "author_name": "Jordyn Michelle",
+            "author_url": "https://www.google.com/maps/contrib/116802556088865452087/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AeWfvb2Qj3U/AAAAAAAAAAI/AAAAAAAAAFE/sKkFLBpP1AE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "I walked by and noticed a tiny bird cage with a live bird inside, this is extremely sad to see, obviously the owner doesn\u2019t have a love for animals because obviously this is a butcher shop, however why even bother having a bird trapped in this tiny cage in a butcher shop? Please get a bigger cage or give the bird to someone who wants it to not live in stress. This bird probably has never gotten a chance to fly, there is not even enough room in that cage for it to move more than a foot. I will be calling animal services.",
+            "time": 1523496156
+        },
+        {
+            "author_name": "Sethu Nagappan",
+            "author_url": "https://www.google.com/maps/contrib/114451554917773065669/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-21gXUjq9PFY/AAAAAAAAAAI/AAAAAAAAD7I/RkkzEt0RxBo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "They have good fresh lamb meat.",
+            "time": 1523672888
+        },
+        {
+            "author_name": "Mohammed Akram Qureshi",
+            "author_url": "https://www.google.com/maps/contrib/113228453768803910723/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tkWRg06nIn8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2dMMumqH5etDNE-hQfVPUYPA-eqA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "New butcher shop in the neighbourhood, these guys sell hand slaughter halal meat, veal, lamb, goat, beef, fish, spices, honey, bakery product, and deli, this is the cleanest shop on whole Gerrard, meat is amazing and reasonable price,  very friendly staff, you name it they have, they  also sell shawarma, beef and chicken both, marinated meat products, grill and also if you live in the neighbourhood then you must visit this shop ",
+            "time": 1500977540
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5193179237137928138",
+    "utc_offset": -240,
+    "vicinity": "1322 Gerrard Street East, Toronto"
+}

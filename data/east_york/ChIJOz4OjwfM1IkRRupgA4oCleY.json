@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "2010",
+            "short_name": "2010",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2010 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2010 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(416) 690-6286",
+    "geometry": {
+        "location": {
+            "lat": 43.67031160000001,
+            "lng": -79.2994373
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67159428029149,
+                "lng": -79.2980608697085
+            },
+            "southwest": {
+                "lat": 43.66889631970849,
+                "lng": -79.30075883029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f4a8de5c7ead33f2e7b073ade31ffe1420ba2aa6",
+    "international_phone_number": "+1 416-690-6286",
+    "name": "Walking On A Cloud",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 9:30 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100029012179623297777/photos\">Andrew Allenwood</a>"
+            ],
+            "photo_reference": "CmRaAAAAjPY4Rc3UqyXecN6k-wdYAH-jMPmUSYVrFihzWpYqIxVOwtzNrpgdpnXnC6-aV0hUPGrx4ChiQk_3g748j9WCZUG_AXCD3hLD1V-h1sc3AWnz179P60F5zeVo_-QAnPaAEhDxcjXJBJ51b5vJnTmbkQoIGhROPmEO0rWUkmiIysaRuNI-wtJdrg",
+            "width": 3024
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAxIKmw5wpBgO8MHdVYfGrkftJ3vTN7nOx90A_9MRlGLrAnx4UMumFwdmbJoLn93ko1fmTY6qqvxCHhL-gO7UtFaW3Azta0jFkSxwqtnTOg5MI-sxU12n2anCR4K20oWpJEhARbl0J8n22H2tGt_l_GkauGhT9tEuN4entg9u-32H-p-Js_11Zdg",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJOz4OjwfM1IkRRupgA4oCleY",
+    "rating": 3.9,
+    "reference": "CmRSAAAAs3gI74lgIdZIvuqFcgYcZ3DMg8Rv-YHPvrD087WQwfowEk5iFqF0PUhMPvy_5ILGWFDleahCfVNvV_4ZeFmjC1O8XGnxQeYUPaEMjF_BP25NGDOV-oegirqk2jxGBi3aEhAA7OUAINQ9k5DHVQbG7R_9GhQMGjYsJJz_E1zdObuYOjD0QtCTPw",
+    "reviews": [
+        {
+            "author_name": "J Lilly",
+            "author_url": "https://www.google.com/maps/contrib/104038442178847780076/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AjMfMc4hORw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2sS6weiMBStagN3hfVFwVCW5hu3A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I was floored by the level of service. I went today, ( Boxing Day), one of the busiest days of the year and spent an hour trying on boots. The honesty, expertise, patience and genuine interest in helping me was the best experience I have ever had in a retail store. Jennifer has made me a loyal customer for life. The other staff were very accommodating. I'm self employed and I recognize that they legitimately put their hearts into their work. I felt very confident that I bought the best boots for the money I spent. They carry brand names that aren't cheap but will last. I bought four pairs and will go there from now onstore. I'm self as ",
+            "time": 1451169889
+        },
+        {
+            "author_name": "A.J. F",
+            "author_url": "https://www.google.com/maps/contrib/114335796204076521663/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tNn7BZhmQXo/AAAAAAAAAAI/AAAAAAAAD9g/i5IU5uKfECo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Friendly and thorough service, I left feeling confident about the shoes I purchased and felt like I was being properly taken care of. Walking on a cloud has now become my favourite shoe store, as I have foot problems. Would recommend.",
+            "time": 1468194393
+        },
+        {
+            "author_name": "Richard Nemeth",
+            "author_url": "https://www.google.com/maps/contrib/101517943231386516973/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-F9tFdxlWjis/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1pig5m_mrHhh-ogbKP4MIKeMrkIA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "8 months ago",
+            "text": "Staff is friendly, selection mediocre",
+            "time": 1507952660
+        },
+        {
+            "author_name": "Paul Kounine",
+            "author_url": "https://www.google.com/maps/contrib/110728774323099948675/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8zsKEHmpTbg/AAAAAAAAAAI/AAAAAAAAjsc/tqOu3e4azew/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "I bought a pair of BOGS winter boots at this location. Within a month, they developed a defect where the rubber outer layer started to separate from the neoprene, likely due to poor adhesion. I brought the boots back upon request after giving the store a call. This was on Sunday. They asked me to leave them overnight so the manager can take a look on the following day. I don't get them back until Thursday after they decided, with blessings from \"head office\", that the boots aren't defective and told me to come back if it gets worse. 1. Their decision should've been made on the spot. 2. I contacted BOGS' own customer service people with a description of the problem and a photo and they agreed that it's a defect and are sending me a replacement pair. Dealing with Walking On A Cloud has been a waste of time.\n",
+            "time": 1448570404
+        },
+        {
+            "author_name": "Olga Pe",
+            "author_url": "https://www.google.com/maps/contrib/109078410665718254091/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-B-F8EdbA3p0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq24yEaUgBB-TFRy4qdqI2jbykbPkw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1507172046
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16615189192038738502",
+    "utc_offset": -240,
+    "vicinity": "2010 Queen Street East, Toronto",
+    "website": "https://www.walkingonacloud.ca/walking-on-a-cloud-the-beach/"
+}

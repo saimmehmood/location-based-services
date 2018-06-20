@@ -1,0 +1,200 @@
+{
+    "address_components": [
+        {
+            "long_name": "3254",
+            "short_name": "3254",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A4",
+            "short_name": "M1H 1A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3254 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3254 Lawrence Ave E, Scarborough, ON M1H 1A4, Canada",
+    "formatted_phone_number": "(416) 438-5247",
+    "geometry": {
+        "location": {
+            "lat": 43.7574593,
+            "lng": -79.23901459999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7585625802915,
+                "lng": -79.23756271970849
+            },
+            "southwest": {
+                "lat": 43.7558646197085,
+                "lng": -79.2402606802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d0962e7035fd4f60e93c3186fa88bd9c961c202b",
+    "international_phone_number": "+1 416-438-5247",
+    "name": "Metro Cleaners",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:30 PM",
+            "Tuesday: 9:00 AM \u2013 6:30 PM",
+            "Wednesday: 9:00 AM \u2013 6:30 PM",
+            "Thursday: 9:00 AM \u2013 6:30 PM",
+            "Friday: 9:00 AM \u2013 6:30 PM",
+            "Saturday: 9:30 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2970,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110015116661467558080/photos\">David Ing</a>"
+            ],
+            "photo_reference": "CmRaAAAAoXRQL16uwF_74Es67MjQ-9nzU9nartSxLyfQ-Gx8CIQES1v2i56tR9RjNMZ5xCW2O2xe1DAUuXhwyxcNFGDinX_I7esZWToK3uW-m0ghWashEhfrBJyrRs8BkXAmfuxxEhAxZ9zmyIzFY-XBlz0cOLzqGhSOL36jiQkYfDquXzn3o-nCoxUfzQ",
+            "width": 2269
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112670376257991578875/photos\">Metro Cleaners</a>"
+            ],
+            "photo_reference": "CmRaAAAAye6Pzai4SlU4ehHnozFh3ueYqORtmAYg0ARSleQ6ubHh7CTK7oYI9zOCuZ9z7OyHyCzyVDXPE0E2qSMI3ebrxGanqVEoeP8X_ePNzJNhVIl_Z9KzgRLiKcQuVyyUvAyWEhCk8ljFOWyDhAByX1M9g_SFGhTdH_sFdQIY9tyWXYk48LZg_fO7_g",
+            "width": 1836
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110015116661467558080/photos\">David Ing</a>"
+            ],
+            "photo_reference": "CmRaAAAA7L4KAyhGYxX3hu6JXK_hzo9wBG-hS7rJBaZ6Ls-8SHU6ABCiVJoKOqiHAA8nV2ieLApSLsQxVrHnArLi0iC1oj41BJNdvOO3R0dTJa2ZW-M3Zr20vk73y9xywefw24RvEhDVV_LM1ANTyJP32VbQgoCEGhSlC1rsdCFB4egBJ_tgmHnH4qfBtQ",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJZ_xLfzbQ1IkRhyTnHrawh2o",
+    "reference": "CmRRAAAAVckrwprb_-UiRusSEcvYITlmjS16LmQi6uz6ipWaU8aSyNFE2-Izj7lRhvaFCVekW8AqO1gTmoUPhYiwh653WjOC0-OwEpyZ4YZkuyAe8Ool37jmu-HBtIl9lJOcWaOeEhCbKsbGAwUc0X9tm5Vz0pJeGhRN7ZmsdHnJtzm2APZUpvcTzMXM0w",
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7676298386125300871",
+    "utc_offset": -240,
+    "vicinity": "3254 Lawrence Avenue East, Scarborough"
+}

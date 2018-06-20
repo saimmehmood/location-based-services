@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1978-1964",
+            "short_name": "1978-1964",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1978-1964 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1978-1964 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6697319,
+            "lng": -79.3014044
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710808802915,
+                "lng": -79.3000554197085
+            },
+            "southwest": {
+                "lat": 43.6683829197085,
+                "lng": -79.3027533802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "4b4042667ee7c1fb9dca59d2ea50d677f45534f7",
+    "name": "1978-1964 Queen St E",
+    "place_id": "ChIJyUqKAfjL1IkRAYr_qHUl8r0",
+    "reference": "CmRbAAAAIfl5kirQX3_bUHqBJCjj1ddhjExlvbidMr5ZrRlWjJWhD_Yy5zLw9kES0Rjv-OMZptEUho8btHbCruCGfaHqfD-1_cXepVq2KZX3IiTH1UAdMOAnPxjH7e3jIuy0bAi_EhCnBNJ7aVEEW88jfZRbXok6GhR4MmsmUG8_w8rWmFOmCKe7CilqCw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1978-1964+Queen+St+E,+Toronto,+ON+M4L+1H8,+Canada&ftid=0x89d4cbf8018a4ac9:0xbdf22575a8ff8a01",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

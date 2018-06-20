@@ -1,0 +1,154 @@
+{
+    "address_components": [
+        {
+            "long_name": "1971",
+            "short_name": "1971",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H9",
+            "short_name": "M4L 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1971 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1971 Queen St E, Toronto, ON M4L 1H9, Canada",
+    "formatted_phone_number": "(647) 722-2370",
+    "geometry": {
+        "location": {
+            "lat": 43.66966109999999,
+            "lng": -79.3012964
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710533302915,
+                "lng": -79.2999655197085
+            },
+            "southwest": {
+                "lat": 43.6683553697085,
+                "lng": -79.3026634802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bd01682276d28d31dc434c7e1774c62d31c09547",
+    "international_phone_number": "+1 647-722-2370",
+    "name": "Appletree Medical Centre",
+    "place_id": "ChIJl-rJGzDL1IkR3V93ZolrUPM",
+    "rating": 3.3,
+    "reference": "CmRSAAAApS_fKiggx0adKqOHQsG7-Mg33AaTYTU4BlZEEipb9ehfo20mI_FEvHqAY6g2WAgVv-zE_CRSw3V-lWXr7vSQqxSuxYnUC7YQheErDbzoTLP1dykRwQ9QuCiu-eNenqi9EhAwE4g6ZXaUgTRDV5C6ooUuGhSkVlDLCKm87WeOaHt-CnnV9rshpw",
+    "reviews": [
+        {
+            "author_name": "Natalie Neco",
+            "author_url": "https://www.google.com/maps/contrib/110961654093645907261/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WkMQqZUi2QU/AAAAAAAAAAI/AAAAAAAAJ8c/ID8xnlks_J8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I was prescribed medication that made me horribly sick. No warning from the doctor about the brutal side effects. I called the phone number to the clinic and they refused to transfer me to the location I visited or let me speak with a doctor. Said it's their \"policy\". They demand I travel back to the clinic to ask some basic questions. They do not care about the patients. They care about is dragging me back into the clinic so they could bill for more time. This whole experience has been a nightmare. Stay far away from this clinic. You're just a cheque to them.",
+            "time": 1520612293
+        },
+        {
+            "author_name": "Jaime L\u00f3pez",
+            "author_url": "https://www.google.com/maps/contrib/113037774183593352998/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-67apxbfwvg0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3XE1Vzld7R0Z_ETAez_3qyppS42g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Horrible! Wrong diagnostic and I had to spend a lot of money on antibiotics which never worked, of course. When I went to ask an explanation, the first thing they said was: \"it\u00b4s $70 CAD If you want to see the doctor\". It\u00b4s true, the place is clean and the staff is really nice but not professional at all..",
+            "time": 1523565015
+        },
+        {
+            "author_name": "Kutay Berk Uyanik",
+            "author_url": "https://www.google.com/maps/contrib/110144596117604662021/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-aCIk07fICt0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Tyy2Tzjkc3lkf_BQHieVVVhIF6A/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "WRONG DIAGNOSIS, NOT MORE THAN 3 MINUTES EXAM THANK YOU FOR WASTING MY 1 MONTH HOME SICK AND ENDING UP IN EMERGENCY ROOM",
+            "time": 1521736636
+        },
+        {
+            "author_name": "Mandy Folsom",
+            "author_url": "https://www.google.com/maps/contrib/109742436915456161053/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zgzJhkLl7oI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3a2dPX4XvHaPD-tSi3s2Trt7pXYA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "I'm a little on the fence about this clinic. I have been taking birth control for 15 years and this is the first time I've been required to do a pregnancy test first... All things considered they sure were speedy about it.",
+            "time": 1513174293
+        },
+        {
+            "author_name": "Maia Van Raes",
+            "author_url": "https://www.google.com/maps/contrib/110654033339634381159/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UZzi5-7QD5E/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0-4_f7GX--2_4eIMIE9vQMhm1QYw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "First time at this walk in clinic(although they do more than just walk-ins) today and I had a great experience! Check in was easy and fast, and staff were friendly. Doctor was also quick, helpful, and very nice. Would 100% recommend.\n\nAlso, they close at 4:30 Monday - Thursday. And they are open until 7 pm on Fridays.",
+            "time": 1496266205
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17532631587227131869",
+    "utc_offset": -240,
+    "vicinity": "1971 Queen Street East, Toronto",
+    "website": "http://www.appletreetoronto.com/"
+}

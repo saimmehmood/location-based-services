@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3222-3206",
+            "short_name": "3222-3206",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Valmarie Avenue",
+            "short_name": "Valmarie Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2A5",
+            "short_name": "L5C 2A5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3222-3206 Valmarie Ave</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2A5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3222-3206 Valmarie Ave, Mississauga, ON L5C 2A5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5604103,
+            "lng": -79.6498836
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5617592802915,
+                "lng": -79.6485346197085
+            },
+            "southwest": {
+                "lat": 43.5590613197085,
+                "lng": -79.6512325802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "65fea9244bc78138630b8ba0331ec4a6baa79626",
+    "name": "3222-3206 Valmarie Ave",
+    "place_id": "ChIJDbHnrbJGK4gRqcy0nOoNmOY",
+    "reference": "CmRbAAAAQAZY1LL4WkqqDQZrqtTzxo0VczNLyOs_Ci8Fn1CgXlIYLD0aGs-WvE2pXU_PoIjvqnjJ4qrhamFdXir3LWKmwIaZFRADkhVy4_yF65Cie-neSRcoD1ZgLMNYLAZxShm9EhDrs4zD7C_lpOAL8mt2OLr9GhTpLjdVsUm1s1sOSOde6vU1g-KSjA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3222-3206+Valmarie+Ave,+Mississauga,+ON+L5C+2A5,+Canada&ftid=0x882b46b2ade7b10d:0xe6980dea9cb4cca9",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

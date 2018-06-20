@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "25-47",
+            "short_name": "25-47",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bain Avenue",
+            "short_name": "Bain Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1E5",
+            "short_name": "M4K 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">25-47 Bain Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "25-47 Bain Ave, Toronto, ON M4K 1E5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6712061,
+            "lng": -79.3506556
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725550802915,
+                "lng": -79.34930661970849
+            },
+            "southwest": {
+                "lat": 43.6698571197085,
+                "lng": -79.3520045802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "00564aba3631b45ad1a99679171d912405c70b2b",
+    "name": "25-47 Bain Ave",
+    "place_id": "ChIJBQe5v2PL1IkRizIHwd2tPqg",
+    "reference": "CmRbAAAA9uKrZSRA0-negSCtw8y9k5yLLM9m3n3bu4fQfEjbhLF5TwsJOhtWFWLpy5zbGwrC1N6mryC4Bb1mq3mgrtouuqOO2dbVZnfcRsQlaQRHGkaa2i2Y2dPmmZ4e5-61K7u0EhAvY0MH7pyTos1nvwtZuW_rGhRNdPvMa4Rt4Djxq9RKrH25fpxqew",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=25-47+Bain+Ave,+Toronto,+ON+M4K+1E5,+Canada&ftid=0x89d4cb63bfb90705:0xa83eadddc107328b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

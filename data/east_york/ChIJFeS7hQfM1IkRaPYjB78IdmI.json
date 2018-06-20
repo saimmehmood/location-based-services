@@ -1,0 +1,323 @@
+{
+    "address_components": [
+        {
+            "long_name": "2012",
+            "short_name": "2012",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2012 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2012 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(416) 613-0256",
+    "geometry": {
+        "location": {
+            "lat": 43.6703065,
+            "lng": -79.2992477
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67161033029149,
+                "lng": -79.29788006970848
+            },
+            "southwest": {
+                "lat": 43.66891236970849,
+                "lng": -79.3005780302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f38bef280671fae40aad2a6feb264f4d429cadc7",
+    "international_phone_number": "+1 416-613-0256",
+    "name": "The Ten Spot | beaches",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 8:00 AM \u2013 8:00 PM",
+            "Sunday: 9:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAAtxQ4FD2OkiswrnOHxfACZK2G83g9ccTgujJwNRnYkHe5WhDUVoeh8-kA2zJcB73p-UDp_dgsZ9WPgImUZbDDaxMKyZVrm7jQQMF5ABjFOi_09ASx8v5-3n31sswyohPGEhA2eVWoqKv8rA7ohPm8boCAGhQXspQkYOtmQKLvQmx5XqDI3Btwlg",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAABItzqZoPwcC3x9-3Yr0psZZGWhqD5vyWOub8S8RMP5GWEeGDTNNjwiJy7K_UKPTrPN6y8XhnTJ53k3rXX4U8vR6RBen3l8OFioD1BgSncUBIQBiAKhMy7kYJW26LaUWkEhD-UGNPCNixUnmyJgyzy20DGhTfp2frVSNH2NbMUUQ_v3ONsIMnwg",
+            "width": 2048
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAXPZ3aECML4bzcYIbNVXK9pHCBmlgq89GySiR7q_b1pA8QJk8Rf77G1G-p_mrSwPVF7nZ1bzOmF_g5pE1SO_98D7UQIntkPN7h1lgWJwEpP1PeXPp0GmmoRsP-CaWDeOCEhAP9BToMjL7Xpc8-9lCt1-lGhSJnF40CZmmAjYV0wITpBVDVoN7yQ",
+            "width": 3872
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAAgNyk7LHdour9lKc4zO3sl1OKVomrEDgd0BG_VYNKL29qXDfdVJEYXgDct4B8dUss1ciXRFVGIcoz-7fPZBjudYIDa9M3o7AYq8qVzhtkbtQLpbhe33PxjrL3ALzzUKQ9EhCnXVA4uI5uxj4XMUu2L4mIGhTULLFRlusV7nUTYJpS8JuFdWlrzg",
+            "width": 2048
+        },
+        {
+            "height": 956,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAAb7pcMQLnBgKN9KBSJ6i8tvtMSDKT0mn9jb-ZF20ZR84MZ1O8CChkz4U-Y_cgokOLSdNhQ4ujVLWzyqYjVcnivI6NlV51i9M7qUwA5EWeVQL_lG48DItJDADGmsiGmTBiEhD3aSHzJogcBIOkhghpZtx9GhRo0rdaaexwsLjUC6gCh_d5ks1udg",
+            "width": 956
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112022919363423271365/photos\">Carmelina Karas</a>"
+            ],
+            "photo_reference": "CmRaAAAAiobwleabd4Fw2fBsFTZFh8Qm3yVvCkzeCT407h0OYZY7-6lSBy-DzZ8-WMRtGCVZ57vPgcI1TGPWKPYvwrIppa5VUvZGJ1Dx7CDqmqJHX9oeANJNM2Pw--TvUZMp8RVlEhDehFCm6aspeNt-ej9IEJvAGhRxF0LqO-WxzvgMrN6z5kG558_8iA",
+            "width": 1536
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAA7nqeyXrXQfVZT9SuqBS-scnrBabs4gj1fDCDB3MCYKMuQNBqEUL76Eo28G8zL9bZmE4relJxL5CvA7V7n5GzLVCA5H0a3hLV76N3WpG53jVoqwPqljtNzj-4QgJ6TufIEhBgs2pdwuJBKrlQjMJCV10LGhTn3KUhjavFeGsPRQXenipS9tKi1Q",
+            "width": 2048
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112807908845464456212/photos\">Joseph Neitherly</a>"
+            ],
+            "photo_reference": "CmRaAAAAEphaAy24-5EWMOqIZi7h-56__1u_dGaOHaMyWTd2NsJ50PI_-KKQEpzLgx47ZwJq-XrLrg3r2YyTLRXvDYRMXMDmd5VBzzSC1NZtx4RbStS9gKhPa1q1c5J2JD5c2cmIEhCwRUGNEJ_FXXq9S2MHhc66GhQpyU-3O_tKUVc_WQ2oAauwKLpZSQ",
+            "width": 2560
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAAeszE9h-P_-7euKdihz-h61jRBknIQAyn1MwPpQZEtoa2QtsL8bee6tpqfADpYgpkGy02oYa1sKCOme0_jALBTRH8YMZ_oN-op6MsatCp1wTPLg-i_LeAd4iAzl0UYanQEhBcJx-tOfwbXMzGVHLccmD5GhTm9ReVBK_JSvzXawiJbKxX9ghrtA",
+            "width": 1024
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109234181929654515932/photos\">The Ten Spot | beaches</a>"
+            ],
+            "photo_reference": "CmRaAAAAiTGmgU1aCINU84Yf1CCf0_Q8H3WO1SP_KRN110nFb0wV_8xdO98Bh_5Lp8Aay3pseT_i49rVA7na65Uf98nT5UsV2y7M23oXx9NaFqmGiyRa8boX1SIFOtw9zCR12d4QEhAJHQs3RrmxZNdHeJy7ROYMGhQhEvssFPNLsqyW2H1n5X99-CYonw",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJFeS7hQfM1IkRaPYjB78IdmI",
+    "rating": 4.8,
+    "reference": "CmRRAAAAuboxiKUlLYxupwBkEgXUqdDRewZ8ZkTUXtslsJafko32m2RUPhW-QP0gP2d3RD2NXpJgjlwN_bCWTry9_oE-28DGsA1LUt8UaHwfbF5OgY-advN1x42fuxRtQRg1vGBXEhD_SOzP4jci5rJEvtpfyv9mGhQ81ctSgiO2ZMddQPXUg-SXT8J0yA",
+    "reviews": [
+        {
+            "author_name": "Rebecca Claborn",
+            "author_url": "https://www.google.com/maps/contrib/104523508459182678724/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_Xj3BM1FqmY/AAAAAAAAAAI/AAAAAAAAAUw/QbakXfRmT_M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "After a stressful month my friend and I decided to treat ourselves to a pedicure as a special treat. We had a great experience at The Ten Spot in the Beaches. Chelsea was friendly, professional, and excellent. She was able to make even my tiny toenails look good, and almost two weeks later, the polish hasn't chipped at all and my feet still look great! The atmosphere is relaxing and the wine pours are generous. ;) Just what we needed!",
+            "time": 1527891742
+        },
+        {
+            "author_name": "Stephanie Quick",
+            "author_url": "https://www.google.com/maps/contrib/105248711953247838899/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Orsdm8gHi64/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1hTLM-5lsDmLr0dnT2cvV26DmrFw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "10 Spot Beaches is flawless every time! Excellent customer service and always happy to answer any questions. Always accommodating and service is always perfect! My go to spot for sure. Highly recommend.",
+            "time": 1529174957
+        },
+        {
+            "author_name": "Alina Bugeag",
+            "author_url": "https://www.google.com/maps/contrib/100404714849059451794/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PkrpNOCb7Lc/AAAAAAAAAAI/AAAAAAAB-Y4/2RL2z0EQIAs/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I go here monthly to have my eyebrows done. I also had a quick facial done and the owner recommended me a routine and products from Miracle 10 that work so well for my skin that I continue to use even after 3 months. Keep up the good, quality work and service, ladies! Thank you for all that you do!",
+            "time": 1526496332
+        },
+        {
+            "author_name": "Valerie Rother",
+            "author_url": "https://www.google.com/maps/contrib/113374779043806840486/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Dv2XAmMX-jk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq24k8KiqqMjj0P0WUCQ3MkWv6bGmg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "My daughter and I had the best morning with the staff at the 10 spot beaches. Everyone was super kind and friendly and we felt at home. It\u2019s not always easy to have your toddler with you for these kinds of things, but the staff treated my daughter like one of their own and really went out of their way to make our morning so enjoyable. Plus our manis and my pedi were impeccable as usual.  I\u2019m a regular customer because of their phenomenal products/services, cleanliness, movie and magazine selection but the staff truly are amazing and will keep me coming back time and time again.",
+            "time": 1522001564
+        },
+        {
+            "author_name": "Susana Vargas",
+            "author_url": "https://www.google.com/maps/contrib/115249305976510702313/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dt-p5MdKeRY/AAAAAAAAAAI/AAAAAAAAAAc/whtVEJSH5ps/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Every time I book to get any service done I\u2019m am fully satisfied. Everyone is super nice and inviting!",
+            "time": 1527828119
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7094867879520368232",
+    "utc_offset": -240,
+    "vicinity": "2012 Queen Street East, Toronto",
+    "website": "https://www.thetenspot.com/beaches/"
+}

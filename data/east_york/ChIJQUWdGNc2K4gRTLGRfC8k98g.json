@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dixon Avenue",
+            "short_name": "Dixon Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1N3",
+            "short_name": "M4L 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Dixon Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Dixon Ave, Toronto, ON M4L 1N3, Canada",
+    "formatted_phone_number": "(416) 248-5860",
+    "geometry": {
+        "location": {
+            "lat": 43.67000789999999,
+            "lng": -79.3106559
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67128248029149,
+                "lng": -79.30934566970849
+            },
+            "southwest": {
+                "lat": 43.66858451970849,
+                "lng": -79.3120436302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dc94182fdb1baec03a333d154be8860fa3d668ee",
+    "international_phone_number": "+1 416-248-5860",
+    "name": "Lisa's Hair Design",
+    "place_id": "ChIJQUWdGNc2K4gRTLGRfC8k98g",
+    "reference": "CmRSAAAAlA8A2PMI25cyOplZquWwHWmu1rPT5L14aIgSKnJ8gCWJviTxjcagDkhXYllCyApaokzl-nbb2IeDRohi9rEIRqeo--IbWOm5FFzrLrylvyyOLVpjZNSt6F6O613MPdLNEhAUs6vr1tMdVPYA1kahnQxUGhTSpQ-Io6x3pojGogi8AuLpiOoz3g",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14481082913205104972",
+    "utc_offset": -240,
+    "vicinity": "16 Dixon Avenue, Toronto"
+}

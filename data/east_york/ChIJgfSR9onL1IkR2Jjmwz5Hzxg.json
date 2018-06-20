@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "174",
+            "short_name": "174",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Coxwell Avenue",
+            "short_name": "Coxwell Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3B2",
+            "short_name": "M4L 3B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">174 Coxwell Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "174 Coxwell Ave, Toronto, ON M4L 3B2, Canada",
+    "formatted_phone_number": "(416) 778-7833",
+    "geometry": {
+        "location": {
+            "lat": 43.6708218,
+            "lng": -79.3186137
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67219068029149,
+                "lng": -79.31717336970848
+            },
+            "southwest": {
+                "lat": 43.66949271970849,
+                "lng": -79.31987133029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9609c4291d7e3662f8df2a3f91b06677af6b6bd8",
+    "international_phone_number": "+1 416-778-7833",
+    "name": "Altawakal Enterprises Inc",
+    "place_id": "ChIJgfSR9onL1IkR2Jjmwz5Hzxg",
+    "reference": "CmRRAAAANqcpV5mVlMJBGCod2rGiqlY2MnY77LC-LerrW8MQwQw1XVTihi9bRQEuryE5jp4_-VsiJxmRl_BxX_SKIlA-IBEZQkW64yifwXKRne2z7CydBCMbSxon7_dQoizvHWouEhB9EuPb8thr6_Pf5wxRjnP-GhRDLeebxNyHNoP1eMLdADIBSQArMg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1787725911989590232",
+    "utc_offset": -240,
+    "vicinity": "174 Coxwell Avenue, Toronto"
+}

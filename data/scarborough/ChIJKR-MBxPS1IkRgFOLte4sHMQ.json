@@ -1,0 +1,262 @@
+{
+    "address_components": [
+        {
+            "long_name": "113",
+            "short_name": "113",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4C3",
+            "short_name": "M1R 4C3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">113 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4C3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "113 Ellesmere Rd, Scarborough, ON M1R 4C3, Canada",
+    "formatted_phone_number": "(416) 444-6557",
+    "geometry": {
+        "location": {
+            "lat": 43.758737,
+            "lng": -79.3096851
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.76025858029149,
+                "lng": -79.3084171197085
+            },
+            "southwest": {
+                "lat": 43.75756061970849,
+                "lng": -79.31111508029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8808d2c850c1c7f5be8543a0cedd36d75ea91359",
+    "international_phone_number": "+1 416-444-6557",
+    "name": "Hair Evolution 1",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 7:30 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1003,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAA_MnB82caHnwE26MyG6KpoED4bSjUu_rHxbUXOZy42DaJEA-3_mMGnd0_GSb8ZZXfUzc64mXzzMSqWRpH50Az6V32xW6_UkKvBLLXmmICjZKDceKWhWmFDJoDEldHIJ8_EhABosIRGFFffBFKYObv6gFlGhTL8rZyFjZrkLkSL8rzW-PUnkPSPQ",
+            "width": 1744
+        },
+        {
+            "height": 2880,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101089808191775703873/photos\">Rec\u00e1maras en Renta UAEM</a>"
+            ],
+            "photo_reference": "CmRaAAAAOygDr2xppy3XxOlkzUegUcRMD3UJOIBB_Wf_6_Ml36gA1ytDfOQscN91Dn0cRoveguLuR3BB3aCN1csWbLisItYlDOVhKEEWMMwNpV2i0v__ZzDOq6HnZDVDkduD3y3PEhALmzIPeLaXlEFxu9KhjpS4GhRftRGqvW-t-6C_W8I7WhS1Us1PRg",
+            "width": 2160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100039738371519790852/photos\">amos tamuka</a>"
+            ],
+            "photo_reference": "CmRaAAAAz4lHG19kkZkyr2Yh3KC3tLAYTKqmLJ5Rfm19CU1tLGiBc7KJ4m2l6H8HB8fqrwMMmrAQC3k7iiKRbZ6SaD4EckykJY_kfwgQkCIxwWrAP-UgP5rPO4JROjIJfMUwKmq8EhDnoa8gkrzKPZ_yXoGkjwtkGhRpA21HE5QS3xIFVW9SmJMjjsAxCw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100039738371519790852/photos\">amos tamuka</a>"
+            ],
+            "photo_reference": "CmRaAAAAPGEM1kgU-IAfcy_SoSwmueIyAqiDL556AB68qP6ZcaYgu37SDfd2WT_ap5ckXiiUC_XGwhCNNoAFF-7sY_st5RC_A-zpleDLRZg1KUiO8UgmevH4Tqza-bes7aWDkEVvEhC0iM84IUiUHIzJAsfHGeBqGhSbIjO1Bx5Zmhpb8fz39Gi3dNbQ_A",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJKR-MBxPS1IkRgFOLte4sHMQ",
+    "rating": 3.4,
+    "reference": "CmRSAAAAlXG2T0UXtemV8BM1kFiGiMFcy2ZgNap4GFGuL7HTsxvgBkfyG5z_tdujcQzC9eCJl3pluFg2Rpl7Kwn-HX8GyLOLXnS8qWc8lZrGy2x5tB9Xt2HRSX3-_G0aJjRsLGi3EhCUAL-MtvxWSXYk1YHXa4VlGhRVYopf8YN4z9JgsDSGtjlBeOpqkw",
+    "reviews": [
+        {
+            "author_name": "Nahrin Aziz",
+            "author_url": "https://www.google.com/maps/contrib/111408874904196247096/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-hbI01Ri1OyA/AAAAAAAAAAI/AAAAAAAAAAw/PYUCTHz-_98/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I had my box braids done at Hair Evolution a week ago and I have never been more satisfied with a hair appointment. All the Stylists are so so friendly, helpful, kind and professional. There is a warm and friendly feeling in the shop and everyone is treated with love and respect. Auntie V did my hair and even though my hair was really short and silky she gripped it with no problem, I\u2019ve have never had my hair braided without zero pain, it literally felt like a head massage, I almost fell asleep! She was so sweet and so good, she went above and beyond and she was so gentle and skilled, my braids still look fresh and feel strong. I was there for about 6hrs and I never saw anyone take a break longer than a few minutes, every stylist kept helping customer after customer with skill and smiles. There is a lot of fun and jokes while you are being helped so no chance of being bored either. I would come back here again and again without fail.",
+            "time": 1521824474
+        },
+        {
+            "author_name": "Anna Solomka",
+            "author_url": "https://www.google.com/maps/contrib/115132946182472469337/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rmd1AfUU3Tw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq274KmNCA8vU5Hu87f_zuQ_HazNZQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I had there my sew in hair extensions done. Great service at a fantastic price! Thanks a lot! I also had them removed after 6 weeks, and had a haircut, happy with everything. Highly recommended!",
+            "time": 1470270725
+        },
+        {
+            "author_name": "Keith Keith",
+            "author_url": "https://www.google.com/maps/contrib/105932828225214226912/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Nre7qMADN7k/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1EygsV2aNPegWnIISVCZlitqCEQA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "the staff here are nice and good at their job and i left extremely satisfied with the braids i recieved and in a decently timed fashion",
+            "time": 1489733785
+        },
+        {
+            "author_name": "Kat Haggan",
+            "author_url": "https://www.google.com/maps/contrib/105913990596676161588/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-qqJUxqOrRrg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2bU9QLE3L4PCb8YTT5fpZKUIoKiA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "I went there with my 10 year old to get cornrows $35 with it being blown out.  Amazing job, second time I went another lady took us and tried to charge me $65 and said because of the design was more complicated  but I showed her pictures of my daughter other cornrows that were the same design then she tried to tell me it was more because it was blown dry. But I showed her picture if the last time it was done with a blow dry for $35 basically she was trying to get as much as possible from me. Just make sure the price is discussed before you go.",
+            "time": 1463503642
+        },
+        {
+            "author_name": "Abigail Adjetey",
+            "author_url": "https://www.google.com/maps/contrib/101686084297099689220/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-OWqsU2G7N-g/AAAAAAAAAAI/AAAAAAAAkPs/1wHvWRlTRuA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Great prices for everyday services. On point",
+            "time": 1453225972
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14131219134541419392",
+    "utc_offset": -240,
+    "vicinity": "113 Ellesmere Road, Scarborough"
+}

@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "4030-4018",
+            "short_name": "4030-4018",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Summit Court",
+            "short_name": "Summit Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5L 3C8",
+            "short_name": "L5L 3C8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4030-4018 Summit Ct</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5L 3C8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4030-4018 Summit Ct, Mississauga, ON L5L 3C8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.559977,
+            "lng": -79.67597719999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5613259802915,
+                "lng": -79.6746282197085
+            },
+            "southwest": {
+                "lat": 43.5586280197085,
+                "lng": -79.6773261802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "db910094f5469d440e3432436e96ce62c5a26b57",
+    "name": "4030-4018 Summit Ct",
+    "place_id": "ChIJ90etV2ZBK4gRl1aaqQbzt1I",
+    "reference": "CmRbAAAAt6zsbTpOiy6FRHEuLM0oD8B8mGvWvq2gQqkyag2Xhlt9TEYX5YnTThzPcp6agaFsVumTk-jDjoRvm6rJKQFpYwJLB2HxSMLK-auEsEqMPFLP_VcVRWLYKFt8y97I2COwEhAtARaPUbaLcs9IHotTFJPGGhR5otHY7mCTqJgSPA2OETQ-xs-oLA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=4030-4018+Summit+Ct,+Mississauga,+ON+L5L+3C8,+Canada&ftid=0x882b416657ad47f7:0x52b7f306a99a5697",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

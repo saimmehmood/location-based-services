@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "3293",
+            "short_name": "3293",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A5",
+            "short_name": "M1H 1A5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3293 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3293 Lawrence Ave E, Scarborough, ON M1H 1A5, Canada",
+    "formatted_phone_number": "(888) 395-4243",
+    "geometry": {
+        "location": {
+            "lat": 43.75739199999999,
+            "lng": -79.2360257
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75879043029149,
+                "lng": -79.23470121970848
+            },
+            "southwest": {
+                "lat": 43.75609246970849,
+                "lng": -79.2373991802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6bc4d77b7475f0d6d5812d4e90d92c408f97fae6",
+    "international_phone_number": "+1 888-395-4243",
+    "name": "Toronto Quality Motors",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117371437874237782040/photos\">Torsh Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAFI1m9c3C64otffwmIj8ernm4jNStFq5XgiUZ1nPHhtKmwq3WcDunppiSHoW-qe6D3y4UOEncW2an1ki3JkylpS9Nv4wPjpBi22T6HKR3hF-HqFHXVh05Dlg5zGDb1hSEEhCAq3yyuj-WA5uDfdX6FJ6aGhT4YPLuSfanXbGTjbnj2Kzavy7cog",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117371437874237782040/photos\">Torsh Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAZA_ePELFqWe0NPXqX32StjhJwiXEO7XL0ItjRAtTkD69bYMbmXrSG2CuD4HWb1iBO9XFkR86L2jiLX5pAv0_PsMusliRqmI4TxwNnXjbofzC7AmjsDiKDUw9GGWoTpXPEhBszZm5_Wdpp0OSitIPl1dTGhTzwIqcxBtIdSRv-7oh53QFk2t--Q",
+            "width": 5312
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117682836549082498180/photos\">Toronto Quality Motors</a>"
+            ],
+            "photo_reference": "CmRaAAAArY95KiPqpKBS7FPj9T0x50OgfLnSG0lwwdtKuVqp5ZiXxkJruOMfoRh__pdRLI3HTOztdGJz4_BP1QxoYKf_DM-oj5_ag_lrCjUkW8nMYA-EycdBuF-J0FHRXy72JkwzEhDuQ1gjps047OqLaBd-JSuEGhTo4RiZ9qSW5VvvR_wpKCu-aY9NlA",
+            "width": 4608
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114158499078866014909/photos\">Fabio Chirco</a>"
+            ],
+            "photo_reference": "CmRaAAAA1HZAP9CgjDxkQF_AgldQu9UKhN93oV1IXIe4J1Ea0Yqutshvj9Eh9xY080AKYNqHy5fBsU7OhO__g67mxDbr8SUbEReTXb1rR8NmBRyWKrNl7yMTY1NyXpeaesK9kltWEhDOajLbZX7tFNuHF5xuKgmWGhR89Qf9xDoe91aoR5Y8lODOsM30Rw",
+            "width": 5312
+        },
+        {
+            "height": 3864,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117682836549082498180/photos\">Toronto Quality Motors</a>"
+            ],
+            "photo_reference": "CmRaAAAAERUY0Su04kmWZjGvsHXr9S1vQ7mPv6OiSNoOybY7io2J_L7UhjQqy_0RShp9JcG6XMDkzHNV1eAiECWkiQshKYaXDAMT5RUt5TUNqwzK9-ja89IVIJn-WVFbzjPGeGshEhAaB3cfxh2xfC9tYDV9oGgAGhTgsXUBqR4MBg3P3zLd2QhN6Imh4A",
+            "width": 5152
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111008914396875959452/photos\">Dayim Ziah</a>"
+            ],
+            "photo_reference": "CmRaAAAAd7qgl7DlexpwjKgdhP97-MUdAFusPreBKp1-kyUcx6oQ7m7t-fz1GQcpu0QqbkUTje5A4M5gyJ5n_iUjQGvrpSS7lsQh1tCIa_lWcZboChXzjU7V4iqUUMXAJSkoHTRcEhCiPEx0atlYhI80zssvS1xmGhQT_kl0o1NqJpx0NR66Bl5mh4-bww",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111008914396875959452/photos\">Dayim Ziah</a>"
+            ],
+            "photo_reference": "CmRaAAAARUWK8AN_du3Dgvkxe1Erc18ugH8WzmcIWQt2zTRmt8VvJb8v6cUTCyU83vBXj1YPo5KNmkl_RXVeiHonz1cAySSUf1XuOeUt5qgTD0elAJh6skBIfIi7_pQGHTP_Yal0EhAMoUsLVk-AsB32p6JQrtA2GhQCL6WPfM-sD0BIEMwQpbEvbJdS0Q",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114158499078866014909/photos\">Fabio Chirco</a>"
+            ],
+            "photo_reference": "CmRaAAAAd9ad611U4B0z507b0CCpgWfAQuZvKDzAziNpO6n-RqOyna51k-L8Ld9mG6dxUqBOab_LvpL_cHLNOXcqXXOdbNFhOw9nIpCL_xOseQJZtEaq9hK-f0byNxNr1sO2M72mEhAF7g7A-DLgzQsQoDDKZoiFGhQdlm99jfq9dUqGNjGgsR95gz08eg",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111008914396875959452/photos\">Dayim Ziah</a>"
+            ],
+            "photo_reference": "CmRaAAAA2-bk7FAmDcuOwAxOABkbLBG4baagfzgBXndQQI0OKgNEH8QKtY1D6RdniWrdWn0Cxi8tR2T3J1Q-2_7vJf8P-zvJzZVfWMHbM72LyzN6oNSFYngln92QAzScNmqNdTvlEhAR-_hIt-sE9oIL-99EtWbhGhQI6UeSAL3dXc_QFeprvIMed0oATw",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117371437874237782040/photos\">Torsh Media</a>"
+            ],
+            "photo_reference": "CmRaAAAArDn1AO_acYRx9YPBzip509Rx6UCG2yqk1xeoovOxNQ-k4f023l2GKCUbm9NJPyNjCXPpSQlyYKobS83w8RBb8AHTVDdovQvZE7oy71BorzscvDfjv5M0j-InsyG3oai8EhBBoP1GWKd7uD1vU8gwGV7xGhR0eP_5oZhkxhOVcfizHsCATEztUQ",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJfY6ML9pLV0ARTg5Mgv3wzoc",
+    "rating": 3.5,
+    "reference": "CmRSAAAAhf8sVtyQDEHhuBIHiW41DTko9A3Ji-67je7cLPu5d_F-Gm4c9B3Saw3J0HgJzoZgtLqMTLCGLnRhexq0Aop18JibYQx84OnYzii0a4DFg27whbUONO1p1QUMeDiwBCQdEhBLOy0bdfSs-DYFVTI7ywDKGhT0SyfcIIGfhMUP0E9TIbJdhdo4Aw",
+    "reviews": [
+        {
+            "author_name": "Mohammed Hadad",
+            "author_url": "https://www.google.com/maps/contrib/108102665807652253684/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gJN7CfqNOEk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2wH2IauU3gTyq1WZnMlYmAFHfAxg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I wanted to take my time and come write a review about them because they are very good in their service management and sales staff! Couldn't have made a better choice. They took care of me and no Pressure because when you go to other different dealerships they do make your pressure so this was very good made me feel comfortable with my purchase which I am thoroughly satisfied with with my purchase Thank you very much and keep up the good work I would recommend every family and friends Thanks again",
+            "time": 1529058093
+        },
+        {
+            "author_name": "mohammed Rumy",
+            "author_url": "https://www.google.com/maps/contrib/102302690325316325082/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-lVH1TbdVx7c/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2WgcZAtHUdDgzftzWeREDiXluIQA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I wanted to take my time and come write a review about them because they are very good in their service management and sales staff! Couldn't have made a better choice. They took care of me and no Pressure because when you go to other different dealerships they do make your pressure so this was very good made me feel comfortable with my purchase which I am thoroughly satisfied with with my purchase Thank you very much and keep up the good work I would recommend every family and friends Thanks again.",
+            "time": 1528254506
+        },
+        {
+            "author_name": "HAMZA IBRAHIM",
+            "author_url": "https://www.google.com/maps/contrib/108705027645073730383/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6PNc5-mQyQQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3YdsR-YQcZhfk9t6At2pfFLdsRSA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "They have good selection of vehicle with great prices .  My boyfriend bought a car here and the sales representatives were very welcoming and knowledagble. They helped him find a quality Accord in accordance with his preferences for a very good deal! Very friendly and prompt service. I recommend this dealership to everyone!!!",
+            "time": 1528256129
+        },
+        {
+            "author_name": "amandeep singh",
+            "author_url": "https://www.google.com/maps/contrib/101591378298396497157/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-m92AQ3icTF8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3M1jeKbFt0gj_ti2q5nmfp3bQ4mg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I bought Hyundai Sonata last month. The staff is very professional and helpful and they don\u2019t hide anything from their customers. The best part about them is that they always take care of their customers and try to make them comfortable to make a good deal...thanks to Kyle  For making a good deal for me",
+            "time": 1528174793
+        },
+        {
+            "author_name": "Osam Rahal",
+            "author_url": "https://www.google.com/maps/contrib/111581319974961895676/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-z6z-y-5sm_Y/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq363jHl8mI1-GiN_z3xo7kX-OHqBg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Khaled took care of me and insured us he would get me the car I wanted. The staff made sure I was taken care off  . I would recommend this place I came from Kitchener to go here and would go back. I love my new vehicle I bought from them",
+            "time": 1528978906
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9786024011926081102",
+    "utc_offset": -240,
+    "vicinity": "3293 Lawrence Avenue East, Scarborough"
+}

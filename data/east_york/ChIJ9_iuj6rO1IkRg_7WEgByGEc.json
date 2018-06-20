@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "21-47",
+            "short_name": "21-47",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Balsam Avenue",
+            "short_name": "Balsam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 3B5",
+            "short_name": "M4E 3B5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">21-47 Balsam Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 3B5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "21-47 Balsam Ave, Toronto, ON M4E 3B5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6708023,
+            "lng": -79.2893716
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67215128029149,
+                "lng": -79.2880226197085
+            },
+            "southwest": {
+                "lat": 43.6694533197085,
+                "lng": -79.2907205802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5b66e5bece2fef91ddf6dbf38a1bb6c174f6bc7c",
+    "name": "21-47 Balsam Ave",
+    "place_id": "ChIJ9_iuj6rO1IkRg_7WEgByGEc",
+    "reference": "CmRbAAAAOuewKQmJ0TiX014gZbttMlAwalp6voE4wSgm5N87IAQWxRMD1KKnUXPRck80MHTNtz4GaDAha3fOxdnJw89_v7fVF75s0rAY5nB9umzhZEDrHowryvjbcAaA0vyq1RG9EhA2tnKmQvSj21pgEpNyB-SQGhTRsrPYnDS0iRrVs5XIf1nKMDonhA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=21-47+Balsam+Ave,+Toronto,+ON+M4E+3B5,+Canada&ftid=0x89d4ceaa8faef8f7:0x4718720012d6fe83",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

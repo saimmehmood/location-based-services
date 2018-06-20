@@ -1,0 +1,227 @@
+{
+    "address_components": [
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Birchmount Road",
+            "short_name": "Birchmount Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2G6",
+            "short_name": "M1P 2G6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Birchmount Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2G6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1510 Birchmount Rd, Scarborough, ON M1P 2G6, Canada",
+    "formatted_phone_number": "(416) 412-7466",
+    "geometry": {
+        "location": {
+            "lat": 43.758056,
+            "lng": -79.29109389999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75960068029151,
+                "lng": -79.28849230000002
+            },
+            "southwest": {
+                "lat": 43.75690271970851,
+                "lng": -79.2919611
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a75fa88035fd1deac325513a6496252ceb82ada3",
+    "international_phone_number": "+1 416-412-7466",
+    "name": "Hindu Dharmasram",
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109579490996784715769/photos\">Rajib Saha</a>"
+            ],
+            "photo_reference": "CmRaAAAA7S1r9VIVYRse-6TKSuWklC2aTl29Sd-JPeM5DngP13HBbnWRB953q6J5WZRhai_gWrsN1pVdWhRZ2O_ixLxGgUh0lW92HyQETvFc3V-yZ5VDCDZeO0EbcvdAgEdGimLUEhCYP_9AAZFB5jSzBqtf_jmSGhSXOQn67Cqtj6rFhIlLBVldFszFeQ",
+            "width": 3264
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108469301782097631438/photos\">Pooja Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAA7EQQqRh3v7QWw11DCSyvn37za4Z8J3rtgP4TkHRFaS-4Ab2ic4vwqEYQ2pHU4DOrucr7j04A9IxK-ISL6LDYgu3Opcp_1ETJfjXNQ9eXnOt-wi78gTzqcKX3TeA_GSnBEhDV2q6XGWZVkLzzsM-DAcRfGhRa4I0qOYmhhzg62Yddy5sljZQPpw",
+            "width": 4608
+        },
+        {
+            "height": 1798,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109579490996784715769/photos\">Rajib Saha</a>"
+            ],
+            "photo_reference": "CmRaAAAAyAUbKKq9kawpsYtXCMBdi42c8VHsOlOtrA2BQmPUoZi2KAWW68glN_aAroZWTRNROFWoGE1YpodUEPSbEo6A-ZfNdKo8GcSeojCv95k1BIbP0vdhVoPY55Tf6EoLsJlyEhDOa9VuiF_UrnOEkadEuciyGhSrpP7nH_V9E_8jeqhcXqve86KKcw",
+            "width": 2362
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108469301782097631438/photos\">Pooja Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAA7NVYpoupLwYt8rjqdnrP0L6JGG0RrZ60sb4tW8fdKs0Hq_NqyTuQmqmIXpvjOiaowgUJeoMgAzt37-RpnPY9jjIL7t04iXAr2jGQwnDiputCjy-ca18m-gSriicTsgkkEhAtCy2JZhf5z2LHaG5XkokbGhR_NeLM5WO3kw-o2UOTpTxvUTMBzA",
+            "width": 4608
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116005231097388700420/photos\">Shubhra Saha</a>"
+            ],
+            "photo_reference": "CmRaAAAAu043ebPKi64KnZv3F6KLzFHGaDLViqbH5ZgGuumLebICmBdejp46CdWFk2HWDXaFK226YO8RAup-CKGN22XzX4KlGWLAySJ6fyaaoNqhcyySwSJ1_EFnTSv3kJ6PrLgdEhDvM8FzqgYTJx0r6ariFmjTGhSC12XNUYoQToWk8J27piYXPR_VXw",
+            "width": 4160
+        },
+        {
+            "height": 1394,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109895311346449361925/photos\">Meetoon Reza</a>"
+            ],
+            "photo_reference": "CmRaAAAALGhwOyZtDmAsjwabkvfwtf-wmKU2YUPxFFSEanQT9gMpM2d8zE2y88rEjOa_nl2GV_sQaBkgfed8bcJ9oW2cX_uxtzAYFCOjBB3qufljKrgAvVjLCF0YhqyDY4TBxxdyEhDsvWS00GXSY3sE3rFJp9YvGhTi6vbHno8Gek8vpEXw3ioZM8NGVQ",
+            "width": 1917
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108469301782097631438/photos\">Pooja Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAAvfIVT3RRCn4KQ-iCXuCWyNJ0gAMH2jbSuuiYIpO1L373nXY5wMkDoGDjXUKM_CO7YbCxN2ks0roX15NjaiUQTgzmtN1sGlWpLbCgszN_xJGsbseaC_7nDX5p6PrwwCJPEhBW1mETXzpNvE8YSgMhez7RGhTafVir_yNCILxicYE_XNMdfAmt9Q",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100003865544765066317/photos\">Abhishek Bhattacherjee</a>"
+            ],
+            "photo_reference": "CmRaAAAA1lVhXBzkRH_hCWywEuOtU1yTRcLaLreDCR2FKzTKFKRCr9znAHqZa8tIaQ_ysxno85Wf0Z8Yxd1jU2CUhakLTY9tnm9vVAJQW9xNTc7PFg_2gT-nGkHcqexQwqe2THJTEhAGgMZVgx-RtIFs_0N8J9tqGhSg29lyUrexljCrAcUKcvsk7Jb5Rw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100003865544765066317/photos\">Abhishek Bhattacherjee</a>"
+            ],
+            "photo_reference": "CmRaAAAAiHAhbYAKEvv748rV0LjEh8VigdqnqKsOB5gkjicftrsD4qpD9hqS8sJy3zj1GXnhDJM743bntBUlR0Ia_CTh1m6fOVjQvvzwiFZAXAwWlHlF_WtcwuQt_TpLB6ezfRUREhAgGS2TDGaZMqTNx-9ZhdAVGhRrTovZsRhpcAlTFHW5nfYDL8Olyg",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJg3fkB_bR1IkR6-nHq_TFb4w",
+    "rating": 4.9,
+    "reference": "CmRSAAAAEzU0bjUF3J8LeLUUuxR4M4bQLxPWykanRFzZ90EXj_L_aXwJLsb9E_X6IufjDA_JK_tTNZwxHlhEGVNjpmhC13iiFQ7oJQn6I__MXs5-4qJN3Taf-tN08jq4ky-oCzZHEhDjX1p7OU2nvjErzTDj40H0GhTX2Gk6QfPXsYwEuuePH8TgG2SNog",
+    "reviews": [
+        {
+            "author_name": "Abhishek Bhattacherjee",
+            "author_url": "https://www.google.com/maps/contrib/100003865544765066317/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-krvxso9HOsw/AAAAAAAAAAI/AAAAAAAAABk/Q8-_vwU6Voo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "8 months ago",
+            "text": "Another gem of bengali Durga Puja .",
+            "time": 1506638274
+        },
+        {
+            "author_name": "Biswajit Das",
+            "author_url": "https://www.google.com/maps/contrib/114877317356432312531/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-6AWnuALv7qc/AAAAAAAAAAI/AAAAAAAAEcE/xmB_n3yEGTo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Best place during Hindu festival, good food served after celebrations all days",
+            "time": 1507205077
+        },
+        {
+            "author_name": "Nobarun Dey",
+            "author_url": "https://www.google.com/maps/contrib/113862691773828392357/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-e58yDvHKedg/AAAAAAAAAAI/AAAAAAAAAIM/HtWTNc7aQ9M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "It is a nice community center to enjoy cultural events. I love to visit there regularly. I admire the hospitality of management there. They very supportive and well coming.   ",
+            "time": 1445875833
+        },
+        {
+            "author_name": "Anirban Banerjee",
+            "author_url": "https://www.google.com/maps/contrib/111407193884503111546/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zu6clCW8J-E/AAAAAAAAAAI/AAAAAAAAQBg/DDpiCttaIoI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Love this place of worship...",
+            "time": 1506742386
+        },
+        {
+            "author_name": "Jayanta Singha",
+            "author_url": "https://www.google.com/maps/contrib/104479989000284071183/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-96SW_UT-ju8/AAAAAAAAAAI/AAAAAAAAEkA/0FMBNPRW09c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Excellent",
+            "time": 1520016685
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10119524542369491435",
+    "utc_offset": -240,
+    "vicinity": "1510 Birchmount Road, Scarborough",
+    "website": "http://www.hindudharmasram.com/"
+}

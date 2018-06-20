@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "2509",
+            "short_name": "2509",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Pollard Drive",
+            "short_name": "Pollard Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 3G9",
+            "short_name": "L5C 3G9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2509 Pollard Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 3G9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2509 Pollard Dr, Mississauga, ON L5C 3G9, Canada",
+    "formatted_phone_number": "(905) 272-0277",
+    "geometry": {
+        "location": {
+            "lat": 43.5611375,
+            "lng": -79.6323872
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5624373802915,
+                "lng": -79.6311070197085
+            },
+            "southwest": {
+                "lat": 43.5597394197085,
+                "lng": -79.6338049802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "23f987731c96836b9683189ca42911b724163879",
+    "international_phone_number": "+1 905-272-0277",
+    "name": "Jobs For Professionals",
+    "place_id": "ChIJKyL2Y7xGK4gR7fHEM_qQE4o",
+    "reference": "CmRSAAAA-l9ajzXuoLs3LdIA2WXTZ9Umb3qQXfksDh-RaJ2Sz2Z5RSQT_oK0uaWKZYwNnyjDJbsuSjbkQ5j3RQ2Wb1ZJppi7E9Dvxt3InnjtgXbQ6AD4QPcuNZmQj51o0HGKAE_WEhAz7MT3qG4NrOWMjc1BqHqSGhTy8stku9kh-6QOFzVeXuDGztgpZg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9949455406076326381",
+    "utc_offset": -240,
+    "vicinity": "2509 Pollard Drive, Mississauga"
+}

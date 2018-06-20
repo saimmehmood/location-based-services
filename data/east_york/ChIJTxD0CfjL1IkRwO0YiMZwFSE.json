@@ -1,0 +1,211 @@
+{
+    "address_components": [
+        {
+            "long_name": "1977",
+            "short_name": "1977",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1977 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1977 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(416) 820-7167",
+    "geometry": {
+        "location": {
+            "lat": 43.6697443,
+            "lng": -79.3004107
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711872802915,
+                "lng": -79.2991016197085
+            },
+            "southwest": {
+                "lat": 43.66848931970851,
+                "lng": -79.3017995802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "36f9207bd385cfd93c05ac80b7d9a792a1bb23bb",
+    "international_phone_number": "+1 416-820-7167",
+    "name": "Beach Yoga Centre",
+    "photos": [
+        {
+            "height": 1596,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAnz6vH02iv-aNf8NdvrnVM6d15HQygvCtfHenHblnqV9u1TPELUlP_iG8b3MGgRWkdsuRK_7dp2FQ9oZJ_KeJAEBIJsrT-pJKlGT3Qs62-iRDC1buSMzUmr7IBp8M7kIHEhABYUgORYS-NcyDznYF5pI_GhS2jCw0vQjjxo5n8OuS_7MDLyV3lQ",
+            "width": 1599
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAAJtFjAnFwuGXNXbrrWIMBUkzatfO0UZyGB8XQ1Fp65yJ4J-BKX2gyBVJsQqe4Rd2ZRxgeSJUZ8H8elN7EHGANCBCOLW6twsfUdCWbET_fmPZjDV94L4xH4HM8WIzMAQhEhBnlLix-W7NU2_cpD59V1yiGhQlesF_OHHU07ItWfdNBTdIxbmM8A",
+            "width": 3264
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA9vCU8_BkNxaJSHAMvrpxsxSLvubIwN4UTRhhdIKLnzuFLz9xDdCgjoEZcrommagPaP1wLIF6U8YL2HU5_vuyS1MNVYKLwYvDZVpOeoYohaYRyFCfkpRVYYmR-4faQr_2EhCQKN07oLiFEdvaPcRpBAd9GhSL6EDjlyIIobxtwSk5u1qtlYvgHQ",
+            "width": 1000
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108293927770836582421/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA7EUbM8kyCWst6RClOgzrN6PBFhQBDbQgY-nxwaFtHqn00qNky2_FBOlzajNbH__Y7twhB6_-fKBEeLdiCWm9J5iJiCND_cRFU4XVt1wEER64RnR4x-mlVG0CfpKKyWXxEhDV5lLCCt8ZnreB-xVmOI8iGhQ7IwKAdHQHvvchvsFIgp6anxJ2yQ",
+            "width": 2448
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAzJ1f9GAlu0zjaxRwuVjeADHSFLqym355tk6C7dydzp-J1niskiJe7lCvCgljS3zKzGsuD7SKK8fyuZfg6fpHw-q_6kcR7nCwIHgs0pBNJJ7paNzCzK4JWqbod-yc89WAEhASaynvq0Tn3Y5jf380fx8PGhTUzMK_tLsWrJ6ZB9QSr_0LVxtbLQ",
+            "width": 480
+        },
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAD9qJahfZHuIRcKxmzRMLbUprCXkY7cbao6tzCUo0K6vCflRVgEFmADgCdgjwH2by-vccZtbH50eo0bGjTJKJxXqC-4hAbKDRMr6Gic1v4m2BVw5HJp8osjU-u60bQ_OHEhApsJ2EADuxCU9GRC6EgoL-GhSIoQVz2qi9expcF1XRzzDOzZc5WA",
+            "width": 480
+        },
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA1E9EDHlJ1S9oss3lNOAbkERAbXEqLGeYq7MAf6BW6nYnc6KjlW0O1zdUzbBq-mpjiqtMluWt4DdyJN8gm8aKa3ntJShAu3Ss_3C3v5bpECNLLBzZeM_kYNF8-thA5MI8EhAfu0hFdg9YiHLfZNtxISceGhT1_BcMnAziYoXJfLvMeZL91oOh1g",
+            "width": 851
+        },
+        {
+            "height": 728,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112065693176860491202/photos\">Beach Yoga Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA_mEKMgt2pgC8dwS8l1KwFH2y-73UHYHR41YdT9IcxHVBr2OUz5yuPi93Qwtd3OSlZQwT29sJhbAck53xl3ZXdythuccfVUl1mD-mQI2mDjiK6vMLYq4k3uBPE5ixGq49EhAojxwB-dXusXJbi6YX2BMlGhTOHoR1mwMQNO2ZBuFqIEaLlDbn8g",
+            "width": 728
+        }
+    ],
+    "place_id": "ChIJTxD0CfjL1IkRwO0YiMZwFSE",
+    "rating": 4.8,
+    "reference": "CmRRAAAADOZf0WfHofn2SBCwXPgzWJT_83QkFJvIpqWeiyPHWb18-2YunQaP3XU5IfOcE3KuNAFyKPu6B0OpQd4eXE0k-440vPIgEjZmBGCd6uSErzLlV8X46E-k_Jfbbk0DdY7IEhC1w_oy3JfSo06skJ32CfwMGhQmY90ta6jSr_i0Cn-0OoOMskBUPA",
+    "reviews": [
+        {
+            "author_name": "Michelle Melles",
+            "author_url": "https://www.google.com/maps/contrib/105277170894666484783/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-T9mT0zGcK80/AAAAAAAAAAI/AAAAAAAAABc/RdgtJ0yfdNc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This yoga studio is really beautiful! I've been coming here for many years and look forward to every class. All the teachers are fantastic.",
+            "time": 1514385199
+        },
+        {
+            "author_name": "Livewithspirit Sheree Nicholson",
+            "author_url": "https://www.google.com/maps/contrib/100368546096991355358/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iII63WzAMeE/AAAAAAAAAAI/AAAAAAAAAFs/8nlHZu8q2bY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Definitely my favorite studio, I drive from Oshawa to the Beach just to attend a class when I can. David G, is an amazing teacher, I wish I lived closer so I could attend more frequently.",
+            "time": 1503517320
+        },
+        {
+            "author_name": "Nancy Lismer",
+            "author_url": "https://www.google.com/maps/contrib/112945320447539442408/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-KOeQxk7ySyA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq22gToxJZ6fgMpqTP5pHk9U6cSp4g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This one of my favorite yoga studios in the city. If you are a fan of traditionally based Ashtanga yoga than this studio is for you. David Gellineau's style of teaching is very respectful of the individual but also he will gently coax students to their level of progression. Although he takes his yoga very seriously he manages to inject his classes with humor.  I always leave this studio feeling renewed and more balanced!",
+            "time": 1468960521
+        },
+        {
+            "author_name": "Selina",
+            "author_url": "https://www.google.com/maps/contrib/106924976576059656736/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Ocf5iNWsobc/AAAAAAAAAAI/AAAAAAAAeXo/R6eSvFddBfk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "David G is an amazing instructor - extremely knowledgeable and patient and one of the few \"authorized ashtanga yoga instructors in the city\". Classes here tend to be small due to the smaller nature of the studio which is great since you get a lot of one of one instruction and adjustments. Go to the mysore here! It's really the best way to practice and progress. \n\nUnfortunately the mysore program has changed and is only available to monthly unlimited members (I totally get why this is the case though) - otherwise, I would take the opportunity to drop in once in a while.  \n\nThe one big drawback is that there are no showers at the studio. If I lived in the area, it would be ok but sitting all sweaty in the car all the way home is a really big deterrent. ",
+            "time": 1447874877
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2383935575751716288",
+    "utc_offset": -240,
+    "vicinity": "1977 Queen Street East, Toronto",
+    "website": "http://beachyogacentre.com/"
+}

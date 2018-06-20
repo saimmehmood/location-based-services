@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "228",
+            "short_name": "228",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Midwest Road",
+            "short_name": "Midwest Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3A9",
+            "short_name": "M1P 3A9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">228 Midwest Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3A9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "228 Midwest Rd, Scarborough, ON M1P 3A9, Canada",
+    "formatted_phone_number": "(416) 755-8886",
+    "geometry": {
+        "location": {
+            "lat": 43.75776379999999,
+            "lng": -79.2707211
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7592022802915,
+                "lng": -79.2690306697085
+            },
+            "southwest": {
+                "lat": 43.7565043197085,
+                "lng": -79.2717286302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d0a5886992f2813268bab621ce13c258cfe8433",
+    "international_phone_number": "+1 416-755-8886",
+    "name": "Cantem Trading Ltd",
+    "place_id": "ChIJcwSnMerR1IkR303SVdxdQgA",
+    "reference": "ClRQAAAA4JBNDHMyaVk9TfUAudhKelDlbg5Kmbr22uunAstW0vndUjoQEYPGL-2vOsNCgW8hcn9SGt9yvJJBfGJZcYCVqL8MKob1OyQOIOMk9KeiEU8SEJxYwhS6xfrkS55gnQxqwL4aFLlCdVwwwwcJeo7OaJytRcyamAla",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18680549376937439",
+    "utc_offset": -240,
+    "vicinity": "228 Midwest Road, Scarborough"
+}

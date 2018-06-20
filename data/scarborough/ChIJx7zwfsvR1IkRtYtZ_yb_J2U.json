@@ -1,0 +1,182 @@
+{
+    "address_components": [
+        {
+            "long_name": "504",
+            "short_name": "504",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "3030",
+            "short_name": "3030",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3030 Lawrence Ave E #504</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3030 Lawrence Ave E #504, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(800) 598-2891",
+    "geometry": {
+        "location": {
+            "lat": 43.756503,
+            "lng": -79.247984
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75717965,
+                "lng": -79.2463467197085
+            },
+            "southwest": {
+                "lat": 43.75447304999999,
+                "lng": -79.2490446802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ea87eea1aac93caf7ecf635263f174571c0eec5b",
+    "international_phone_number": "+1 800-598-2891",
+    "name": "Tandia - Scarborough Hospital Branch",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 4:00 PM",
+            "Tuesday: 9:30 AM \u2013 4:00 PM",
+            "Wednesday: 10:00 AM \u2013 4:00 PM",
+            "Thursday: 9:30 AM \u2013 4:00 PM",
+            "Friday: 9:30 AM \u2013 4:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110415541955393567780/photos\">Tandia - Scarborough Hospital Branch</a>"
+            ],
+            "photo_reference": "CmRaAAAAuiPnzfNJRQtJNGBTjLoUwA2RtrIj08GEsHvSCWvHnX5syWTklkc-usfMEsUJN6np6KqMwgTPaeFpXf1QntiV0HJKwlcuOAQC1sr7ImdGs7l7AnjRDv7eTS9liLjyeb5hEhDmUJW8C0V40oypyLx0gjo0GhRSlJ1BuZPk0XPlHQJKbgacgfkQ8w",
+            "width": 480
+        }
+    ],
+    "place_id": "ChIJx7zwfsvR1IkRtYtZ_yb_J2U",
+    "reference": "CmRRAAAA8dxum6bW7tRMR_dTu-E_A3dh78f5b5rWMsPtvbu3IcFBxMrmuV6QK94rReP3vbQUtQvWqE_3W7cILsE6myrhvvNc0LGjKFO9i86UbSfxQjNXXjluo9jssnkq9g99pBCwEhBCxtOmgAXatcatKiWjv_L-GhSb12S531Fen9tTC_-kXStGTjjVSw",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7289075064880335797",
+    "utc_offset": -240,
+    "vicinity": "3030 Lawrence Avenue East #504, Scarborough",
+    "website": "http://www.tandia.com/"
+}

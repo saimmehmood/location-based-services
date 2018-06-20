@@ -1,0 +1,264 @@
+{
+    "address_components": [
+        {
+            "long_name": "2171",
+            "short_name": "2171",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2171 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2171 Queen St E, Toronto, ON M4E 1E5, Canada",
+    "formatted_phone_number": "(416) 693-7864",
+    "geometry": {
+        "location": {
+            "lat": 43.6702851,
+            "lng": -79.2977258
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6717479302915,
+                "lng": -79.2964198197085
+            },
+            "southwest": {
+                "lat": 43.6690499697085,
+                "lng": -79.29911778029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fc0d19513212fc108607e87c5744d279be52051e",
+    "international_phone_number": "+1 416-693-7864",
+    "name": "Bell",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103646235777612052464/photos\">Steven Zimmerman</a>"
+            ],
+            "photo_reference": "CmRaAAAA-AoRg64uWYsBW_FgK3J3O7soN8i2OfU1Ua6B2sth_SXgeY3MsE99lbfO3Y1OoHqcRaxI5gxOC7gL5INO2Vnl1uLPpnOZQwiaPnpAw6XQEbgtxsyE8B3-TJ_9SB7Wl6buEhCPQczAdmBNa3uYu0NBPOSWGhQYxXqwCPsbXXCrla243qXOvHTkUA",
+            "width": 2988
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAltvGDmAQ-yvS_IRcL94LaSgH2R5zhkzkIb5f0i8ttO9Qcu6hzWTQkMaQWXRSRx-j7xcCKxHvXQmMypTGol4cg2rDqDyVXcDYh5CE54vDaJeravCHQrk0zWuZ5--ChAkJEhBlQ70GSeDPIuyKkbinmR-gGhRrseMrlvdnrj5e3YJ3CxE5KiA7ig",
+            "width": 3872
+        },
+        {
+            "height": 375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103629085095644906931/photos\">Bell</a>"
+            ],
+            "photo_reference": "CmRaAAAAqpfYzV2vVyGnC3KphoXB2QV5ZZfx86NVyxSZ42ycooT5VPJA8VbR-9SB8LNwmor_GXxEX-3LG2IJ-e5-wFOEcUsXAFSEwYgqO3brQEcQWIiWJj9e6EocfAhtkfV0Ex9YEhAtok3eKBq97nVrDFPlr2CVGhQEpDWQVpyI3Lp144KAnweVUgCwnA",
+            "width": 375
+        }
+    ],
+    "place_id": "ChIJ70subgfM1IkRsD1CyE0x-tE",
+    "rating": 3.4,
+    "reference": "CmRSAAAAcwZ1lCU0pZsTyW-OcB9ssX8eFFN7fanM8QLJ_3u6L094ZWQJUkXNZ4PqXSA_sw4o53FTchaz5ooW8QR6cvViY5vkLbfZ6DKKoIA9-1jwsZljAraLMR2PN2Frmj6KuTD6EhBkZE7qgaIQXo8nrAsC5-m3GhStkfCbGZEE3-ZpyJERudpd9LfLKw",
+    "reviews": [
+        {
+            "author_name": "M P Giant Panda",
+            "author_url": "https://www.google.com/maps/contrib/113792890166704408213/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NFMh9kwnWqc/AAAAAAAAAAI/AAAAAAAAA9s/Q0A83EA_Yj0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Terrible Company. Avoid using Bell. I wish I could give you 1000000000000000 negative stars.",
+            "time": 1527909847
+        },
+        {
+            "author_name": "jeremy rozen",
+            "author_url": "https://www.google.com/maps/contrib/113007235307346698398/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-wdn1bEsaDYg/AAAAAAAAAAI/AAAAAAAADIY/S-JFEBnU60s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great, friendly service. The young lady that I dealt with went above and beyond to help me out with a problem in finding a particular model of phone.",
+            "time": 1506081471
+        },
+        {
+            "author_name": "Lyle Laderoute",
+            "author_url": "https://www.google.com/maps/contrib/102865961475815076578/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-10UZOWm1dlE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Ysa1_cSR2ArpmYQvbxGyPhmXOXA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I was annually assaulted at the urinals.",
+            "time": 1525300414
+        },
+        {
+            "author_name": "Revin Toquero",
+            "author_url": "https://www.google.com/maps/contrib/110816984285102309452/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-hl_gQSOxUnw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq14HUU-QMzkgF_j36XRGOR6kniYIA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Awesome possum",
+            "time": 1473547414
+        },
+        {
+            "author_name": "Siavash Nasiri",
+            "author_url": "https://www.google.com/maps/contrib/102607457646724405721/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zBxUbbX1IdI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1whCGXWa0RyCrWfpjNc3gO_Jv43Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1459262468
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15130460108246629808",
+    "utc_offset": -240,
+    "vicinity": "2171 Queen Street East, Toronto",
+    "website": "http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Queen-East/BC924"
+}

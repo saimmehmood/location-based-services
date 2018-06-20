@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "17",
+            "short_name": "17",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgewood Avenue",
+            "short_name": "Edgewood Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3G8",
+            "short_name": "M4L 3G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">17 Edgewood Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "17 Edgewood Ave, Toronto, ON M4L 3G8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6701783,
+            "lng": -79.3126383
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67147603029149,
+                "lng": -79.31131571970849
+            },
+            "southwest": {
+                "lat": 43.66877806970849,
+                "lng": -79.31401368029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2a14bae543ea7e85be0d803f468a42105bd26ee4",
+    "name": "Zipcar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 499,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106746326404367003697/photos\">Zipcar</a>"
+            ],
+            "photo_reference": "CmRaAAAAWobzzDDqxO8vYxFXomb0hoqe1rZtPikczAuTZwCAdMd42RfdrfEnoDvCo66f9B35GpGtIyHYaZyCqq03iPJsNlMqyOMZw5W87EcXLibSIMr_Pq4cjIGoF7hNIS0Fta3rEhBuQeRd5RtLs7DFZCJF_372GhQg178lNhr2P9Sa1Xa0_1e2suHlag",
+            "width": 499
+        }
+    ],
+    "place_id": "ChIJT0hkS_XL1IkReywSFE6ZA9c",
+    "reference": "CmRSAAAAob8KoR6bsoMrwgAtlIxoQWOKu2EXBiFrm_8Yhj0CVzYytLrt5vPo4tP43o8EDIJCIJEgoaXBbI2IRrfglCyN-pnttVjtvbgiUfxm0YWYz_Vb_V8W34aNc7BYPFbimVZuEhCio5eULb5vcTrRdxXYOGX4GhTB7MAVTf1zJGfck-Ulv_38C2SGPA",
+    "scope": "GOOGLE",
+    "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15493395703707872379",
+    "utc_offset": -240,
+    "vicinity": "17 Edgewood Avenue, Toronto",
+    "website": "http://www.zipcar.com/"
+}

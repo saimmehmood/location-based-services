@@ -1,0 +1,93 @@
+{
+    "address_components": [
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 1Y5",
+            "short_name": "M4M 1Y5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 1Y5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Gerrard St E, Toronto, ON M4M 1Y5, Canada",
+    "formatted_phone_number": "(416) 778-1356",
+    "geometry": {
+        "location": {
+            "lat": 43.6709177,
+            "lng": -79.3279994
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6722939302915,
+                "lng": -79.32666206970848
+            },
+            "southwest": {
+                "lat": 43.6695959697085,
+                "lng": -79.3293600302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "12dab2fab27417cef9f41cada2f70060534b2e8b",
+    "international_phone_number": "+1 416-778-1356",
+    "name": "Good Shepherd Liberty Building",
+    "place_id": "ChIJ0-5W2HrL1IkRDD0EHNOBzb0",
+    "reference": "CmRSAAAAulCQhkKXc7mDkEzEYbg3D0YUx3BcNtvJpCvmupU_7LFsJJGksY0bdEfD3ivY-7CknLNssWxIEY7d_OS6uXGssaKgzsxzpC_ds74tZMHC9LipzEz1K6KyGTM4BAjJgYaFEhDW81f67DkgKtVcGBTiQvFcGhTERxmmxbXrP1e_UHVNKnrsL7-M-A",
+    "scope": "GOOGLE",
+    "types": [
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13676730387102186764",
+    "utc_offset": -240,
+    "vicinity": "Gerrard Street East, Toronto"
+}

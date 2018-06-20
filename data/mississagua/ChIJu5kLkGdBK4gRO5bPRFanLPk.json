@@ -1,0 +1,73 @@
+{
+    "address_components": [
+        {
+            "long_name": "Burnhamthorpe Road West",
+            "short_name": "Burnhamthorpe Rd W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Burnhamthorpe Rd W</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Burnhamthorpe Rd W, Mississauga, ON, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5603191,
+            "lng": -79.67360430000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5616680802915,
+                "lng": -79.6722553197085
+            },
+            "southwest": {
+                "lat": 43.5589701197085,
+                "lng": -79.6749532802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d451b16a227414673f4dd696a69d5387a940c061",
+    "name": "Burnhamthorpe Road West",
+    "place_id": "ChIJu5kLkGdBK4gRO5bPRFanLPk",
+    "reference": "CmRbAAAAZm316F2F4kv7CYIsO-qEa2XjTmrtVRiVGAHCRj0YpltOXmRYfabKPXVr95H4YaXyPnFLy0bPGgCTGR6K_7onzol6LUg_ZA75xQnXdguHVvtcUV38YY6oPZ96ovjP0bLnEhBZ0z_sbzCnM-uTQrQbICkoGhQ6HZaohO7ln2luFO5EWgJdziLI1g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Burnhamthorpe+Rd+W,+Mississauga,+ON,+Canada&ftid=0x882b4167900b99bb:0xf92ca75644cf963b",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

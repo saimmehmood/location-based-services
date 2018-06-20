@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B9",
+            "short_name": "M1R 4B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Parkway Mall, <span class=\"street-address\">Ellesmere Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Parkway Mall, Ellesmere Rd, Toronto, ON M1R 4B9, Canada",
+    "formatted_phone_number": "(416) 754-4327",
+    "geometry": {
+        "location": {
+            "lat": 43.75713,
+            "lng": -79.31290899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75847898029149,
+                "lng": -79.31156001970848
+            },
+            "southwest": {
+                "lat": 43.75578101970849,
+                "lng": -79.3142579802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1485bd13bb7ca1ed4dc442b96dfe49a7d4a87d4d",
+    "international_phone_number": "+1 416-754-4327",
+    "name": "Hearing Aid Source",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAstkJZz9epz7nsjrO2xKSiQkDMFz6hyOPilFpOByYYfIaRDmXG47uIl-opAXBil9SZaMXn_255lofjs01e7M2CDi_PQ0To8w5jsiPp2SuJKF4lei9paN9v5rRwdphSNUFEhB5A0QVfvg7V8G5wd5KvtQ8GhSdYYGgo12uwqNIOll5PAg9-B5snA",
+            "width": 4283
+        },
+        {
+            "height": 2880,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAu0bI3wPOYzla1B9LKEqib_nWYVm0VmqLk1SgfIq9-qCJIj4dbT-BgPtNzlZKb12-v9-DLMuws8_nebTjbGs1MatuZQJ8ZlxRSijw4fUUn_3NGKr612c6bHuqMvKei9-oEhAPBUsPhoQNMrBOhTdhUvjIGhTfPEaZs6U3UuI8vYch-L0HSYmGXQ",
+            "width": 4283
+        },
+        {
+            "height": 2858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAvn4w4NEz-Y_Ak3KYunVxib92dcWtDMxYW1ZpWWO0Nrl3Q-R-xQpzUzhQXfGRWbIukmjUt6TrWMYVGkHLXlepaAFpTNEmRMul16Trg_6pDJoVd0mpG852M6mE40E0-_FiEhDuAk8eduT1Q7f4ys5o8qqSGhRv8KNGDv7jj07nbd-NqtOV25VL9g",
+            "width": 4283
+        },
+        {
+            "height": 2858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAi9EDEMfbSMe1xhemV0l2vlK6HwXtGYxnAlsNbRAbc7g9pGPxS6rA8TiQ62xqHjawDNYWWMXMd8J-rnqFu2ib_QColAiPezwl63K5Ba5HRJ9WFlXUbTIQSKVNmrW1ykrGEhCZB2dFi5SAu5S6H4K0MrIqGhS-3qRDfpjjKTcHoIcuVHW_oenJxA",
+            "width": 4283
+        },
+        {
+            "height": 2858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAdSEnjyX6MpeMTyT-bA4wy9EEjd1b3tno40pQqxHmMD7sqWnUb_NF6rFuw9YdncA7TNFrDaBMJX5Z4BtqMAgAjd_AULeiT-mEK_m48jngc9jEOJBw4ddA7yjD5faTztIqEhDC95aGTrw3mhlB4hb5p7PTGhRHNdP6XMiLL32ZEAhVtlZcvBFf2A",
+            "width": 4283
+        },
+        {
+            "height": 2858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAike7yBZVxg7HBxowhIUoHnwCs2so3Wm6Y86cCCtl1TMNOXmxM86YhPPrTGtwgfZaC7ibadeDXtZL6gwgimsIOAF_HrewZ2an1OfCPwzUNq66zXeKHGjuSAXAvwQdpwsTEhBgRSPxcfFmGo5eqGdQyF83GhTt7PDo6L9JioGuN1zB9vNlt3DkpA",
+            "width": 4283
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAduiLZGcII6NpHO_xxdbKjnz5uK0oWhhGNuWo3uW-AcqqPerP09yrQLaAIJ_gl1_OOu8kSWWtmpc0LbnjQyz2-PyEhE-NPyqx3YPvN2ZD3Fe-whsy4OK37QtUXaOIczeWEhAJDPyCMsAWbng2ca23_6d0GhSYEV2I9e32sY94s0dREkdx6vtWLA",
+            "width": 4032
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110123134542227265120/photos\">Richard Tung</a>"
+            ],
+            "photo_reference": "CmRaAAAAdBFzdi1W9mSuo63z6Jqj_Fe-ltoxT4WvX2Po2SJv481cv8McqJ_lVoZYVfCyvBQ0TNsGH_1famJpV0qE_fEBHbWANspafNqmSNKTDrwveHn2nJQR-g7lbfO2xbwrHl85EhAk41ErxFUx8OausOHUcYIBGhRxxLcV5jaCRvlX4MMVRe9dkrO9lA",
+            "width": 2988
+        },
+        {
+            "height": 2858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAnEWMOifK4WAv_bQ2QNIG2QCQL1ElQKUKxNCNl-6ql7xSE7QI6ZSpTCqHQhDncs8Qxw92NYGcOX0_2Z-ZPyYKUziAFs_QHhNzArX9ztTiNRxsTkDg2S3S4E2eniKfV-FcEhD6jHcZEVc-wanLXKgsc_9DGhTEEXjN93Y89EAk_G9-qezoEQrOGQ",
+            "width": 4283
+        },
+        {
+            "height": 2859,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104464943479727430987/photos\">Hearing Aid Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAk_eVPa76d5wGJfkTpxCCHAXrWQ3Y-BYgsc-Enf7factgW6yDNwYvrcFOBYP882vVuMF_Y04870NmRvUSf-QQibYcTR3FXYolqzrSrUo3ypGWg8Zzo-JaCCGBV-kEwV0qEhBro7zAe2vszwy6sKjHhLu4GhQI4hKkt7NElVOa2PiJjhKlomfO3A",
+            "width": 4283
+        }
+    ],
+    "place_id": "ChIJU1cg9Y7R1IkRzlt1oPx65PQ",
+    "rating": 4.9,
+    "reference": "CmRSAAAAxxjEVJ8h1eQk-w5Nw6fFg3TgWRyWSalcYCVQpmDgKCNoBXPiuuB3-coSw5T0ugoI642Yb5GI8OZRiQK8uSBxxasJYi-35IzFmbz-Gp0ieMwvAN9tpKH9fA6pSQRh4PJgEhBpaqbGy60iY1UkHxi1vSb4GhQZnnoJEc89G7vaEx0ammAlnqH6jw",
+    "reviews": [
+        {
+            "author_name": "Liviu Mates",
+            "author_url": "https://www.google.com/maps/contrib/105579165338389584971/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ijhMOuehbsA/AAAAAAAAAAI/AAAAAAAAGLI/Q6Cw_dP7nwU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "My first appointment with Andre from Hearing Aid at the Parkway Mall and it was a very positive experience. Andre has a friendly, upbeat personality and he did a completely pain-free ear wax removal, which is the first time I've ever experienced that. Kudos to him and the front office staff. Their kindness and patience really complimented my Hearing Aid experience! Highly recommended.",
+            "time": 1527690623
+        },
+        {
+            "author_name": "Lisa B",
+            "author_url": "https://www.google.com/maps/contrib/108826197130908553670/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WHljtWIrGd0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0_8xBWyC1CILBl3XNeOIZGUGChhg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I booked an appointment for custom fit ear pieces for my noise-cancelling headphones (my husband got his here, and had an excellent experience both in quality and customer service).  Edmond talked through patiently with me what I was looking for; after looking at the earphones I had purchased, he honestly let me know that they were too large for my ears and any custom fitting would actually end up being uncomfortable.  He then sat and researched other widely-available/off-the-shelf headphone options with me that would achieve my goals.  I really appreciate his honesty, his straight-forward approach, and his expertise - especially when it did not financially benefit him.  HIGHLY RECOMMEND!",
+            "time": 1523647438
+        },
+        {
+            "author_name": "Huiyuan Zhou",
+            "author_url": "https://www.google.com/maps/contrib/104972584960318589130/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-14lrth9bdMY/AAAAAAAAAAI/AAAAAAAAAIo/JZO1SaKtD30/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "After 5 miserable days of muffled hearing because of ear wax and failing to get a hold of my family doctor\u2019s office, I finally decided to find a specialized clinic to solve the problem. The lady works at the receptionist desk was very friendly both on the phone and in-person by calling me sweetie. The owner Edmond cleaned my ears quickly and professionally. He answered my various questions with great patience and friendliness too. The website is very helpful too. I was well cared for at Hearing Aid Source. I feel very happy about the experience and will recommend this place to anyone.",
+            "time": 1513038315
+        },
+        {
+            "author_name": "irfan virji",
+            "author_url": "https://www.google.com/maps/contrib/115802808618927585175/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Hvb5wIEwtU0/AAAAAAAAAAI/AAAAAAAACME/EDmVszVsdeg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "This is hands down, the best hearing doctor I've come across. He is a fine young man and professionalism is his forte. Been going here for 5 years and never experienced a problem.  \n\nGoing to visit him today \ud83d\ude01",
+            "time": 1508507593
+        },
+        {
+            "author_name": "William Brandt",
+            "author_url": "https://www.google.com/maps/contrib/113722371573817707064/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-u2f33GG5258/AAAAAAAAAAI/AAAAAAAADDI/Djc1K1I0o7M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "have been doing business with this firm for seven years now and always have had professional friendly service. would recommend in an instant",
+            "time": 1505997053
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17646364465386838990",
+    "utc_offset": -240,
+    "vicinity": "Parkway Mall, Ellesmere Rd, Toronto",
+    "website": "http://www.hearingaidsource.ca/"
+}

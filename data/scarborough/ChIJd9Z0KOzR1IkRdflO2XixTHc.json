@@ -1,0 +1,204 @@
+{
+    "address_components": [
+        {
+            "long_name": "170 Nantucket Blvd Scarborough, ON M1P 4R6",
+            "short_name": "170 Nantucket Blvd Scarborough, ON M1P 4R6",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 4R6",
+            "short_name": "M1P 4R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 Nantucket Blvd Scarborough, ON M1P 4R6 Nantucket Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 4R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "170 Nantucket Blvd Scarborough, ON M1P 4R6 Nantucket Blvd, Scarborough, ON M1P 4R6, Canada",
+    "formatted_phone_number": "(416) 543-5987",
+    "geometry": {
+        "location": {
+            "lat": 43.7576858,
+            "lng": -79.2754293
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590808802915,
+                "lng": -79.2738575197085
+            },
+            "southwest": {
+                "lat": 43.7563829197085,
+                "lng": -79.2765554802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6d2a3529499f2a726a64fe3daafec8fcb53fa888",
+    "international_phone_number": "+1 416-543-5987",
+    "name": "Baywash Auto Wash",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105468486454909785213/photos\">Abdul Mackeen</a>"
+            ],
+            "photo_reference": "CmRaAAAAjDmhnKFYVHrvw7V8LTzoJv8qRZ4RrAEKYN0TrskwvkjjUyQ6VOlIXLhY9gicjYcYqDruvEjZgwol4nY0AsGBnoN5PGciu0ZSBqk-WQB1YChvqjdXyCKeWqtHNc8fFIrUEhD7DKoOkZaeBgKRvS9trZlRGhRURY_0y7TQLyW0boZfdIs1dFe6Lg",
+            "width": 5312
+        },
+        {
+            "height": 1408,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105468486454909785213/photos\">Abdul Mackeen</a>"
+            ],
+            "photo_reference": "CmRaAAAAAIPK3x8jo6ChKWuXD0L3Q64K2GCEDy1oa8XncviyPLs6RSmuGLYgvjjizHF83zXDfA4imJEGapdjQhoZ8cy22ki2SqNE43PoXhsobX9NX6LtZzxsuhtzgUix4yGg6w-YEhDHLv6gEIrjpa1JcOv_k9fSGhQHg7_zB26eekCpkHV0Wxcnr5ErPA",
+            "width": 1440
+        }
+    ],
+    "place_id": "ChIJd9Z0KOzR1IkRdflO2XixTHc",
+    "rating": 5,
+    "reference": "CmRRAAAA5gHilg7BrDL249NwB3uRzLUE0AZcPvJHNWVTh_S1z_cIba0Hft_8TVSP2WFr6d2mmb5wdWgIwMPq67BW2gFTsumBIlywK5kk786tTXFivslCqrNcdjCR2sV34zFDNJYAEhDV_bK-ZUlSXlNXS9QIjtoLGhQZFMX2VfcDagvwNNOpYPTLmQlH3g",
+    "reviews": [
+        {
+            "author_name": "Sukanya T",
+            "author_url": "https://www.google.com/maps/contrib/105371122177809974044/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-XwyT5g_xLYQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0ZsFeKtUlVmpF5sQbufpWlFQdbIw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "They did a wonderful job in cleaning my car unlike other places, they actually took their time and left my car spotless. I would highly recommend this place.",
+            "time": 1506549020
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8596440921343457653",
+    "utc_offset": -240,
+    "vicinity": "170 Nantucket Blvd Scarborough, ON M1P 4R6 Nantucket Boulevard, Scarborough"
+}

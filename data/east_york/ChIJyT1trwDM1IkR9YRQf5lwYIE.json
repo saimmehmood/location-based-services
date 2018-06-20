@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "86",
+            "short_name": "86",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wineva Avenue",
+            "short_name": "Wineva Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2T2",
+            "short_name": "M4E 2T2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">86 Wineva Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2T2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "86 Wineva Ave, Toronto, ON M4E 2T2, Canada",
+    "formatted_phone_number": "(416) 698-2613",
+    "geometry": {
+        "location": {
+            "lat": 43.6698526,
+            "lng": -79.2952277
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712266302915,
+                "lng": -79.2937653197085
+            },
+            "southwest": {
+                "lat": 43.6685286697085,
+                "lng": -79.2964632802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d2a06b7d25733bd89a0c1e7526eb1537d62c9f31",
+    "international_phone_number": "+1 416-698-2613",
+    "name": "Queen St Roofing & Home",
+    "place_id": "ChIJyT1trwDM1IkR9YRQf5lwYIE",
+    "reference": "CmRSAAAAC91GHHupPOsPV3vP2xhGL5rFAXCa1wPfIcaB1Qc8I3uNaVgMaOjQAmwIfJStUtortrBsRWIPMjJvCwTVWaoFB9LkQFwWZFtS3i0ykxlFMGtwoHftwOQOJtF88F-wjjsOEhAwYFGZhxE9skibwDP8uYoVGhQIGPeRuy6DxG2T_dEL3XlH1Iv5Zw",
+    "scope": "GOOGLE",
+    "types": [
+        "roofing_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9322575033225217269",
+    "utc_offset": -240,
+    "vicinity": "86 Wineva Avenue, Toronto"
+}

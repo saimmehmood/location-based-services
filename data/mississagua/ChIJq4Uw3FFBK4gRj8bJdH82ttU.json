@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3343-3399",
+            "short_name": "3343-3399",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Fellmore Drive",
+            "short_name": "Fellmore Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2E1",
+            "short_name": "L5C 2E1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3343-3399 Fellmore Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2E1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3343-3399 Fellmore Dr, Mississauga, ON L5C 2E1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56021670000001,
+            "lng": -79.6574764
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56156568029151,
+                "lng": -79.65612741970848
+            },
+            "southwest": {
+                "lat": 43.55886771970851,
+                "lng": -79.6588253802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "4e57113bc7793fbe027b31c199c9d46be18f74b6",
+    "name": "3343-3399 Fellmore Dr",
+    "place_id": "ChIJq4Uw3FFBK4gRj8bJdH82ttU",
+    "reference": "CmRbAAAA1q_eQtsBYVohRskTemkUhSAbwe68yB9ky1zTGH9LO9oIJf0k8g7Og-zE-o7dmsXKB3IGqQi97ss8W1ZSWSAJ7QXaKF9RW7Dzk1dzkBQSVRHj5FzQU3hz2p89jAtQYpBcEhB53IifPaV5D5AiwDFcvyzaGhRVfhDJKWrWmDVJFioYpCN66hhAFw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3343-3399+Fellmore+Dr,+Mississauga,+ON+L5C+2E1,+Canada&ftid=0x882b4151dc3085ab:0xd5b6367f74c9c68f",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

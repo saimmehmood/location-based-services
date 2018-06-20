@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "1965",
+            "short_name": "1965",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1965 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1965 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(416) 699-6070",
+    "geometry": {
+        "location": {
+            "lat": 43.6696149,
+            "lng": -79.3015456
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710033302915,
+                "lng": -79.30021311970849
+            },
+            "southwest": {
+                "lat": 43.6683053697085,
+                "lng": -79.3029110802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "839cb59daabc97124fbcdc1c6a8330318d50d34d",
+    "international_phone_number": "+1 416-699-6070",
+    "name": "Land Food People Foundation",
+    "place_id": "ChIJd_3B-PfL1IkRqlMHtxkQP_g",
+    "reference": "CmRSAAAAPQwv0JNM9wGBpp67zUq71rVvuDKuvh2RfGVSqgzcF8_Sm36fICYqBSDwlp1FgAFCAR0RGaIQC5KOGPFGgJdDaflxl8oE8v00YdXCtDVq-P-Y8nIEYeWcnRXPGpcgMnrCEhAjBKOFJ7MjFOUnKLugNrKeGhRoBtktFsrscMoZuThSyGjLBIxiBw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17888033947569836970",
+    "utc_offset": -240,
+    "vicinity": "1965 Queen Street East, Toronto"
+}

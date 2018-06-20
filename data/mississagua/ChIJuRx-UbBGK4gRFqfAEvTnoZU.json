@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "959",
+            "short_name": "959",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stainton Drive",
+            "short_name": "Stainton Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 1G2",
+            "short_name": "L5C 1G2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">959 Stainton Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 1G2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "959 Stainton Dr, Mississauga, ON L5C 1G2, Canada",
+    "formatted_phone_number": "(905) 896-1137",
+    "geometry": {
+        "location": {
+            "lat": 43.5610502,
+            "lng": -79.6414374
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5623323302915,
+                "lng": -79.63998411970849
+            },
+            "southwest": {
+                "lat": 43.5596343697085,
+                "lng": -79.64268208029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6a45979ccfe7eafecf0ec2c069a922b551f5aab6",
+    "international_phone_number": "+1 905-896-1137",
+    "name": "Quality Custom Painting",
+    "place_id": "ChIJuRx-UbBGK4gRFqfAEvTnoZU",
+    "reference": "CmRSAAAAtp8epDUeEnMShFY-ArnRJM75prFJpt-HdOfWHez0FfTWdREkmf8u8IZeUMPHOuovS2ua5u3U7MFeRNnOJPYEHIB8QnoZZZMY-4WLfI15z25rN1ysNKDczbo9K57vS61CEhA24fyROje3_Ci6iODFvtphGhTFhjsoHmyXYiap91n2GQdJomI1Ng",
+    "scope": "GOOGLE",
+    "types": [
+        "painter",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10782154018374330134",
+    "utc_offset": -240,
+    "vicinity": "959 Stainton Drive, Mississauga"
+}

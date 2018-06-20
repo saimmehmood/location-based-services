@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "North York",
+            "short_name": "North York",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M3A",
+            "short_name": "M3A",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3A</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M3A, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.758188,
+            "lng": -79.319442
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7595369802915,
+                "lng": -79.31809301970848
+            },
+            "southwest": {
+                "lat": 43.7568390197085,
+                "lng": -79.3207909802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aea327546989a36616e1233308bc4e2ae66f2d46",
+    "name": "Parkwoods Village Dr at Combermere Dr",
+    "place_id": "ChIJ9TJWE27S1IkRdlQsTBVkFzE",
+    "reference": "CmRRAAAAVmDyB3Hys6yxDW5W50nZkV8wSTPAmPeJ4PuB_6eD-vRnQ3Y0e8dxstzIgyQit8kVU3lGcTg8WtQb_acx49WhAagy8YE0Xyk4eh9iM0pJ_zGXh2hg0DJotVb0gadwh8w9EhCdEGWVTNR0w3H2_ABtZa1BGhRvN2aX86fIi0elrMI1nvBRJHD7RQ",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3537406074957878390",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

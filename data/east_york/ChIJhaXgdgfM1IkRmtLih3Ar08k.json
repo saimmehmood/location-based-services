@@ -1,0 +1,331 @@
+{
+    "address_components": [
+        {
+            "long_name": "2034",
+            "short_name": "2034",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J4",
+            "short_name": "M4L 1J4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2034 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2034 Queen St E, Toronto, ON M4L 1J4, Canada",
+    "formatted_phone_number": "(647) 748-4569",
+    "geometry": {
+        "location": {
+            "lat": 43.6705081,
+            "lng": -79.2984046
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67180133029149,
+                "lng": -79.29703216970849
+            },
+            "southwest": {
+                "lat": 43.6691033697085,
+                "lng": -79.29973013029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "beab965de17ab09610b2e15f619f81ff89fafd4d",
+    "international_phone_number": "+1 647-748-4569",
+    "name": "Afterglow Studio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 9:00 PM",
+            "Tuesday: 6:00 AM \u2013 9:00 PM",
+            "Wednesday: 6:00 AM \u2013 9:00 PM",
+            "Thursday: 6:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 1:00 PM, 5:30 \u2013 8:00 PM",
+            "Saturday: 8:00 AM \u2013 3:00 PM",
+            "Sunday: 7:30 AM \u2013 3:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAamfe8QHQoJh0-EOapuuwOlyO0-Qnz5NygY59syre5XAC21lKlvSlTPQmoWUAmukqERt90ooth6ziSMOVyZv-lsh28kGmgqgMGA-ga47uHUbzG26I57nj1F4WZ_gY8WCVEhAji0am-fPZQO7BcMpM5YRtGhTUeaeIlZZwj4ZpqpZ8_rrgqCVLUw",
+            "width": 3872
+        },
+        {
+            "height": 2084,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA1pKd72XU9viHLbAoycjgeQp6DA3sGLHXDZ-pZae_IZ5cOEuiZH7LtQxcLMPJSZmhvPoYNDODJytGg_RQp-a-VYUxORFfmLZfnM2FMTPGUuM8lJkZSnRLFzILSMQ5rC6WEhDdSB0zYwsYSeImgVnDqGC3GhRLKsjLXPYwH7xbLY3anDXgiUgEPw",
+            "width": 1389
+        },
+        {
+            "height": 1389,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAALMZqQAU5YsVR35uPRDwEhcBSCOKMHdFcZRnZeO3yxFDdrGypbeHLyHmRT-5G_cDmRRA44tDFQVbBMiyoF4VYbvJQWKgq02hNQA18CGQgnzoDl4bM0ojF_7iW_GThSDV_EhA9_CVNA-Uz_-toKiVmmp1DGhSEzwHLXymbj6qThShJOE3NJR3cAQ",
+            "width": 2084
+        },
+        {
+            "height": 1389,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA6MLxQUCum6EswDE9SE7rEmJxhhEzCEWcrXI6nJ5x3vkqOu1KPzI6-9Wl5ltggHh51vUlgDDDGhasucQg4JCDaPtx2Y1YgV1CdOa1RdqjIF7ke439kbN5nknw9-RrtmUvEhAFBDDMCLJPFEqfP5g2scioGhS8MLwSmtY3bys8KBFrF_3PkXmFYQ",
+            "width": 2084
+        },
+        {
+            "height": 1389,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAARijz1NiwQcElwMEp-hmRtdQKars8ovSC4n33ew3Ql-_IoWhl8ZAlzmaGOAuGeADriAce8dq_PQMdQLDcyl1Bd_oFjS0lQqu1X4veJoMORfr1pJIXt0T7CTf3qADWVG3UEhBMdkU9ANwSQ1jNgx9cnUzRGhRDNMv64f_tzs9IxvmV41yPhmXzFw",
+            "width": 2084
+        },
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAACZ7Ei3wtQ07fSQo6tdYxpJtUsc6Gy75zy1SjVi0o4t8dub3MZHYGdV4Z8U3VBLgPvPTTuZ_AFH-mddNbHJ5pWrd53JQyVQRoDKqi-q0im4qpBBpDOHwWxjW6LcYsaBVcEhDOMKIcO3jz3czLU9TrWsAaGhRE31o63Ozq9XmnlhIQttHartbOQg",
+            "width": 395
+        },
+        {
+            "height": 1389,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAzX52U1gTaJSo6xOedXyrUs-js1Ydpn3aqDuuurqEpKzJAfxFBDH9wmqMhGb6n81A9NBX8hpu6qOFXcCuZQHe4xkqXFYUwRMXfE1EVQ4n_7RUM0b4H1LkS7qQ1KTS5rB4EhDf4e5XSATUudX3bfSG9nanGhTtJqTiAcM-w1UgLCfki3Pups54YQ",
+            "width": 2084
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100471164977005785527/photos\">Bernadetta Stella</a>"
+            ],
+            "photo_reference": "CmRaAAAAsZDiFsHVEDeo6BhCG2kdCB7P9kp7EcRJNk5SJVg_DVbaZ6-uvWCOb7tLGvr0WaheBXhGKXhmoMjs1EfjjkUM5Zm1OkhqU9wFXAHmlY-npLsMHKGiuPdo4qVD1cOgXl-LEhBXFcUAd5QMrYtko_IIabxAGhQhiTqfezYlke5l42xB9YfJJ95Qgw",
+            "width": 3024
+        },
+        {
+            "height": 1389,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAqat4aTw9_VoTmK4JzPkn31bTEWnD68RJRIxmDj07qIsz05fACg890VRxb7SbyWbOd2cwfXcwFxU9-7FwwwMjkuS_h_3D3qSQWubH_0xY03_RxZE1xx9wbcflFzCJwSbrEhDZ0dstSezKU9qZAssFU6xIGhSa5gY1QGz7FXR0AEDawMbHOhUdzw",
+            "width": 2084
+        },
+        {
+            "height": 1389,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104812685553902845152/photos\">Afterglow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAS1AXRtsOnyxTYtvL1cntwhZFMBCBhHpvGH-jzXwxQ96hEa7s0YJKDPwkVOvhPQXfhCiIOvpS4Q5BIuGEekd-zC89QgT9VujS5gSfuAhxPrHqwsZO-Ywl0mkDGmn4mZi5EhBv8SLhLfRfGt_RyS1SK2h4GhQ72zqaNtxA1cpkGmDhfi20YDnDzw",
+            "width": 2084
+        }
+    ],
+    "place_id": "ChIJhaXgdgfM1IkRmtLih3Ar08k",
+    "rating": 4.8,
+    "reference": "CmRSAAAALCJlqDWfaYWFSxCr6YOMIpuK3ZdQ1DmhFyxh4dAKomsLeX6DiCZ9YnFFhH07BgB8ns5ud-FFQTo5Z2CNu4O2YkNrW7B_XedAAaAyc-278CWjNIu6HHGolzarZwQ84zzhEhA4aTZKa90TOq1248AcU1t2GhT0YQZZSq4GhAO6tttaKFOxf6eYKQ",
+    "reviews": [
+        {
+            "author_name": "Fit-City Guide",
+            "author_url": "https://www.google.com/maps/contrib/103636277230918382570/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AC8v_VGWoXM/AAAAAAAAAAI/AAAAAAAAJLY/RvdqrXZ79g4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "The class schedule is packed, the prices reasonable, and they have some of our absolute FAV yoga instructors. We're so into this little gem in the east end, and we guarantee you'll leave with an energised glow that's entirely deserving of the name.",
+            "time": 1514506782
+        },
+        {
+            "author_name": "Marie Macauley",
+            "author_url": "https://www.google.com/maps/contrib/118032509740977495818/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FaBxocfNyMc/AAAAAAAAAAI/AAAAAAAABcY/1vkfWp5Nx1s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Many class options, knowledgeable instructors, and average prices make this place one a great yoga studio!",
+            "time": 1516984978
+        },
+        {
+            "author_name": "J P",
+            "author_url": "https://www.google.com/maps/contrib/108848207306187119050/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--NtaEBdyBOc/AAAAAAAAAAI/AAAAAAAAEjk/fkkZeYT92_s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "The owners are attentive, the staff is helpful, and the members are a community. You should try this place out!",
+            "time": 1504725303
+        },
+        {
+            "author_name": "Bernadetta Stella",
+            "author_url": "https://www.google.com/maps/contrib/100471164977005785527/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-EW3VPiCVDuY/AAAAAAAAAAI/AAAAAAAAANs/h-E9WikDt9g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Friendly staff, great instructors and a cute and unique space. Great little gem studio in the beaches. ",
+            "time": 1475357012
+        },
+        {
+            "author_name": "Jaffer Yoga",
+            "author_url": "https://www.google.com/maps/contrib/102827192908442038615/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kVFv-4NVutQ/AAAAAAAAAAI/AAAAAAAAApI/ffHwe-ag12s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best yoga studio in the beaches!",
+            "time": 1468678966
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14543015384025584282",
+    "utc_offset": -240,
+    "vicinity": "2034 Queen Street East, Toronto",
+    "website": "http://afterglowstudio.ca/"
+}

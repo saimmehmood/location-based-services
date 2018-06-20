@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3510-3478",
+            "short_name": "3510-3478",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Orion Crescent",
+            "short_name": "Orion Crescent",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2H8",
+            "short_name": "L5C 2H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3510-3478 Orion Crescent</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3510-3478 Orion Crescent, Mississauga, ON L5C 2H8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56072899999999,
+            "lng": -79.6629392
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56207798029149,
+                "lng": -79.66159021970849
+            },
+            "southwest": {
+                "lat": 43.5593800197085,
+                "lng": -79.6642881802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "52c47118317c1ef616246b7c85f01c7ee0998ad1",
+    "name": "3510-3478 Orion Crescent",
+    "place_id": "ChIJDQ4bxFpBK4gRPTaYvMtHz4w",
+    "reference": "CmRbAAAAFJtXwuFDuMA3KibyQ6mGlEoa_qppr3xwVSLMuTDMGclVAFu06l1ExjPSgMcC8ycJFeJWT-6yiJ6H1Nr9bBUbT7T2Sapozx0Clc3dwe0nm-PPckVCk0AkQXI8s3PSwQDVEhDWJgj0EsfOfyrZHEWZOBeAGhTR5rKqCRDmWdds5BKYhcXDPnDnPg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3510-3478+Orion+Crescent,+Mississauga,+ON+L5C+2H8,+Canada&ftid=0x882b415ac41b0e0d:0x8ccf47cbbc98363d",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

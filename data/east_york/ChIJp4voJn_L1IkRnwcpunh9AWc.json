@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "83-113",
+            "short_name": "83-113",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Marjory Avenue",
+            "short_name": "Marjory Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 2Y5",
+            "short_name": "M4M 2Y5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">83-113 Marjory Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 2Y5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "83-113 Marjory Ave, Toronto, ON M4M 2Y5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6695342,
+            "lng": -79.3378709
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6708831802915,
+                "lng": -79.33652191970849
+            },
+            "southwest": {
+                "lat": 43.6681852197085,
+                "lng": -79.3392198802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bafff47daad5945625d7a0f416badf555a6e0ec0",
+    "name": "83-113 Marjory Ave",
+    "place_id": "ChIJp4voJn_L1IkRnwcpunh9AWc",
+    "reference": "CmRbAAAAAhNHpDEgsAs-WCz02YElwoIVp9xsxsqBp2oFwLQcZeklb5z5t8BPqRHZJPyJzkww8ijg80Wq1_mCLK3vX6VScvXuysaUGgP7NnTCjYbiPdJSYVxllxf67qMOdg98HXbJEhBQ6nagvsmydXfzxU6ZJZ0rGhT53SpsgvP_VNNZPhZnXiv2hT8WwQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=83-113+Marjory+Ave,+Toronto,+ON+M4M+2Y5,+Canada&ftid=0x89d4cb7f26e88ba7:0x67017d78ba29079f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

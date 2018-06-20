@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "Carlaw Avenue",
+            "short_name": "Carlaw Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 2R6",
+            "short_name": "M4M 2R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Carlaw Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 2R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Carlaw Ave, Toronto, ON M4M 2R6, Canada",
+    "formatted_phone_number": "(416) 469-4900",
+    "geometry": {
+        "location": {
+            "lat": 43.6699298,
+            "lng": -79.343687
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712860802915,
+                "lng": -79.34230191970849
+            },
+            "southwest": {
+                "lat": 43.6685881197085,
+                "lng": -79.34499988029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "70a5d677529162c279026bb9e71651e1e2e625ea",
+    "international_phone_number": "+1 416-469-4900",
+    "name": "Method Inc",
+    "place_id": "ChIJtwkqHHXL1IkRNdfs4TTBNKM",
+    "reference": "CmRSAAAAM3ZL0beR7nftHiC47AU864Vhq4EcJl3htHDaHYDICvvemSDvXmpUNmdj5JWDhW4N_6PMOIFooSYGodf4hxEnt2Jg7QZ6uQbzdSSmVX7xQ8rnODcm5gU-DfVXYMi7VVl5EhCQn9lu7lcx3DcFvSD9M8YOGhRlhCokbLMcIF-fHejFvmYOhUHNKw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11760236959844063029",
+    "utc_offset": -240,
+    "vicinity": "Carlaw Avenue, Toronto"
+}

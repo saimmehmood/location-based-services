@@ -1,0 +1,294 @@
+{
+    "address_components": [
+        {
+            "long_name": "2010",
+            "short_name": "2010",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2010 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2010 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(647) 726-1696",
+    "geometry": {
+        "location": {
+            "lat": 43.67034899999999,
+            "lng": -79.29948999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67160928029149,
+                "lng": -79.29810431970849
+            },
+            "southwest": {
+                "lat": 43.66891131970849,
+                "lng": -79.3008022802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0abb519fe555f0be035eeacde02e914ac0cebb51",
+    "international_phone_number": "+1 647-726-1696",
+    "name": "Simple Cures - Integrative Medicine Clinic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 5:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAANwmvJToXLGSO2RzsXuekAZeIYbbFJWiIxTv_DLbLMkL9rgncZhJ97sYD21pj1FNmMIkqU95uR1-9iZAOTGXR5dVEz2-a_eJGPe-xXafrfKZLmX40OskBawY4yBv29odKEhChdzqQNAX7SDTCR6gXgx9VGhRjxHmRM0jCUNv55AULkgXyqIIPSA",
+            "width": 5184
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAANPmGKCjijctnjznMgeZ0Y8_oM6ZV3o96rNHsC-WSsJcnl8gdCisnaFpB-ZDcYOtudmb01m0WqQ13DCm5nlaZqoUqD8ejPGitZID6F6i5NiQKq0NYiQWcEDrWIk1L-6XVEhCZbwiwvIqeMvJem0buVcPdGhQ-t_4-PBSy4H2PEMNPz6v5aGf3zA",
+            "width": 940
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAx-8SnO6o6CifehQvoNzIunbggBdsntynkJw8KSruNwYnYzMZdk3yNx22QKXxg82lwLH_7uy2X0MEKEKjr9wxx1br_RBw3poIf0lU4LtnO1fal50pshSkaPYsWk79uuPVEhDmu_slOB9r--Bikt3nQmTeGhSa9M9hcq1ZDczGyut4L9AO0cpADw",
+            "width": 940
+        },
+        {
+            "height": 1371,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAdAzi1kieDreiQULyfCe_7XvBZqOhN2kgyyGit8cx4ytxINKJZuZtmSFgOr0cImsjYlH9t5QC4kk_Q2C4IGYC0V9KBbu6Ub5Iy-zb0lixyiYqPmb9nd6u6MaknChTDKZPEhAn0CSelXQEM8UjmbKHIs5yGhS9CNdJHiHdontQllN_gRJbYtTpMQ",
+            "width": 1371
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAUBX1R33mhQdLz-dhobSXWia5zEvBMz7yHYzplp0mIv8kqTPJ0wZu8ZBG0srH3Ml3dogANDXJiqJTLO-cQucfijuxk9gDlfgHCOIlMAzw6OH7f313BaeEWZ2LLwlVIlr5EhANWkQlAXV0KIZw8FPv-dzIGhSH2aVhaz0OOe6DuFDfjBdbjPdcFg",
+            "width": 3872
+        },
+        {
+            "height": 1224,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAA-ofQWLNM7ePc4j7hsqx_9eSSuVzoklg_ejtRLE85wSoBPCjGYo1-7vUbJmd7w30oT2cUZ4tKLxcnSTa95DcBj-V3E2ccdHm6bDU6u6ekmlN_TRpSeVNwVhMgKflADlqkEhBTNF8HO7uCEDahu0__DQwwGhQ5Azww2ykn0MPvRHOtcDLLI96blA",
+            "width": 1224
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAfTcsADSkTRH4X5aXY2b82FvlaH8FdvL2T1LWtQt2ApHh5MBMeMr3OfON3H3JQYhnjaWBLPPkrzR1PpXOIyTZ3AtadReSeiBW1cpy-58Rh6Xij4esZmKc_scujAOPTVVsEhDVGaW9fKm9p_e18Cwi-qfUGhSjQOMYYULfAfdTdw2NOyah9DGzMg",
+            "width": 3872
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102089086905201278491/photos\">Simple Cures - Integrative Medicine Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAXfQRH4O1OkPOdTsJkytz3qAprfOcHkuj7xC4iQFpE36MRCC63tcm6pTNlmcGBGN0zaNrMYUr2DjLOB1OVplcKFkmdFjI0APfZ8vxOuUWmINPVHaKy_xNNjOLIAZqEEl3EhCewzVHwGxjEpZj_HL8aYpFGhSslYYjdopCqbF6bnIiDi_ENWybMA",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJOz4OjwfM1IkRKpEoHKo3wTA",
+    "rating": 5,
+    "reference": "CmRRAAAAG3BaSp9kL9MQz09KN4Fo1cBWwj3IGYfQYXt5ga0aJ2cW8Zy3lFVuAsHQHASnWM7JzTfYzaXGVSxx6ue3UY2nrnlCGifdvHuJtxn-x3kDaENFFctaJz7BvdoDV9vyqPRUEhAyPbUBfBUh4NDBPY9Bq7cvGhT_daVCueeRCKrt7lFzKqFNhqy0iA",
+    "reviews": [
+        {
+            "author_name": "Sasha L",
+            "author_url": "https://www.google.com/maps/contrib/115237077091057807726/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qyjyBnpamdo/AAAAAAAAAAI/AAAAAAAAAAs/UbCk2ecghe0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I can't recommend Jessica Tan enough! She is so caring, thoughtful and professional. You can tell how much she truly cares for each one of her patients. I saw incredible results from her prescribed herbal tea and lifestyle changes she recommended. If you are dealing with any health issues or aches & pains, don't hesitate to book with Jessica!",
+            "time": 1529439571
+        },
+        {
+            "author_name": "Nidhi Seth",
+            "author_url": "https://www.google.com/maps/contrib/111133917623254171024/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zdgEPJ_bIso/AAAAAAAAAAI/AAAAAAAABbE/TviYgnA4L9s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The staff at Simple Cures are very professional and beyond knowledgable. I have been suffering with hip and sciatica pain for over two years.  After seeing every other practitioner out there, I took a chance and came to Steven for an Osteopathic treatment. I was blow away.  He was able to diagnose me , treat me and help me recover from excrutiating pain. He is incredible, and is able to combine western and eastern medicine together to problem solve.  Highly recommended!!! Thank you :)",
+            "time": 1520821956
+        },
+        {
+            "author_name": "Molly McKeown",
+            "author_url": "https://www.google.com/maps/contrib/110511343389157120565/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-AetleEPNBck/AAAAAAAAAAI/AAAAAAAAAEo/YS82DaZsuiU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Simple Cures is my first experience with Acupuncture and now I can't imagine my life without it. Jessica is truly incredible and you can tell that she cares a lot about her client's well-being. The staff is also very friendly and helpful. I couldn't recommend Simple Cures more!",
+            "time": 1512738624
+        },
+        {
+            "author_name": "Alessandro Dialuce",
+            "author_url": "https://www.google.com/maps/contrib/109701762714974476531/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-4i9u9hqGolY/AAAAAAAAAAI/AAAAAAAAACE/gjuzShiKVD8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "I had an appointment with Dr. Steve for an osteopath session; he gave me very interesting and useful suggestions for my posture as well as very important information related to the cause if my high blood pressure.\nI definitely recommend Simple Cures.\nAlex",
+            "time": 1502810533
+        },
+        {
+            "author_name": "Evelyn Low",
+            "author_url": "https://www.google.com/maps/contrib/104311765193328473985/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-muev2L-1VgU/AAAAAAAAAAI/AAAAAAAAGA0/pUYehAORxR4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I've tried acupuncture in the past but have never gone on a regular basis. After meeting Richard (at the recommendation of a friend who comes in from Richmond Hill to see him) during my initial consultation I got a sense that he could be a guide/partner in my healing journey. \n\nSo I've been seeing him since the beginning of the year (? I can't recall exactly when, late spring maybe) and he has been instrumental in helping me deal with my health issues that go beyond the physical. It is true that alternative medicine helps deal with the person as a whole rather than just a symptom of disease. \n\nAlso, I was weary about osteopathy because I had seen the practitioner at East Toronto Osteopathy and she hurt me so much I was literally crying when I left her office. I could barely put my shoes on. I should never have paid her. \n\nRegardless, after speaking to Steve, I decided to give it another try and am so glad I did. Osteo provided the relief I've been looking for that no RMT has been able to give me. He even helped my sis in law after I mentioned she should go see him. \n\nIf you're dealing with health issues, take care of yourself and go see the team at Simple Cures. Find out for yourself. \n\nPS. I moved to Yonge and Sheppard and I drive all the way to the Beaches once a week to see them.",
+            "time": 1508929453
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3513150388082086186",
+    "utc_offset": -240,
+    "vicinity": "2010 Queen Street East, Toronto",
+    "website": "http://www.simplecures.ca/"
+}

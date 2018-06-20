@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "202",
+            "short_name": "202",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "70",
+            "short_name": "70",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dixon Avenue",
+            "short_name": "Dixon Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1N6",
+            "short_name": "M4L 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">70 Dixon Ave #202</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "70 Dixon Ave #202, Toronto, ON M4L 1N6, Canada",
+    "formatted_phone_number": "(416) 931-1940",
+    "geometry": {
+        "location": {
+            "lat": 43.67026069999999,
+            "lng": -79.3083547
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6715005302915,
+                "lng": -79.30695896970849
+            },
+            "southwest": {
+                "lat": 43.6688025697085,
+                "lng": -79.3096569302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0892991696052a3f38ba1808767fd67cd3daf67e",
+    "international_phone_number": "+1 416-931-1940",
+    "name": "Best Local Business Awards",
+    "place_id": "ChIJPfeUSqDO1IkR5kckNZMcJQ0",
+    "reference": "CmRRAAAA-Zss0aXadj1IzGmL_nkDuc9oxA4f6tgXWNMPDrptrWMxTUDdH3JTvGx3736W7Z0vejzTtAutpXZJNc-OQSWFyWp6RiYB_01XlLLtNz-maGFciooR7MH-KQUd7n-ggWg8EhAzLG5khUQAycdJYsRU0W46GhQDRW_Tp79gyKxhz7QFEYrhul7roQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=947194715208697830",
+    "utc_offset": -240,
+    "vicinity": "70 Dixon Avenue #202, Toronto"
+}

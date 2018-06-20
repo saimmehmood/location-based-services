@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "230-120",
+            "short_name": "230-120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P",
+            "short_name": "M1P",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">230-120 Nantucket Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "230-120 Nantucket Blvd, Scarborough, ON M1P, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75825640000001,
+            "lng": -79.2751725
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7596053802915,
+                "lng": -79.2738235197085
+            },
+            "southwest": {
+                "lat": 43.7569074197085,
+                "lng": -79.2765214802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "2620c22e330d9fa49d70076b41aa631ab0add3d9",
+    "name": "230-120 Nantucket Blvd",
+    "place_id": "ChIJ0cEVO-zR1IkR86eu-Z_XWIM",
+    "reference": "CmRbAAAA3QJ1oRvXxCW1HVep6lUbXqtE23q2JAYKgwC7EMY3xSyCPG2H9qFl7NyiilV01RyTkO7o7ZCmSs9YPaWQsV211tMmscmcoHSJGD62XCR19DWXZlC0Vfuymxni8-eWZ4ClEhB7vLUcJzhbD4YC1DKyx-JfGhTHozBc46bLLDPJKTTGGnZ0T2e72g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=230-120+Nantucket+Blvd,+Scarborough,+ON+M1P,+Canada&ftid=0x89d4d1ec3b15c1d1:0x8358d79ff9aea7f3",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

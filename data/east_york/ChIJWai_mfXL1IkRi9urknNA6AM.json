@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "56-32",
+            "short_name": "56-32",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dixon Avenue",
+            "short_name": "Dixon Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1N3",
+            "short_name": "M4L 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">56-32 Dixon Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "56-32 Dixon Ave, Toronto, ON M4L 1N3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6698014,
+            "lng": -79.30932550000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6711503802915,
+                "lng": -79.3079765197085
+            },
+            "southwest": {
+                "lat": 43.6684524197085,
+                "lng": -79.31067448029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "75d9cc2491aa277fd98709dcca3ea6400ba9d103",
+    "name": "56-32 Dixon Ave",
+    "place_id": "ChIJWai_mfXL1IkRi9urknNA6AM",
+    "reference": "CmRbAAAAOeFQTw2AyzCkrDUfv68e5DPeOjJE2Dt34DhA3JMYgejEETrfDymG8uA4oUYk8Sc9RMlGv_2CkO9bYxziuyA23ZqdA5Xn_9_cgyDuMfeer6WURZ-YFkrw2JFKFuOpc6-xEhD9YC-VgjTP4GA0QE3nwnyCGhSn655vre2xrEz_5_CqlnCilbWt4Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=56-32+Dixon+Ave,+Toronto,+ON+M4L+1N3,+Canada&ftid=0x89d4cbf599bfa859:0x3e8407392abdb8b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

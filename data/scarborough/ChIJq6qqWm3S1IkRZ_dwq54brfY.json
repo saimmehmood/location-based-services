@@ -1,0 +1,280 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B8",
+            "short_name": "M1R 4B8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Parkway Mall, <span class=\"street-address\">85 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Parkway Mall, 85 Ellesmere Rd, Scarborough, ON M1R 4B8, Canada",
+    "formatted_phone_number": "(647) 346-7190",
+    "geometry": {
+        "location": {
+            "lat": 43.7570692,
+            "lng": -79.3120173
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75841818029149,
+                "lng": -79.31066831970848
+            },
+            "southwest": {
+                "lat": 43.7557202197085,
+                "lng": -79.3133662802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ca52530a2feaf8d26ac284e43b6375c042589a14",
+    "international_phone_number": "+1 647-346-7190",
+    "name": "Fido",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 9:30 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106271075536373043002/photos\">Fido</a>"
+            ],
+            "photo_reference": "CmRaAAAA_V3i7MYh3n78o2IeJ_9RYqz3b1qfv3YAoh8kf9ZH55cau_-cl3lRh0dRfZbgIoEpFwy8oVQO2rCWcJBgFxtqdKYEZBbJlAqetoTsg8Wmf_omQW5Or4K6CMtcKq_bN9YwEhCTzXtHWO1QcW97bKcr5l97GhQw5-dHZozPDg_1MK4WDS2dsjYVzA",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106271075536373043002/photos\">Fido</a>"
+            ],
+            "photo_reference": "CmRaAAAAOzx-q9SZK-q-HrRCvUmMuO7F0n_GRmhYCG_KFp5BUEEp7g8JMbV83UnE7mHH9G9Vsx3LRD8XlLVh_CanJYX18yVqPq2YWaLexzi9x0FxUPxnupRVzOnog4XPfGEFXIMWEhARV6rQMghpLOlJsFiMxWTJGhTKNLQcfjg9WnnwPH-Enscteaz1gw",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106271075536373043002/photos\">Fido</a>"
+            ],
+            "photo_reference": "CmRaAAAAdL14P73DBhoKRKWyWfY-mxrskes9AUlaB4veKDqt8ZYPETNCy-2JpADP9iJamHkuCh0y7fDZ-YpxTp0nY4sf2DWX-wzYsQgMoituBZigrkx0TP3plH8X61NnSGsAkG-KEhAHuZAh-irYq7Qr-KS3sb_tGhQYOtBwI2OIcJOWVWH8mK1mJ8uzpA",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106271075536373043002/photos\">Fido</a>"
+            ],
+            "photo_reference": "CmRaAAAAgTEE7xqiAk8g3b9bVBVN7MC445YFlZ2oRZhNCjCAezHxF-hAoQFJigq0QH9ux3L2w2eLaofntXGTvhjXbIJmaHGSG2T5IR5RkjpRf33ygU67VH-HNSDkdrOPwoNM-Du9EhBex8mzhI9lSyuHTLfexg3yGhRr2r7AoiGhXSRhTJq5vNVaGTN3jw",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106271075536373043002/photos\">Fido</a>"
+            ],
+            "photo_reference": "CmRaAAAAA4agua6OQRA1wCwanxlbKY6AK2GmDK1iaZVRE00McODDS8xu70LA_Vu9HcC9Tfo-tnd6KTFP-QBL0_zS6B38MRZ87k6gmWhn0lXx3n1aqCAMI4coyksj8y8YvNL9Wnj7EhDo5nGXFL5ELSLu_ghTP_sLGhSIWDfdfANE01hVG3NE3rOu6rkeCw",
+            "width": 720
+        }
+    ],
+    "place_id": "ChIJq6qqWm3S1IkRZ_dwq54brfY",
+    "rating": 3.5,
+    "reference": "CmRSAAAAHlX4SlnuUKIBZHyw0G6YKO4_88UFyw2hGUpuAej72mNlhDg2U5674FmJ7Eq2JPLdt_gIWtM4Zy-Bnqs_aF56udz9bMIxcqhs96EydfPyr3lD5iSzxNNSVQJBU_TihxR9EhBh4ldYLrsyxrIZySE2G_fxGhT2m0ccy_zhTB-TRYihIdCllQkzzg",
+    "reviews": [
+        {
+            "author_name": "Ankur Shah",
+            "author_url": "https://www.google.com/maps/contrib/104807846185351258447/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VTlEYXgdWlg/AAAAAAAAAAI/AAAAAAAAZXo/vkmXVcSEy48/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great Place to purchase Fido Phones... The staff is great, Knowledgable and are always happy to help... I have visited here couple of times and always happy to get the great customer service...",
+            "time": 1526688387
+        },
+        {
+            "author_name": "Christine Harrison",
+            "author_url": "https://www.google.com/maps/contrib/114780159985876234162/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cIYUomd1YLk/AAAAAAAAAAI/AAAAAAAAAmg/y2TUm2UfDxE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Small open area no privacy people will know your business",
+            "time": 1528374731
+        },
+        {
+            "author_name": "Maureen Crawford",
+            "author_url": "https://www.google.com/maps/contrib/102598598844019265810/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iDg4piy7wvQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1nVcWnxTV1LQA33aFWDC0NZUJaQw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Customer service is better than Rogers.",
+            "time": 1527768015
+        },
+        {
+            "author_name": "HO Nknk",
+            "author_url": "https://www.google.com/maps/contrib/101352296030822255727/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Tn2CxF3P40U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3J8RDiWCP6YkzPnxr3wP2ssjwa5w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "Terrible service, this is not a corporate Fido, it is a dealer, sometimes they send u inevitably to the main store at Fairview Mall, got internet?, go get the modem at Fairview, ur phone is bad?, go to Fairview, need to make a return?, go to Fairview, in other cases they offer stuff they won't fulfill, got an issue afterwards with your service or phone?, guess what?, yeah, GO TO FAIRVIEW!...so yeah, save urself some time and just Go to Fairview Mall instead, after all that's where u may end up anyway.",
+            "time": 1503941503
+        },
+        {
+            "author_name": "Andy Vuong",
+            "author_url": "https://www.google.com/maps/contrib/111196619471743933895/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-XzbKvSErYs4/AAAAAAAAAAI/AAAAAAAAAMI/EQCRaWS4VZ8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Customer service is really great here, transaction went very smoothly, Hind did a execlent job explaning the plan i got in full detail, would recommend to anyone in the area!",
+            "time": 1498594698
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17774893672596305767",
+    "utc_offset": -240,
+    "vicinity": "Parkway Mall, 85 Ellesmere Road, Scarborough",
+    "website": "http://www.fido.ca/consumer/storelocator?store=344759601&utm_source=G&utm_medium=lpm&utm_campaign=Rogers"
+}

@@ -1,0 +1,257 @@
+{
+    "address_components": [
+        {
+            "long_name": "1978",
+            "short_name": "1978",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1978 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1978 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(416) 546-5164",
+    "geometry": {
+        "location": {
+            "lat": 43.67000900000001,
+            "lng": -79.301042
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6712673302915,
+                "lng": -79.29965511970849
+            },
+            "southwest": {
+                "lat": 43.6685693697085,
+                "lng": -79.3023530802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fe41c07baa94ca7e90e9a70ec710fc7386cff807",
+    "international_phone_number": "+1 416-546-5164",
+    "name": "The Embellished Room",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 8:00 PM",
+            "Tuesday: 10:30 AM \u2013 8:00 PM",
+            "Wednesday: 10:30 AM \u2013 8:00 PM",
+            "Thursday: 10:30 AM \u2013 8:00 PM",
+            "Friday: 10:30 AM \u2013 8:00 PM",
+            "Saturday: 10:30 AM \u2013 8:00 PM",
+            "Sunday: 10:30 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1452,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115055743543740535110/photos\">The Embellished Room</a>"
+            ],
+            "photo_reference": "CmRaAAAAJzpWBg7U4yof3QMAca9-IktlI9dAx6-ljGSZrHyCTt4RzywGsWkR_yKE8dxG3vUCjdxCeDGtxm33RraRv8UYR5Vx6xnJhptkFmyUt_JN9F54H1c8yE065Nje74tVgOO9EhDDk_Gncx5lcPGPiVBF7uBoGhSyaFERZLC6roweUbDI-WvX5u-NkQ",
+            "width": 1452
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115055743543740535110/photos\">The Embellished Room</a>"
+            ],
+            "photo_reference": "CmRaAAAA2D-w4PR6z7qrpdxQ4Ms4oNZHjYKqoNndL2ctipa99Z83dx4I9aGO0Ikh10tlIdgq5MwbattVDiBM4GUT0oydEAeRsMbzyW3vs6dxIE_vnTxemKSO94IRv_gBIjvWecLHEhBNF1sKqi5bS3KigHOjc3FbGhSMARaZj5DJTqztLzBBd2f0YbCW3Q",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJv5yuB_jL1IkRALuDe-NFWMw",
+    "rating": 4.2,
+    "reference": "CmRSAAAAwClA3blCanB02uzYrlxhgfAxhf6VzjdRGido0vU0d7kgYhL-_bDrhf1h0yeX7r3wrr7pZPZWZ3_aQxnXKznCFxlJMHukjLAFYY3p6pqX0kOYg6DIJSBYF2JmcEYiVvRxEhBulLUEbsvcUriiG9eqh9LfGhRgGTsw3UJJFFJLXTUYXNtcNZnQ_g",
+    "reviews": [
+        {
+            "author_name": "Stacey Carby",
+            "author_url": "https://www.google.com/maps/contrib/115112222756084649122/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-9Fh_BkMaL20/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3xbadnjvXfdSY8C8sVyuF__Yok7g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I've been going to this store for almost 20 years and it NEVER disappoints.  The clothing is unique, well made and designed to address the needs of every woman regardless of age , size etc...The price points are affordable and the staff is ever so friendly, knowledgeable & helpful. This will continue to be one of my absolute favourite stores!  I highly recommend checking out this store if you haven't already!",
+            "time": 1525395860
+        },
+        {
+            "author_name": "Jennifer Petreman",
+            "author_url": "https://www.google.com/maps/contrib/114948101597556320260/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-cMEJRLRgaNw/AAAAAAAAAAI/AAAAAAAAADg/2qAqbDG6lKI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is one of my favorite stores to shop. Lots of variety and pricing is reasonable. I am particularly impressed with the attention to detail in design and the integrity of the fabric. I have received compliments by many on the purchases I have made here. The customer service I received is always friendly and happy help!",
+            "time": 1524426075
+        },
+        {
+            "author_name": "H P",
+            "author_url": "https://www.google.com/maps/contrib/116692107006859773614/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ZMq1bJJe5FE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3phVI4SF1_sDwXE0tHFB-Wv5fe7g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Love the clothes but had a horrible customer experience at this location which makes all the difference. I\u2019ve spent a lot of money at this store and I really regret it. I won\u2019t be shopping here again.",
+            "time": 1524422288
+        },
+        {
+            "author_name": "A Brown",
+            "author_url": "https://www.google.com/maps/contrib/115097205860677082778/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-puV7uL1gRPA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1ONJjtiUG-9nnvFAkESml3MnMwxw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love the clothes in this store. have been shopping for years. they have nice service.",
+            "time": 1524424569
+        },
+        {
+            "author_name": "Samantha Dangubic",
+            "author_url": "https://www.google.com/maps/contrib/111606217254849800377/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ZMypR6bEy9U/AAAAAAAAAAI/AAAAAAAAMXk/fdPb8vYqbcw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "A bit crowded with clothes, but they have really good stuff. Found some unique pieces as this shop.",
+            "time": 1510548317
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14724595825019960064",
+    "utc_offset": -240,
+    "vicinity": "1978 Queen Street East, Toronto",
+    "website": "http://www.glamandfame.com/"
+}

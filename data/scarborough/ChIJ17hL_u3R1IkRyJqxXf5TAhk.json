@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "#3",
+            "short_name": "#3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1286",
+            "short_name": "1286",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1286 Kennedy Rd #3</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Rd #3, Scarborough, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(647) 928-5626",
+    "geometry": {
+        "location": {
+            "lat": 43.7580112,
+            "lng": -79.2787487
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7594170302915,
+                "lng": -79.2771227197085
+            },
+            "southwest": {
+                "lat": 43.7567190697085,
+                "lng": -79.27982068029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ca0fa3e035aff7e32233df4332280f39fae05364",
+    "international_phone_number": "+1 647-928-5626",
+    "name": "RE/MAX RUBAN LINGAM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAuHQlN0Jwj86Dxfcxvj4ORKUTWqEPRRApRP6_Urjf1tU969hzrQ8VObgW1ie0rZC2aXZDIGN-0R25bdNvQbUnFbmwaz4QHLThoYEA2OaROw29AhlCDq10qrDNlaAZhPdfEhCuPtREY0duVZShDzlohLZ6GhQK8fWDWRsMV-eHXq_f5wlYLOTBDw",
+            "width": 1802
+        },
+        {
+            "height": 660,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAA47rn5Nnd_ulJtGeKPjQZD_6Yet6JTY4FNqd-yJPOnwznf0tSevxx-FGtK6LJbWVeKp8M3hXA4tcayrw6HiUOlnRiFmXsKelBESPdJSQXB0j83jl1DM1-qGRPkZ1uXwYJEhC0heoaB_qfKn_rBEz2aUFuGhTRB6c_jc9iSyAEWEkrtlnbdLHG4g",
+            "width": 2640
+        },
+        {
+            "height": 760,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAQzpcZgHqKjjW0JTVxrWjI2XYUcCpyx8WZNzxfI51BJCf86NkEUvsEgQWFj7WByqYhpTXc_E5AtmI6UnXIc6K1P7vbnPtbg9vBPycdvcllSnc6y4P2-WSw9h81f7DgMVAEhA9PI91HqzIDzQGE7kWZX4TGhReYXtZrzH_SfDR_ateG5962xzVUA",
+            "width": 566
+        },
+        {
+            "height": 525,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAlrgZq-1C-Zdd8y3kGsJLbSOUfasbyUoRc8_rQkeARyDcBPnwyElmF6EXJGdfF3mqRQmRlE-TPZgPXA4gtxWF5PkC8mnLspZBX-BTgWH-i6y6u7WEfpVJrYsle4z5FqBpEhCmXcLE1Wb8MOgXEPX2AWl6GhR4RtNMQ-5E_FHFBwhdZ0Op5RrdUg",
+            "width": 1380
+        },
+        {
+            "height": 520,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAA3LGoMSkZlYkQGWchKRJvhKg_AF-4v2UFd9i6i7sb6Rzaz4AH8NFaWTcQTuX3F8cVu_GdpwVmlKJevYlfAYQEBULupS97G0OLIVrn-dMytAT5Ebmzk7WkqP9AQ8bOXJBPEhBPtZcK9F6QBo6FWzhA2icqGhSMAYw_YtfYLFJKCPFa6YACPM9YJQ",
+            "width": 1367
+        },
+        {
+            "height": 525,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAOnUOOcAgnDSxFGZoifUawDw6Ae0rTamddDWzocnhMjZySBIaj_9izWK5LbKyZyMEJS44DezVbKFSQ7MsAiEe9rH01oBpxhPmaBv4YIVpMC09mHKmb6fhBMrskSHh0A_GEhD7haf5ZY8D4NOeyNJmcS_zGhQvvI4BQG98HD0y7fd6xybZyen_rA",
+            "width": 1380
+        },
+        {
+            "height": 702,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAfAmnPhPVYn19ambWRLQ5FI7MtBgMbSe0cZ1zTVTqAdj8lriTq8OCYmLKpjEP9rfSfIQjrirtF1QlDCIINjjm4RnX4YRb-yvhjL6-V12D1W-TAWoeknTDdr6y2-rftf_OEhBNW16C_FWCmHWfBEv2h9rlGhQYJ19NVJVjwDETGZEcInZhtO25hw",
+            "width": 2500
+        },
+        {
+            "height": 253,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAewBx0d0rOBb5qSM3UwJVIWidF0tnj7loNyIMC7CqA2IgBqciDrHGtanSolN7PWLxnHbJg7Q-VnjuHP8D3fLLVENSbZr6IyMry8EMjVuuyJZHdTSUoCs4kJzg8IKs5VqzEhBBS9I2-iyngP9KWt1HTrRrGhQobM9aho8624MCiWLHL8c8Wk39Dg",
+            "width": 253
+        },
+        {
+            "height": 858,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115943042062613589224/photos\">RE/MAX RUBAN LINGAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAnW53c3Pl4tPDQ2XKc59_kpyVJ36sXFt7v3UoxTHD3scFqlJvo4CaJJM1GD7zRJO8UjHFun7w_cDOLcgwR5GI-5kLNBRmRwMnkLazv_cuVE7F0AMN3JQyGX50cUGs1H7YEhDgpMM_uvb88BlzKjqv5nKAGhRqy92vdknOlC0F1TfFRxA-8OHwtw",
+            "width": 335
+        }
+    ],
+    "place_id": "ChIJ17hL_u3R1IkRyJqxXf5TAhk",
+    "reference": "CmRRAAAAE6R0sD0s6qfXVybGpVTBaNY8PUQapKs6QXkrNTLO07-9EJS26295eF5xOzl7uy_D3LtHdNVrCe1I8shciMqarsOTU5sjhZop8IDfLkcoOvpCR2Rtsh0UG_4CiCmfz5QvEhC2pn1WFiXuV9B-B0oRsFJNGhTZ2a8s5CkvmUGf-WHMTDl9XMyJtw",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1802095152860338888",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road #3, Scarborough",
+    "website": "http://remax-ruban.business.site/"
+}

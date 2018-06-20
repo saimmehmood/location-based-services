@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "281",
+            "short_name": "281",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Jones Avenue",
+            "short_name": "Jones Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 3A7",
+            "short_name": "M4M 3A7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">281 Jones Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 3A7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "281 Jones Ave, Toronto, ON M4M 3A7, Canada",
+    "formatted_phone_number": "(416) 463-9664",
+    "geometry": {
+        "location": {
+            "lat": 43.6703045,
+            "lng": -79.3358856
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67163633029151,
+                "lng": -79.3346127697085
+            },
+            "southwest": {
+                "lat": 43.66893836970851,
+                "lng": -79.3373107302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "21100c648500ec4c3815495985983d19b397f211",
+    "international_phone_number": "+1 416-463-9664",
+    "name": "St. Anargyroi Old Calendar Greek Orthodox",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107144959184544353186/photos\">Jason Shim</a>"
+            ],
+            "photo_reference": "CmRaAAAA0Y1MPyNXiZiLG7Qe1l9yzAWLyMwgz82GC5cg2p2suD0QxonWWdDYXYy9L53-ZYO_dk1jUWirLTLT8ghJONfEk3Zxxw02KDqb_ALMfzebAzwYBTh-PuhOqEZyUGHXH1WeEhDEH5s8mUUza0JNO1GDUzBwGhTNE6H9UEMCib2vUt3qDKL9f__6jQ",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJran4XX_L1IkR91jNlCsLavQ",
+    "reference": "CmRSAAAAgy6fdR2u9PwEPcrm7RoxS1LQ8F6-VpDeKlifKEP0isoaSdxu6qbjdejE3j6nj0XtvDm2L6CZcV8qGmj32MOQS8LC--l3EWZrkB3jncOaYh6op7HxZ_5Zpf6Efld2jnEMEhAAfHZ7D5IBNFVLF1T3hmBIGhSPbc38rdrUQgWt9ZRgHJIFbRy64A",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17611901574593730807",
+    "utc_offset": -240,
+    "vicinity": "281 Jones Avenue, Toronto"
+}

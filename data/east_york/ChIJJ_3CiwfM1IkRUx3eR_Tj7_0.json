@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "2002",
+            "short_name": "2002",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2002 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2002 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(416) 694-8393",
+    "geometry": {
+        "location": {
+            "lat": 43.6702861,
+            "lng": -79.29973280000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67155113029149,
+                "lng": -79.2983490697085
+            },
+            "southwest": {
+                "lat": 43.6688531697085,
+                "lng": -79.3010470302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "b0688030ae8006d9aa313c77c02ecb99347e4de2",
+    "international_phone_number": "+1 416-694-8393",
+    "name": "Tim Hortons",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0530"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:30 AM \u2013 9:00 PM",
+            "Tuesday: 5:30 AM \u2013 9:00 PM",
+            "Wednesday: 5:30 AM \u2013 9:00 PM",
+            "Thursday: 5:30 AM \u2013 9:00 PM",
+            "Friday: 5:30 AM \u2013 9:00 PM",
+            "Saturday: 5:30 AM \u2013 9:00 PM",
+            "Sunday: 5:30 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 950,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109494291590340366925/photos\">Tim Hortons</a>"
+            ],
+            "photo_reference": "CmRaAAAAVHjdlELSCC9P-ebp-IcLWJ-g1h-M7r2wdEIeCTT6bxlj1c8vfM36rPXSYp8-7Wn1_Ztc-c3zwH1GU8_ym_FZiD2-6sqvGZPS8eTrjgzcns0JJM67-PwE2wAqXrIm2KJhEhDz9kx33g5QIIk54l5DEnCjGhQBn8HG7wGJTJ33NdPdue6bcH9ztw",
+            "width": 950
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111808022108567796553/photos\">Gowtham D</a>"
+            ],
+            "photo_reference": "CmRaAAAAHuftsa6gRhDI4aByd-tgcJPT-PcwwhKY-GFhARe3Sh5DIzU6IqeVl3ZMCA2uqgLE3u7sjGr1SgW8l-Ks4nKBWsesXR_aO40QCsP65eqyyFKSPYgaBftEJcIvOIFyy9kaEhDsQAILYL7cX5Yxuchi1ljdGhQ54cKyCH8lKJMyph6wFELusoK9Xg",
+            "width": 4032
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAApZGOAnjfaDk57E_Z3aK3U-tpsTq5a8ofa9fkrsEPscyodsFBxpmerK_OLLP2I5-96OfjtcY3OdBoKXantLINR0vtJDAnObbp6KIjNEyotHxKUTaYZmhN8MNYzTFUKiggEhANzM5KRqN0SUNDckqD1bp3GhRipMSYz8e6bksoy6eyT1O1HaKNCQ",
+            "width": 3872
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109494291590340366925/photos\">Tim Hortons</a>"
+            ],
+            "photo_reference": "CmRaAAAA3oL0Cw9rS0bHLvfvHYBRrKnsPI5sYgJa7pkjZOTVgbOr66k0PXF9ep_fdv9kKR6R-NFEHGcL2gqGkjbg8V3PuhYPLZZu353zB3vEJHofC2GG7kcMFfqMOmpSH-HxMyeyEhDM3CzRu-yRh9kD4lbdrJjPGhTdydlaYmYi8EfUsYO9s9068gv0Qw",
+            "width": 960
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109494291590340366925/photos\">Tim Hortons</a>"
+            ],
+            "photo_reference": "CmRaAAAA6oJELvn9cELw0iKXLvAwqiad8UE5N07vTpi8Pf_rrMGxcOnXS6ozjPe-2_Sep13Nw778bNUDcqn8u3xirQdlGr5Fs-hMWseBShI_WuMG2uLYU46zqG1bBjZogW0hBBicEhDn5n8cXFM4aURiGLGekrJRGhSvlKXLVqDaR-1GfLfbISVzQMxLGw",
+            "width": 960
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111808022108567796553/photos\">Gowtham D</a>"
+            ],
+            "photo_reference": "CmRaAAAALoXe0kpof2pu8f8we8L38bZKOWQcmCQhCO1Lpfcn9bRoCG2VAj1DrlIBZI6pxzN3dDKkg7l6oW9lsOCiNJ5DjTW3ZSDXJ2DQkWPDpZ7Bj1Wj2qwikA6ZWJQn1yF1VTrNEhBzzTuB-HO4M-8GhDqG4cSxGhQlrYeL5_ayY3lcB1S40LIcoqRnLg",
+            "width": 3024
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109494291590340366925/photos\">Tim Hortons</a>"
+            ],
+            "photo_reference": "CmRaAAAAhRLfPmwrNBEF8lici1IglQh8b_Z5QI6MDvfyujFW1K5t1SCaVGIOxM3BVqL2jksSrPpr5-6M33muoMOTJxM2Ger0zZ6nnfMg2lOEistXrZM2ticfz0Vj2uwtj7nzNPtnEhBeWTuOvAgoiqTMiCR47tTGGhTa52uj5MKok3UF14CnEC_j0QnByg",
+            "width": 960
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109494291590340366925/photos\">Tim Hortons</a>"
+            ],
+            "photo_reference": "CmRaAAAAzg5E363qZ5kzax3RbPrULFijUz4fspfSXeGDdpjGnblqxx-3uvAz7kjFmsZwOMZjV7QhzYxUdCmpRjNzKogssvVslKSeAKhUuk0yoYwUfLRqSaBUL9vMx9GS9yqGt613EhBqikR3WsDZNgLCZXoO4bSWGhTs025J1M85c0_2U4oEU9JhaIev5Q",
+            "width": 960
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109494291590340366925/photos\">Tim Hortons</a>"
+            ],
+            "photo_reference": "CmRaAAAA0UNwxyMoJz0yx-H4uP6gMkyLIyBxRe7YQWF29k7Qw8o_ZSzbkp0JRlYh3x9qFWUGPuUkC-qNA0cKbatMrk9sLW3gX84v6d2HTw15YjNTfQK-jKdh0qwQUtYGBbqwvGhYEhBulfJBGAGtp_pVt66n-L34GhSUuGS0_8eyOWh5Krb8_mDocL-Dzw",
+            "width": 960
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115031431012586234067/photos\">David Cheatley</a>"
+            ],
+            "photo_reference": "CmRaAAAAR-wNm3E1xg-K9aZliMUUyB-KxB_p4FxtBv9pJFy6DUHpe_pRUS2uRYujDOJAxXL5sGU8jFi09AKfMSAe6k-rx5Pj7NOS4jugQXLUa7HvSVbEonlVo2vk08iBQFBo8372EhCjlwoC4iC6p3UuyRGexSbsGhQ--48cTf087pIUsUh15jt-RF5TKA",
+            "width": 4048
+        }
+    ],
+    "place_id": "ChIJJ_3CiwfM1IkRUx3eR_Tj7_0",
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "CmRSAAAApS22GZmDjUOZ-jjvzQoNvFy-slepsC8YsfZrIbf5ZqvJtp3du_Z6rpl578pQ_qC4Yt9Ga6o-XL3o0Wqrct4FeIc6XJuR5beWnmeuExHGEoxJt-eHhaApS95v5dxAabZBEhC_1fCebP7bgPn2d0xUj1LuGhRCCbv8bf8RUX6DO8ODaylH2zQwfA",
+    "reviews": [
+        {
+            "author_name": "Dhiman Mitra",
+            "author_url": "https://www.google.com/maps/contrib/106781221334232989819/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_lV9_Q1vIzk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3DzWsz28l6UsGpKMsAnjOPO14qNQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Just another popular coffee franchise. A very competitive neighbourhood for coffee. For same price you an get coffee in a real ceramic  cup. But one has to pace the neighbourhood to get a seat as most  places  are small  and tend to attract lot of thirsty people.",
+            "time": 1524098996
+        },
+        {
+            "author_name": "Samantha Irving",
+            "author_url": "https://www.google.com/maps/contrib/115136849090703267501/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-jUjTP603EQc/AAAAAAAAAAI/AAAAAAAAARY/NkOsvQag_fs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Please learn to toast your bagels. Throwing them in at the highest speed for 5 seconds is not toasting.",
+            "time": 1527938879
+        },
+        {
+            "author_name": "BundyRulesForever",
+            "author_url": "https://www.google.com/maps/contrib/100911658100014059907/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5Ei5eegOBkM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1kCa21pAb4dPmYR9bXrCq6lkB7Pg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I work nearby, the service is not fast at all! In fact I was shocked to read several comments referring to this location as fast.  I'm in 2x or 3x a day sometimes just to pick up a coffee.  I've seen staff on the phone, staff mopping and emptying garbage cans, refilling the stations with a LINE UP out the door and ONE cashier.  10 minutes it takes to just order a Med DRDD. Often when I do order food my order is incorrect.  I've received the wrong bagel, tomato when I've stated an avoidance to it, regular instead of dark roast for examples. Also, I've over heard rude comments made between staff members about other staff members, about customers, eye rolls when they are asked to wait for a break.  I work retail nearby, it isn't always easy, I get it, but I couldn't tell you who the manager was at all by observing the workers in there.  Somedays service is so bad I HATE that it's the only coffee house near by.",
+            "time": 1521418359
+        },
+        {
+            "author_name": "Julia Szczepanik",
+            "author_url": "https://www.google.com/maps/contrib/105627531380843272452/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sehXdyVfqCo/AAAAAAAAAAI/AAAAAAAAHLw/ymtgJjZx9jc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I come here a lot with my friends and the staff are so friendly and kind! The food is always good and the service is always great! I totally recommend coming here!",
+            "time": 1522795775
+        },
+        {
+            "author_name": "Joshua Booth",
+            "author_url": "https://www.google.com/maps/contrib/112490082734368689410/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-tET4CppVPOg/AAAAAAAAAAI/AAAAAAAAAnI/j6eVBF8sIoY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This is one of the fastest Tim Hortons I've ever been to. They're so efficient and they do not sacrifice quality in any way. When I stop by here, I'm in and out in under 3 minutes every time, even when it's busy. The location is very clean and well-kept and their location is great when you want to walk in the park with a coffee. While it's still only a Tim Hortons, it is one of the best Tim Hortons I've been to in the city.",
+            "time": 1512356880
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18298094449346878803",
+    "utc_offset": -240,
+    "vicinity": "2002 Queen Street East, Toronto",
+    "website": "https://locations.timhortons.com/ca/on/toronto/2002-queen-st-east.html"
+}

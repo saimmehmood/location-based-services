@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dundas Street East",
+            "short_name": "Dundas St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L",
+            "short_name": "M4L",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2 Dundas St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2 Dundas St E, Toronto, ON M4L, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6699383,
+            "lng": -79.31160120000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67128728029149,
+                "lng": -79.3102522197085
+            },
+            "southwest": {
+                "lat": 43.6685893197085,
+                "lng": -79.31295018029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fe7fe87d5316caa52561131551b23f3962591c4a",
+    "name": "2 Dundas St E",
+    "place_id": "ChIJUe_6QPXL1IkR5QOo1bsqsuI",
+    "reference": "CmRbAAAAnQZ8gURGhYgHr2hBR_8BNeO8oNdpsBwJTa1Nmy_M4bah1-HiimmyDOidoDg7o5o2U4aRXwgdLJJRAU7n25nYfSOYzeA_tWaKhcwfBsLhlxHRUGbCHf_gNAUDq3gOaskFEhBSeQADsyX7-o2xOaRhNBWfGhSQw3T9iYBcCkKh6kJOw7KCN7Qj9A",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2+Dundas+St+E,+Toronto,+ON+M4L,+Canada&ftid=0x89d4cbf540faef51:0xe2b22abbd5a803e5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

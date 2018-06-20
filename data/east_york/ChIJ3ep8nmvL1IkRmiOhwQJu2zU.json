@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "195",
+            "short_name": "195",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Langley Avenue",
+            "short_name": "Langley Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1B8",
+            "short_name": "M4K 1B8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">195 Langley Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1B8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "195 Langley Ave, Toronto, ON M4K 1B8, Canada",
+    "formatted_phone_number": "(416) 461-2232",
+    "geometry": {
+        "location": {
+            "lat": 43.6696984,
+            "lng": -79.3442381
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710989802915,
+                "lng": -79.34291071970848
+            },
+            "southwest": {
+                "lat": 43.6684010197085,
+                "lng": -79.3456086802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9c247e60a7e22a8ae09047079407f16f08e01e3b",
+    "international_phone_number": "+1 416-461-2232",
+    "name": "Symmetry Systems Group Ltd",
+    "place_id": "ChIJ3ep8nmvL1IkRmiOhwQJu2zU",
+    "reference": "CmRRAAAAn57-ScTMK9gLUUL40WPkNcYjVQ512ehh0VyKTldQm1j2mpBjcforftGxHLaq4LA1RnTD0A6iOGnI9uLOEDLbgiqrb7Fks6k028tjHgjEhMOhRTRhdX5kvCjVM3OKYjPUEhCJuByVkW8MrA7s7b4pBvNeGhTprsQxJjjs7ksslSPrb3Vjqf-9oA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3880816462027367322",
+    "utc_offset": -240,
+    "vicinity": "195 Langley Avenue, Toronto"
+}

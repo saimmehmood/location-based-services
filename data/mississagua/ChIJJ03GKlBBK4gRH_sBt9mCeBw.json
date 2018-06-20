@@ -1,0 +1,81 @@
+{
+    "address_components": [
+        {
+            "long_name": "Erinmore Drive",
+            "short_name": "Erinmore Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C",
+            "short_name": "L5C",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Erinmore Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Erinmore Dr, Mississauga, ON L5C, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5605633,
+            "lng": -79.6586883
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5619122802915,
+                "lng": -79.65733931970848
+            },
+            "southwest": {
+                "lat": 43.5592143197085,
+                "lng": -79.66003728029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "af52a7637f1181075b4c466054defcbc6a502071",
+    "name": "Erinmore Drive",
+    "place_id": "ChIJJ03GKlBBK4gRH_sBt9mCeBw",
+    "reference": "CmRbAAAAVZq_e03qbwmH1kRK9NLm83IaCAa9tEthw1aGg5NJ7IA6P_GnI5t2IHUs1cAifTwHXZhX3UGfv9jsMKniaBCZ9RgWRQyTOkASOkazTWaoQxSfVTXjM4MKnhWnJWD6f2DpEhDBM97zXsdqX-4YIWYZYeJ4GhS_BbA9AMj-qiSt58HEVGxGzWdMnQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Erinmore+Dr,+Mississauga,+ON+L5C,+Canada&ftid=0x882b41502ac64d27:0x1c7882d9b701fb1f",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

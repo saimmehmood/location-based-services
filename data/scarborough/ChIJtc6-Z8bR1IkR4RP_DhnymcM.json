@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-39",
+            "short_name": "1-39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lyon Heights Road",
+            "short_name": "Lyon Heights Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3V6",
+            "short_name": "M1P 3V6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-39 Lyon Heights Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3V6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1-39 Lyon Heights Rd, Scarborough, ON M1P 3V6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.757104,
+            "lng": -79.25861019999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7584529802915,
+                "lng": -79.25726121970848
+            },
+            "southwest": {
+                "lat": 43.7557550197085,
+                "lng": -79.25995918029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fef69b2d0f0483961df7c0f0b9687a79343d51a2",
+    "name": "1-39 Lyon Heights Rd",
+    "place_id": "ChIJtc6-Z8bR1IkR4RP_DhnymcM",
+    "reference": "CmRbAAAAiLZYDEV-ewmIr7WQdMpCjZMm2dKU2H_tiLy8Acm9Wipeg9Z25cUIoQbrdubwgNBwmr6DrxWE5IV3IMFHzzKsz8Vfbh7WPPo2A5r-9aKDiOKHqMt38qI5ZiTO7ncz_AXYEhBx-X5mgCzUe07rfvX6MXaVGhScKKqhkxaqtsJUIj40mHH7iF5NMg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1-39+Lyon+Heights+Rd,+Scarborough,+ON+M1P+3V6,+Canada&ftid=0x89d4d1c667beceb5:0xc399f2190eff13e1",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

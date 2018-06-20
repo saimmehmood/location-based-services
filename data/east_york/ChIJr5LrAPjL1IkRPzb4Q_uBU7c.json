@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "1974",
+            "short_name": "1974",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1974 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1974 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(416) 690-5224",
+    "geometry": {
+        "location": {
+            "lat": 43.6698903,
+            "lng": -79.301344
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67117278029149,
+                "lng": -79.29996721970849
+            },
+            "southwest": {
+                "lat": 43.66847481970849,
+                "lng": -79.3026651802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "507d1d52cb53dc8fc53ac3ff066b8b4a190e4314",
+    "international_phone_number": "+1 416-690-5224",
+    "name": "Seagull Classics Ltd",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110719622542501005649/photos\">Seagull Classics Ltd</a>"
+            ],
+            "photo_reference": "CmRaAAAA-nPKBgVL6DxSRGh2euXx5I8sH9KRU73JmIxZtiA1r07XT4H5tvN_H5-5SeWZVWGtxyhpvkaLqwVeH5E50bTn9Yq__zU2CPbaM0hoYD7YKyyI5cG3hhLiK1SSzrHF7zFfEhCx1x793yPOAtkPz-8gByTXGhT2IuYO4jz5pleOBTs2IRyZMQVZ6Q",
+            "width": 3300
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110719622542501005649/photos\">Seagull Classics Ltd</a>"
+            ],
+            "photo_reference": "CmRaAAAAzZgp8h8X1avIwhVc2mshj1xuDVbqmSHhFSL5iusU9OM3Z__Mz5JopShB7eVvj9an5LMo_RHJn6x1CMJ6IbWtb6C6XsahLJKTc3L8oW3kpPaln57aum2TrZHxAJntGeOHEhAsJ1JwBJvpJQhcpTlQdFIEGhSvRZovE0eHCEcRu1TVIIEaJPdcXg",
+            "width": 2048
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAkpINKz9aemt5Cu36l4OxS8z5y7vxiOB0j2RjqLAyyqNrW68tgv6OCGTd-WmpS5CZStbYXsp2yj7teplAMNjCyJSequU5s9f_hqzfkhLVuxsaT__x1mq6HN-i1LILxffpEhDdcUQh_I5o9gVo9rwMMYmTGhSkGSYFyokPgqdaYst1gokXmeqI2w",
+            "width": 3264
+        },
+        {
+            "height": 2200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110719622542501005649/photos\">Seagull Classics Ltd</a>"
+            ],
+            "photo_reference": "CmRaAAAA1dfSgyPfycdEwjd3SqzM52K1VlJuEDnfCEBgHSokfrkF5KD5EVCljMceogUBDww1zeSESK_hIirq0MczLo1dKCKvC50WanmR2BcvcBgFhPubAOS5LR2ai8dh0vHdTx2LEhCJWn1wNbzeCBMr_YItMQk1GhTlfHcxS3FWZE6fBbiYlzdx_LRUHA",
+            "width": 3300
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104906793069765038309/photos\">Sean Starr</a>"
+            ],
+            "photo_reference": "CmRaAAAAV1fVZaq7l8WM3zeiBoNMWFtgxXhD7D36XXEP-TPriirITEUlxz8XQmC1b5P1S3KWhNWYq9oLqVcVILG_ya4BgEQ-8J1k9MdhoQfZHpN5uGGWg7deLWhXtondcKBok8dDEhCExU4MN4TALl9XkF3MQR08GhS3KzFbVbNRu_YIMaK0aOhFL_dKWg",
+            "width": 2448
+        },
+        {
+            "height": 1735,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110719622542501005649/photos\">Seagull Classics Ltd</a>"
+            ],
+            "photo_reference": "CmRaAAAAnXWaKloLM2VlOXl_CFYXrD8tL4v1SYfUCZWcvIbo05YlOU7OUrjRtKmT4Q7g75wFzqP2LuEhI3fcaee5zYMCF4ctEldPaFNYMGFUrZU2fifWzgS2UtAlWx0jL5Gt3ygAEhCeAALLwvBY7msEiIGSQRRbGhSU_-vKMXJ71nqRejSRPZ4OYiuL3Q",
+            "width": 1732
+        }
+    ],
+    "place_id": "ChIJr5LrAPjL1IkRPzb4Q_uBU7c",
+    "rating": 4.2,
+    "reference": "CmRSAAAA7WdHaFsPL0cmayN9C7R411SQxh0oMgSE4nmuof62RkMxz01r-dV4FUDLkMCruAtBM4qJHyIHTLVwiR9W89YzYW8rJkI1ThAAukL9b75J6V9InqeiJMFhquYTel23YI6kEhBBz4V7NsMDdZjJdSVMUnITGhRbleno2LV38RldEixRmoxefZZ7YQ",
+    "reviews": [
+        {
+            "author_name": "R",
+            "author_url": "https://www.google.com/maps/contrib/100099162198075917341/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Se8ZXBRvJsE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2VLFgbvwx3erEte0AN5iLI3VoWeQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "Hood selection of beach furniture",
+            "time": 1519003980
+        },
+        {
+            "author_name": "Lucas O'Gorman",
+            "author_url": "https://www.google.com/maps/contrib/109333510725673569406/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-naGNfn5FmEs/AAAAAAAAAAI/AAAAAAAABsk/Ok2S41sSI3o/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Awesome spot for gifts and run by an amazing family. ",
+            "time": 1482791364
+        },
+        {
+            "author_name": "Patrick C",
+            "author_url": "https://www.google.com/maps/contrib/110878177821878754855/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7zKGofzJd-Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Q_dWtaTLvEeyoJbSQjUB36DrOLg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Great selection of furniture at a fair price ",
+            "time": 1477137632
+        },
+        {
+            "author_name": "Erica Pereira",
+            "author_url": "https://www.google.com/maps/contrib/104816990875668098229/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8F-oU3zmmBA/AAAAAAAAAAI/AAAAAAAAAhc/5sAtbQaV4vE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1496854505
+        },
+        {
+            "author_name": "Alison Mcdonald",
+            "author_url": "https://www.google.com/maps/contrib/104328758107993385635/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-LCL20fD4GwQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2soK7g0R2QL3iVmguvgSVKFE9obg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1464995895
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13210045048184911423",
+    "utc_offset": -240,
+    "vicinity": "1974 Queen Street East, Toronto",
+    "website": "http://www.seagullclassics.com/"
+}

@@ -1,0 +1,307 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 108",
+            "short_name": "Suite 108",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "3030",
+            "short_name": "3030",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2T7",
+            "short_name": "M1P 2T7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3030 Lawrence Ave E Suite 108</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3030 Lawrence Ave E Suite 108, Scarborough, ON M1P 2T7, Canada",
+    "formatted_phone_number": "(416) 438-2911",
+    "geometry": {
+        "location": {
+            "lat": 43.75652729999999,
+            "lng": -79.247877
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75720419999999,
+                "lng": -79.2462396197085
+            },
+            "southwest": {
+                "lat": 43.75449660000001,
+                "lng": -79.24893758029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bd992e94bb7ea63ae7bb2b7d5446e98e7abcad81",
+    "international_phone_number": "+1 416-438-2911",
+    "name": "SRH Foundation",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 4:30 PM",
+            "Tuesday: 8:30 AM \u2013 4:30 PM",
+            "Wednesday: 8:30 AM \u2013 4:30 PM",
+            "Thursday: 8:30 AM \u2013 4:30 PM",
+            "Friday: 8:30 AM \u2013 4:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAO5W1ghiWrr2v-emukJXRY1CYUhlYW0yiS5Ijcieyj8RXRAlOJbV4PYvTf_ervw9aYy6z8_La70GFy9N5Lo5nihFfBXLQpkMi2_hy6ESFHJBE-bfwMBHAk3665XO4oxM0EhB97UIG-ikK2kzreVsTL0WTGhRSAKl-FGGvlC5-GW5ges7bQTlRPQ",
+            "width": 4160
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112878226686136949541/photos\">Andrew McDonald</a>"
+            ],
+            "photo_reference": "CmRaAAAAUfbHW-yS6e3fcAVo5-AUwCTUdxi17UVnRVMPoWPIztJJMBI-SzsdgHKi0DLCPqpSYVtKFAb81M3WuUn9MdjQW2RlKaMibTuB5LphBZANnopmmXbtL1CMi_dx35grs6sLEhAEnR9rzqz9a8knVGhFoiZoGhSGY9k81XGHQFhumqfHxo4isH9Cfg",
+            "width": 2592
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAARMr6boaqdtQaYXvf65aTPjJq9P409oVHyad63S0pHBwjd2--NVLBsnCR4wZHu9SYjRqNWfE_M9GBgiPRy7HTxGpFbboD7rnuylWP5xKkjyldqfnsjpZyxknZewpASR7IEhDYL2RcJs-98RVQXPSStGrIGhTW-B9l1D1ZcsbFaVG1fNfn3teJcA",
+            "width": 6000
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAASDAUTq6SCH4mCZeg9z8catSFbNfo8JVxtTuqBwcifVOeKF4vw7pXg0dU95hYPUcsTEYsabCZotD6RBC5gcvoROEU72A0Brc5YzmGcdcmlbZZCulSrLNCtg_WjlzdQ8usEhA5d6PtmM9tc6qJj3JcBm-9GhRmhDKAG9IZHdim98kxWZkIohx4YA",
+            "width": 6000
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107643388709969886179/photos\">Catherine Ng</a>"
+            ],
+            "photo_reference": "CmRaAAAAVWR12r6HBk9XQqiaYRjxgQYBl09uE5zIDEVYFg8fR7up_5XwIMTZZe1eIlW35PCcZKyy5EYZeVoJ73F3NFaKEiS5K53U-Qyk__1Vdc2Zz89IXczcVW9rLSHRsJXdK-CJEhDyAxGMVO1knRYB2APLtg_cGhS3zyXM688f4C2bpflBA2CuVUiGEw",
+            "width": 1200
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAABTvQ5K7ra-dc-Pf_LkKbZE32WUDWc4JPP7LWgtV30oltWg3137kJ99TwrBvDCdDLTVXdup-kosu7wtDr_-hQluDMMpkpg041MGcFjOFptGlMAdhAf8q-7GTIREUVWLZ-EhAxjuKhWwCq9T2wC69dCt1cGhSvijHM5VGlhb60lhwY5uK6-9o62Q",
+            "width": 6000
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAAgmPYbDDOJQNMCE9ifKhKKMV6F6NsZ9YptLNqK_axolTyPxcKR4MiE4D6w2ZAK3qmmiYmBKjmHlWK3zXEV1qXbOmuOywguFydpj10hzaEJOrHXSs0yLbnCpDuiPG3rWX0EhB-qkGIJG0QdNIRU8Gzk60wGhQc5oPoQ44gqjvXgXdEECrsb3QEPQ",
+            "width": 6000
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAARFqohhd8O8o_IVrh9O2BWmmBpyx9jpK1P4Pe9rvRq-GO9KuzbvlNt1RtkoawS0MNxgrpRchAd9isVUySRcrX_GX7kGBw_X0NdCwFNZAB3ZtUtOZFa3gpJVdLY2cCBrLnEhAyoffhsbmjmsLtGCWxr311GhQKwGkj3s1uUo2GiH5Pk0vCdHoL2g",
+            "width": 6000
+        },
+        {
+            "height": 3599,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAAtSbP_cDyD6JoMze0ETcjOG61TxM_cl5T22M75PvyPxBFqziy263t_7-o4Vl_moi4xfVZlR98qUILT0J1QsWB3DKKIBiXlfnnGg0HibzVqZOwCCLqRR-S119-Xq9y_7hAEhDWgjXTJf9_tInydQz1QzH_GhRwLDePMoqG3OSbqL1nMtPZhBEqsA",
+            "width": 4461
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110627483445144450574/photos\">Cap Spalding</a>"
+            ],
+            "photo_reference": "CmRaAAAAXAzmcytdt-Nm59CUR3meNlRGmnwv8j6aZPClglsaR-s8PNVo9sMek55B-NJ7GHcj18bc263kfoJ7819LyJ-JLFjewzXwnLA3wmVLrO4MfMEjADmfQHHNyyvz29cRhP6oEhDGQMomwCkV2FttMLVHAltnGhTCuWevjb-R68_-RX2SrUujRjCSDA",
+            "width": 6000
+        }
+    ],
+    "place_id": "ChIJM7JNh8vR1IkRV2m4MNWRZfU",
+    "rating": 2.5,
+    "reference": "CmRSAAAAP4UfmGBGQB7MqzygOL32T73Eh_A6ZvTlTVwbFC5BEpg1xDZkL7_GEoGzWTvWSyJZm0l473_pvnRkDw966ywzJAWIeK80MOpU20NzojkCkUZ0jNqnpjW8aguhKERS2LlgEhAYYyy2Sj3PNbfU1p5ePTjQGhS3CFk3QPB0VkkjxMqWyD1A_tOaPw",
+    "reviews": [
+        {
+            "author_name": "Kayla M",
+            "author_url": "https://www.google.com/maps/contrib/115653977249454545592/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8fxam73jCsY/AAAAAAAAAAI/AAAAAAAAAMs/bGWxj-fY_lw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "I went to emerge a few days ago due to a mental health issue. I went on a Tuesday morning, and I had a fantastic experience. My nurses and doctors were all incredible and treated me incredibly well. Special shoutout to Joanne for being the best nurse I've ever had the pleasure of having! Definitely recommend, although I heard their psychology unit isn't the greatest and they will try to refer you elsewhere.",
+            "time": 1525394819
+        },
+        {
+            "author_name": "Nai I",
+            "author_url": "https://www.google.com/maps/contrib/103094473823899918425/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UyNZGLe0Gck/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1AxhXN3r4sEDCKWx-lrNNI2F4Nyw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Absolute worse wait times in emerge! \nDoctors are very slow! \nWent for a X-ray for foot and insisted on getting chest X-ray! Completely baffled me. Then told me that he has to say patient refused on the piece of paper, therefore couldn\u2019t take my foot X-ray! \nWaited for 6 hours for that? And middle of the night! Just to hear staff say \u201cwell if you aren\u2019t happy where you are, you should just go else where\u201d to another patient as I waited. Total disregard to any concerns patients have as another elder women is crying and sobbing in pain and waiting for results, telling the woman to just eat and everything will be okay? How does that even make sense!\n\nTHEEEEEEE WORST HOSPITAL EVER!",
+            "time": 1524904684
+        },
+        {
+            "author_name": "Burgundee",
+            "author_url": "https://www.google.com/maps/contrib/105114905372475233214/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ER0sfSqbS_Y/AAAAAAAAAAI/AAAAAAAAAVc/_rCpPxOldjo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "My grandmother was taken from Kennedy Lodge Nursing home to emergency on Tuesday for dehydration symptoms.  Yesterday morning doctor said her vitals were good and her dehydration symptoms were minimizing.  By around 6:30 p.m. just as my brother entered her room, my grandmother took her last gasp for air.  He said her oxygen tube was under her head.  What the hell???  He went to the nurse station and explained what happened.  Nurse told him \u201cyour grandma stopped breathing an hour ago\u201d What the hell???  Either these nurses have not passed there course or the workers in the hospital disgustingly don\u2019t care!!!  My grandma most likely was struggling for air like over an hour and nobody called code BLUE?!  No one should have to die this way.  From the moment I stepped into this hospital I could sense and feel the coldness of the atmosphere.  Advice, if you want to live drink green smoothies, but if you want to die, just go there.",
+            "time": 1521120323
+        },
+        {
+            "author_name": "Ali Hamza",
+            "author_url": "https://www.google.com/maps/contrib/102461781102652012996/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-oCZepv-RoHY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3ztxm7GhQWuybRYlklt-VsQBrKyA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "My wife was suffering from a high fever and was shaking uncontrollably. The doctor instructed her to stay overnight in the emergency waiting area until she was stabilized. The Doctor later instructed a nurse to take my wife's temperature and the nurse flat out refused. The nurse told the doctor that she had taken my wife's temperature too many times and was not going to do it again. The Doctor did not take any further action. \n\nLater in the night my wife was still shaking due to the high fever - a nurse told her \"to stop acting like that\" and that she [my wife] would get in \"a lot of trouble\" if a \"code blue has to be called\". \n\nAbsolutely ridiculous hospital with vicious death squad nurses. Use this hospital's emergency as an absolute last resort. If you're ever unlucky enough to visit this hospital then make records of all nurse interactions and note their names. If you experience a similar situation call the Hospital's Patient Advocacy as soon as you can.",
+            "time": 1523127763
+        },
+        {
+            "author_name": "Ava Smyth",
+            "author_url": "https://www.google.com/maps/contrib/112914031444798298296/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-JNMiy6k8OPY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0zGSX5ve0dvUIHKMdr6p800ZDH0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "This hospital is in a densely populated area so there is a lot of demand on the resources. Now that I live in Milton/oakville area, I have had better experiences here. Hopefully, they will make things better at Scarborough Hospital.",
+            "time": 1521438687
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17682699856771574103",
+    "utc_offset": -240,
+    "vicinity": "3030 Lawrence Avenue East Suite 108, Scarborough",
+    "website": "http://www.srhfoundation.ca/"
+}

@@ -1,0 +1,232 @@
+{
+    "address_components": [
+        {
+            "long_name": "649",
+            "short_name": "649",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queensway West",
+            "short_name": "Queensway W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5B 1C2",
+            "short_name": "L5B 1C2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">649 Queensway W</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5B 1C2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "649 Queensway W, Mississauga, ON L5B 1C2, Canada",
+    "formatted_phone_number": "(905) 273-3344",
+    "geometry": {
+        "location": {
+            "lat": 43.561135,
+            "lng": -79.6232733
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5622883302915,
+                "lng": -79.6216167197085
+            },
+            "southwest": {
+                "lat": 43.5595903697085,
+                "lng": -79.6243146802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "48647b9f70ce80521edd71af31ed616e064435e7",
+    "international_phone_number": "+1 905-273-3344",
+    "name": "Meadow Green Academy",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 6:00 PM",
+            "Tuesday: 7:00 AM \u2013 6:00 PM",
+            "Wednesday: 7:00 AM \u2013 6:00 PM",
+            "Thursday: 7:00 AM \u2013 6:00 PM",
+            "Friday: 7:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117380688862076163516/photos\">Meadow Green Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAiB0Iq9P756bMveGcwZTo7Il027zhQIustMFpErdbH6uqNzY7-YjiU1BWHtuh4LRM84noO9LnfqkFIF-4YOiZMtSHhrLee0E35AibhWEe8Kls13S_bDmB4u18Kd2M_5OQEhC_cxp3dyOYsKJQQzq0vC8QGhTu8HTzd77vCFr3qwIS6q9Nw5PL5A",
+            "width": 640
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117380688862076163516/photos\">Meadow Green Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAzRnNo9MbA1P5SvqGl-yYX9oa6JhBG9holF41f_8-tMuiznb_DiDl_V0I_U0DqlifUjWays8kw4QtsxODzbtLHOUY8_qli2SIf5XLfMr2G-yWshuEuZgbjRqEsCDsHmooEhDvSXR0LVw8vdDdPhNGUw2PGhQA-d67PI2rNCkRqlSmakUUVyYChw",
+            "width": 2048
+        },
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110066192471171600101/photos\">Annie Healthy M</a>"
+            ],
+            "photo_reference": "CmRaAAAAyzKgo_QVGNDoWSus1raRvvZDXkyzHgkdqj7U3jv7KFVtK-jdwWSbtPzUsj5IeyZCfvYI1zH58Zfj8_gS15h2Ya7XFmwS2P1sGFIUUQ9GpiZt3SbECdntcFYQlvuFNcn9EhA6XYUGSBfhEVTkEKyiomhmGhQcyb81md0Gzp7SPb83kZsnKrYqDg",
+            "width": 4096
+        }
+    ],
+    "place_id": "ChIJB1svxJZGK4gRORBWAoSW6qY",
+    "rating": 2.9,
+    "reference": "CmRSAAAACBKrECVnswM42TuBbEyGGvRkRkVhu3SBpATy5TZxmHLpPhGskaQtEB2e-5unCfayZnUDb8OX5b2wOL2MlQkoVhZgp7PL_G4OYlEMOxtn0HD7o_nbASDwCfWIOwExB25uEhCRKKcQCdw9ijVquFcz3duHGhRgyLWLxbhKySmVVoQWuHcHKzVEwg",
+    "reviews": [
+        {
+            "author_name": "A Rocas",
+            "author_url": "https://www.google.com/maps/contrib/101499571320737397007/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-JPRVrNXVdwg/AAAAAAAAAAI/AAAAAAAAACA/CMUstzzYuXw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "\"10 Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much. 11 So if you have not been trustworthy in handling worldly wealth, who will trust you with true riches?\" Luke 16:10-11",
+            "time": 1505477725
+        },
+        {
+            "author_name": "Maxim Chernyshev",
+            "author_url": "https://www.google.com/maps/contrib/103479719107855711610/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5YVUELTatto/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0uIok7LBnJ1dk3FU-Lb2ke53GpIA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Have 3 kids attending the school. Great teachers in both locations.",
+            "time": 1508206979
+        },
+        {
+            "author_name": "Harwinder Kaur",
+            "author_url": "https://www.google.com/maps/contrib/104523454875536525392/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VkjM5igOiTY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2K3iacBPtIzKLHNn-4rtYngLwJYg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1523831192
+        },
+        {
+            "author_name": "Louie C",
+            "author_url": "https://www.google.com/maps/contrib/106183439025102185010/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8s-MGWuQlHc/AAAAAAAAAAI/AAAAAAAAAUA/bkm3gzWNj78/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1505490694
+        },
+        {
+            "author_name": "Kris Sioson",
+            "author_url": "https://www.google.com/maps/contrib/107424399806984929326/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-o19UldqhT18/AAAAAAAAAAI/AAAAAAAAADE/Gr9yvuAAV54/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1505478868
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12027591248565375033",
+    "utc_offset": -240,
+    "vicinity": "649 Queensway West, Mississauga",
+    "website": "http://meadowgreenacademy.ca/"
+}

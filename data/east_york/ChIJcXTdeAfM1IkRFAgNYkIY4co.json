@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "2161",
+            "short_name": "2161",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J1",
+            "short_name": "M4L 1J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2161 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2161 Queen St E, Toronto, ON M4L 1J1, Canada",
+    "formatted_phone_number": "(416) 393-7703",
+    "geometry": {
+        "location": {
+            "lat": 43.6700895,
+            "lng": -79.2984778
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67156698029149,
+                "lng": -79.2971828197085
+            },
+            "southwest": {
+                "lat": 43.6688690197085,
+                "lng": -79.29988078029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+    "id": "de408e82dfccfc3ee123ac3e1f000889c5701ebe",
+    "international_phone_number": "+1 416-393-7703",
+    "name": "Toronto Public Library - Beaches Library",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:30 PM",
+            "Tuesday: 9:00 AM \u2013 8:30 PM",
+            "Wednesday: 9:00 AM \u2013 8:30 PM",
+            "Thursday: 9:00 AM \u2013 8:30 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116448320615989925333/photos\">KiMAGIC KiMAGIC</a>"
+            ],
+            "photo_reference": "CmRZAAAA_UX6Dbvlo1LsE3-os5hkvZYjHNNhslWcm3xgp1T0cndVhBsltKLHu1Cq6bfdqGnIJ1MHXviibY51KzY9evqf6cGQ_ozteUcd1tYSOqOqjqhbtRh3QMXZ9nEQHrj7BDtqEhB1FwhlDpk2zkO8yTkhRorOGhQTOrA_8i8FeuqT14xovuLwukd9eA",
+            "width": 902
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAjTJ5GIUHWHT3iT9fItZQ6OJ3whsE_08VNUAPcZ_knMs88Rl0YS_mp6DniGXtp9DlSLZQok_hzF3VzVoKNdxR-HR6WMxdQbT5t-Ap_ztbUsk4eslTU4ikRUj8SQn5XLUmEhBKVdfadp8Hgy0eyA_zJUK6GhRDurH_KNN53VCm3kmc46bxyaEO2w",
+            "width": 3872
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAVXlf1VRSKtFhavaT32WodVL4O707r0Dbh_9INGIiyM_H6fh4TuYkd7Eptw4P9PLwAuhWgcThL40w-7dSD2mu-09oX0riQvMc7WXdusrSEaArbYPiOhSFY3H0ZiM24IkOEhAkd__fak220sRqdru_rAYIGhSbZ-g9JwNQ8ijcLeX0oImu4p3ccA",
+            "width": 3872
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAARS9OfZ7MV2Nbwi4l0OPQexepRSsrsL2IqwvferOzJcGlBIGUlDs9mzXYwPsla3WvWLeqMhJuBqO21DkHzlrCw8-ysEKUORTyhbZQ7FY1SAORVPeEehhq2FQ77_b4K2OqEhD4THC6b-JloWGE2x31gnaMGhRfbGteaV5lSVkpoDkbmqByqt9ZfQ",
+            "width": 3264
+        },
+        {
+            "height": 914,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110430846357695334873/photos\">Toronto Public Library - Beaches Library</a>"
+            ],
+            "photo_reference": "CmRaAAAAw87dQPruuuUKcTj44iJwLrIjMx3nsGMtr2a7muUyLpd56FWwn9_lmKFiM2oH8Uriq1alnKm5ANXjrllHfA_D35trFaTqesmGRr6FvfYKnA6A8LtXolg-jBJVcET_6ywuEhCkTdpEQDxKyDTxPay18YdmGhRKVLSjteWyEaHhKdXfr8V-cZWvyQ",
+            "width": 1368
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100808970819370285294/photos\">David Flack</a>"
+            ],
+            "photo_reference": "CmRaAAAA-8Icfjbt2uRwJZlh2_uNijcKejGDrF5qo8z6eG44t-fH47WPBvefgwcloCPnTrjEnFi2Q3ppCSainjvX6r0y-ocRha2d8aGL-qh0VZi_Q_pa6LMoEPYlqOHu3F09laIHEhBChEsD4EvNqKoRbSjSABSIGhSO1ImEeuLz6AM2Lcfj8mrpFC680Q",
+            "width": 1944
+        },
+        {
+            "height": 2432,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109395414750411826964/photos\">Sebasti\u00e1n Cornejo Angel</a>"
+            ],
+            "photo_reference": "CmRaAAAAvI1rSDjkhOaBDu9qc-RaAxSJg72jyqxLoZN9qjApaATvWlr5jWhlK0aGAAdNAkKuTvG0V9tVm-wxbpgyZBwGJTOy9qnUtItChqRzocc8HIEnibrllOr_LJpPGdcOOfYTEhAi6g47oDdMWchj55vhZjQdGhRqm_2s4SeN6OhEu9qAHtK-J08GjQ",
+            "width": 4320
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114629028683854573159/photos\">Ian Payton</a>"
+            ],
+            "photo_reference": "CmRaAAAAz3-HUQawTkPWUZdSESO9rqTKfghS0f-4Wf_zzNcZOHR9imM8SL51FGlGbUlzcIwrml4NIW_2J4YTcdbpYL5zRCyfACngTbuailywtjyAJZf_3oV5HTxexmAGKLU4nUi8EhA4OuOwdEzCFG9Wa4WmciV2GhRkiUBEn56yDxB8sOSGZkuw3HK7qA",
+            "width": 5312
+        },
+        {
+            "height": 562,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100147982946504843892/photos\">Lanie Brandon</a>"
+            ],
+            "photo_reference": "CmRaAAAAXuqEvgr9ADuiGXzkWXFvjRCkCbNnibXeJGROnNw3LoHuw6UxeACx3gjBA9jzOsLUDYq4C231izazZqlgeiezBnnzxmxr2GkMaK8bGOSjGkhB6JYD90DVvg-IKCDemTD_EhAcu_4RZd6KXYLKmXC_J4N9GhRRX12CSzWxXKIqfKS5ayToX8d5LQ",
+            "width": 1000
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAHVKrNfUa1BneTbUBThnDcsXleiU4FrGJMl5LasAuKAiJ2rsVsSQ9whvGWzmWqpIG6C69vE86yNO-exNS2IcX1-IUoEXQYVoFMUrW4WFK5M90MB3EAGA-euIv3XWnIl8HEhDcFPuqpbfcCuY-SuqOaCb7GhTyLsnG_Es3ZK_xV8ITC5lVOVrlfw",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJcXTdeAfM1IkRFAgNYkIY4co",
+    "rating": 4.7,
+    "reference": "CmRSAAAA4jBo53pY1L10cTf7CWNjgKiUX0V3dTdFz_aTQvyIo305tuY2kU1p0pxtXnk9SQHlghZDyVaiTdbGQsrMla9tCfWLvxEp_iZgUROR79lrCUA0ZD6bnf08TTkW9etdHFOPEhBF3QgBDI1ievofc1pyUJycGhTJeaTX70G3nqfqCWlmViQpYqKfHA",
+    "reviews": [
+        {
+            "author_name": "Thomas Javiez",
+            "author_url": "https://www.google.com/maps/contrib/109879359735046037214/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xr9c0ptucow/AAAAAAAAAAI/AAAAAAAAAIc/LZRrKe8MS8I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "The staff is nice. Quiet for the most part. It's a big open connected area though, you might get some noise distractions depending on who is there, you can always hear the front desk and poeple asking questions on the main top floor.\n\nTip* You can eat lunch in privacy on the bottom floor activity/ \"study\" room if it's not being used. I thought it was just an events room, but you can always go there if it's free.",
+            "time": 1525207728
+        },
+        {
+            "author_name": "Gitanjali Verma",
+            "author_url": "https://www.google.com/maps/contrib/113922695999190572325/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-JOB4_AesoqY/AAAAAAAAAAI/AAAAAAAAghA/46vPjbhUIe0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Friendly, helpful staff.\nGood opening hours.\nPrinting (documents) is very reasonably priced. \n3 floors in this library. \nGreat children's section. \nThe owl outside the building adds a magical touch to this historic library.",
+            "time": 1510364820
+        },
+        {
+            "author_name": "David Flack",
+            "author_url": "https://www.google.com/maps/contrib/100808970819370285294/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-q-9XV--kqTg/AAAAAAAAAAI/AAAAAAAAE6s/VH5ssVEat-s/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "A nice historical ambience here.  Pleasant place to be.",
+            "time": 1523127993
+        },
+        {
+            "author_name": "David Menear",
+            "author_url": "https://www.google.com/maps/contrib/100666405208023829620/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BfuALEi5EpA/AAAAAAAAAAI/AAAAAAAACN4/CM3EkBOr984/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "This is truly a 5 STAR library. Amiable, knowledgeable and helpful staff. If you want they'll find it!",
+            "time": 1505666469
+        },
+        {
+            "author_name": "oyster finney",
+            "author_url": "https://www.google.com/maps/contrib/104999173061571126561/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-YmK7s-Ei5KI/AAAAAAAAAAI/AAAAAAAAAKE/ARGJEE3PFLA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It feels like home. I get so much done. No distractions.\nHelpful staff too.",
+            "time": 1496361596
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14618992538813270036",
+    "utc_offset": -240,
+    "vicinity": "2161 Queen Street East, Toronto",
+    "website": "https://www.torontopubliclibrary.ca/beaches/"
+}

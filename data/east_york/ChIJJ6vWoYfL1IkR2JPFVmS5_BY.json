@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "1317",
+            "short_name": "1317",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y8",
+            "short_name": "M4L 1Y8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1317 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1317 Gerrard St E, Toronto, ON M4L 1Y8, Canada",
+    "formatted_phone_number": "(647) 435-6550",
+    "geometry": {
+        "location": {
+            "lat": 43.6711636,
+            "lng": -79.3264174
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725600302915,
+                "lng": -79.32508851970849
+            },
+            "southwest": {
+                "lat": 43.66986206970851,
+                "lng": -79.32778648029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3af8cfad6b5936052141d5e2effc69dfbdea92ba",
+    "international_phone_number": "+1 647-435-6550",
+    "name": "Margala International Immgrtn",
+    "place_id": "ChIJJ6vWoYfL1IkR2JPFVmS5_BY",
+    "reference": "CmRRAAAA0EmdBi0wGOSAYmr1dJ7OTBIQzkunKPoeMoW9Ut3sGJYwvdOCx79FChffrAMRjqhGgjSQ_adhnKvA5qv_nX9oXAyW2TwTpJIBkaRGwzJH3hMEGDwCUph_dLNtEQhzdN4WEhDK5xO53A1EOghPVWjJusWgGhTT73uDlG0YI6PkgVaVWrlZdL_UMQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1656402603569157080",
+    "utc_offset": -240,
+    "vicinity": "1317 Gerrard Street East, Toronto"
+}

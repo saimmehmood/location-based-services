@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1913-1943",
+            "short_name": "1913-1943",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Aldermead Road",
+            "short_name": "Aldermead Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Erin Mills",
+            "short_name": "Erin Mills",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5M",
+            "short_name": "L5M",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1913-1943 Aldermead Rd</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5M</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1913-1943 Aldermead Rd, Mississauga, ON L5M, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5608487,
+            "lng": -79.6926881
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5621976802915,
+                "lng": -79.69133911970849
+            },
+            "southwest": {
+                "lat": 43.5594997197085,
+                "lng": -79.6940370802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c19c9ae1174618c65c22946d941e92f90b73c4bd",
+    "name": "1913-1943 Aldermead Rd",
+    "place_id": "ChIJt74V5XhBK4gRlZ2Mam4Zkl0",
+    "reference": "CmRbAAAA8DbU7XIhxOQxWYSOLwoiMMo7P7YpG2zcIIEQgN10Ui4ygKvvfmUTmemdvtdaaY8HRuJ6u_yaGMIgZgKIdgc_F9VS9Hq2pQuW8kJr93Eq0kwd57a7vE8q4YsWdRbGMD0EEhBEde7Dxpvyzw0phayrSAzbGhSoE1qJjY-00EkS0F15LrS93dOmHQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1913-1943+Aldermead+Rd,+Mississauga,+ON+L5M,+Canada&ftid=0x882b4178e515beb7:0x5d92196e6a8c9d95",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

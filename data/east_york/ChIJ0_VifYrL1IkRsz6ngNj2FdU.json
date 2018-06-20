@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "76-68",
+            "short_name": "76-68",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Robbins Avenue",
+            "short_name": "Robbins Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1X3",
+            "short_name": "M4L 1X3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">76-68 Robbins Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1X3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "76-68 Robbins Ave, Toronto, ON M4L 1X3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6708583,
+            "lng": -79.3155862
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6722072802915,
+                "lng": -79.31423721970849
+            },
+            "southwest": {
+                "lat": 43.6695093197085,
+                "lng": -79.31693518029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c4a5bdca1254e2ed50a671189eac41f171851e99",
+    "name": "76-68 Robbins Ave",
+    "place_id": "ChIJ0_VifYrL1IkRsz6ngNj2FdU",
+    "reference": "CmRbAAAA0R0R3eWGHZSvGZzVgDhFoTRlEYqSfevraRus_iQVm_8g6psHPmI1uxliDxQHNf0KQ7X694uSL7w0UFR0IDRrrm_q8kvFIBtXpkfBfPNoBVPe4co5tavzQV0QTNp6_j2NEhCpiZZJ_zJp5okBJ-qBUHT4GhTiTSAuBaE6tZfNbpdSiLT0O3bROw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=76-68+Robbins+Ave,+Toronto,+ON+M4L+1X3,+Canada&ftid=0x89d4cb8a7d62f5d3:0xd515f6d880a73eb3",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

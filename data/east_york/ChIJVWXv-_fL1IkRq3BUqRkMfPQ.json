@@ -1,0 +1,272 @@
+{
+    "address_components": [
+        {
+            "long_name": "1964",
+            "short_name": "1964",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H8",
+            "short_name": "M4L 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1964 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1964 Queen St E, Toronto, ON M4L 1H8, Canada",
+    "formatted_phone_number": "(416) 691-5676",
+    "geometry": {
+        "location": {
+            "lat": 43.6697336,
+            "lng": -79.3018824
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6710339302915,
+                "lng": -79.30051306970849
+            },
+            "southwest": {
+                "lat": 43.6683359697085,
+                "lng": -79.30321103029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "367b52eebe204a1d75aac4975829360626bc146d",
+    "international_phone_number": "+1 416-691-5676",
+    "name": "Midoco Art & Office Supplies",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 6:30 PM",
+            "Tuesday: 10:30 AM \u2013 6:30 PM",
+            "Wednesday: 10:30 AM \u2013 6:30 PM",
+            "Thursday: 10:30 AM \u2013 6:30 PM",
+            "Friday: 10:30 AM \u2013 6:30 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113840853207982745705/photos\">Siva U. Shankar</a>"
+            ],
+            "photo_reference": "CmRZAAAA7Ic8k9fZAzRMgUKuJUdubcH2ZGD0kyChSBa2SoACNuJDBo9hVtUZwBfjSiiI72zni2cKW5QeSHql0uZqbHaU2olzLxC-SHHpYkgLY6UnESL5eC-xAMZr1PIxRaygR1WJEhBMKrK55EI8DgC1H7csjhngGhTzjeQCP10S9scJkRcmnuw0vrLK_w",
+            "width": 2048
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108667395127208065314/photos\">Jon Owen</a>"
+            ],
+            "photo_reference": "CmRaAAAA5Rui3_GsXB3Va9HYNa5X6iUhYwHsHPuUfyC5cUzC3_d5h5GSNQ9mDu88Idnaclh8OwWJ4Etdy3oWryZGCBsJ70yXeofZCrUgBK_x-N03R1FXuaq2VHRlO6--5hTYnDsKEhAxJnctRlKvs5b_I6IGivGVGhSE3hvgfx_ZwFfVhCPLT2EluPfL8A",
+            "width": 2988
+        },
+        {
+            "height": 453,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106043997281625964239/photos\">Midoco Art &amp; Office Supplies</a>"
+            ],
+            "photo_reference": "CmRaAAAA5YKfNNHvKqH5QGgnTDoGJcqogoF9dvKjRMcDtCIQa7EV812tPtMUnhB3oGMY5d-YGWT62s-_6Cp-SydYvpYJZj2tjwz8HcGb_VGNVfgoIdBSuW0TILoAMCnsWQDDFY10EhBtZM6KTqohmO-lUXFrh3S1GhR_VyVm7ZSKk-ks2qPsgcDP07DU8Q",
+            "width": 453
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102597830326797878795/photos\">MacLaren Scott</a>"
+            ],
+            "photo_reference": "CmRaAAAA6oSG6eGs0B-yWt1UKjQUGS9YG4KvHz6jKruKPEJIhDXPqhHnoLqhFLuj0V0lWHj4q6wA_e_6t64tHW8qMEGpkbsB9x9VfP5xCRB4R7SshMi29UXH-qTvhyGfCo5DV17kEhC8BNdnT0ebNeEGxXJ7cRB0GhT6K6nF8yRPL6_9JrwEpFB8p4iNQg",
+            "width": 400
+        }
+    ],
+    "place_id": "ChIJVWXv-_fL1IkRq3BUqRkMfPQ",
+    "rating": 4.3,
+    "reference": "CmRSAAAApxwTkms54joPCRXZe3CypE4wDmK5GyK5T3xUJS7EHZvcLpZIevJjY14hPkkQHJi2fSmzMrsjo6O77KGO0sU5HyjSgCb3UbJf_uTxKo4qUjwTDNwwKbBdkgFF1W3G2RbxEhDSbGIzRNK7GJ4HVB1RlvVsGhTrghsLlKk4bawAO9z5QXZzGNVkFw",
+    "reviews": [
+        {
+            "author_name": "Eddie L",
+            "author_url": "https://www.google.com/maps/contrib/100982484395050953497/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-VM-lL7uhMRU/AAAAAAAAAAI/AAAAAAAAACI/Y-9oPKMfD3Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Midoco is a pleasant arts & crafts supplies shop, with a wide variety of supplies to satisfy most artists' needs.  They carry many familiar brand names such as Windsor & Netwon, etc.  Where they really stand out is in kids crafts/toys, with A LOT more kits and sets that are hard to find elsewhere.  I was able to find some great Faber Castell sets (couldn't find elsewhere), DJECO sets from France, Low Poly Crafts, and more!",
+            "time": 1524885018
+        },
+        {
+            "author_name": "Helen B",
+            "author_url": "https://www.google.com/maps/contrib/104162419192422956913/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-56DRd9LsPls/AAAAAAAAAAI/AAAAAAAAGa0/Tw9peWbrbIA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Art supplies store that has office supplies as well. I bought a Rhodia dot pad  and I love it.  They have a complete selection from Leuchtturm including all colours and sizes options. They also have other note and journal brands such as Moleskine ,Rhodia and etc. If you plan to buy a new planner and live in the Beach area, this is a must visit spot for your stationery need.",
+            "time": 1513454220
+        },
+        {
+            "author_name": "Kello dadde",
+            "author_url": "https://www.google.com/maps/contrib/101530869081836843949/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VSgV_Y_93QI/AAAAAAAAAAI/AAAAAAAAABc/oL6j9e8_9Y8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "I come here all the time as there arent a lot of art stores in the neighbourhood. I just find it a bit lame that they make you put down your bag and coffee at the front...... I dont think this is necessary .. esp. in this particular neighborhood",
+            "time": 1516642075
+        },
+        {
+            "author_name": "Jim R",
+            "author_url": "https://www.google.com/maps/contrib/102722640319569083162/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-X2f_X0-fbRo/AAAAAAAAAAI/AAAAAAAAAa8/fcwAPKpinK8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Small store, smaller selection. Best stationery in the beach.",
+            "time": 1515731827
+        },
+        {
+            "author_name": "Ethan Peters",
+            "author_url": "https://www.google.com/maps/contrib/106177047485433949834/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xHdQz3kzQl8/AAAAAAAAAAI/AAAAAAAAADk/G2XxJ8olS08/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Staff super knowledgeable, lots of great selection, bit pricy but good quality",
+            "time": 1497892321
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17616969146721136811",
+    "utc_offset": -240,
+    "vicinity": "1964 Queen Street East, Toronto",
+    "website": "http://www.midoco.ca/"
+}

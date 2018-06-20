@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3597-3621",
+            "short_name": "3597-3621",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Burnbrae Drive",
+            "short_name": "Burnbrae Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2N8",
+            "short_name": "L5C 2N8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3597-3621 Burnbrae Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2N8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3597-3621 Burnbrae Dr, Mississauga, ON L5C 2N8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56048140000001,
+            "lng": -79.66910179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5618303802915,
+                "lng": -79.6677528197085
+            },
+            "southwest": {
+                "lat": 43.5591324197085,
+                "lng": -79.6704507802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "676d5a124bcd2751f15e8359faa8b24c41695863",
+    "name": "3597-3621 Burnbrae Dr",
+    "place_id": "ChIJ7wm7wlxBK4gREZHCcCKdHGQ",
+    "reference": "CmRbAAAAJyXCvf_mP-0s-1Sw33NaBmUnvbA2Y_uRZ114lt0Of3d8tLylzsavne4yNWBCGYeclzeH77nWp8QDhZX-bBVY3-c-8mAS1ZjIfZpluMaFpAjLdJrqwzpbe8I9uS3-7TM9EhD-WlQ_872rzWi1DQJLCsJVGhS7_Sm4sh-aTG_SBvlWZY3bJMByug",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3597-3621+Burnbrae+Dr,+Mississauga,+ON+L5C+2N8,+Canada&ftid=0x882b415cc2bb09ef:0x641c9d2270c29111",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "686-652",
+            "short_name": "686-652",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Louis Drive",
+            "short_name": "Louis Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5B 3X8",
+            "short_name": "L5B 3X8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">686-652 Louis Dr</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5B 3X8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "686-652 Louis Dr, Mississauga, ON L5B 3X8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56105169999999,
+            "lng": -79.6251687
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56240068029149,
+                "lng": -79.62381971970851
+            },
+            "southwest": {
+                "lat": 43.5597027197085,
+                "lng": -79.62651768029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "909852981622a295e3f27b481b37f7189bf856f1",
+    "name": "686-652 Louis Dr",
+    "place_id": "ChIJnfNZXpZGK4gRn_BzOcMphd0",
+    "reference": "CmRbAAAAk0VUJPljG2qTQ1LQqRsGlLHHn_inr_QgpkMRKNO18KezKjqNzPf5bImniO62sKCgzix1KaJb5HfeI1G8lHeI9w8jDQ40g3Ku2_Rk6YTmlTmuMiyqQ8QM2aM8sopn8Yd1EhAEaBHrrudOx3UT_ZdTn8yeGhSHDnZd82bxOBKdvmkbI-V_qqt0Tw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=686-652+Louis+Dr,+Mississauga,+ON+L5B+3X8,+Canada&ftid=0x882b46965e59f39d:0xdd8529c33973f09f",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

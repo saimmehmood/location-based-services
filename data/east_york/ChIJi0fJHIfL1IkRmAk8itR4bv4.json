@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwood Avenue",
+            "short_name": "Greenwood Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2R4",
+            "short_name": "M4L 2R4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Greenwood Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2R4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Greenwood Ave, Toronto, ON M4L 2R4, Canada",
+    "formatted_phone_number": "(416) 469-4567",
+    "geometry": {
+        "location": {
+            "lat": 43.6703351,
+            "lng": -79.3275714
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716656802915,
+                "lng": -79.32630636970849
+            },
+            "southwest": {
+                "lat": 43.6689677197085,
+                "lng": -79.3290043302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "096662945c5626cfbdd19889f2be9e7bae1a1468",
+    "international_phone_number": "+1 416-469-4567",
+    "name": "Proximity Films",
+    "place_id": "ChIJi0fJHIfL1IkRmAk8itR4bv4",
+    "reference": "CmRSAAAAUII-wGFVhTu1E_keDMoBge3E8m7vzkVOcAyCXNBMEtvyaTZznVZh3qq5Ngd73oCPCY-SB7NBfM1Z31jUdTxwxBRZqVCpyjdN4QJEsCFgD7_wgNDIXenaq1xDrTcHh79xEhAUbhjVu-pdazIx5D1SrKmiGhR8-WJ6rMc43mKub7-zDj6_s5euFA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18333723987319458200",
+    "utc_offset": -240,
+    "vicinity": "229 Greenwood Avenue, Toronto",
+    "website": "http://proximityfilms.ca"
+}

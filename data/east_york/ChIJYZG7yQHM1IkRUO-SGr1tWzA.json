@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "1322B",
+            "short_name": "1322B",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Z1",
+            "short_name": "M4L 1Z1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1322B Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Z1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1322B Gerrard St E, Toronto, ON M4L 1Z1, Canada",
+    "formatted_phone_number": "(416) 693-0780",
+    "geometry": {
+        "location": {
+            "lat": 43.671615,
+            "lng": -79.3257187
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67287663029149,
+                "lng": -79.3243319197085
+            },
+            "southwest": {
+                "lat": 43.67017866970849,
+                "lng": -79.3270298802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fbf4aa1fbde93cf1fa2a99743264c1c7593115fd",
+    "international_phone_number": "+1 416-693-0780",
+    "name": "Beadworks",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 6:00 PM",
+            "Tuesday: 11:00 AM \u2013 6:00 PM",
+            "Wednesday: 11:00 AM \u2013 6:00 PM",
+            "Thursday: 11:00 AM \u2013 6:00 PM",
+            "Friday: 11:00 AM \u2013 6:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3872,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAArDPGGXk44rn-BkVzuNul8CbCPOeULuX0HRiFSHVmL-a8EjJtI40gATQUQJy0G1nqhbzouDxbWAzJUS4MnIgUk1ZInlWy2XXMc3L9k1ATZ3LdsRZ9yE4hHnpwY1f0XhLdEhBuiqdLphPoy_hJLla02nLcGhSci86U2RL96zUhNdJfAHGoOntL5w",
+            "width": 2592
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100935376638513960083/photos\">Brad Taylor</a>"
+            ],
+            "photo_reference": "CmRaAAAADtMS2G5_70Tk1Dk-OgbVcCcNDvjlleat-KVm7tF8huy0BUOeFGkXzFIu32L-TryEI72NP7YC3p1QFd6uWvZKZokCEFHJTKsqxKk-qg_stfLS-YSAEvFoP-LE9wAaAltxEhC-56V8oWx_ktecx2BceUm2GhSslYJjb1X0fGXtceeCSg_u1cz0-w",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJYZG7yQHM1IkRUO-SGr1tWzA",
+    "rating": 3.1,
+    "reference": "CmRRAAAA7Fq63Q7tqwQWQXf7Wk9cdkS5TTbMOfEj-fUF_8Xf-CbflQY7OGGD2up3Mf8atBrV73fz5RFXTadI6gwgj9c4WmhX-LIu1FbwWmOrveCJND8oJgO-e_kg0Zx48ENkKTkeEhCidZKu-9bp0AlIsahGkrjqGhQNrtxhOH8ts4z4QWevPb8bTVGs1Q",
+    "reviews": [
+        {
+            "author_name": "Brad Taylor",
+            "author_url": "https://www.google.com/maps/contrib/100935376638513960083/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Qnn8kjMd6Yk/AAAAAAAAAAI/AAAAAAAAAD4/KGmFbZmvWys/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Had a very nice lunchtime visit - we were kindly helped with picking out items and assembling them. We'll be back again soon!",
+            "time": 1526405119
+        },
+        {
+            "author_name": "Taiga Shiba",
+            "author_url": "https://www.google.com/maps/contrib/113723595464386525784/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wj_wcBfEudw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0cmaQKe7Q4xjhJZaL220fpSv8NAg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This store is amazing. Super nice helpful lady. There are a lot of vintage gems with contemporary items as well. She is pet friendly too.",
+            "time": 1517612768
+        },
+        {
+            "author_name": "Beth Peart",
+            "author_url": "https://www.google.com/maps/contrib/104455766909947519558/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Fy3VUy5dZK0/AAAAAAAAAAI/AAAAAAABI10/59sJfBLlXzE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Well-stocked but not well-lit. Staff very helpful. I've always been able to find what I need.",
+            "time": 1517258222
+        },
+        {
+            "author_name": "Diamond Cooper",
+            "author_url": "https://www.google.com/maps/contrib/108844754756082627722/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5zKLEtdEn20/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2_rIHDYMjH5Et9kmtNCVO5bDJkBw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Hello ladies, how about the price? Thank you for your comments",
+            "time": 1525448356
+        },
+        {
+            "author_name": "B Chan",
+            "author_url": "https://www.google.com/maps/contrib/112794020844411601763/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5C_0yFRu2Ho/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1m2XQyb0gsMuXgUd0rvJb9Nj7s0Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great new location & opened till 6pm.\n Amazed at the vast selection of beads, accessories, tools & jewelry. Happy that they also do repairs too!",
+            "time": 1493578608
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3484499395663294288",
+    "utc_offset": -240,
+    "vicinity": "1322B Gerrard Street East, Toronto",
+    "website": "http://www.beadworksjo.com/"
+}

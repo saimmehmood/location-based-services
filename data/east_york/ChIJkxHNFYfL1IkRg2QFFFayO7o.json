@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "253-255",
+            "short_name": "253-255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwood Avenue",
+            "short_name": "Greenwood Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 2R6",
+            "short_name": "M4L 2R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">253-255 Greenwood Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 2R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "253-255 Greenwood Ave, Toronto, ON M4L 2R6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6711089,
+            "lng": -79.32807989999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6724578802915,
+                "lng": -79.3267309197085
+            },
+            "southwest": {
+                "lat": 43.6697599197085,
+                "lng": -79.3294288802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "599a9ac3ec7b4038e557a288190352f0ed8699ab",
+    "name": "253-255 Greenwood Ave",
+    "place_id": "ChIJkxHNFYfL1IkRg2QFFFayO7o",
+    "reference": "CmRbAAAAZ2vr7R3CGfTS5QC9rShPeFD2I2T1fNbHAhcLE4YF6K0ua4Cp0qYUsbP_-o5xltNFFnlaj4NSqCteQa5CcQ65h2t6Zu1kc6gJ7sHTYmNLLFTIBY9OlHCBP5VzNfN9yg-IEhAEY5R2Bbuwau0z3R0E0dGCGhSBPfCyRPLJ12989-hdOepZYA2neQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=253-255+Greenwood+Ave,+Toronto,+ON+M4L+2R6,+Canada&ftid=0x89d4cb8715cd1193:0xba3bb25614056483",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

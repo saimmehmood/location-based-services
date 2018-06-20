@@ -1,0 +1,76 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 3E9",
+            "short_name": "L5C 3E9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 3E9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Mississauga, ON L5C 3E9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.561453,
+            "lng": -79.629206
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5628019802915,
+                "lng": -79.6278570197085
+            },
+            "southwest": {
+                "lat": 43.5601040197085,
+                "lng": -79.6305549802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "5927edfda85eeb635f2dafdfcd02d2ed3ae0da99",
+    "name": "Paisley Blvd At Morrison Ave",
+    "place_id": "ChIJLbnEv71GK4gR8MSA7W3eWzs",
+    "reference": "CmRRAAAAGRkVmk_21KZga804OJB2E3iYH_x8z73D6V5CAok0ZD3Wc6DxZB08UKpyw0iz2i76DC9JzI8tz5L8sGApC7gKoVeiwnnnQYJjJTJ4puZgEAhGJwFbS429vYm0GHm0FY_1EhCgqviJAWwYuucoi_DzXuL7GhTfMoX7AlUqIoZU_FioqMhYR8zDaA",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4277256834835858672",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

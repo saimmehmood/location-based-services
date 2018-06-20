@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 3J3",
+            "short_name": "M4K 3J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 3J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4K 3J3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.670554,
+            "lng": -79.34387199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67190298029149,
+                "lng": -79.3425230197085
+            },
+            "southwest": {
+                "lat": 43.6692050197085,
+                "lng": -79.3452209802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "d79c7d55736e7ee61cb3173e28ed1fbdec58a402",
+    "name": "Carlaw Ave at Riverdale Ave",
+    "place_id": "ChIJWR4Y9XzL1IkRclabSrGucME",
+    "reference": "CmRSAAAAghcBfvPMxko-PsnS1QHRBiAEagyEi5TtabktZOhGHKh9VgJ6C1VHoorTGRNOQsAgVDt_juODQL8HuNzhc18au9V4gXto3snSFrm_mj03iSWyhaJU_EmaZFW2Zvqv51MTEhBZGxjkO_PgWa648hF18P9SGhQwVQBCG3fAqC23sQjvh9lGyMgbQg",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13938832923195823730",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

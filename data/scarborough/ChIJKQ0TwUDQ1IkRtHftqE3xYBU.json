@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "unit b",
+            "short_name": "unit b",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "3563",
+            "short_name": "3563",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B3",
+            "short_name": "M1H 1B3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3563 Lawrence Ave E unit b</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3563 Lawrence Ave E unit b, Scarborough, ON M1H 1B3, Canada",
+    "formatted_phone_number": "(416) 439-6060",
+    "geometry": {
+        "location": {
+            "lat": 43.759224,
+            "lng": -79.227237
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7606285302915,
+                "lng": -79.22591156970849
+            },
+            "southwest": {
+                "lat": 43.7579305697085,
+                "lng": -79.2286095302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "03390c6ae5ce845b8d15ee7288a16fa537ea3256",
+    "international_phone_number": "+1 416-439-6060",
+    "name": "Church's Chicken",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 10:00 PM",
+            "Tuesday: 11:00 AM \u2013 10:00 PM",
+            "Wednesday: 11:00 AM \u2013 10:00 PM",
+            "Thursday: 11:00 AM \u2013 11:00 PM",
+            "Friday: 11:00 AM \u2013 11:00 PM",
+            "Saturday: 11:00 AM \u2013 11:00 PM",
+            "Sunday: 11:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114493160428456129795/photos\">Gaga Millions</a>"
+            ],
+            "photo_reference": "CmRaAAAAMYJ7aH9g3917uGp8-IzAj_l-2dw0WOMy_ETJRyMWlpR-gNceYwoxGe_GivOjsXn6OiJu2IAOPYjvbyhE0Rvb5RaQiKXs1EvC3kQNHYtvhlCaaa-N6ZYPh0nNyReytoNIEhAOfdg8_K_XxoIjvjU0lmnPGhSNSDPlOTj3zyGbH0Jog-_XDeencQ",
+            "width": 4032
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110607342188377597044/photos\">Gans Subramaniam</a>"
+            ],
+            "photo_reference": "CmRaAAAAF2PdB3acSXKtCPc2Hs4VuURLNFYmdNEjUnpBG98KyPif0CLxw3Q9n4ymHa6hKdUtNBnwXMCi1dYneGrLqKhAOJShhlwv6c7kcJAMMTgkyy1fpJEFK6Kp6A1dfVssfnGqEhB7kWhkCG4yIIxX8RI0Zf2AGhQ-aKyg1qIMT9_9VvVWt5ilTdIF_w",
+            "width": 4048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114493160428456129795/photos\">Gaga Millions</a>"
+            ],
+            "photo_reference": "CmRaAAAAgHzSLYB1-71X6ncuPh5CJt-ZrZiEg1BbOy54gd8u2XaNr9rr5WH1R3068VVlQs7fND_Aw00nERGBkI2pthJUO82QiUc0bG1xRVh1TGXGbFFfJZVUd5VheXg_1QusZoTiEhCdlUx4p-0TEhh5UMIS2cLTGhQb1B6G4uZxOZ0eCke1SnIvYzpmOw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105618371644122447697/photos\">Brand Yu</a>"
+            ],
+            "photo_reference": "CmRaAAAA_a_DJlzJ-_8OjsEfp2DRwnXGYUUH6W1uNvqbSA0IKJ36tsxasR66cy9aZYUhH63k3_qI8ujgKulZ2t1vU42ksxVqr2kvvbiB9M9vGlQuAxPD65RKk0VaUK4KTCJhD08qEhCaaKmasQFkvYQ3mo9wGe2SGhSg74wUyEUWlzEVttjGQIftSFlQhw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109671523356400925471/photos\">William Kung</a>"
+            ],
+            "photo_reference": "CmRaAAAArHL---FCowXM5sqabxOUK9bgefCqIHJS7O_FZUIf1P50e5gJloWHhDjJO2n6UT6JlTdfrAq4Zul9I23xrRTABPxekec8-xT0SV3XyF6QNQBc7SsrvPFi5HE2gCZACajnEhAdHb3ePkysTqn-UndVIurMGhSyliMBA4s26gJHBIqmNtESwAddYg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109671523356400925471/photos\">William Kung</a>"
+            ],
+            "photo_reference": "CmRaAAAAitC-B_ZOEqQmx-zIVjfdu6w0pWo1xBNOdzTlxgikjL9pq86yOMKcDABTGYHTHADQ5n_K6FoeA13bsdQZyBqJBwyh1DRdSWPpQxD5OIMFFlx3w7OXdIcEponuoOvxRWZuEhC4lAAJCWSFwfgX8t9IjAXiGhQ0MnavKPUjkQwlpAu6qpsOaqUO0Q",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109671523356400925471/photos\">William Kung</a>"
+            ],
+            "photo_reference": "CmRaAAAAYN4QUo-WkZbLob63tcqaQX_-1-cQu4m3FT3BCdTu6s6MYAEIp5X_LxueHW21mJ5qqZY94cniFhZfJZNi5zG0KEv3O_s2YJIuFJBAawJ_sZ82BILftOuA8k_UTMLnVqBQEhDKrmgawDr2BsH9wwXNwK-HGhSjyUkgmIglJUiI2if6VOLnoJ5b0g",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109671523356400925471/photos\">William Kung</a>"
+            ],
+            "photo_reference": "CmRaAAAAHDzRZ0PapslhIo8LbH_er3H5_LzTQUmPianPf0vEOGWjNK0Wo-OJul__dvgnGWwpbJFL77vtZVToyPmL8S6NYVNigx15-3DOw-NDiVfJfeufNGpoZgrb08EYdcBFPT_4EhBBTp0IgvcWeMjNGYIo4qkeGhSVdE1DmByDRN72qxOI0M7Ft6tf5g",
+            "width": 3024
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100037348125766492674/photos\">Felix Arifin</a>"
+            ],
+            "photo_reference": "CmRaAAAAqEjWyuMA6wnBG5wt_v6TB28lkmOMi1Tuq-3HfjI3qPJduosNyb1R-w0VA11BxslpSkPkF1BMuHeZbl-7rMXc1iePfUCupVZ2rBLehfHv1ioFXKpzbVvzmRi_3zkKJcIyEhDYrFNiPOU775Kfkz9CZ6NGGhTX4uNyrI57jfv1l5tsYMnfJX9mvg",
+            "width": 4608
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109671523356400925471/photos\">William Kung</a>"
+            ],
+            "photo_reference": "CmRaAAAAvY8Gq6LyfFQ_99Dv78a4h5JHa_U2Cg7r8b-b-9E3Nc2utGzz9fINKHqtusR_MAQ4V6E6SrwW3QQD3AMR4weOPuesgm9U4tC37eAGQlQkH_p4ffveEELj9AbGkgPSreGTEhDetAqpF-jtL4CuLYHzjf4cGhQyPoA-TzkKMCCZo0RUl0XBeZfH-w",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJKQ0TwUDQ1IkRtHftqE3xYBU",
+    "rating": 3.9,
+    "reference": "CmRRAAAALMXDxb27hIcH2U9n2jar8vRir5ySnbp3b9iCHp5M8fRxocISKI7iG940I5gosvXDqtk2hzA25AnASWvgg6p8xMCvnTln1GBfEdxDNS2Ab4n01tsTtF-AIWyJcVvUzmyMEhCE2veqWrB8pp3rtgd81CySGhQwJ4XWbBanPtS0KDEehxqfUlC1Iw",
+    "reviews": [
+        {
+            "author_name": "William Kung",
+            "author_url": "https://www.google.com/maps/contrib/109671523356400925471/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sIlipNr8whY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3xWnJiqHz-pB9TaYgZ16HC4bO1KQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Ordered 4 piece spicy fried chicken combo with fries and 3 piece mild with mash potatoes. The fried chicken was very crispy and juicy and quite tasty. The fries were not bad and the mash potatoes had the right amt of thickness that I enjoyed. This was my first time trying this place and would gladly come back when I'm craving fried chicken again.\nAlso the staff were very friendly and attentive.",
+            "time": 1527313524
+        },
+        {
+            "author_name": "BitterKnitters PodCast",
+            "author_url": "https://www.google.com/maps/contrib/110434495053840190217/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-9-di_Tl-Qjs/AAAAAAAAAAI/AAAAAAAAABg/RjtVqpmN73w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 weeks ago",
+            "text": "Was pretty disappointed. Ordered the mild white meat combo and there was no taste at all. None on the coating, none in the actual chicken meat. The fries were ok but seemed like they were just frozen McCain crinkle cut. The biscuits were amazing, the gravy is decent. My husband said the spicy chicken was good. I would not return.",
+            "time": 1527745225
+        },
+        {
+            "author_name": "Jerry George",
+            "author_url": "https://www.google.com/maps/contrib/107430526785656214680/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NqfKgJ15q6I/AAAAAAAAAAI/AAAAAAAAA9A/Nsce7zpaQ1A/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Hit and miss. First of all the biscuits are amazing. The first piece of chicken (leg) very tasty. The second piece (thigh) tasted off, like it was spoiled. After that I couldn't eat any more. Others with me thought everything was fine. Fries are good and coleslaw was tasty. Was delivered by Skip the Dishes and order was nice and hot.",
+            "time": 1520800597
+        },
+        {
+            "author_name": "Peter",
+            "author_url": "https://www.google.com/maps/contrib/103668423162147186344/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-V-E4kP8P18I/AAAAAAAAAAI/AAAAAAAAH28/vJbOslVV-Co/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "They offer the best biscuits. Their chicken tastes similar to Popeyes and it's less greasy. Not really into wavy fries but they were okay. Overall a decent chicken joint with reasonable pricing.",
+            "time": 1529371317
+        },
+        {
+            "author_name": "Eater Outer",
+            "author_url": "https://www.google.com/maps/contrib/117031705547971054394/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MDtFrRRdW0U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0MbEZRuFOZZio7yWCYtdaPwj13jA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Cold in this place in case anyone is planning on dining in at one of the 3 tables or one of the 4 or 5 stooles at the window counter. Nice staff.  Nice small place. Pour your own fountain pop. Ordered breast for the 3 piece dinner and it was like a side breast or something real skinny. Part of the thigh looked, smelled and tasted off. I should've exchanged it and i may have avoided spending most of the evening on the toilet exploding. In fact i almost didn't make it to the toilet. Either the chicken or the pop machine did it to me. I wont be going back.",
+            "time": 1519556038
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1540496388409620404",
+    "utc_offset": -240,
+    "vicinity": "3563 Lawrence Avenue East unit b, Scarborough",
+    "website": "http://www.churchschicken.ca/"
+}

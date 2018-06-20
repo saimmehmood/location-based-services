@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "1952",
+            "short_name": "1952",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1H6",
+            "short_name": "M4L 1H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1952 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1952 Queen St E, Toronto, ON M4L 1H6, Canada",
+    "formatted_phone_number": "(416) 694-9936",
+    "geometry": {
+        "location": {
+            "lat": 43.6695754,
+            "lng": -79.3026101
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67087498029149,
+                "lng": -79.30123981970848
+            },
+            "southwest": {
+                "lat": 43.66817701970849,
+                "lng": -79.30393778029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2bc295f8751b88ae595b6a112c573e19e3bcc128",
+    "international_phone_number": "+1 416-694-9936",
+    "name": "The Body Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116577272766330957361/photos\">Sandeep Garg</a>"
+            ],
+            "photo_reference": "CmRaAAAAKFSO1QFqxUGy6SD1QQc9cRG8jcLuCxb9P5DgRk5_MnE-wtbsVL6IvnMRb5ejFn6w_K1FTlTNBuUjzW97A6IlHHAIW1LK7jmtIbxw4SWwlnXxVky99Tj8BvFf0GhJgl7SEhCHX8X3IgYCVBmFEUR5SDnxGhTy_pBMC8dhxe8vXG4a6mp3qhX7MA",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116577272766330957361/photos\">Sandeep Garg</a>"
+            ],
+            "photo_reference": "CmRaAAAASIqOYjrrum3jT84tRKA_I-l4xtPndR9_eg2hIkcnD2fDoQosLO5HNDTOXsrWDUQ1rnLfViReFfALwzGpttmbTU-y3Di1zt7TMT1pSWd2KVfv9yYQHyYZqi3PiwCm49w_EhCEeFIeDNkyFHsPUL58sBl7GhTdjPjOBioYXSlDxMQs_o13YfUMFw",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJUVWz6PfL1IkRetvWlh79C6M",
+    "rating": 3.8,
+    "reference": "CmRSAAAAbi4dRzWGGuQKY338YzIVA7PcCxAVRRyskpRYwhPDHTvl4GiIBMHDI1h-GTeu0Ud7uS8BnYlbM2_TIkUhnTOMUbPE62pOVrU7SPBlS63sfOF_6VwuhxnFR7jFAGkZUlFnEhA1GbzABBGuQX_jjPQLkWsGGhQGQmc7rDvchHhrOvWFXHS0ctKFQQ",
+    "reviews": [
+        {
+            "author_name": "kenzie warren",
+            "author_url": "https://www.google.com/maps/contrib/114213330021432909623/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ezDCDNF4ogk/AAAAAAAAAAI/AAAAAAAAAGk/o3HFWsUV6O0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "My group of friends and I were blown away with the service at this location. We all have all shopped at The Body shop before and never experienced such customer care. Jess the woman who was working at the time helped us find exactly what we needed to fit our needs. She helped to guide us to the products she believes would best fit us and were affordable. She knew exactly what she was talking about and made sure we were educated on the products we were buying. We spent over 45 minutes in the store and she was so kind through out the whole visit. We couldn't believe the customer service we received it was unbelievably amazing. 100% i would recommend this location and if you ever run into her she's such a kind hearted woman!",
+            "time": 1502070668
+        },
+        {
+            "author_name": "Linda Singer",
+            "author_url": "https://www.google.com/maps/contrib/117887411186794279666/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-B8nmsy1Eaok/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2c64rHMQUZRc_1DhEKlqjyw5ZPxg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Looking for Blue Corn Mask .\nPlease let me know if there is any out there. Not happy.",
+            "time": 1520079753
+        },
+        {
+            "author_name": "Karen Cove",
+            "author_url": "https://www.google.com/maps/contrib/115919608427029438590/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-9uvtUz3g4VY/AAAAAAAAAAI/AAAAAAAAAA0/NuacLypaTO8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "I actually didn't have a good experience there. The salesperson was condescending. She spoke to me as if I didn't know anything.",
+            "time": 1510118259
+        },
+        {
+            "author_name": "Patrick C",
+            "author_url": "https://www.google.com/maps/contrib/110878177821878754855/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7zKGofzJd-Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Q_dWtaTLvEeyoJbSQjUB36DrOLg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Great place to buy soaps and creams. Right in the beaches neighborhood. ",
+            "time": 1477708207
+        },
+        {
+            "author_name": "Emma Ashby",
+            "author_url": "https://www.google.com/maps/contrib/105660764262864645893/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Xj7sRvtIqXo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0TC9T_tvfBnTpMxtMLmRIkhdRq_Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Very friendly staff!",
+            "time": 1495981441
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11748762360747580282",
+    "utc_offset": -240,
+    "vicinity": "1952 Queen Street East, Toronto",
+    "website": "http://www.thebodyshop.ca/"
+}

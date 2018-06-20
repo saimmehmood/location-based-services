@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "798-794",
+            "short_name": "798-794",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Paisley Boulevard West",
+            "short_name": "Paisley Blvd W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C",
+            "short_name": "L5C",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">798-794 Paisley Blvd W</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "798-794 Paisley Blvd W, Mississauga, ON L5C, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.5609209,
+            "lng": -79.62991439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5622698802915,
+                "lng": -79.62856541970848
+            },
+            "southwest": {
+                "lat": 43.5595719197085,
+                "lng": -79.6312633802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "4df7a58128bb4f1195ebdb08574559eadadd556a",
+    "name": "798-794 Paisley Blvd W",
+    "place_id": "ChIJ1wORr71GK4gRZUetd5VzTd0",
+    "reference": "CmRbAAAAI0QIIf82XTDVZwtc-7aKm2twVeGyBOv7lgWcSC92W_tVOKAErohoM3a5Yp-yZwuLd5LXOG6GpW_NZMbT-_t4576WbNWkC7Ol1rKVqVyRo4oyX0C7GNkOHPGrmjcUk81kEhAZWUyFd7tngrPQYLffzGfEGhSZJB0HxK6g2L7F2qorPpLZww-T7Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=798-794+Paisley+Blvd+W,+Mississauga,+ON+L5C,+Canada&ftid=0x882b46bdaf9103d7:0xdd4d739577ad4765",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

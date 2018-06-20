@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "28-32",
+            "short_name": "28-32",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Benprice Court",
+            "short_name": "Benprice Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1N3",
+            "short_name": "M1H 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">28-32 Benprice Ct</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "28-32 Benprice Ct, Scarborough, ON M1H 1N3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75830569999999,
+            "lng": -79.2394934
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75965468029149,
+                "lng": -79.2381444197085
+            },
+            "southwest": {
+                "lat": 43.7569567197085,
+                "lng": -79.24084238029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "90c48aa1cd9ca684473850721fadd7bdc5eba748",
+    "name": "28-32 Benprice Ct",
+    "place_id": "ChIJTZkqBjbQ1IkRP5Tkrto3114",
+    "reference": "CmRbAAAAeWvafsLia9ayq4uuyrZT0qdelHb8sf0SKe_VSzBLQ7tAKLkzm2c5LF-k_n8ocz3kFV6HCZwu1ILhTfYYddEWD27KuwGG3rRAVhHqnSch0ZqF3QMLis9jhgEwiP3O0a7aEhACWMU-XZrXiEuF7yeU3OixGhSCO1bh02dKnNt_obeMkrRGJwI4xg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=28-32+Benprice+Ct,+Scarborough,+ON+M1H+1N3,+Canada&ftid=0x89d4d036062a994d:0x5ed737daaee4943f",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

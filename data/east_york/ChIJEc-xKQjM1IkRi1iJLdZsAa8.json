@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3R7",
+            "short_name": "M4L 3R7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "22 Elmer Ave, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3R7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "22 Elmer Ave, Toronto, ON M4L 3R7, Canada",
+    "formatted_phone_number": "(416) 686-1452",
+    "geometry": {
+        "location": {
+            "lat": 43.67034290000001,
+            "lng": -79.30397789999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67169188029151,
+                "lng": -79.3026289197085
+            },
+            "southwest": {
+                "lat": 43.66899391970851,
+                "lng": -79.3053268802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8c916c07cb6dfdf310c55e0dbefe7660c5e554c3",
+    "international_phone_number": "+1 416-686-1452",
+    "name": "VFGadgets.com",
+    "place_id": "ChIJEc-xKQjM1IkRi1iJLdZsAa8",
+    "reference": "CmRSAAAAhuilTa3bv5eUTXQ36DNfqToUG8uw_09TGLmHpexxYXokafBQKcJluEnzE4h7wiyr8f1E_VDZNO8p-MxtU-G62DnBO1o1m8_oFYlApEyHt_Vm0PdI8N6fXvlYJBzXGTuTEhC9l29eJy2Mch179t7xOGiRGhT9kvw63DRKAlM-nGecW3ePy_NC9g",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12610480098756876427",
+    "utc_offset": -240,
+    "vicinity": "22 Elmer Ave, Toronto"
+}

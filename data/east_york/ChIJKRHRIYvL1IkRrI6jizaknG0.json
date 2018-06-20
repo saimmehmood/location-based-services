@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "1987",
+            "short_name": "1987",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dundas Street East",
+            "short_name": "Dundas St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1M7",
+            "short_name": "M4L 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1987 Dundas St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1987 Dundas St E, Toronto, ON M4L 1M7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.66899739999999,
+            "lng": -79.3139869
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6702841802915,
+                "lng": -79.3122889
+            },
+            "southwest": {
+                "lat": 43.6675862197085,
+                "lng": -79.3153775
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "2255d5ee2753fe176d1ca96409a1b1e7005dd014",
+    "name": "Orchard Park",
+    "place_id": "ChIJKRHRIYvL1IkRrI6jizaknG0",
+    "reference": "CmRbAAAAo7dI6L6zb54Kn8-hNfepiXe7_DwQ6J3eypuM1M_lOaqXaAClM2-tOzBxYcCE8Fjo3-e4yjMi9zJjAMybYDC5COrPjGftnWZqwJhs6L8LQ2ZJ28YxNISillYm42sWbk7QEhCzZZp_5vfpLBej8Y7l6-l8GhR_h8bTCOrgPToLu_34eDxxOdXGEA",
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?q=1987+Dundas+St+E,+Toronto,+ON+M4L+1M7,+Canada&ftid=0x89d4cb8b21d11129:0x6d9ca4368ba38eac",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

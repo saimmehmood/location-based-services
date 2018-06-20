@@ -1,0 +1,174 @@
+{
+    "address_components": [
+        {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Glen Manor Drive",
+            "short_name": "Glen Manor Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2X2",
+            "short_name": "M4E 2X2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Glen Manor Dr</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2X2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "50 Glen Manor Dr, Toronto, ON M4E 2X2, Canada",
+    "formatted_phone_number": "(647) 967-1165",
+    "geometry": {
+        "location": {
+            "lat": 43.669928,
+            "lng": -79.29210599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6713004802915,
+                "lng": -79.29064966970849
+            },
+            "southwest": {
+                "lat": 43.6686025197085,
+                "lng": -79.29334763029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d4a0b2685a95479175a22f5922bbf8a1e6e18542",
+    "international_phone_number": "+1 647-967-1165",
+    "name": "Official Media Group",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 9:00 PM",
+            "Tuesday: 7:00 AM \u2013 9:00 PM",
+            "Wednesday: 7:00 AM \u2013 9:00 PM",
+            "Thursday: 7:00 AM \u2013 9:00 PM",
+            "Friday: 7:00 AM \u2013 9:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 6667,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112824720257386678152/photos\">Official Media Group</a>"
+            ],
+            "photo_reference": "CmRaAAAANtrJDg2bo4fm2RyMnJhDUEzqJQ3qicNAAj9JP8yfsulwCmLHeG82oqIEbnnGTz-O0xkjjXQKPfhbISpT8BU-0R_GrU775hhz6BJ1FAZwY0S1sJlY4BANBa4pOkTWVuFuEhBIliGOA1eWr-Ps0rMynEu_GhSa6CFyUBPs1uz80CtR4xwp1B4TFg",
+            "width": 6667
+        }
+    ],
+    "place_id": "ChIJq3fwbgDM1IkRCfHKchvb5A4",
+    "reference": "CmRRAAAAfp-inomDjtX7kB5cwtq8TZmTxchMMEhVtqB_TKX0Q7e2wz69Q1QI1NqN1aW9kY-TQfUAjftVbA985CW2h8xpMtBN2U-fP2QB--55I9LshdKZeCjJpQNRgr_BsCPZn3JwEhAtk8osEubC5FJw_7cnyZvsGhRpfVpRNrlq6apThKCVCQnTrfy0Sw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1073223522157523209",
+    "utc_offset": -240,
+    "vicinity": "50 Glen Manor Drive, Toronto",
+    "website": "http://officialmedia.ca/about/"
+}

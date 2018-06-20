@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "3252",
+            "short_name": "3252",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1A4",
+            "short_name": "M1H 1A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3252 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3252 Lawrence Ave E, Scarborough, ON M1H 1A4, Canada",
+    "formatted_phone_number": "(416) 439-7155",
+    "geometry": {
+        "location": {
+            "lat": 43.7573417,
+            "lng": -79.23902729999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7584975802915,
+                "lng": -79.23759746970849
+            },
+            "southwest": {
+                "lat": 43.7557996197085,
+                "lng": -79.2402954302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d2c29dc99355e76ba6177c369a707383df641635",
+    "international_phone_number": "+1 416-439-7155",
+    "name": "Air Flex Heating And Cooling Ltd",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100912572346868603345/photos\">Air Flex Heating And Cooling Ltd</a>"
+            ],
+            "photo_reference": "CmRaAAAAWsRTw6qd9MG_8T8H9LZGZTIBh5Ub11vGD5Jzd2-kZdMYiZbVm7406-lxagrz25iiwKOu0G8jPTRLdg9kTUAItNOV1AviMm2h28rIObPnRH1rZh2O_dymYWhrDpqBKURLEhDEvDL85agf7J8dhvfB_f1VGhQmFVivC1uRUuD2qhAZYbr_ghcjIA",
+            "width": 1536
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100912572346868603345/photos\">Air Flex Heating And Cooling Ltd</a>"
+            ],
+            "photo_reference": "CmRaAAAAmxt-uQ5QU9xbqsGtPB_bcxBd7NVByQN69m2XUxBAckB39qgQLZCkrmyKJBOWweGDn4md-YBVqvAiDBx18CzZDaNbZKPY5kkhoTo2DJLZ1Z_foM5UHetzYBNqqoi-dvBTEhAVfhFVem6o9A0Y_SrW0AA5GhShV-ms2_vByAXU8SntkXG726z5iA",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJxbjr1TXQ1IkREUPvm5tT1zI",
+    "rating": 5,
+    "reference": "CmRRAAAAkWPuXV8AZTlqqehjQUz59bdk1zTCpmCWJsMe_MX-bEGDc-h56SXuncn77KfohpFUo3x0c_v9lUUHQEay-495Rzsh_6tJr7YzXhrFuop_ZblUVx8875RRy1Dzy7FFqv0VEhCsoiOak-0liVfifMkjWjAHGhQVl98U0i_mMeDorFXZ0mpqP8LtSQ",
+    "reviews": [
+        {
+            "author_name": "Tina Wong",
+            "author_url": "https://www.google.com/maps/contrib/108097069590619216003/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-p30fVfxlgqU/AAAAAAAAAAI/AAAAAAAAAW0/DPPD4XjY4Ng/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "They do good, honest, and reliable work. I have used them a few times now for gas fitting and furnace repairs at my mother's house. She does not speak English fluently so I help her arrange for service. The technicians are friendly, patient, and clean. This is very important for my mom -- a little, old, doubtful, and timid \u201cneat freak\u201d. The pricing is always fair. They respond quickly and are polite and professional. They really take time to answer your questions to help you understand your situation and give you your options. They make sure you are happy and comfortable with the work they are doing. \n\nAir Flex was recommended to me by a friend. Now our own experiences have earned Lindon and his team our trust. I highly recommend Air Flex!",
+            "time": 1522096570
+        },
+        {
+            "author_name": "Atik Khan",
+            "author_url": "https://www.google.com/maps/contrib/111842402331833022237/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-hhmD1RIm76Y/AAAAAAAAAAI/AAAAAAAAAAA/Ci1NDDTq24I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "It seems like they have no value for the customer, I had called them and made an appointment. They gave me 3 hours windows, which I waited and they never called neither they showed up at my house to fix my air conditioner. I called them after 3 hours and they told me they won\u2019t be able to make and they were very disturbed that I called. They made me feel so guilty. I still thank you and hope you guys best of luck. You guys made my day by showing no value of my time.",
+            "time": 1529460362
+        },
+        {
+            "author_name": "Steven Kotzilelos",
+            "author_url": "https://www.google.com/maps/contrib/104504537003269483504/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Ua_AzJGV_KE/AAAAAAAAAAI/AAAAAAAAACg/fay7SfQvidY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Had furnace and air conditioning replaced few days ago. \r\n\r\nInstallation and clean-up was great and on time. No air or condensate leaks anywhere. Everything was very professional overall.\r\n\r\nSales pitch was excellent. Lindon came to the house, saw what needed to be done and gave a range of prices based on different available models and brands. I received all brochures and information pamphlets needed to make the decision. If you are like me and need two weeks to look over every statistic and price then I recommend giving them a call. \r\n\r\nAir Flex was recommended to me by a friend.",
+            "time": 1506468408
+        },
+        {
+            "author_name": "lu D",
+            "author_url": "https://www.google.com/maps/contrib/110338462667968619010/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Or2NADv80Ag/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2c6hBY_8_1QhJhlK0JifOgBDcLGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "They are very reliable and alway do what they say. Jay has been very helpful and upfront about it, he take your satisfaction seriously. Since the time my previous Hvac guy was not honest and always goes in circle and he charge way too much. After i decided to go with another Hvac for my home comfort  need i  ran across  air flex website and gave them a call. After that I have not use anyone els, their cost is fair and they don't upsell you what you don't need.",
+            "time": 1523413836
+        },
+        {
+            "author_name": "Anthony B",
+            "author_url": "https://www.google.com/maps/contrib/104579453930827534233/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aNeh034P9BY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3RZ3JdnZsGG-sc7VggRLjXW2wKig/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Lindon was recommended by a friend and I contracted him to replace my old hot water tank.  He was professional and thorough completing the job and the new tank is working great.",
+            "time": 1492312454
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3663488749690372881",
+    "utc_offset": -240,
+    "vicinity": "3252 Lawrence Avenue East, Scarborough",
+    "website": "http://www.airflexltd.com/"
+}

@@ -1,0 +1,254 @@
+{
+    "address_components": [
+        {
+            "long_name": "1326",
+            "short_name": "1326",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Z1",
+            "short_name": "M4L 1Z1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1326 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Z1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1326 Gerrard St E, Toronto, ON M4L 1Z1, Canada",
+    "formatted_phone_number": "(416) 465-6021",
+    "geometry": {
+        "location": {
+            "lat": 43.6716811,
+            "lng": -79.3253653
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6729490802915,
+                "lng": -79.3239812697085
+            },
+            "southwest": {
+                "lat": 43.6702511197085,
+                "lng": -79.3266792302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5a2eeb71f3b76830d7df7be0f489d47f676aa33b",
+    "international_phone_number": "+1 416-465-6021",
+    "name": "Riverdale Immigrant Women's Centre",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108563018389278727994/photos\">Riverdale Immigrant Women&#39;s Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAy3SXq9pw2MG87ITf8x4eF4MZZSgTJyQLGQTWeYSd2DSOgYl673ulvJcxOod2c0js3c6ErnmmZHMs3Lb1jr0xLjLGSDfpYrzVNuXzL--WkrtQmHMpAAetG6OkGs_-atCdEhBrTQph6a2DwotM6W4yTn4IGhTpDWB7appk2MRP2kiez2duURdw4w",
+            "width": 700
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAA-glMSrjAL4q7pT9OkjJ5qwRI9Nn2EUT1rS1MWLvaYovTuu_FGN2Rokm-JRQlX-l07U8vQbaZtmnBdrIs-CGxAvFpzyJRPbkRDhjf7Z7SMBocqUePIwlhmWucYPmkZtQjEhDUXMs0P27Awr_7DAJPuoakGhSSCL-OOIULeMgvkh6Uzk6CoMIWDw",
+            "width": 3872
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108563018389278727994/photos\">Riverdale Immigrant Women&#39;s Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAMI7LFQ2hLhQWuA1M1eci0OdUVu9Y9HqxfT96jtF4qhIJwYwg9Qq92fbtKVEwRKh13k0Ad0Ky4TLUDRcO2DegdmxaupFVUsbHocVlP0Gq-KNMs-J_VtCOHIVN0vcV4-VEEhDron1p6OmT-SoL3Kcp-D0UGhRHxwmg9cQ-mY9RJXwpVLmjmfvLSw",
+            "width": 700
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108563018389278727994/photos\">Riverdale Immigrant Women&#39;s Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAG85nwfy67pBgDk6S5iTNvNoIVlX0_p9kVaHVaVyU9N5xsc5VqaHIWKz9rgeK6tJ_D--TAekuTiU-1QpQGJC7vO9jVDzyLAlZqeq-aFJKg0Y5FhqwWV6B2bW_imBOmrpwEhBzDt91dkaF0thwMnLdRAbLGhRdo0nI1f6Sof8GGLC8uDmI9r6x-w",
+            "width": 700
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108563018389278727994/photos\">Riverdale Immigrant Women&#39;s Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAArsJZ1ZAu_5vKU3Bsj1caWpeBp_-PMH6qTlN8m8L8hDoQsk0x2jdD9pXt2OwdyuvIa6_3ge7sBgjf8NRtjcHwQ7KtZ_xEFz7erDYlxBQ7SSP9jQg2P70TsfDG-PmJqfxeEhDGHRxG-wR1MvCKT3MJ2TrZGhTG5EPOGLZ9EtfOClOLQ3uh0NgLyA",
+            "width": 700
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112509357044587208078/photos\">Mosunmola Adedeji</a>"
+            ],
+            "photo_reference": "CmRaAAAAB8uMJgSFXk-7pGccRQCXc5GG4zZdEFHbLdB6VswqmJGgSlSWgzXfPSdmXTwPFQuxAO-KJdr02k8FYJL_G53tcO9asIAgpiCc0S_fyTNCPcbfixtKy4XrYU70UKU2CqfVEhAW4BzBhCdnR8cN3Ct1d-sbGhRbwE2JD89BYd0szIXXpPVQoPF0rg",
+            "width": 1440
+        }
+    ],
+    "place_id": "ChIJlfhH7YfL1IkRLqcO5Se3hxw",
+    "rating": 3,
+    "reference": "CmRRAAAAgiAKtNDhESHHE7YRt6L8MSTC9e7_eysQRBIVqn5tvxxJ8ZbBU-k85MUf0EQq-kpctb5CscHkGXVVnMkZr0a9lmbiWinqgi4IyomWjumxwkRMw2oGuMvZsWF-S9BcBC6uEhDECHOC81Jy7UW80huoE-KyGhTQeacI_oe21_5i-wymy8YkcjG7iw",
+    "reviews": [
+        {
+            "author_name": "Karen M",
+            "author_url": "https://www.google.com/maps/contrib/104830727021233889198/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-N_b5kZXdOy4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0lSy3t04L5L0sfUodIEWjBXUgs3A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "I came here for counseling service 2 years ago, and my counselor was amazing. She supported me through my most difficult time until I connected with another long-term trauma counselor at Women's College Hospital. Later on I would like to connect with my counselor, I heard that she left her job and went somewhere else. \n\nI felt bad about seeing the negative review here since the staff here has been eager to help out clients. \n\nHowever, I heard from a friend who was a volunteer here about this place. She told me to stay away from here if you would like to be a staff or volunteer since it is not a good environment to work there. They really need a new leadership or the staff turnover rate is very high. Nevertheless, the staff here are very friendly and professional. For staff, I would give 5 stars. I took away 2 stars due to some other issues in this agency.",
+            "time": 1487711038
+        },
+        {
+            "author_name": "Jobitha Mogan",
+            "author_url": "https://www.google.com/maps/contrib/111436703056378215076/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-T5uAgftaElU/AAAAAAAAAAI/AAAAAAAAAI0/6UhZ0RUCVxo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1522106483
+        },
+        {
+            "author_name": "Ramadhan Abdulaziz",
+            "author_url": "https://www.google.com/maps/contrib/117012003351043384044/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-CVpzILNdP0I/AAAAAAAAAAI/AAAAAAAAVuo/WhbSXlrT-r0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1499388992
+        },
+        {
+            "author_name": "\u0643\u0644\u064a \u0634\u064a\u0627\u0621 \u0641\u064a \u0627\u0644\u062f\u0646\u064a\u0627 \u0648\u0644\u0627\u0644 \u0639\u0644\u0645\u0627\u0645",
+            "author_url": "https://www.google.com/maps/contrib/104243271920780901286/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-lmGDpjTA2-0/AAAAAAAAAAI/AAAAAAAAACg/PKW0uf_QYZs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1503267081
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2055813136892471086",
+    "utc_offset": -240,
+    "vicinity": "1326 Gerrard Street East, Toronto",
+    "website": "http://www.riwc.ca/"
+}

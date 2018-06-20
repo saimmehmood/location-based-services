@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "3555-3601",
+            "short_name": "3555-3601",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "The Credit Woodlands",
+            "short_name": "The Credit Woodlands",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5C 2K8",
+            "short_name": "L5C 2K8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3555-3601 The Credit Woodlands</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5C 2K8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3555-3601 The Credit Woodlands, Mississauga, ON L5C 2K8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56099339999999,
+            "lng": -79.6666721
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56234238029149,
+                "lng": -79.66532311970849
+            },
+            "southwest": {
+                "lat": 43.55964441970849,
+                "lng": -79.66802108029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ada819e5000897fb3e6875f247263c965a013f87",
+    "name": "3555-3601 The Credit Woodlands",
+    "place_id": "ChIJp7Y7UVtBK4gRYc3CN77JTzM",
+    "reference": "CmRbAAAAgirO0QRpyB9DTsz6kL0_4UUSnalE8uxJBd5u-V3wVmimhp8HnRGF48uDUSbRTFD5J66DKjkCm-VcHriOSnvyL1mPD7JjZQC2TeAlYvyQZDQsvKhmRVeGgBEmokGSkx9bEhAEMCAUxZ5qnnGpQkPDtLJJGhT4hAcC7JdSCK6iLqnCnVZhTbidkA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3555-3601+The+Credit+Woodlands,+Mississauga,+ON+L5C+2K8,+Canada&ftid=0x882b415b513bb6a7:0x334fc9be37c2cd61",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

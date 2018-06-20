@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B7",
+            "short_name": "M1R 4B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "85 Ellesmere Rd, Scarborough, ON M1R 4B7, Canada",
+    "formatted_phone_number": "(416) 444-6629",
+    "geometry": {
+        "location": {
+            "lat": 43.7572382,
+            "lng": -79.3118882
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7585871802915,
+                "lng": -79.31053921970849
+            },
+            "southwest": {
+                "lat": 43.7558892197085,
+                "lng": -79.3132371802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d9bf09c6f32feb81e6da912323bfbf9bcb4af75b",
+    "international_phone_number": "+1 416-444-6629",
+    "name": "Bailey's Home Hardware",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAKyNGD-HZ3Ao-khi-ViRvGjnsEk676LWTL80GlJj0ZZnL5Z-xZ88NLS2yV2rjenLnQhU2n8b-nQHdymN-cllgJbB2VJJ9VKzkzbOjHcOoQ7AtVvcBGLoRs7wJ2cfPc9JVEhApnQbfc9_3kgXBDQWF-smUGhQr1J2hG4H0ABumh-e4imn1xkJn8Q",
+            "width": 5232
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110123134542227265120/photos\">Richard Tung</a>"
+            ],
+            "photo_reference": "CmRaAAAAf5ePAoMDhIkftCgLjl_7cHxl4IZWN2SiOBUoSe2vpkEhJ-ctz5NOdtCxkmfCID1P_iGGrJ0SCwkY8BslgB5p2KhPraahK8kwKqiKFYEPHqKsH-kLiYDYU-AlhUyzROogEhDcXSxqj0ix9hgIJyq0BvRVGhSkYUOH9MQ01cF_JRE4WZKgntEJuw",
+            "width": 3984
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112547155007125889072/photos\">Luay Alniser</a>"
+            ],
+            "photo_reference": "CmRaAAAAm9iGvmAJjoOZD1yqfH0AT_RwXaOI8KVm9gVXdnutvKt6cC-KNON-BF4BqwF-0yGgPVpVS8Qag3EpeFyHAqy8XHNL9arbGfhFgQgZgn2f_NwIEFzRD-wn5q8qg5iF2-Q9EhA_po9utGKuOwz0QlcmcmzAGhSYdqoVi9p_5M3kj1FiCYhPSxkNQA",
+            "width": 4032
+        },
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAASrWZC0eh_MOhy9Fsx7q739w8iO9kSF-AnS4EcQFtKLRaa9a1eq2zIHCQQ-TvIvGm0gG5-CQ36X6-YGUsuWJHoAIrBz4LUrK9Daj4L9q2lnWDp__Ph0iwVEq5_iAUVvUCEhDO6KofyDE1RuZ476_ewb-jGhTmW5g8Gm_rHZwM3Q1Oj3yBRSX2EQ",
+            "width": 5232
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAiOjCyEbAOdUIsQ_QhdFidyinWvS1IeRrqPvF4JLxcr6CynxSMQz4sS2n6hS0LVSJIikk0RbpmSkc4rWabmXqybnPvUJ7HA_5Wwq4F_brFCPjDg4YKfI3TRt4k4uVLI8qEhCGQuvvMtoMsN8RxLrm_u0YGhSmJCNTc1zdF_IeHzpADolxw7NGVQ",
+            "width": 4896
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAdlkjnF8jhtQvZncMJHA7JzUmI-CBiWL34EmFYYpAQmn635DPFGmuIWxmAobYZiVQ01l60BDA8rEk9uOGfXGN-KmqG3VV9p0Mna2a1t8iTnCvNp3TCFxMkdBk7RBLToFKEhCP5oFWt0pXMa39HCXqaZ04GhRZLtai4n1ZMd7G_eMiQxMxKa9oOQ",
+            "width": 4896
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAtnNmsZXJuuIpACMTVpP1T96QujWTJl6FXo9rnKg4zVh_RQgVD_-ASYQXgGv0GRbFPTiCIvPOs0OhLOWkdHv-uwKys-z-khlxiF98YP-je5qbKfEKKZHyHR3DQgk2VfrJEhA4b1ryPK1z5ehrw74nJjj6GhQtaXAurIC9Fk9FzSB3iJ8a_eL6fA",
+            "width": 4896
+        },
+        {
+            "height": 1518,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114842505477372159901/photos\">Chen Shaowei</a>"
+            ],
+            "photo_reference": "CmRaAAAAFy_Pk4_Da5YfYOW-oLiRf0U6KlNwEbSQr0MDIJj2-tyw9XGDvY47aUM-kqffvJ_PG796P1QXXIXAomUiiroEo216OKmctIPpVWLw4J5begNHhsJqoZoFUurnITshZDx_EhA8mY1iJ_n1quEB7mrYFJG9GhTruNVIHc9BvJnbqhxFgfgJzCFQzg",
+            "width": 2048
+        },
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAi_WGvaeWymG5aOn8YgyanELLdT7sc0g0nKYnOYsdAqN4lcgSCyfW8jrW3FBFAjjPdiTlQYTz4si7IL4fNutblKm-FHjkQM4JjOuq2F-L19UYH-QodncsQzMx0ZHvTGH-EhC9w4Qnus0mNvUWbpt-lAxWGhT5y8lbefdtM8OOTXRz0BE3YuWAwQ",
+            "width": 5232
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100368535221758578019/photos\">Jacinta Ng</a>"
+            ],
+            "photo_reference": "CmRaAAAAapJIGQkpFJdqCIXMk2IP0rE3F_11gLLHAnPpZNnooYBv8DZ9fZkJJygrnVbbBPjttVnKMDzCSfdgHcJ6ecvQxe7ueIWLISYgoZtahLnCVhBBJ7LN5z0ojpNSn_VeecjNEhBs8JgjSUjG7790YtTUqBZzGhSltDPaza4O6pGjg0npaAL7yQVj-A",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJ41VtI23S1IkR76_BFqCZ4_o",
+    "rating": 3.9,
+    "reference": "CmRSAAAAvM1A4GWqFW6x5CiHDSgpd0zSzwzvJpk4JPVK-1lN07BYrWy8xsOzDwSD3xl3J2Of7QOiyll19O8gGgXhe9jMS6YyxmnPInFBEmEDzoa_c4hc7MVyPr6TUvwzVsTzv9LUEhCfyHM0wB3xsN7OCZZ9NPhPGhS-F8irRctL6o64C6GdikiGd_dVNQ",
+    "reviews": [
+        {
+            "author_name": "R Artz",
+            "author_url": "https://www.google.com/maps/contrib/110460013952234626368/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Ixu-zKMoZ4U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0KIIVAeJ2tSJNg0gBESlCvS3d6oQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I don't know how they do it, maybe it's sheer luck or they have a winning formula for hiring great people. Everyone of their staff that I deal with in-store or on the phone is incredibly polite, helpful and all-round nice!  Bailey's Homehardware is simply the best store ever. I would rather avoid the big box stores like Walmart or Home Depot and experience good old fashioned customer service from this small retail shop. \n#customerforlife",
+            "time": 1528648803
+        },
+        {
+            "author_name": "Caesar Chan",
+            "author_url": "https://www.google.com/maps/contrib/115982149279987278068/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kyBwlyWBk1w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0WxIgmWMyVE9v0fttpWHWkSyMySg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is what I called Honest Ed's 2.0 that cater the local neighbourhood's needs at a convenient location.  It is nice that Home Hardware give their franchise discretion to have bring in everyday goods that is very affordable for the fixed income crowd. Staffs in general are very patient to the type of customers they serve.",
+            "time": 1524091573
+        },
+        {
+            "author_name": "Lynn Pedersen",
+            "author_url": "https://www.google.com/maps/contrib/110068316530336646445/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-aASUVIrTKsQ/AAAAAAAAAAI/AAAAAAAAAE8/fSBDdr6SH_0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Lots of great deals friendly staff",
+            "time": 1528770103
+        },
+        {
+            "author_name": "Ms Cherry Cola",
+            "author_url": "https://www.google.com/maps/contrib/102901623374597425878/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3EUJi2iwTpE/AAAAAAAAAAI/AAAAAAAAE1g/U9DWUTxpZPI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Hands down best shop in the city. \nBailey's owns this store and another one in  Cloverdale Mall and he is independently operated that's why he gets the best products for his customers.\n\nThis store has treasures. Branded Sports Illustrated desk calender only $0.49 tax extra. 3 pk Berry TicTacs $0.59. Mio liquid water enhancer $1.09. Variety of different items weekly. \n\nThank you Bailey. I love your store.",
+            "time": 1518055701
+        },
+        {
+            "author_name": "Pascal Sol",
+            "author_url": "https://www.google.com/maps/contrib/101183825364926370113/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-uZRe0Lu2mpQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1o9w4Pvjl8DmfkM7KucxqdtfoyUw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Amazing gem in this rather shabby mall. One of the few highlights of the mall really, quite sadly. Great deals, friendly, helpful staff. You will always walk away with a good deal on merchandise there. A great place to shop!",
+            "time": 1502930732
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18078462242050912239",
+    "utc_offset": -240,
+    "vicinity": "85 Ellesmere Road, Scarborough",
+    "website": "http://www.homehardware.ca/en/dealer-microsites/1234-0/contact-information.htm"
+}

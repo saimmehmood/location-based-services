@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "10-4",
+            "short_name": "10-4",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ben Stanton Boulevard",
+            "short_name": "Ben Stanton Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H",
+            "short_name": "M1H",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10-4 Ben Stanton Blvd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "10-4 Ben Stanton Blvd, Scarborough, ON M1H, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7575157,
+            "lng": -79.2383763
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7588646802915,
+                "lng": -79.2370273197085
+            },
+            "southwest": {
+                "lat": 43.7561667197085,
+                "lng": -79.23972528029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b8adc92fdc68ad77c06592794ce0ceabbbaa3472",
+    "name": "10-4 Ben Stanton Blvd",
+    "place_id": "ChIJN8ODazbQ1IkRhZPTthYdmTs",
+    "reference": "CmRbAAAA6ySx90picU81xbHd44H1T7X2ocEiEL0aqDNgaS36yiJcLFgHqkuyonh6M5im-1Q5Ti49XNcAPGwGJ6XCDce6nW2jFKgEh0Ki6en2FZ3ypugGvguT_OU1bZwUukCYQGWkEhDko8uU76CSBrSTFG6kLNGvGhSb6-pUg-CPQU4Q09kEPGK2E4f2aA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=10-4+Ben+Stanton+Blvd,+Scarborough,+ON+M1H,+Canada&ftid=0x89d4d0366b83c337:0x3b991d16b6d39385",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

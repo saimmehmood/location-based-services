@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "36",
+            "short_name": "36",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lyon Heights Road",
+            "short_name": "Lyon Heights Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 3V7",
+            "short_name": "M1P 3V7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">36 Lyon Heights Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 3V7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "36 Lyon Heights Rd, Scarborough, ON M1P 3V7, Canada",
+    "formatted_phone_number": "(416) 759-2850",
+    "geometry": {
+        "location": {
+            "lat": 43.75811059999999,
+            "lng": -79.2592335
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75948168029149,
+                "lng": -79.25777361970849
+            },
+            "southwest": {
+                "lat": 43.7567837197085,
+                "lng": -79.2604715802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aae77885e39a2538e441c2dd16d9eb75e1633d27",
+    "international_phone_number": "+1 416-759-2850",
+    "name": "Royal Custom Interiors Ltd",
+    "place_id": "ChIJZ_DSVcbR1IkRRApzwnbNqZM",
+    "reference": "CmRSAAAAKCEsGWwjzetPuKd5e5fCK-s6mErejT9if8OzxnvtB4LIsj1Qk72MsGFr4Pgqxt4U9jU9m5WErXg1HLXT9dQfRtItZvPA2nDIDCbCBrTgY_jQ1l4x2pA6or2__7asDXhZEhD_gQco2L9pV-Bil2ofxAbMGhRFQhnANwwB-_MS7k8g9lT9oPgcXQ",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10640261504591661636",
+    "utc_offset": -240,
+    "vicinity": "36 Lyon Heights Road, Scarborough"
+}

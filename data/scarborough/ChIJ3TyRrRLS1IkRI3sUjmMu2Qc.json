@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "95",
+            "short_name": "95",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B8",
+            "short_name": "M1R 4B8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">95 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "95 Ellesmere Rd, Scarborough, ON M1R 4B8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7573341,
+            "lng": -79.31211789999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7586830802915,
+                "lng": -79.3107689197085
+            },
+            "southwest": {
+                "lat": 43.75598511970851,
+                "lng": -79.3134668802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "08074a777e1cc9cdc113b1b499415254562d477e",
+    "name": "Active Men",
+    "photos": [
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAP_AVLEtEP4COAYseJl0dg4Ch-8YJZf93zmY49BK_fOOXWc-hiqSmfCdKks3PEb7oXJeRZ4Rq41TioxHFnqm-y3538SyxLmroZoI6qtQ8bh7jEyFZ_xloSl-Yv6ZIJfzYEhCn6uYBr0JIEANrE4R-MjzVGhQHvc1zNgjX42MaAQUmfqOQGjdhZw",
+            "width": 5232
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAUKBzO8K6AQTevNbeLMmLtmUIGkkcJnGzVIdf5Vogat7mN6P3lfjYu-crXGIBxjtyEJbXxnId_XJGBPUhIpIrKkbtcx9f8tgemTyrECHngvhly2tbmnnBFuffn665xIgEEhCI_zLjrrM7nfhLlUpB74BnGhQAUrbZAUHi7UhqXTWHjnCskfLteQ",
+            "width": 4896
+        }
+    ],
+    "place_id": "ChIJ3TyRrRLS1IkRI3sUjmMu2Qc",
+    "rating": 4,
+    "reference": "CmRRAAAAxDEEa9I3knrgDDah8_SuO-7tNNglMdNBTxyIGyRPZe05keiIVDiWLAzjhpmk9bHEPkLZI-snU8-upNbvN3QlDXHRroOWoH95uKlJz-S5Rk9Ym2pREvo6NF1traJkmzwDEhCu_fK1T-ddplJ3hjfN8JRgGhQRrl5DjEwJeTRLsqvOEpHt0ahJdA",
+    "reviews": [
+        {
+            "author_name": "Heather Bolt",
+            "author_url": "https://www.google.com/maps/contrib/115901092177843856924/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uxYpTm9uE_0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2HKy-riJ5DtGYJqYkGjwUXrXpzmg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1512335440
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=565534233332054819",
+    "utc_offset": -240,
+    "vicinity": "95 Ellesmere Road, Scarborough"
+}

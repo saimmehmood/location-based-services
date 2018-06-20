@@ -1,0 +1,209 @@
+{
+    "address_components": [
+        {
+            "long_name": "29-85",
+            "short_name": "29-85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ellesmere Road",
+            "short_name": "Ellesmere Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B9",
+            "short_name": "M1R 4B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">29-85 Ellesmere Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "29-85 Ellesmere Rd, Scarborough, ON M1R 4B9, Canada",
+    "formatted_phone_number": "(416) 439-4786",
+    "geometry": {
+        "location": {
+            "lat": 43.757441,
+            "lng": -79.31254899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7592493802915,
+                "lng": -79.31140646970847
+            },
+            "southwest": {
+                "lat": 43.7565514197085,
+                "lng": -79.3141044302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7f8933380cb8621f1bc519b3d000ec3dd62aac24",
+    "international_phone_number": "+1 416-439-4786",
+    "name": "King Furniture",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAA4Lhif9xK03QxABwjqOQXPznONy-usRTZcJUHtbI1s5KYO73OYP1TgW1RKQB7krOF_jmgC7D3MSKmRQPMQHFfNHC8J1kUEQyCc_IB5xfxQgd3ZJ-Bac0f7Ua4dRD8js8_EhDgbTUCFLqlv-1v8MewotyBGhSCTAWXm0X_XsCwVdB0h8_61PJRhw",
+            "width": 5232
+        }
+    ],
+    "place_id": "ChIJweyutRLS1IkR-vdBAUBjul8",
+    "rating": 5,
+    "reference": "CmRRAAAAnGlEYYYVaelK2ejUchywS8-b1hDgj2Lq22mnCwauELhMIJ1uRVBnVLuUAIAjV0sz_XzFXxTU65jEuYRefmZu68TOPv21TjKRc0nJrGtqzNEO4o7AVOaJFL87flvqk4w9EhDDRT5i1yFbWVVL-UbcwzKlGhS5rtv2ZMbbsROd4ZrGGo0SR8niwg",
+    "reviews": [
+        {
+            "author_name": "Sagar",
+            "author_url": "https://www.google.com/maps/contrib/114426425321090554046/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-3vYfm3hoyz8/AAAAAAAAAAI/AAAAAAAAHZg/hQmNgKjH-mA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Amazing custermer service and very good people there",
+            "time": 1477852564
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6897934905821493242",
+    "utc_offset": -240,
+    "vicinity": "29-85 Ellesmere Road, Scarborough"
+}

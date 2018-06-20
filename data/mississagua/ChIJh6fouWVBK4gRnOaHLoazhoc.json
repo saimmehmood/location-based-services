@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "4201",
+            "short_name": "4201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bridlepath Trail",
+            "short_name": "Bridlepath Trail",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5L 3K3",
+            "short_name": "L5L 3K3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4201 Bridlepath Trail</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5L 3K3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4201 Bridlepath Trail, Mississauga, ON L5L 3K3, Canada",
+    "formatted_phone_number": "(905) 607-2297",
+    "geometry": {
+        "location": {
+            "lat": 43.5604757,
+            "lng": -79.67965079999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5618999302915,
+                "lng": -79.67822096970849
+            },
+            "southwest": {
+                "lat": 43.5592019697085,
+                "lng": -79.6809189302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "05d6d8bba2bbebbf6d07b30c7bb453eddacd93d4",
+    "international_phone_number": "+1 905-607-2297",
+    "name": "Advanced Knowledge Network",
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105589769933282865961/photos\">Scutu Mix</a>"
+            ],
+            "photo_reference": "CmRaAAAAcUAJ31VTd47KFQ5xZjLByz_DpwNEPd5hQXwd6-mcUcvHlz9E9St3aw18Lw7FiFgALMISR3Ox-0QWIZhc9_osaKtbhsYhk1cyovKxMzQ01erajtFMUglZFN5hXwr4hR0wEhAw9iuVT9bBk3J3td1pWmVsGhTqafArL9GOlCg_vuHu-ViDB3veVQ",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJh6fouWVBK4gRnOaHLoazhoc",
+    "reference": "CmRSAAAAHpeMQBNEvT18UeLNr3_bwZY_Qk5dUXin-odcO8sthQkpsFenJRJRJHkp3IuUKXZsfY4v4w748pp95f6sazxuSY0tAFEpp-M6NVDcSsrrv7ythjU0gy3GiyBnxpPfKlIKEhANnF-PMocg1bHrBXEeaVGPGhSYeSmX3U8aWIbdqdn83HoZq9vjeQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9765690230887147164",
+    "utc_offset": -240,
+    "vicinity": "4201 Bridlepath Trail, Mississauga"
+}

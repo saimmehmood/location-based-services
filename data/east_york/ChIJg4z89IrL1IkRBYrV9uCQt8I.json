@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "5-21",
+            "short_name": "5-21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Maughan Crescent",
+            "short_name": "Maughan Crescent",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L",
+            "short_name": "M4L",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">5-21 Maughan Crescent</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "5-21 Maughan Crescent, Toronto, ON M4L, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67006420000001,
+            "lng": -79.3154297
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67141318029151,
+                "lng": -79.31408071970849
+            },
+            "southwest": {
+                "lat": 43.66871521970851,
+                "lng": -79.31677868029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3f7c34c30e0481c8a2c49cd20df7abf244aa4176",
+    "name": "5-21 Maughan Crescent",
+    "place_id": "ChIJg4z89IrL1IkRBYrV9uCQt8I",
+    "reference": "CmRbAAAAh4I6kYvfcjqyVzoypPFVY6t_--Nmit7f67AdfgFZBAnTHLvOOZ4fpxpOK4wxxPJUwXwJrKPEJ6lS8lJ3Mh4umA1sZd1NSL4By9E8tl6-MiSKBb4i53vI8W7tBa-OcjEIEhBkcepgPE7GmZch1XUqkpwQGhRTCjXtQ0dQKPM1WQdRx3Y8l9-M6w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=5-21+Maughan+Crescent,+Toronto,+ON+M4L,+Canada&ftid=0x89d4cb8af4fc8c83:0xc2b790e0f6d58a05",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

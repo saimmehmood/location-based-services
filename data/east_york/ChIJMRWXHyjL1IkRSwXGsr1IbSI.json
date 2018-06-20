@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "525",
+            "short_name": "525",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Carlaw Avenue",
+            "short_name": "Carlaw Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 3J3",
+            "short_name": "M4K 3J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">525 Carlaw Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 3J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "525 Carlaw Ave, Toronto, ON M4K 3J3, Canada",
+    "formatted_phone_number": "(855) 826-3535",
+    "geometry": {
+        "location": {
+            "lat": 43.67063230000001,
+            "lng": -79.3437613
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67195933029151,
+                "lng": -79.34251406970849
+            },
+            "southwest": {
+                "lat": 43.66926136970851,
+                "lng": -79.3452120302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c137353f5ee4da9159619c13f9d618489db50674",
+    "international_phone_number": "+1 855-826-3535",
+    "name": "Big Paws Inc (Eastend Location)",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 8:00 PM",
+            "Wednesday: 12:00 \u2013 8:00 PM",
+            "Thursday: 12:00 \u2013 8:00 PM",
+            "Friday: 12:00 \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102311429958741717000/photos\">Info Big paws</a>"
+            ],
+            "photo_reference": "CmRaAAAANhTWTDCP8n-yT5qGA2IWVydHrRwo7NMnUZMAhjLRwRdTqMqGQpxe83-Rr2qmyRX6fdf7aecoLxXx3v_wzSfMHRtWFx8b4rPLbWX56x6mYGZshN_hylbQB0EjE6n-I5_4EhBUcsshX2wBvTyjkSXxUS4BGhR9r4VrTG8lWFSykMZWpQz5h6tY7g",
+            "width": 3024
+        },
+        {
+            "height": 1564,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102311429958741717000/photos\">Info Big paws</a>"
+            ],
+            "photo_reference": "CmRaAAAANdvASLtW10fOlBR05lzqnvjBH2HIF24UWWJfqf9nv_unlKwhaKKJ8wlpw-mR5yJ7Gm16QVsBdVROYV8CpOYZDq3V4IHzBIAovC_jWQQF3nQZj3iWS_UV8gPgc2ETzp0tEhAIreoZTFgJz7QasnCJ0NAsGhRwAyAUILJCEgJ08WDQOTe3rN1zcQ",
+            "width": 1564
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102311429958741717000/photos\">Info Big paws</a>"
+            ],
+            "photo_reference": "CmRaAAAAiX6ikm0QyAst0iAx7CWw29f2wAxHpzoSDd8MroCSqWL8J6XHu3fxFP-rexFeZ1FecGFsFqJP3NCkP_IZxI6S1qGuYMq6900089kgi5fRhI_zPVehV6Royzcagw2oPtOiEhAcb0vJhOgAf68fysfP4KuTGhS3_H9BC0faKaPJVM3jEQKJhZ2ePA",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJMRWXHyjL1IkRSwXGsr1IbSI",
+    "reference": "CmRRAAAAQH0fR1FGltPasqhzNkR0Q-R4g18efWmOeLdjPX-IIJbtXRZqqUy-fgKFXS7Ht6Jjfp7yM8CZAGaWEZimgMo6FXIQOfhfd4ojWrd6GVP6MXd8h9upIDosc1fYAuQQveSSEhDkPTMzC1K931yz75BDBWZLGhQGoWEZ3aCFK_DZHP6Gryw8VHE0Ng",
+    "scope": "GOOGLE",
+    "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2480718949336352075",
+    "utc_offset": -240,
+    "vicinity": "525 Carlaw Avenue, Toronto",
+    "website": "http://www.big-paws.com/"
+}

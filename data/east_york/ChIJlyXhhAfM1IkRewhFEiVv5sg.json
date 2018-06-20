@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "2014",
+            "short_name": "2014",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1J3",
+            "short_name": "M4L 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2014 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2014 Queen St E, Toronto, ON M4L 1J3, Canada",
+    "formatted_phone_number": "(416) 691-1071",
+    "geometry": {
+        "location": {
+            "lat": 43.6703357,
+            "lng": -79.2991562
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6716352302915,
+                "lng": -79.29778676970848
+            },
+            "southwest": {
+                "lat": 43.6689372697085,
+                "lng": -79.3004847302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "74e11588b93577af043d44d165dc75a6ede2bbd0",
+    "international_phone_number": "+1 416-691-1071",
+    "name": "Dr Linda Winter",
+    "place_id": "ChIJlyXhhAfM1IkRewhFEiVv5sg",
+    "reference": "CmRSAAAA3SuH4NNBhRZcxK1BWs-BxV2ubIR0Y0zZkjGw442MsS5BgSeTcOkGu3bsE8aWJ7S9XCdQWgaNKilgRjCU-pU9LfXBsG-z8-kW-p1e_o2eL1T0jXiS9vJHfs8B0UszPVMgEhCHtO4jIhmoYuMnzOeFErVrGhQn0F2uDnAPY1KIvzRkrHgUag9DGw",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14476380257240025211",
+    "utc_offset": -240,
+    "vicinity": "2014 Queen Street East, Toronto"
+}

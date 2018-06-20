@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "159-205",
+            "short_name": "159-205",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Coxwell Avenue",
+            "short_name": "Coxwell Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3B4",
+            "short_name": "M4L 3B4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">159-205 Coxwell Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3B4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "159-205 Coxwell Ave, Toronto, ON M4L 3B4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6711585,
+            "lng": -79.3185548
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67250748029151,
+                "lng": -79.3172058197085
+            },
+            "southwest": {
+                "lat": 43.66980951970851,
+                "lng": -79.31990378029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a310371d536bbc9ecc6558ec22bdf0f728b32244",
+    "name": "159-205 Coxwell Ave",
+    "place_id": "ChIJD_lM-InL1IkRG87ydYD-GiY",
+    "reference": "CmRbAAAAfXyUYl8CEkDdRgdw8kJKTLc2vTV2cbJlNs7ASLcLMAqbmimqvipjxSKdiSthPT0Tp9acE9bUpVKKYUbkHd2z7M-4VVvTJCZLG2Isd_AXR3Jxu_y_RfGGqbQCqNOPAOMQEhCThchgiWforO7Lp2_B53KJGhQfsH4Cxis31rjr-WwPhFs2N5CU4w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=159-205+Coxwell+Ave,+Toronto,+ON+M4L+3B4,+Canada&ftid=0x89d4cb89f84cf90f:0x261afe8075f2ce1b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

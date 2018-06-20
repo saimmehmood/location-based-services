@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "1908",
+            "short_name": "1908",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Aldermead Road",
+            "short_name": "Aldermead Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Erin Mills",
+            "short_name": "Erin Mills",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5M 2Z9",
+            "short_name": "L5M 2Z9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1908 Aldermead Rd</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5M 2Z9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1908 Aldermead Rd, Mississauga, ON L5M 2Z9, Canada",
+    "formatted_phone_number": "(905) 569-2664",
+    "geometry": {
+        "location": {
+            "lat": 43.5610513,
+            "lng": -79.69277240000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.5623297802915,
+                "lng": -79.6914567697085
+            },
+            "southwest": {
+                "lat": 43.5596318197085,
+                "lng": -79.6941547302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "8c0a38897a899d689ee4460a02eebe58fdfd3baf",
+    "international_phone_number": "+1 905-569-2664",
+    "name": "Housemaster Home Inspection",
+    "place_id": "ChIJvXj88HhBK4gRqY8W6LaBue4",
+    "rating": 5,
+    "reference": "CmRSAAAANXrkYS1pW_1RIQj6WQPWsGZsw8hmdr7nwq4pPhOAAEUNAtnPVLz3jTTlqsVlJ-iCi9tdEf-hGaKBRXaE7x1Q71io_dUAHSLwKARjLUHuwnCIFxsusnGEYuOBSrUTwNNnEhA67aI0Qn2TTNkyPtTkcBbjGhTin0M-aqb0EjdX_ADdKRGSbmUyww",
+    "reviews": [
+        {
+            "author_name": "Gloria Valvasori, Mississauga Real Estate",
+            "author_url": "https://www.google.com/maps/contrib/101874191901240035750/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-40FagYjb7ao/AAAAAAAAAAI/AAAAAAAABSQ/Pk1qu9u3kc0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "I have worked with Ray since 2003 and have referred many clients to him.  Ray is a very knowledgeable and thorough inspector.  He has an easy going personality, and welcomes clients to follow him as he inspects the home they are contemplating purchasing.  He answers their questions, and explains any concerns he finds, or what to watch for in the future. He reviews the report with them in detail to ensure they understands every aspect of the report.  I would highly recommend Ray and Housemaster Home Inspection to any Buyer looking to purchase a home with an honest and professional inspector.",
+            "time": 1527006485
+        },
+        {
+            "author_name": "Liza Alexander",
+            "author_url": "https://www.google.com/maps/contrib/109015610923072090927/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ykRzkjB-k3k/AAAAAAAAAAI/AAAAAAAAAEI/MRTt0D0mbxc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The best home inspection we\u2019ve ever had. Beyond thorough and extremely informative  while the home inspection was in process. We were involved along the way and it was a great and informative experience. I highly recommend this company and I especially recommend Ray Zammit! He\u2019s extremely knowledgeable and beyond patient. He made sure we understood every aspect of the home inspection and the final report. We will definitely use this company again.",
+            "time": 1521325582
+        },
+        {
+            "author_name": "Kathryn Papasotiropoulos",
+            "author_url": "https://www.google.com/maps/contrib/112133333319557712149/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-50NTFOePA3M/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3JPpDbcrcUXUCyx1EQA7a4v3mkEw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Ray was extremely knowledgable and helpful. He walked me along every step of the way and gave me detailed explanations for everything he noticed. I would highly recommend him and HouseMaster.",
+            "time": 1528163657
+        },
+        {
+            "author_name": "C Teixeira",
+            "author_url": "https://www.google.com/maps/contrib/118322585863675592289/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7zs6YxNVzUs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1udX5a7dGfp_h4_jMG9PwCWY-g-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very professional and knowledgeable! Very detailed! Explained things in a way I could understand. I was extremely satisfied with the service!",
+            "time": 1525721202
+        },
+        {
+            "author_name": "Andrea D",
+            "author_url": "https://www.google.com/maps/contrib/107396084510167070367/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-N2BmeXVm8ps/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq07SBWT5sNOmlfZ_oUwgTMy-_6ikA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very thorough. Took 3 hours for my tiny home but I am comfortable knowing everything there is to know!",
+            "time": 1525824605
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17201922874296143785",
+    "utc_offset": -240,
+    "vicinity": "1908 Aldermead Road, Mississauga",
+    "website": "https://housemaster.com/"
+}

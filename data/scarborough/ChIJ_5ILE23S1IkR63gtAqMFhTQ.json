@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1R 4B7",
+            "short_name": "M1R 4B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1R 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M1R 4B7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.757893,
+            "lng": -79.314619
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75924198029149,
+                "lng": -79.3132700197085
+            },
+            "southwest": {
+                "lat": 43.7565440197085,
+                "lng": -79.3159679802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "5ca6239f8ff1366adb2007ccfde4e4502571f6c3",
+    "name": "Ellesmere Rd at Victoria Park Ave East Side",
+    "place_id": "ChIJ_5ILE23S1IkR63gtAqMFhTQ",
+    "reference": "CmRRAAAAfO8Rdx-sgP8JMJaTw3IPFGvyu_gkzZdr-ZL5Z8IhVOKKxCTIjUEt52LEVhpDm8Vk7VcrfB0-9M02j1wRG8IvVFXX215PIE8bcLQmjDNb7r2s4zOtEM2f6wHdYK68-1LsEhCDY1vfSEgYspYCLgRQYO5UGhQOjcOkNgkk_bv1ffDGDPFMugUdpQ",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3784437259549112555",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

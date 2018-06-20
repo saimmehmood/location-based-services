@@ -1,0 +1,264 @@
+{
+    "address_components": [
+        {
+            "long_name": "2171",
+            "short_name": "2171",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 1E5",
+            "short_name": "M4E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2171 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2171 Queen St E, Toronto, ON M4E 1E5, Canada",
+    "formatted_phone_number": "(416) 691-2348",
+    "geometry": {
+        "location": {
+            "lat": 43.67034679999999,
+            "lng": -79.2978182
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6717724302915,
+                "lng": -79.2964981697085
+            },
+            "southwest": {
+                "lat": 43.6690744697085,
+                "lng": -79.2991961302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d5d9c4a2f37065f8917a3e2733a60c1282b736b",
+    "international_phone_number": "+1 416-691-2348",
+    "name": "FitnessWorks For Women",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 8:30 PM",
+            "Tuesday: 7:00 AM \u2013 8:30 PM",
+            "Wednesday: 7:00 AM \u2013 8:30 PM",
+            "Thursday: 7:00 AM \u2013 8:30 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: 10:00 AM \u2013 2:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAx5JhiZFqXadWaIHMmtVTmDTaEZUGGJTaIYxBBznhDa2Bki4ObuxItdjbCjy-AwL0s_-NKIx2byK1HuU3IwUdVbznvvCASVCh_W9MgheGHMn-_yqn4vnasbMfRBjpEZQQEhCYAc7zwRziqVroTTISOD7oGhQrC8oIMdiO4FMnRPw-dxqzqhM5Xg",
+            "width": 3872
+        },
+        {
+            "height": 972,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104671561389000350190/photos\">Joy Parkes</a>"
+            ],
+            "photo_reference": "CmRaAAAADKNfywhkj4C_8M1LaY5Z9LuvWhRKmfMzdy2uwxpXNuD_TMYNFgvg5s_gt3pn1GhejKgV_Jg78UG9Gy4xavy57MQtK61NKMGQaHhcawoT-gLHQUTgsCA52jIieg7q-h-qEhDBjWlrc-g8Rc0N9SmHdzycGhTKRphAH64IMLT2eMKZ47CeYUgLXw",
+            "width": 1296
+        },
+        {
+            "height": 1224,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104671561389000350190/photos\">Joy Parkes</a>"
+            ],
+            "photo_reference": "CmRaAAAACB6gB2nOjsnq-njCiXnOe9sQEh9Uepyx99oZGAuoqXZUxLpeUKE9u5CwzIaskQJHldCzrJdlv-bFpB_Fp_7z1iZjJqEHZcHuLG3qYpL4aY_6s2mMMqKRPsK-L1bqD_EtEhBQxS3ih7IL6eW9XnZ2ql7YGhSIfUYu1ci1rFTum2qhm-1pmL9f2A",
+            "width": 925
+        }
+    ],
+    "place_id": "ChIJycOzbwfM1IkRxmrtTCqGcH4",
+    "rating": 4.2,
+    "reference": "CmRRAAAAEFV6phT2N0eBAyPs8eOwUZH10pS6ZKXqt5iaL8yA6kH33txYJJoPEa9a4t0slPn870hFOVqUaxzEn6bs-iGxhqf1AzuUFmPUjTzsQ7H8TYMB1gHhGhpZq11YTFb0aJxwEhA7sIDuOaQNEiDkSwXnKm-jGhQ2D6i_dfsfMa1zA3acM9IucakAAg",
+    "reviews": [
+        {
+            "author_name": "Joy Parkes",
+            "author_url": "https://www.google.com/maps/contrib/104671561389000350190/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-R8rB6SeIbQU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2jG146rq6jYE71N5IAkpHTrlDxlQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I have been a member at this fitness establishment since 2009. As a long time fitness enthusiast I can say that joining this gym has been a life changing experience. \n\nThe owner Ariella Tsafatinos is a true fitness professional. She is also the best personal trainer I have ever worked with. Under her and her guidance I have achieved many new heights and overcome challenges in my fitness life.   I have now run several marathons and a dozen half marathons. I have even become a certified personal trainer myself. \n\nThe staff and the members are a wonderfully welcoming group, and together with Ariella a fun and welcoming fitness community has been created. \n",
+            "time": 1493487600
+        },
+        {
+            "author_name": "Michael Brugel",
+            "author_url": "https://www.google.com/maps/contrib/104586119155252356211/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wzcRZ-ND__w/AAAAAAAAAAI/AAAAAAAAABU/HPVyX-nuE7I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I am a long time, (10 years +) client of the gym FitnessWorks  and Ariella Tsafatinos, the owner. This is a small gym which focuses on personal care and interaction with it's clients. Although this is a gym for ladies  personal training is open to all.\nI dropped over 30 pounds over an 18 month stretch, kept it off and under Ms. Tsafatinos' guidance  have maintained an excellent level of fitness since then.\nA business that has earned more than 10 years of loyalty from it's clients, needs no further endorsement.",
+            "time": 1492084437
+        },
+        {
+            "author_name": "Cathie Carlino",
+            "author_url": "https://www.google.com/maps/contrib/107173462533181541312/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xezuWhyRn4I/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3XWnGGLkGMGfKFGlcm55ZR5vyQWg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I've been a client of Fitness Works For Women for 4 years. Ariella Tsafatinos is my personal trainer and I can honestly say Ariella and her team at the gym have  helped me overcome the physical and emotional challenges of aging. As a woman of 59 years, I've been weight training and running for 4 years and am often mistaken for someone 10 years younger than I am. I would not be the healthy confident woman i am today without this professional, friendly, supportive organization in my life. ",
+            "time": 1493486504
+        },
+        {
+            "author_name": "Chris Hallam",
+            "author_url": "https://www.google.com/maps/contrib/111562635935057225614/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-yXzUTzhYqkc/AAAAAAAAAAI/AAAAAAAAAE4/DW033eiOjJc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Ariella Tsafatininos the owner of Fitness Works for Women does not pay her bills.   She was ordered to pay my legal fees from an Ontario court judge after wrongfully accusing ecoenergyreserves.ca of taking her money.   Be very careful in giving this women any credit as she does whatever she thinks and not what is right.",
+            "time": 1452707281
+        },
+        {
+            "author_name": "Kelly Steiner",
+            "author_url": "https://www.google.com/maps/contrib/108975471841562774331/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-TSsHis-yJOo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1fFguFXlyQRdd40gfWiLonx69EIQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1504816141
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9110929562407889606",
+    "utc_offset": -240,
+    "vicinity": "2171 Queen Street East, Toronto",
+    "website": "http://www.fitnessworksforwomen.ca/"
+}

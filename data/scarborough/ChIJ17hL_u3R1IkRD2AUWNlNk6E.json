@@ -1,0 +1,241 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L5",
+            "short_name": "M1P 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "1286 Kennedy Road Unit3, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1286 Kennedy Road Unit3, Toronto, ON M1P 2L5, Canada",
+    "formatted_phone_number": "(416) 875-1487",
+    "geometry": {
+        "location": {
+            "lat": 43.7580112,
+            "lng": -79.2787487
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7593601802915,
+                "lng": -79.2773997197085
+            },
+            "southwest": {
+                "lat": 43.7566622197085,
+                "lng": -79.2800976802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2a8b5d283224625c6937ce2ddd88d6c504677960",
+    "international_phone_number": "+1 416-875-1487",
+    "name": "Usman Butt",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:30 AM \u2013 5:30 PM",
+            "Sunday: 9:30 AM \u2013 5:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112681742350446310017/photos\">Usman Butt</a>"
+            ],
+            "photo_reference": "CmRaAAAAfLb3Bw9-eXdG8SH9SNZpFvRoM7J1hWb7Aro8NtjzpLXc8j18rnoq3dj7A3WeZd8h3FfDoqS9xxVzvsrn9jcYnO9Sy1H3EoL3AlA2S_bHdflRo6MSkN1FVXl_2dCyrdDXEhCEw5yep8Ht5dq8T_gwDOO7GhTQhz-jlDxwhbB4xJ429QxJz1gYjA",
+            "width": 2400
+        },
+        {
+            "height": 1231,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112681742350446310017/photos\">Usman Butt</a>"
+            ],
+            "photo_reference": "CmRaAAAATS1nEkhR1qmIXAYVq0qkAY2z9xMzRAi4jSc7SrnxZWWCujOUJN7KzDlgWgBl2812q5H6XrYcfTDfNnhCHSaByrWMI0BhrEevClRnzPfO2JtzpJhbogLQT-yPJwwR1BBfEhC-F0zk2SdSTFRC_1zm-zevGhQSXGSj9yuO36EWgTSYOy8qAH6L_g",
+            "width": 1232
+        }
+    ],
+    "place_id": "ChIJ17hL_u3R1IkRD2AUWNlNk6E",
+    "rating": 5,
+    "reference": "CmRSAAAAE7gG3uhlf2ANbQi3-Zedct63iQJ7MCU-LxsP3QAMMt4YFOH8LaP7Z35vwEOcYTGrR6HLuiHyjev0pgfMs6M16vOKEMP_iBgNC3MsnWtHY9R4mdL9Mkvd1_aB_CCOEFgaEhC35glQN5pkjC_75_LAGVrdGhQztOhXYBuvJku0V-NInYWKUCLRDQ",
+    "reviews": [
+        {
+            "author_name": "Anil Ojha",
+            "author_url": "https://www.google.com/maps/contrib/109003349910590125248/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-GZ5Kv_qsXzM/AAAAAAAAAAI/AAAAAAAACrc/VeQ7nzcSsFo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Usman Butt is a true professional real estate agent. I appreciate the way he treats clients and shares information. He has demonstrated his ability to negotiate with other parties to give his clients a good deal. Totally recommended.",
+            "time": 1522714283
+        },
+        {
+            "author_name": "Raees Khan",
+            "author_url": "https://www.google.com/maps/contrib/115044826561245124728/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jsbFOC0cD5g/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1TdZYK3n6RDQgvR4CBNLjGHDPpdQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I appreciate their excellent services. When then say it, they mean it.\n\nI would highly recommend Mr. Butt for buying/selling property services. Trust me, you won't regret it.",
+            "time": 1522700821
+        },
+        {
+            "author_name": "Hussain Butt",
+            "author_url": "https://www.google.com/maps/contrib/110190482034822187189/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-bETwUjKapBU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Q70yYWbh9QPdQtZZ3XXst6icFRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I bought house with this guy. Friendly service and amazing deal. Very satisfied.",
+            "time": 1522699374
+        },
+        {
+            "author_name": "tania bashir",
+            "author_url": "https://www.google.com/maps/contrib/103033037016393808587/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5UlRY3_DRJg/AAAAAAAAAAI/AAAAAAAAVNs/wOuX8ESugX8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Very hard working and kind person always there whenever we need to go see a property or advice in real estate highly recommend him to my family and friends.",
+            "time": 1522706761
+        },
+        {
+            "author_name": "Arfa Waqas",
+            "author_url": "https://www.google.com/maps/contrib/107720123322928132272/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2nJuch7xDz8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0aJYAz05Xf9zDEDcMz0bLoG36SfA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is an amazing agent who guided me to the rite path. Highly satisfied \ud83d\udc4d\ud83c\udffc",
+            "time": 1522890861
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11642735057563836431",
+    "utc_offset": -240,
+    "vicinity": "1286 Kennedy Road Unit3, Toronto"
+}

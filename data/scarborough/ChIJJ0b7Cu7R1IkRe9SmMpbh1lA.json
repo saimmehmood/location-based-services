@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "1275",
+            "short_name": "1275",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kennedy Road",
+            "short_name": "Kennedy Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2L4",
+            "short_name": "M1P 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1275 Kennedy Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1275 Kennedy Rd, Scarborough, ON M1P 2L4, Canada",
+    "formatted_phone_number": "(800) 260-4814",
+    "geometry": {
+        "location": {
+            "lat": 43.7577244,
+            "lng": -79.2779013
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7590604802915,
+                "lng": -79.2766156197085
+            },
+            "southwest": {
+                "lat": 43.7563625197085,
+                "lng": -79.2793135802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ce8771e947a02346116ef1a61a65724e506d28c8",
+    "international_phone_number": "+1 800-260-4814",
+    "name": "Monticello Floors To Come Home To",
+    "place_id": "ChIJJ0b7Cu7R1IkRe9SmMpbh1lA",
+    "reference": "CmRRAAAAJJGDKjv_GS2U9P-JU4yEeYcBJ6B5r-ioCtmcJU-ga4ouM5I35gDD_Hg-jJjsVrSokUSp-Uv_7Ra67F38tYMg_J12m_ae_yYpO_KcF5YBGocW3LktGozBVglizPu_clt9EhCLRej1g_KC1W0daWJX_-5LGhS-VIKDKQ900ig6fCLogd3_4AZjTw",
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5825091203261453435",
+    "utc_offset": -240,
+    "vicinity": "1275 Kennedy Road, Scarborough",
+    "website": "http://www.focustimber.com/"
+}

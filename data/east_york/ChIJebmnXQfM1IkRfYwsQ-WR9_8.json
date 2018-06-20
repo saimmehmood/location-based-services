@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "47",
+            "short_name": "47",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lee Avenue",
+            "short_name": "Lee Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4E 2P1",
+            "short_name": "M4E 2P1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">47 Lee Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4E 2P1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "47 Lee Ave, Toronto, ON M4E 2P1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6700692,
+            "lng": -79.2971326
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67134863029149,
+                "lng": -79.29609721970849
+            },
+            "southwest": {
+                "lat": 43.6686506697085,
+                "lng": -79.29879518029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aa6bd7b7e5c808314fc867a4cb3cbc77a41cce22",
+    "name": "47 Lee Ave Parking",
+    "place_id": "ChIJebmnXQfM1IkRfYwsQ-WR9_8",
+    "reference": "CmRSAAAAjweroz0Z28wNgsMwA8dK13MlxDIiDw0_oxHBgG3HM67nRwQjRfNsyKJ9hKBhvOc404dmm5sKEGkP9-WnDi3ncbuK6dhCsMu_su99n7fpVt1wnez12hx6kh-G5y4MjRv7EhDikgYLJubtlYiArDvn_z6PGhS4z-1YAUjjTsvgyqM9LsZTCdpX0w",
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18444371212779687037",
+    "utc_offset": -240,
+    "vicinity": "47 Lee Avenue, Toronto"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "418-404",
+            "short_name": "418-404",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Pape Avenue",
+            "short_name": "Pape Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4K 1B9",
+            "short_name": "M4K 1B9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">418-404 Pape Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4K 1B9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "418-404 Pape Ave, Toronto, ON M4K 1B9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6707535,
+            "lng": -79.3415121
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67210248029149,
+                "lng": -79.34016311970849
+            },
+            "southwest": {
+                "lat": 43.66940451970849,
+                "lng": -79.3428610802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "510345d30e289abd6b7d62ad58ff8fdb137388c8",
+    "name": "418-404 Pape Ave",
+    "place_id": "ChIJv-gQJXzL1IkRHV6gUELgQNU",
+    "reference": "CmRbAAAAVebDj7eQfaN7XDpIRdBjNKruOtW_nGcHn4iwuI5w8fwRHRIYGRs4kFLRnL2Xkwp2ev38sKDfrlHLOdzm4oWxMZNU5EgZI5YXlrXj-tzPJYDj8CO_bVtWA3ZfoNEeKymOEhBdc6Ygguj1EosoejxucSiJGhS_wypC8bMnQiLOoEf37dT9-r3Niw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=418-404+Pape+Ave,+Toronto,+ON+M4K+1B9,+Canada&ftid=0x89d4cb7c2510e8bf:0xd540e04250a05e1d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

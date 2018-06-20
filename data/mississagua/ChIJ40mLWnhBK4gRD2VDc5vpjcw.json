@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "Woodland Chase Trail",
+            "short_name": "Woodland Chase Trail",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Erin Mills",
+            "short_name": "Erin Mills",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Mississauga",
+            "short_name": "Mississauga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Peel Regional Municipality",
+            "short_name": "Peel Regional Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "L5M 3A2",
+            "short_name": "L5M 3A2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Woodland Chase Trail</span>, <span class=\"locality\">Mississauga</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">L5M 3A2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Woodland Chase Trail, Mississauga, ON L5M 3A2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.56186839999999,
+            "lng": -79.6930733
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.56321738029149,
+                "lng": -79.6917243197085
+            },
+            "southwest": {
+                "lat": 43.56051941970849,
+                "lng": -79.6944222802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "89c20953af3f6ec42a625b34a5d4ad1c8bae642b",
+    "name": "Woodland Chase Trail",
+    "place_id": "ChIJ40mLWnhBK4gRD2VDc5vpjcw",
+    "reference": "CmRbAAAAWZXbCXO9simkbA8-ipjJ65DnF2qUHQ5we8rwUudwTIhaInVl8J6VCAsKzvPuPU7BQvbufu-4vMVBRfMkOa3RhSUPFxOvBGTXEH0fc3fhDDkC9BLAIhIDMhCOyCuiQPuNEhDynmMgJ6YvQXjMX0YppSZ7GhQRhZA3iBkQp4OjaZpFg-BJVFUSFQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Woodland+Chase+Trail,+Mississauga,+ON+L5M+3A2,+Canada&ftid=0x882b41785a8b49e3:0xcc8de99b7343650f",
+    "utc_offset": -240,
+    "vicinity": "Mississauga"
+}

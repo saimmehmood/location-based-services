@@ -1,0 +1,272 @@
+{
+    "address_components": [
+        {
+            "long_name": "3495",
+            "short_name": "3495",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lawrence Avenue East",
+            "short_name": "Lawrence Ave E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1H 1B3",
+            "short_name": "M1H 1B3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Cedarbrae Plaza (Inside Walmart, <span class=\"street-address\">3495 Lawrence Ave E</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1H 1B3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Cedarbrae Plaza (Inside Walmart, 3495 Lawrence Ave E, Scarborough, ON M1H 1B3, Canada",
+    "formatted_phone_number": "(647) 340-3888",
+    "geometry": {
+        "location": {
+            "lat": 43.757291,
+            "lng": -79.229378
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75952134999999,
+                "lng": -79.2283272697085
+            },
+            "southwest": {
+                "lat": 43.75654755,
+                "lng": -79.23102523029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bee289fc4896518ea95e408a2e898a0f3d8c5124",
+    "international_phone_number": "+1 647-340-3888",
+    "name": "Regal Nails (Inside Walmart)",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105796089097502742521/photos\">Regal Nails (Inside Walmart)</a>"
+            ],
+            "photo_reference": "CmRaAAAAj4NoNZGa9EB7Use4yKtYbFCEfvfowWbH_MHM121BX8poko7WZk_JWfw0Nqd2UVhg_kF2xTmODkCZYdeHjXUiuE1Yp463pZyjfEWRyWJAAauY9UgCQtPnsyS_nKEEgyQ7EhBGRPylAffsIBTu5XIpDBjaGhSW7GCwI0vogXnIPb0pxbW7HQ6kDA",
+            "width": 1080
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105796089097502742521/photos\">Regal Nails (Inside Walmart)</a>"
+            ],
+            "photo_reference": "CmRaAAAAnc-jLkB32Y04dAssK3Yap1nIF9lOuPM4YqLQbA0EpaLxWY7gjHYaEegA677n_QeJHmtAYSWm0D5txlgDXBsqYxfhKKmL-gBceMZQwNanrwo1_5apd-7TOvt9u6LGF3CYEhAUFNFfXxIfRbLHoe44ZOETGhSXBHSDY0CumzahCakzTHEKcA970Q",
+            "width": 1080
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105796089097502742521/photos\">Regal Nails (Inside Walmart)</a>"
+            ],
+            "photo_reference": "CmRaAAAAe2ANAXWdjD1fufP3iOaqNb2JjOE82bNJLtQW3YmcoUV6NOJDsTZXu1zqq1zk354Uw36zJrdWRyCZFCkLnQJRYVkRhorgN6rM_0qcXIEzjRRa0Vk54SNYun42Dndd4UrKEhAotjkxkvHNcQRxiH37LSw4GhRE5cLJVF0ETDENute-KxWa2YhwMQ",
+            "width": 250
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105796089097502742521/photos\">Regal Nails (Inside Walmart)</a>"
+            ],
+            "photo_reference": "CmRaAAAAMGwwX5RtXs-ylD3dxxRyr35IBFU3OPIwUXuDp3bKX7zCPVO8WS33t9INJjy8AxGoUTwtED3INELcLKYlpWk0PHdqsCOTpHCkCbdhIIRztip9yBTZtOt87OInbPVky4t8EhBLXbLziiZRrogiojDp17s2GhSTIH14jg7fzor3h2oW2v6Yex43Vg",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJxYPcaUfQ1IkR9ivnhD9waYk",
+    "rating": 2.7,
+    "reference": "CmRSAAAAVtKR5Yx1PoiRGHiw8NUSrHODVzWhttUaNwLenoUugzWqlxPuC5pj95pRub2gTv6qj5qH5dVvYHJPp5k2ldBEjHqFDSimcbwfbYSvtSFZPxnTuVB5_RkblrgBM5ZkSrNiEhAvymCeWolg3RxVWCSfJAnHGhQRPcFXbEWnprzNY2l2DfFTht7RWw",
+    "reviews": [
+        {
+            "author_name": "roxanne cardinal",
+            "author_url": "https://www.google.com/maps/contrib/112376377829264047717/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-O0q3KwEIbtA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1NyKxyok-btZWQ0qDcgIQI_Ut_sQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Dawn was very helpful and honest! I hurt one of my nail and she gave me good advice. It shows that she cares about her customers and is not there to dishonestly make money off them. The gentleman at reception was also very friendly.",
+            "time": 1529105045
+        },
+        {
+            "author_name": "Gabby Reviews",
+            "author_url": "https://www.google.com/maps/contrib/111381439388036546239/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0pseUIB78bQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0WIlPwZtC3AFRv59U4GHr7JE7BVQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Terrible nail salon. Got full set of UV gel and two of them came off not even a week after! Price is standard compared to other salons, but I\u2019d suggest you to go somewhere else and actually get your money\u2019s worth.",
+            "time": 1526569581
+        },
+        {
+            "author_name": "Maddison Wood",
+            "author_url": "https://www.google.com/maps/contrib/102312031552891305020/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-wF_oVQ20U04/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0osvFPQpw870Cilp66lwhq3gP4rw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "worse nail salon I have ever been too, had 3 different people for a fill and it cost me $40 !!!! that is almost the cost of a full set. I will never go back to this place again, horrible service as well as worse prices ..",
+            "time": 1524310774
+        },
+        {
+            "author_name": "margherita cappiello",
+            "author_url": "https://www.google.com/maps/contrib/101023871270012727677/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-qLNXKRvUFTU/AAAAAAAAAAI/AAAAAAAAMyc/Hrf-vtq5xIo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "I went to the mail place near Walmart last Saturday the girl did my nails and now my fingers disinfected inside and it\u2019s fat and big and I am not happy with her very sad how people try doing nails and they don\u2019t know how to do them I need to be professionally done properly and trained properly how to do fingers before they damage someone else\u2019s finger",
+            "time": 1528287719
+        },
+        {
+            "author_name": "Jaya Jaikissoon",
+            "author_url": "https://www.google.com/maps/contrib/107135135440834475811/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-t5Y3Wr2GArc/AAAAAAAAAAI/AAAAAAAADG4/YwGRlOcx8BY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Came here twice. A few months back i has a fill and it was fine. Today I got a full set coffin long acrylic nails. 1. She didnt measure mt lengths to march until IIII had to check. 2. She put on the flimsiest coat of acrylic and my nails would easily bend and break. 3. I asked for a TOP COAT 1 clear coat to just seal it and I was about to be charged for an entore shellac process. 4. She didnt shape my nails at all properly. I came home and had to fix that. 5. I have no problem with them speaking or corresponding in their language..but if she didnt understand me or what I wanted.. She shouldnt have been doing it. Never going back.",
+            "time": 1513215407
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9901568673865739254",
+    "utc_offset": -240,
+    "vicinity": "Cedarbrae Plaza (Inside Walmart, 3495 Lawrence Avenue East, Scarborough",
+    "website": "http://www.regalnails.com/"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "405-437",
+            "short_name": "405-437",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Leslie Street",
+            "short_name": "Leslie St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4M 3E3",
+            "short_name": "M4M 3E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">405-437 Leslie St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4M 3E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "405-437 Leslie St, Toronto, ON M4M 3E3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.67120449999999,
+            "lng": -79.3336539
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67255348029149,
+                "lng": -79.33230491970849
+            },
+            "southwest": {
+                "lat": 43.66985551970849,
+                "lng": -79.3350028802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "274c4e9e304a6c3a876fe2cf76d5cbbbf83ffa7b",
+    "name": "405-437 Leslie St",
+    "place_id": "ChIJScTtSIDL1IkRjYuv58e5GSo",
+    "reference": "CmRbAAAA49yNxYav6lmgqM0mvVcr-I9bD3K7rT5bY_AKGjQDthkogq8WJaa3hjTGjWcQZQVT518v8hl4M0Cb_t2QJBTP2wQ7CiCc6XE_d1ewo_h4cF7Y_CA6AwTB5Rtn2q0ZwaEVEhDvWbq63g5Q2XBQz5j4yiJpGhR9p2LfSNnWe4aulKReGqnCqKQNhA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=405-437+Leslie+St,+Toronto,+ON+M4M+3E3,+Canada&ftid=0x89d4cb8048edc449:0x2a19b9c7e7af8b8d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

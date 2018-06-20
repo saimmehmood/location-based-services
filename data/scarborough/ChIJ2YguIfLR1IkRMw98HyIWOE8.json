@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "145-163",
+            "short_name": "145-163",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Shropshire Drive",
+            "short_name": "Shropshire Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 1Z6",
+            "short_name": "M1P 1Z6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">145-163 Shropshire Dr</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 1Z6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "145-163 Shropshire Dr, Scarborough, ON M1P 1Z6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.75827899999999,
+            "lng": -79.280678
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7596279802915,
+                "lng": -79.2793290197085
+            },
+            "southwest": {
+                "lat": 43.7569300197085,
+                "lng": -79.2820269802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b7a1ff5756fe973d7303b7570e774719abc2ba8f",
+    "name": "145-163 Shropshire Dr",
+    "place_id": "ChIJ2YguIfLR1IkRMw98HyIWOE8",
+    "reference": "CmRbAAAAJy17QgUcY8sJhbu97au5XBUmEtRHFPVC8sABtNSAIQ59PWm_SbMpE0hPRpP53lePNwVvAukFCLeRl1uosSg3eZyPNDsSD6V2gdHvcbYNyuJx2_EUITgLtAUVZujHzeuDEhCD9UpqV0NQi9fkdLQdeT0EGhS4FlxA7xCSFYVF4-xcn__kkn55wQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=145-163+Shropshire+Dr,+Scarborough,+ON+M1P+1Z6,+Canada&ftid=0x89d4d1f2212e88d9:0x4f3816221f7c0f33",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}

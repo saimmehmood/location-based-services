@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "180",
+            "short_name": "180",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Nantucket Boulevard",
+            "short_name": "Nantucket Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P 2N9",
+            "short_name": "M1P 2N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">180 Nantucket Blvd #2</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P 2N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "180 Nantucket Blvd #2, Scarborough, ON M1P 2N9, Canada",
+    "formatted_phone_number": "(647) 772-7072",
+    "geometry": {
+        "location": {
+            "lat": 43.75788110000001,
+            "lng": -79.2758331
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.7593074302915,
+                "lng": -79.2741105697085
+            },
+            "southwest": {
+                "lat": 43.7566094697085,
+                "lng": -79.2768085302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1a1d95c5de9918dc3b47f3e49418b82466a8dd6d",
+    "international_phone_number": "+1 647-772-7072",
+    "name": "EE Auto Group",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 8:00 PM",
+            "Tuesday: 11:30 AM \u2013 8:00 PM",
+            "Wednesday: 11:30 AM \u2013 8:00 PM",
+            "Thursday: 11:30 AM \u2013 8:00 PM",
+            "Friday: 11:30 AM \u2013 8:00 PM",
+            "Saturday: 11:30 AM \u2013 8:00 PM",
+            "Sunday: 11:30 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 364,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115593125400751388508/photos\">EE Auto Group</a>"
+            ],
+            "photo_reference": "CmRaAAAAHGsbKDIuoP94nh9L_NxzwxOhRn1U7C43BTpzh4uZ6xLLLHGV4kWlRJV9Md7A2orc1mRV0D1iaAuPybd6X9TWNJtLLr8QNt7hJY3F2_CTlbBr4l0CqRFYwA_JId_qD1CdEhA0TN-0gtnDmPu5z2BdjFwZGhTPKHtwBST5pqVoWp_KYPj5zGI0cQ",
+            "width": 644
+        },
+        {
+            "height": 364,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115593125400751388508/photos\">EE Auto Group</a>"
+            ],
+            "photo_reference": "CmRaAAAAUkH56LNdxHhrhae1uroc8TAkwcD2xSuSSsK0pximH1tq-C07daNuhMFYKwE0TWW9BC4TTSmUdQcGOAj3kAVJ8UOuuYSnBYpxuXDGms8NMazO017ROuEk_aFQ1wozh30eEhBNv3IvF3wMM09Yw8PYd_2hGhTtvvalWWx1gVaHLVcdfkU5F0sygQ",
+            "width": 644
+        },
+        {
+            "height": 364,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115593125400751388508/photos\">EE Auto Group</a>"
+            ],
+            "photo_reference": "CmRaAAAAM1vqVTadhCYOnbj6PsE0blFI_81r96ZqbhOR65MOUEAG28LLmEKoR5J3X1i7wLi6FVkzJaoK24MjmhZqlEkurbgybtXCMe1_POK6QGha55-ixW47qleL_bGIketI1CzqEhD_ikV4kiu5k56SMMEY6gXWGhT4MToisZhuXVUsjg3yMfZAqnhr_Q",
+            "width": 644
+        },
+        {
+            "height": 364,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115593125400751388508/photos\">EE Auto Group</a>"
+            ],
+            "photo_reference": "CmRaAAAA7O6k50XoiHwfYJ-2q01QWz4tk4pv39x3XkIsBRMJhReglzQEDCqBIvj__z_3iggwtycOTpoc-CMWv6m2MLyFm1ztqH_Va63S9H7z4IMkkmouP7laTW6pJ0S-2F7XlRaFEhCHcb_ZJ75C2Balb0IFbSeBGhT1fJ3xzvbWKsN2sCF91NSeM4gGzQ",
+            "width": 644
+        },
+        {
+            "height": 318,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115593125400751388508/photos\">EE Auto Group</a>"
+            ],
+            "photo_reference": "CmRaAAAAbLC90GfRIEP8ZpLRiIiC803aAfFQjdJt5gF4ALX5vIK2oo4e8brjp6PDDRzC6uzX2XTeDjx7N8vEmt3CuyCRN87lAljPK8yTY-eynjttVLga0kMkVU1NIyXZcWZvqQbQEhBgI9oWGLCKLNy88SNtjMRfGhR3-m-PqCBjXSnWe_qL3P6nVbXRFg",
+            "width": 318
+        }
+    ],
+    "place_id": "ChIJV02XJOzR1IkRoMhsRG7cz8A",
+    "rating": 4.1,
+    "reference": "CmRSAAAAqPo-3_84Jz1csHJFX404HFdPmqfGNzG_n_XcoD62l9TDFGPYGxTSahy0dJIz0GaiNTb5qxfzhNtR7qfIAcYwTYR9Ht7udhRBa63gX3Umji6RtSfG04kpFQaoec1-YueZEhC1z_J59CYyOHbTeIGKHE3qGhTzAxgz21FlMGzhzxKgweRYvwhFrA",
+    "reviews": [
+        {
+            "author_name": "Jack Holmes",
+            "author_url": "https://www.google.com/maps/contrib/107184954982758523940/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-y0ZRe1aMtaI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq18T64f7gAGUpGAfx-rgL-G9cO7hA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "WORST STORE EVER. I've been there for a cash wash and they scratched the door and leather in my car. When I question it, they're just saying the scratches were there and not their fault. But when I give them my car, I was checked very seriously and there's no damage on my car. My car was just leased couple months ago and never used for moving any big item and inside of car is pretty new. Will never come back! If you care about your car, don't come to this store.!!!",
+            "time": 1518797869
+        },
+        {
+            "author_name": "Ivan Zhou",
+            "author_url": "https://www.google.com/maps/contrib/115877181141064914774/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Xtd89xm_56A/AAAAAAAAAAI/AAAAAAAAQPI/MogkWO3rEsE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "It is bit pricy but they do an excellent job. I come every 2-3 months for a thorough cleaning.",
+            "time": 1528473503
+        },
+        {
+            "author_name": "Cathleen G",
+            "author_url": "https://www.google.com/maps/contrib/117050946152831139006/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-c69bmEfngv0/AAAAAAAAAAI/AAAAAAAAogE/3lF-4o3h8YU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "They did a great job cleaning my car inside & out!",
+            "time": 1525568420
+        },
+        {
+            "author_name": "Liu Yang",
+            "author_url": "https://www.google.com/maps/contrib/111775477225575067710/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gwWvfaW7oDA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2ax-C5aqFWxmAdw8gg6jMYrA_5Tw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Nice car wash, very clean. 5 star recommendation.",
+            "time": 1507940461
+        },
+        {
+            "author_name": "han jane",
+            "author_url": "https://www.google.com/maps/contrib/113806393431090673944/reviews",
+            "language": "zh",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NmAUVKQXXbo/AAAAAAAAAAI/AAAAAAAAAC8/SES3IFrJh6I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "\u6211\u4e00\u76f4\u5728\u4ed6\u4eec\u5bb6\u6d17\u8f66\uff0c\u90fd\u4e00\u5e74\u591a\u4e86\uff0c\u6bcf\u6b21\u6d17\u7684\u90fd\u5f88\u5e72\u51c0\uff0c\u5c24\u5176\u662f\u4e0a\u6b21\u6574\u676f\u5496\u5561\u6d12\u5728\u8f66\u91cc\u4e86\uff0c\u4e24\u5929\u540e\u624d\u53bb\u4ed6\u4eec\u5bb6\u505a\u7684\u84b8\u6c14\u6d17\uff0c\u6d17\u7684\u771f\u5fc3\u5e72\u51c0\uff0c\u5b8c\u5168\u770b\u4e0d\u51fa\u6765\u5370\u8ff9\uff0c\u4e5f\u6ca1\u6709\u5f02\u5473\u4e86\uff0c\u800c\u4e14\u8001\u677f\u4eba\u5f88\u597d\uff0c\u5f88\u70ed\u60c5\uff0c\u4ee5\u540e\u8fd8\u4f1a\u4ecb\u7ecd\u670b\u53cb\u53bb\u7684\uff01",
+            "time": 1507936885
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_wash",
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13893565741613762720",
+    "utc_offset": -240,
+    "vicinity": "180 Nantucket Boulevard #2, Scarborough",
+    "website": "http://www.ee.ht/"
+}

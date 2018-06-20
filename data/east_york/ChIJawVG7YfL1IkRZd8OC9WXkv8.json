@@ -1,0 +1,291 @@
+{
+    "address_components": [
+        {
+            "long_name": "1326",
+            "short_name": "1326",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Z1",
+            "short_name": "M4L 1Z1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1326 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Z1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1326 Gerrard St E, Toronto, ON M4L 1Z1, Canada",
+    "formatted_phone_number": "(416) 465-6021",
+    "geometry": {
+        "location": {
+            "lat": 43.6716439,
+            "lng": -79.32538480000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6729267802915,
+                "lng": -79.32400721970849
+            },
+            "southwest": {
+                "lat": 43.6702288197085,
+                "lng": -79.3267051802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "58e00705c03f4440ba8125334236aa45adcd8f1d",
+    "international_phone_number": "+1 416-465-6021",
+    "name": "Riverdale Hub",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: 11:00 AM \u2013 5:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 756,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102458732173541799303/photos\">Riverdale Hub</a>"
+            ],
+            "photo_reference": "CmRaAAAA3IZcuOPbnasZQv-aZcGvr6MP0FZouk9IbMDOZQOQdYUDDzcAJRtlOrazuaHwPkOdmp9ZPNJP2jjg-9ZtGl7PP5lhk2EOfQFFGWxlCFjv-15a92FgBm7dxijH4lOWrCzfEhB51puHROiQyz-kyNdMxD0pGhQVTJbNhlMPIYP7_-zamynjvzlKAw",
+            "width": 1997
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAYXMvfJq17NJNntAyR7QEyTT1N4ns3vJWGIESj7t58BICNcbFtFKsnJa3RKvk4RZ-EhDM2bQXe7pVV-axNlAo3QUsPv2cRBDNpPNaPjZ3bOZ1hIkfBFDvmAAZnGR081DGEhB5pvANtU9bq8gg4zU8-FcGGhQBMsm16iRW4FAbMcJcfNPEZL05Fw",
+            "width": 3872
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102458732173541799303/photos\">Riverdale Hub</a>"
+            ],
+            "photo_reference": "CmRaAAAA8OdSfQ9HKHAINtPOqpyBVwmHoKS4vyhMuT3L9AcvP6_8cjSkzTlLA3TJbxPHO3p4Zfz_uujBxmassB04cM-Pq0MZXPdb9InM2CLo6JvlxCD_ZZ2zHR0zbrMo67a9_sO3EhCwQzlXne83JH06hNwzhn-5GhQh24UuNHiqA3A_rD9xWyDgQac75A",
+            "width": 1539
+        },
+        {
+            "height": 2080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101774979255145213004/photos\">Maria Magdalena CM.</a>"
+            ],
+            "photo_reference": "CmRaAAAAcWvC_krp4CrYEfpATVgnMymfgaSttQJGhspYpL0XlpsobYoJXuWV1ShI2B8qxrU5G7np5oN8E82ttBl2QICtcILKL56NK5L-DX8lTTJk0hububpoq9V95oW4HTqa2ssqEhDKStl-CPHYLmNimmC3zy6zGhTjO6KAQMDEAVuwGJQOFzeZ7vBryg",
+            "width": 4160
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101774979255145213004/photos\">Maria Magdalena CM.</a>"
+            ],
+            "photo_reference": "CmRaAAAAUq4HL4b-fRSwFUTAkAd3vcFDfuNdHBLetyAYM6Qi4k-bCJlntkKGSPrXBkJIGOkowEq5XcHXle02FpvEYzsFb2joyHmTUS5Rw8Rfv8YMXRhtfewzN4c-5uLXRmdZqGe3EhB9FDVBPlM41wlHH9f_0yd-GhQcitmoyf3ZXnW6aSt1gQnUT7k3dA",
+            "width": 2160
+        },
+        {
+            "height": 708,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102458732173541799303/photos\">Riverdale Hub</a>"
+            ],
+            "photo_reference": "CmRaAAAADQy72ls-VTAxyFTpoDHWzkB3qRLvkrrbMdHNqDKMOSjTDe3k9wKeYk_sqg4OQl7VEsP-Uj6wVLYuuCjnDU4xojRdRptB1v3dYPg2iARt-NPe7c6OLtR0xrmvf1vbmTP4EhBBBdlL3hISEVCHAxsDdJEAGhS-FD4P7ZOyRfE_0XprJid5DHrQnA",
+            "width": 708
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110079355476030697679/photos\">Mayuresh Mandal</a>"
+            ],
+            "photo_reference": "CmRaAAAAQUFIWvhea9ruabfa8bKOoB6hjSYrSq8Ts-3coCh8_eadlUh8W_EerG9NO6v6VDi9Td3Q2dCEmBgg2r7SI_Tco5VHBUIqlrJfKzCj6cXVtjtuszENJIE9W4DTwHkvG70REhAvpFwb1vxzjzwLnZu8Qm1xGhR8SPjKOd3YFH1uPS4I4BFb7XV4-A",
+            "width": 4160
+        }
+    ],
+    "place_id": "ChIJawVG7YfL1IkRZd8OC9WXkv8",
+    "rating": 4.8,
+    "reference": "CmRSAAAA_XfKTmhxE-Q_JXa6unjGXWffgStoxoPcxD--gNso_HIngRuu5jknRu5MelgygGbgMBkn9K_CTdUGwybTm0Hu8jhU7LWtOf-Jl7RW9c_xBEmY7uaSJqMwfk6UFmpLZ3xwEhC-2dzx2Ajcgs_wxgDEi1JgGhSSw7IBEaY8etb-750T6J5_1g10cg",
+    "reviews": [
+        {
+            "author_name": "Maria Magdalena CM.",
+            "author_url": "https://www.google.com/maps/contrib/101774979255145213004/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wRe8VZPUb5k/AAAAAAAAAAI/AAAAAAAB_7U/LJ8KHXh7oqw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Amazing building. Restaurant is incredible, amazing vegetarian meals. The rooms to work on are great. It's nice to have a green building like this in the city.",
+            "time": 1514776961
+        },
+        {
+            "author_name": "Ohunene Yusuf",
+            "author_url": "https://www.google.com/maps/contrib/117967218255492161919/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-7sXPhTng04A/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1q2mcWbkw5TtF9xlDUEsRqOPuUnQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Great place to be  as you learn more about computer skills and wonderful councilors to guide you advice you . Workshops and trainings always five days a week.",
+            "time": 1507603681
+        },
+        {
+            "author_name": "R0B D'50UZ4",
+            "author_url": "https://www.google.com/maps/contrib/111717303488008672523/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-T-bv9SR6poY/AAAAAAAAAAI/AAAAAAAAC4o/1F3PYrmS424/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Good place to come for a day's work",
+            "time": 1510497108
+        },
+        {
+            "author_name": "Richard Ongcangco",
+            "author_url": "https://www.google.com/maps/contrib/101383016546662592746/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fTwMhZqTJi8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0bI85BdgRa5SXIArBIXXsh-fGMaQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great place to relax and have a coffee!",
+            "time": 1497544229
+        },
+        {
+            "author_name": "Mark Treleaven",
+            "author_url": "https://www.google.com/maps/contrib/102453566419478958972/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tkSt-57sCOg/AAAAAAAAAAI/AAAAAAAAMhI/KOkE1SU1pzs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1515763662
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "cafe",
+        "real_estate_agency",
+        "park",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18415948767540731749",
+    "utc_offset": -240,
+    "vicinity": "1326 Gerrard Street East, Toronto",
+    "website": "http://www.riverdalehub.ca/"
+}

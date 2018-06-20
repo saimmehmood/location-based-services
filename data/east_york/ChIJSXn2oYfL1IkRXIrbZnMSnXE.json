@@ -1,0 +1,278 @@
+{
+    "address_components": [
+        {
+            "long_name": "1315",
+            "short_name": "1315",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gerrard Street East",
+            "short_name": "Gerrard St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 1Y8",
+            "short_name": "M4L 1Y8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1315 Gerrard St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 1Y8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1315 Gerrard St E, Toronto, ON M4L 1Y8, Canada",
+    "formatted_phone_number": "(416) 465-7808",
+    "geometry": {
+        "location": {
+            "lat": 43.67108889999999,
+            "lng": -79.3265536
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6725056802915,
+                "lng": -79.3252333197085
+            },
+            "southwest": {
+                "lat": 43.6698077197085,
+                "lng": -79.32793128029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ae2b394d8936f2b46a824e8a918b53b5e010a645",
+    "international_phone_number": "+1 416-465-7808",
+    "name": "Celtic Computers, Parts and Service",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 9:00 PM",
+            "Tuesday: 11:00 AM \u2013 9:00 PM",
+            "Wednesday: 11:00 AM \u2013 9:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 7:00 \u2013 10:00 PM",
+            "Sunday: 7:00 \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105731955096080902386/photos\">Michael Li</a>"
+            ],
+            "photo_reference": "CmRaAAAA6ElUV358TWicnmu6GFtbG9HdI3-DyMvFwgNjeaPYG3pS60xjwzYv_6tGKhT-wAVfPA-xC87fjpGBlYbskp6t4LmOYuHbGtngMtpGwWmbSBnos2wQOsnB-FpLKiBSpF_kEhAWLiWcRDFb6ka1o14o2H_JGhRP_k7XkdQHWnAX1spkOpJVO_QhJg",
+            "width": 2048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107144959184544353186/photos\">Jason Shim</a>"
+            ],
+            "photo_reference": "CmRaAAAAu3Nqu0jZ9g1ZWMZeulaBBgBguSBeFZGnMyZjTQTGPTRpp7wWUy0rtK07SsxRZtHhD1hVGo4YrT4XOkOoqWtObHkWVETynl4WnMxJWSKjVABUbVCPwUoumQvKYZOjW1bwEhBbZtadIpJDMb_k49mVFoz1GhSpH2IU5KWaf1npUyjqkdoIM1-tKg",
+            "width": 4032
+        },
+        {
+            "height": 349,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103777161665635766486/photos\">Celtic Computers, Parts and Service</a>"
+            ],
+            "photo_reference": "CmRaAAAALrtkiFDeG4pWJgH7z_yRfolhclw-b6q1O0sO2FwgIQ98K51ADdhOwDFRtg-8XzOLEDMm4Owt2ZWuNy5JCBOc-ypiWPohBlXr5VlMjZQ2ZNesZHSyDS-Ppum918yyuoIaEhApskTRcnMQIkCDPri7dUS-GhTV8--UTtEnMGSX5_DkgQnmUPmEiw",
+            "width": 450
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103777161665635766486/photos\">Celtic Computers, Parts and Service</a>"
+            ],
+            "photo_reference": "CmRaAAAAbwhY6XOyqZdNlHv7ZBcAEfv5McptLL0bVpYLipPEK8JhcTM9Oc6_KADZ8ocV-gSy44VWU2bIVG-ZX6PAy8k1QRLWh3mVmZQIMcQ7zP0DfTDzBPPSkIdZLCuXY7r7ckTCEhA7yQ70mGquJdjqMj6RkTVxGhSClhRou8KbFt7O0CZstnWKtYoqeg",
+            "width": 400
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103777161665635766486/photos\">Celtic Computers, Parts and Service</a>"
+            ],
+            "photo_reference": "CmRaAAAAIjz0UwUZzjzGveRlHP3N97F_DXkwajXmrc3wEw3wX_oAR3AsGnWSb1EBn0vc8fQcqRbjRuZUVdFb__QnvTZGoycDEC0bSxqI7sfsNreKntZwPPxsgTjR1Ew7BY5_cjfOEhCNBO4Fp3qu79dqUFHCwsGqGhQdpwl0oSXvn7ywPLbyqfwnKeWyaw",
+            "width": 589
+        }
+    ],
+    "place_id": "ChIJSXn2oYfL1IkRXIrbZnMSnXE",
+    "rating": 3,
+    "reference": "CmRRAAAAIFdwhp0_Q8rWysZ6aYXI-dE6jDG-ktntabrTwouj3DZM1XP0UW3pwnOOx3mC2Cm8mxGMS71KO5kTlj1yMVrDPteWkqpIV17CfN40d93BOSgLrE5_CF14ts3l9S2z16oIEhDYHpqNrsM-yw5jTW1RrUXKGhSgvYul3b6FBgB09DDwHGzZ5PR1Kg",
+    "reviews": [
+        {
+            "author_name": "Nick Rodrigues",
+            "author_url": "https://www.google.com/maps/contrib/109756621898877656699/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Z3f8ArQsLM8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3tZWFQENemJyRucVyp3KJeeiSQkA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Needed a printer cable on a Sunday night and it was the only place open. Great service and even no tax. If you need any sort of computer part in a hurry I would recommend Celtic computers.",
+            "time": 1516321475
+        },
+        {
+            "author_name": "Oliver Carroll",
+            "author_url": "https://www.google.com/maps/contrib/110552477306544872127/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rAJ1DWfO_po/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0IJS8aiP7IC2cbMkdUf48Xp4YQLA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "I needed a power supply for my Dell Latitude. If I wanted one anywhere in Toronto it was $100 plus. I went to Celtic and they found me a replacement and installed it for $25.\nThe owner was true to the word he gave me on the phone. They can't do everything but he'll tell you what he can do and how much it will cost.   I highly recommend them.            ",
+            "time": 1383785322
+        },
+        {
+            "author_name": "Thomas Davison",
+            "author_url": "https://www.google.com/maps/contrib/117206460193986167747/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qS0Tp3yii_A/AAAAAAAAAAI/AAAAAAAADw4/CvKnAESLAfA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "What an awful place.",
+            "time": 1516294534
+        },
+        {
+            "author_name": "Ian Kovacs",
+            "author_url": "https://www.google.com/maps/contrib/115701776774620878915/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-v3gQnZ-tqHw/AAAAAAAAAAI/AAAAAAAAOK8/x2o8CBSO3iU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1515143406
+        },
+        {
+            "author_name": "Magneeto Tom",
+            "author_url": "https://www.google.com/maps/contrib/101329472708205455873/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DIorvSpTid8/AAAAAAAAAAI/AAAAAAAAHHE/wd8SbDOxiew/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1497552251
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8186719984485632604",
+    "utc_offset": -240,
+    "vicinity": "1315 Gerrard Street East, Toronto"
+}

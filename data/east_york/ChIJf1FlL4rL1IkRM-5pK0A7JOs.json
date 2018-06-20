@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M4L 3B3",
+            "short_name": "M4L 3B3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M4L 3B3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M4L 3B3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.669776,
+            "lng": -79.317906
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.67112498029149,
+                "lng": -79.31655701970848
+            },
+            "southwest": {
+                "lat": 43.6684270197085,
+                "lng": -79.3192549802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "f12c8e00c5312998b46bf3183298eec242ce69eb",
+    "name": "Coxwell Ave at Robbins Ave",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114485843412761344350/photos\">Rima G</a>"
+            ],
+            "photo_reference": "CmRaAAAAXeIqIn0cQYz27L_Bi4Yf5HgfQaADytCNXUnyZwYR_m9GCq_5DTVusnq-AMVfa3BH91x_i2xP9ntyA9K9a-691BgwnpwZqn_mRZ1L4g4m4giXhpPh9_-hxo3cnJg6EihMEhCmIbhCKt19-Q2fG5umbfhYGhRoaer0H_2etQPlNIK_v0QRhdqPIw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJf1FlL4rL1IkRM-5pK0A7JOs",
+    "reference": "CmRSAAAArVcwtVYJY7TbNTT7A65f-BN-eJCe2z3vNKP2VatzYgYUqWZiKZOzOEu_d5-WpGCDEsk6w79giyoyFCCG1r5w1C6p4HPHOWsND29fQLldVL0N-3LAiUnc3CY1ViD2x_uvEhBW-_YBd2aRfrqpjHVIA41nGhRlLvogzcqSIYDlo4Jx2x20zY2fMQ",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16943732844866956851",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

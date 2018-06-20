@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "11-19",
+            "short_name": "11-19",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wye Valley Road",
+            "short_name": "Wye Valley Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1P",
+            "short_name": "M1P",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">11-19 Wye Valley Rd</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1P</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "11-19 Wye Valley Rd, Scarborough, ON M1P, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.7578913,
+            "lng": -79.2818296
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.75924028029151,
+                "lng": -79.2804806197085
+            },
+            "southwest": {
+                "lat": 43.75654231970851,
+                "lng": -79.2831785802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b04338b8edc2c2a37cf71b56935c38cd936fbed6",
+    "name": "11-19 Wye Valley Rd",
+    "place_id": "ChIJEam3ePHR1IkRCz0FT7zUO6Q",
+    "reference": "CmRbAAAAgSTjGGVxodm_Fh51yPeR73IVeBPCMvDaGUa9O1Td-RW_iOg7A4uYk6HRECa6zndDov6TuwUyjM3T8sfwHBENhsg_CBO2Lda3MT_Pm7011gvcNihplGEcvd5ROnMZwOyfEhD-YpkhlaEBJ-xA-R8iASoGGhT1Lo2sf7onN6BmuU4U3C0DBcNnmQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=11-19+Wye+Valley+Rd,+Scarborough,+ON+M1P,+Canada&ftid=0x89d4d1f178b7a911:0xa43bd4bc4f053d0b",
+    "utc_offset": -240,
+    "vicinity": "Scarborough"
+}
