@@ -58,22 +58,12 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 				place.get_details()
 				place_details.append(place.details)
 
-				# # getting location of place's center
-				# place_x = float(place.geo_location['lat'])
-				# place_y = float(place.geo_location['lng'])
 				
-				# # getting location of place's center from the point we searched
-				# distance = math.sqrt( math.pow(place_x - x, 2) + math.pow(place_y - y, 2) )
-
-				# # if place's center is within our search and we haven't seen it before
-				# if distance * 1000 < 1 and plId not in Id_of_places:
 				
 				if plId not in Id_of_places:	
 					# save place		
 					Id_of_places[plId] = True
 				
-				# # if place's center is far away and we haven't stored it, or we stored it incorrectly
-				# elif distance * 1000 > 1 and (plId not in Id_of_places or Id_of_places[plId] == True):
 				
 				else:	
 					# store it as a false place
@@ -97,7 +87,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		data = json.loads(json.dumps(place_details[i], default=decimal_default))
 
 		if str(data["place_id"]) in Id_of_places:
-			print(str(data["place_id"]))
+			#print(str(data["place_id"]))
 			with open('scarborough\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
 			 	json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
