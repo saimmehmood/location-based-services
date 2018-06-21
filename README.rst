@@ -50,10 +50,6 @@ import math
 
 import numpy as np
 
-import urllib.request
-
-import ast
-
 # This function is needed to avoid json.dump decimal storage error 
 def decimal_default(obj):
     if isinstance(obj, Decimal):
