@@ -39,9 +39,13 @@ Code is easier to understand than words, so let us dive right in ::
 
 
 from googleplaces import GooglePlaces, types, lang
+
 from decimal import Decimal
+
 from pprint import pprint
+
 import json
+
 import math
 
 import numpy as np
