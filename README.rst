@@ -34,7 +34,8 @@ Usage
 ----------
 
 ::
-.. _usage:
+
+usage:
 
 Code is easier to understand than words, so let us dive right in ::
 
