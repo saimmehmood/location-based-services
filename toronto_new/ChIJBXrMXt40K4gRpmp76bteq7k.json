@@ -1,0 +1,197 @@
+{
+    "address_components": [
+        {
+            "long_name": "602",
+            "short_name": "602",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M6",
+            "short_name": "M5V 1M6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">602 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "602 King St W, Toronto, ON M5V 1M6, Canada",
+    "formatted_phone_number": "(416) 929-4901",
+    "geometry": {
+        "location": {
+            "lat": 43.64465269999999,
+            "lng": -79.4003826
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458748802915,
+                "lng": -79.3989838697085
+            },
+            "southwest": {
+                "lat": 43.6431769197085,
+                "lng": -79.40168183029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "01448ef327abc5ccdaa4386ddaef90bbd3fd3c2c",
+    "international_phone_number": "+1 416-929-4901",
+    "name": "Hariri Pontarini Architects",
+    "photos": [
+        {
+            "height": 674,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108351954324256386963/photos\">Hariri Pontarini Architects</a>"
+            ],
+            "photo_reference": "CmRaAAAAUXK-l6XepTDrZkgiJC5IeVtgXiw7Pl_VdhsnkHB86AP3wK6Kt-luEb71lYRj42pYbgDpUOJwnDXKj4rmCvGgyBOInS5DItdm4upfqBTpiH5m3DGTlN5FcyV_0Ce33GEWEhDEQpLcDYN_itOlQuez4FsXGhRFHompTUvqbyg3ZZR_Ag_6VJT5hQ",
+            "width": 674
+        },
+        {
+            "height": 2366,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108970992851403388016/photos\">Leiqi Co</a>"
+            ],
+            "photo_reference": "CmRaAAAAaN9hwwEap5McFJs9MjXO_pOmuSPALxhSixmsp4ENLkzDJ7Q1TwMDFweu7bc28_UhHGqcJVucboC_Zmyxwye36yvgwvDomTjGNtW1pR378mNnyMN0kSi9TVnaKZiHfP1yEhCh_PZfcRB7y_ZljJ9IGN69GhTQ8Eto0GdTTZhdzv7zgwUC-_W9-g",
+            "width": 4176
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102118494143816735439/photos\">Jeff MacLean</a>"
+            ],
+            "photo_reference": "CmRaAAAAf9orIAJAQEAjZyG80FHbvqfnx2raeGLCRa2eM1-AEg8jqLbvrp8gesrytQvahtqpE5TXcV91RLbiVmHvwW6jGdry1Tdu1AiiDIAOula5mztWcsNsfgoffKlW4MAQAWmxEhAfYS6EQQQ65xsCLizT4snJGhQEFriS39YMPHetd0GzhXL6QFKlIw",
+            "width": 2592
+        },
+        {
+            "height": 2366,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108970992851403388016/photos\">Leiqi Co</a>"
+            ],
+            "photo_reference": "CmRaAAAAXfBgjtIGaO5ZNkEk38IwcEShO8PveBLGcLG2OXrIkqM6eYGOzKNxWtqo8ZlyOippuICN83stmi2FyTsnXWfnqcJuwr7kYZ-Fwj0uIfP5_r_x3_piM0oQhDBo29mbWcnbEhAUCsvwCCN1duJfJ54EnG5QGhRNfP798J5UqUXWUo0Rd6knVOtGYA",
+            "width": 4176
+        },
+        {
+            "height": 2366,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108970992851403388016/photos\">Leiqi Co</a>"
+            ],
+            "photo_reference": "CmRaAAAAeah6ZglBQ94hNqda2FIig3JoSsu7yEugGp0skaXQNvSQn9_s8JQc-50RgKAYyjndecL_pvA4Ob2U79rQfpeRrRSj9i4pQs9JOlRscroeskauCFRbC1fmUDwqaQ5bkMJLEhDY0pL33Q_00fi0fBVRR_ySGhTSdcRT42epJSoOpIcCKEiiLxOVUQ",
+            "width": 4176
+        }
+    ],
+    "place_id": "ChIJBXrMXt40K4gRpmp76bteq7k",
+    "plus_code": {
+        "compound_code": "JHVX+VR Toronto, Ontario, Canada",
+        "global_code": "87M2JHVX+VR"
+    },
+    "rating": 3.8,
+    "reference": "CmRSAAAAFLgPIoPCTPfyHTlx_zK_-xgCH1I-Fuu_Wm0NOMlJCG-BRAgB1L_Y_jXUD4FNfYxCUiOlPauBkL0DcNp4FsKg7qyXswr_yDBUO2NyoYOaKfNE2D1VM2xphXkAEnazb46SEhDRTLBe5GWh_fa7r8P-JSBlGhQWerlyS6_JXL77awucTI52rQwigw",
+    "reviews": [
+        {
+            "author_name": "Zhanyou Zhou",
+            "author_url": "https://www.google.com/maps/contrib/115970765378031419926/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-JwudHH0m5_8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2qcYd0_2bMhbAxZrq1Kq9zXSpRag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Designe of B Streets Condo is a diaster for users and owners. It appears beautiful exterior but the interior design is ugly and cheap, Idiot designer can only design with unpractical ideas and cheap interior materials. Make design money but the functional parts never work fine. So cheap !\nThe designers never know the functions of usability by design but only viewing nice. How did they learn and how were they taught?",
+            "time": 1489682257
+        },
+        {
+            "author_name": "antonio fortunato",
+            "author_url": "https://www.google.com/maps/contrib/103853672697080477370/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-T23cjtPeJWM/AAAAAAAAAAI/AAAAAAAAAqc/7cGR69yXUqA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "They are great",
+            "time": 1509391565
+        },
+        {
+            "author_name": "Angad Aulakh",
+            "author_url": "https://www.google.com/maps/contrib/108209195587902677359/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iQJnT0IfOvs/AAAAAAAAAAI/AAAAAAAAGhA/OTiBV8kib2A/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "A paradise to work in this office",
+            "time": 1484626524
+        },
+        {
+            "author_name": "A G",
+            "author_url": "https://www.google.com/maps/contrib/112306210189100388376/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-t7kzwYm4Dmg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2pH3_Q1K-7m6qIFBSIxF3EjH_iYA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1525395648
+        },
+        {
+            "author_name": "Ihab Daakour",
+            "author_url": "https://www.google.com/maps/contrib/102391773570058854801/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_bSA8367DE8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3sUqeZT8fK1kJHLKxpPF9-cPuK4g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1522008478
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13378891279203265190",
+    "utc_offset": -240,
+    "vicinity": "602 King Street West, Toronto",
+    "website": "http://www.hariripontarini.com/"
+}

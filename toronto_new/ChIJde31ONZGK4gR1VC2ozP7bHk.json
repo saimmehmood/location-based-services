@@ -1,0 +1,219 @@
+{
+    "address_components": [
+        {
+            "long_name": "2201",
+            "short_name": "2201",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2L7",
+            "short_name": "M5B 2L7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 Yonge St #2201</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2L7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "250 Yonge St #2201, Toronto, ON M5B 2L7, Canada",
+    "formatted_phone_number": "(800) 861-9390",
+    "geometry": {
+        "location": {
+            "lat": 43.6544317,
+            "lng": -79.3808638
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6558565302915,
+                "lng": -79.37916971970849
+            },
+            "southwest": {
+                "lat": 43.6531585697085,
+                "lng": -79.3818676802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8cd048fadaf77df3cd69c1da549e43b3465f243a",
+    "international_phone_number": "+1 800-861-9390",
+    "name": "Royal Stays",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 5:00 AM",
+            "Tuesday: 6:00 AM \u2013 5:00 AM",
+            "Wednesday: 6:00 AM \u2013 5:00 AM",
+            "Thursday: 6:00 AM \u2013 5:00 AM",
+            "Friday: 6:00 AM \u2013 5:00 AM",
+            "Saturday: 6:00 AM \u2013 5:00 AM",
+            "Sunday: 6:00 AM \u2013 5:00 AM"
+        ]
+    },
+    "place_id": "ChIJde31ONZGK4gR1VC2ozP7bHk",
+    "plus_code": {
+        "compound_code": "MJ39+QM Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+QM"
+    },
+    "rating": 5,
+    "reference": "CmRRAAAA7NDzTVTuVI-mEqW9NUWolWzPkn0fGf40hqJbTMehOMKsxNvbNg_fyJA__mQ9BqSkGR4G7c-XQDLLHHvvPpNT-OUmYjO3fNwvssEJ2EfwswOPRh0Q6W6XUj_9tyi0jcGxEhD2MfxwcsuKNmuXtzvbV18iGhS8o0ROl8lmqTz55YOAgHRuF9Y3iw",
+    "reviews": [
+        {
+            "author_name": "Nasrullah A. Mardani",
+            "author_url": "https://www.google.com/maps/contrib/104186791914167315339/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_iXwmHC5Vvg/AAAAAAAAAAI/AAAAAAAAArI/5guHCCWJZuk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Very inviting place to live in with full stocked kitchen with fully stocked and new-like appliances for daily use. What sold us was the washer and dryer present in the unit. Very clean and tidy unit, right in the entertainment district. A mere walk away from Rogers Centre, CN tower and the newly opened Ripley's Aquarium. Close proximity to the public subway and restaurants",
+            "time": 1389002942
+        },
+        {
+            "author_name": "Hair Tyson",
+            "author_url": "https://www.google.com/maps/contrib/114055434183831909590/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0aqf8NhADMo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3DRwAF1xGy4urhDzrM3s0YpD0sWw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Awesome Service - Luxury Apartments. I Enjoyed my stay. Thank You Royal Stays.",
+            "time": 1382101581
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8749644375282569429",
+    "utc_offset": -240,
+    "vicinity": "250 Yonge Street #2201, Toronto",
+    "website": "http://royalstays.ca/contact-us"
+}

@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(416) 348-0180",
+    "geometry": {
+        "location": {
+            "lat": 43.654262,
+            "lng": -79.38123399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65561098029149,
+                "lng": -79.37988501970848
+            },
+            "southwest": {
+                "lat": 43.6529130197085,
+                "lng": -79.3825829802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fab726f8e68b2a5c4efbd0d382fd84baa2faadf4",
+    "international_phone_number": "+1 416-348-0180",
+    "name": "Disney Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 9:30 PM",
+            "Tuesday: 9:30 AM \u2013 9:30 PM",
+            "Wednesday: 9:30 AM \u2013 9:30 PM",
+            "Thursday: 9:30 AM \u2013 9:30 PM",
+            "Friday: 9:30 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2952,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107998522186779171955/photos\">Behrooz Kashani</a>"
+            ],
+            "photo_reference": "CmRaAAAAt81bPt6nhUrkaDxJxRwxKgE_s-MrTJHCVVNEk3Uz4dksWDWXCwEXvkcTNBeVtwo45IMHw0FiHh9Mf4bgGHz_OI88wlbrMiruIOqZBUJyr63LF9tAslMIUes5sVUO7Q3-EhBptuPFE8EdJ1cQDeHNa6dqGhSTvGBC3XBk3xeo4ur_ovhg3Mtl-A",
+            "width": 5248
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113689427642834014353/photos\">Albert Chow</a>"
+            ],
+            "photo_reference": "CmRaAAAAe_OL7h0UZ3r9x7Ox04ykxNH1R2KLpYHLCIUV42Jhyrwjz2KUgh_0uHoaihDwTCzCHQfmGP3yuLBDOVXJ_DM0juHvxm6e5sfOvZj0-oWzyodqnlmycO8SQeBtazGLXMNMEhD0RNxpnmJXgQudB760OC-JGhSYCHMehz1zfQfQDHmBP-Y46t35lQ",
+            "width": 3264
+        },
+        {
+            "height": 654,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105107205419257439197/photos\">lara carvalho</a>"
+            ],
+            "photo_reference": "CmRaAAAAZkdbiGMgAoqQ6JeM_7gMy30HK4erC9Ket_vaSVIp1Iwx0O_SVZHaFq_L3k-vubs38PktlBvKk3wthlfmqXR3vGs2BLNSdLedKFCrhc_KUlQFtYBavMSx5jG9cRinP-hFEhD4jw9tKfTAhQC-ekqpAtONGhQG2yAOhpOxiOYuswWs1iRZiXFgEw",
+            "width": 960
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115194631866631738394/photos\">Ty Agha</a>"
+            ],
+            "photo_reference": "CmRaAAAAl0GqzEPA97BPIu-Ed9JliQMc_CBZJ9WdY6O3BFVZCJXx-VXsCBrMf7jhMNgcgBnvTBOV7Ywd-hLeqS-3Xckyk9Vbxbv3SbqZI_bt_n4Ji9O_pKPhDhZ-fJ8P98w60pBwEhDr09EtoIIFmVZhmt6Q1wHZGhTM_Hni66uyPrF3KPAGWZLWLL3mhA",
+            "width": 3036
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAA4s3MWLG-to71FVrbq7UBlGZRrG1Q5zsxuHaeJkTN3prmTmrU6L4PSeSibAYwNvvd49UOFcHgDIq4acCorKCw822c09u9oSZUUOPv6buA86pm936fppCmbMXpvfBoJlhMEhCWa5p4qp445NgutC9yj8WqGhSoL35lrZZdGFp1N0-vAadQmeGd_w",
+            "width": 3872
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101311977806418853540/photos\">Chris Cooper</a>"
+            ],
+            "photo_reference": "CmRaAAAA39Bl8SuDo33zy62FzE-uWPGs4mOWvHjnnjl6y3cnHzKFZGNBfdwqdNr3QBJQM71smnTBAqWBpiIXZELIdfjd4WxyoXafid2wxgQK5JrBIK_WTWb9qvtq-pLpyeZ42yPWEhDU9n1eqSs2bf694U8pWBgVGhThi1zdENcDLWoCXTVRnI_XjJIT9g",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114235892418188606651/photos\">Cathal Berney</a>"
+            ],
+            "photo_reference": "CmRaAAAADvPLLqXDYMfgRPcfMEDXrSv01W5_zMLOI-x_f0hGQ82i17dHL8TCu6f8kUdNxPywLJAZ2CgMyFzIDRrd5JbD21zk4afUg6RaSP0jydNE42zYwITsk2zwTLAso30GhM6LEhATWLnzILwavoxweORTT6mGGhRuR8NAZebFAu_OijF69wl56t00Gg",
+            "width": 3024
+        },
+        {
+            "height": 3143,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116064404799649237707/photos\">Lulu C</a>"
+            ],
+            "photo_reference": "CmRaAAAAIgX73VnJFXTi2GICF74yH7iOYK9pz6kszyOm21SxGew1nbDQS4oqgQf0hle4oEUX9zPTmnSWqmU8IiKLLxuGwPekH4ok5mDNbiTBo61zlhwh8BFJYBpyNuVc8qxpfVXWEhCnbEjcH_mUDFjGKtc5utPEGhSAs7HaO5yVOIKvbV5dRusvT0U-3g",
+            "width": 4191
+        },
+        {
+            "height": 2803,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116919402900515788095/photos\">Ethan Smith</a>"
+            ],
+            "photo_reference": "CmRaAAAA6ZI_uo6K1h8hYNYzg4kf8c0BEW3HCTiFTOY9q4YiHZ5_Wy-3kXR5zRlrF-pV_HJRzpw0DCBP91LW9DQ50eQrAuHtU8q2h7vONk19Ffj4RCP8XEZcU2xwMhKiifvGJ0oNEhCTW6vAiKe65WGl2zeEYDCVGhTAGAVIxLCgQJ2c6y1GhSzqI98z9w",
+            "width": 3737
+        },
+        {
+            "height": 2882,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116919402900515788095/photos\">Ethan Smith</a>"
+            ],
+            "photo_reference": "CmRaAAAAReoZyCr2oIgszdj_SFUFjP289t--veTe-x6FKo888WLE0rebRJNJR2zCzcAwuHAuHcSmGU_pAlu8VOViA352L887PfPYwTxGw0l2DYignRzBoowTkyRJ5jvj6U-sJwAnEhDgOHPlMY9Zjn3XakzYD2zuGhSWmmo2Gl2cHrWplw_21_oHcAWOfA",
+            "width": 3842
+        }
+    ],
+    "place_id": "ChIJr5rJVzPL1IkRGTfmYx_pfSY",
+    "plus_code": {
+        "compound_code": "MJ39+PG Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+PG"
+    },
+    "rating": 4.3,
+    "reference": "CmRRAAAAgl9Y46v5PNOFWoyYdORoK4-4qXpGrJMTRKW63S93oPQaffVh1uM31m1FiK-g9yaW64paFGK_J3Pgjpskks0U2rOXcpOo5eUhrtxh9tqtcCQv2iXotiK46R3ZAnf3OdjpEhCsqURq3KRmvl2Rlba1DPwoGhRTTx08ErugwkuZ_75qSlio8em0OQ",
+    "reviews": [
+        {
+            "author_name": "Patricia Napolitano",
+            "author_url": "https://www.google.com/maps/contrib/103539622715440569301/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-v_bK5SEWI6o/AAAAAAAAAAI/AAAAAAAAABM/a1WbMzIXVXk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "The store is small but they manage to bring a little bit of everything! Very organized and we can feel the Disney \"magic\" when you walk into the store! Absolutely wonderful castmembers!",
+            "time": 1529929225
+        },
+        {
+            "author_name": "Dean Savage",
+            "author_url": "https://www.google.com/maps/contrib/101646178870179428979/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-IkIrRM1MgAE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2qALIA8vnWWurn1J_i1fjgXnAnDA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great store that I loathe going to cause i have kids and can't stop myself from making my wallet lighter to see them smile lol. The mouse has a powerful influence over me lol. Not sure if they do it at every store but the one at the Eaton Centre has a little opening ceremony everyday and a kid gets picked to turn a big key to \"open the kingdom\". My kid enjoyed it. The staff is great with the kids as well and there is a little area for drawing and watching some shorts/songs from their favourite Disney movies.",
+            "time": 1525468419
+        },
+        {
+            "author_name": "Jade Goodwin",
+            "author_url": "https://www.google.com/maps/contrib/108188876561899402947/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VRPdrRAGcfE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1lULo91tTNT8fGhwq-2EyUc-zFjg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Absolutely love this place, I work nearby and go look around almost every lunch time. They have so much new and changing merchandise everyday it doesn't even get boring. \n\nThe staff is also very friendly!",
+            "time": 1524253463
+        },
+        {
+            "author_name": "Bathoggywinger",
+            "author_url": "https://www.google.com/maps/contrib/114697401919259733561/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-IEJyZZ0Wb5E/AAAAAAAAAAI/AAAAAAAAEjg/2u7jGQ1ejMY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Interesting place, lots of subtle Disney features. Yellow brick road leading people through the various brands, popular and old. Walls have various themes that can be read as a narrative if followed through the store, little things such as that.\n\nMerchandize involves a lot of clothes, novelty items and somethings exclusive to the store. Most of which is for children, mayne some minor items for adults.\n\nCost seems near average for a brand.",
+            "time": 1525305940
+        },
+        {
+            "author_name": "Ahmed Elian",
+            "author_url": "https://www.google.com/maps/contrib/105024774490492729111/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Nh-7jwrd6hg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0SzrPzXTNkasuz2v8SbZ8kn1euFw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Found the prices very reasonable. Ideal place for buying a gift for a kid or a newborn.",
+            "time": 1527734593
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2773629266559383321",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street, Toronto",
+    "website": "https://stores.shopdisney.com/on/toronto/651/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places"
+}

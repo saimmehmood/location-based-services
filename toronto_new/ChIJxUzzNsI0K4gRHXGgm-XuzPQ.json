@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "79",
+            "short_name": "79",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kensington Avenue",
+            "short_name": "Kensington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T 2K2",
+            "short_name": "M5T 2K2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">79 Kensington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T 2K2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "79 Kensington Ave, Toronto, ON M5T 2K2, Canada",
+    "formatted_phone_number": "(647) 345-2473",
+    "geometry": {
+        "location": {
+            "lat": 43.6546617,
+            "lng": -79.4005528
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6559959802915,
+                "lng": -79.3992516197085
+            },
+            "southwest": {
+                "lat": 43.65329801970851,
+                "lng": -79.40194958029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "313c17441ffa9d53c712a627ebedf2a06d969ec1",
+    "international_phone_number": "+1 647-345-2473",
+    "name": "The Dirty Bird Chicken + Waffles",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 8:00 PM",
+            "Tuesday: 11:00 AM \u2013 8:00 PM",
+            "Wednesday: 11:00 AM \u2013 8:00 PM",
+            "Thursday: 11:00 AM \u2013 8:00 PM",
+            "Friday: 11:00 AM \u2013 10:00 PM",
+            "Saturday: 11:00 AM \u2013 10:00 PM",
+            "Sunday: 11:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111506114463148984586/photos\">The Dirty Bird Chicken + Waffles</a>"
+            ],
+            "photo_reference": "CmRaAAAA-X1XXML_R5xBZV9hpRppnF-2E3KCw5H7FAhas-qjEyr9uitxIGIQmn1_QWJqIiidGAcmiCARdsf5m7r-h2zre5q5ftwDT0tYh-cfau0kbw6PC0_Jhk7uDnQ4wTyVTXYDEhAwpM0qZgw67SZPdul5lz1gGhS4yJxt9hmMZ4LHyVjrv0ux6M9BZQ",
+            "width": 590
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112020688316141681995/photos\">Kevin Tuong</a>"
+            ],
+            "photo_reference": "CmRaAAAAAE-6IbD0BK_MGZhibFIbt5bSzOU8AY8_ulcK4L1tThCzx1ltzL7O9pPm7g44m3r2lWMlZ4JE8pmUFczfYf-XqKLU5tDB1_mC3kvA2yzIe6X-GZet6bNAp6DVbsXOuvrzEhBmQ_T9g-Jgj-zUcW57xB_9GhQtzGG2xxx3v4jxW_mi-Ui-vg5Gvg",
+            "width": 2592
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116113774974844148278/photos\">Amber Walther</a>"
+            ],
+            "photo_reference": "CmRaAAAACIpjMP_HHLfKHkY8-Nk9AA7Bb0HVZSxN4aCdfgI1yBzHalxxjL9I9riaS4jvvogH3Tj4xprPI3ka5T99oTfNTrW5Xl05k5x0UP8PfM5ezmBUwTBUwHzVFfSyekUhnFmREhA254W5BY8k8M_VPyn-kkXOGhRITVIskIZobCRbp9cf2lgHETmyug",
+            "width": 1536
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100454728555611565222/photos\">Sanket</a>"
+            ],
+            "photo_reference": "CmRaAAAAIwOEY21CGh5GJ64SPgb93q4qLdCfDXwa7qlp-wuprc4YUKt1OlWqPPw4LJ-zGBhD7M7nF_TsgSm-I7V9AUPuGLchT3E18CrIrblWKpcFHSUtLtVdDhuRhoDgyMPbFFRIEhCooXO5_-oMILL67p_MvDWXGhSMiA_3LKp5jcFTZzhVKMLVGxmEOA",
+            "width": 4048
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105317309420339100650/photos\">Adam Cowell</a>"
+            ],
+            "photo_reference": "CmRaAAAAEu3NthTvjlTxuqkGbfSO0IDjQl_Sk5ZafqsrGO9Ia7Lj8AZw7QhPs867OU2Lq2X3uoi8HDjRSvYZ1AxtU6iv1EupLlaMRuUtxBiSE4rzChnDWhTz2Xf9YgFdpb5d7XUyEhDQi8oWUNfdmYJ1XaTQG-FlGhT-7UVIUpNd6P-2lxvvi84esWb8_Q",
+            "width": 5333
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109535041716578622841/photos\">David Ramalho</a>"
+            ],
+            "photo_reference": "CmRaAAAAH1So9_gPq9j2T1hxYKZgUSBy9WnFpFfsuzi7Q8SC2kisCeyH-wWCGQioZmsz_4-18xFjg1PqJRBuQZNGRm-jB87XJHhM0G4UcfeWpA9f3yxhppdlDUZr72aceZslhHKrEhBHhr9hXIN2SceX7_XY6DJHGhQU2-R6fkA2H1ps8_kKAmtpiFs8zQ",
+            "width": 4032
+        },
+        {
+            "height": 665,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107751850339387444691/photos\">amy austen</a>"
+            ],
+            "photo_reference": "CmRaAAAAlgscRZUErIDMJitH3917o3wnMila1kFC9hbsjPuSkS5CMG3EklgySVj7AxhUCVUEJQw-ngUTlqdVNw3IxhG6gT7pJm1GFFJnzRA7YFXDo3-daASq5vmct8yABFUCEuC5EhCHcdfUUYdKiV9wrVXTkO38GhR7sdsSWfy0qmzW5DKTPGeX4S1i3g",
+            "width": 920
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112734244601392669270/photos\">Jack Fritzley</a>"
+            ],
+            "photo_reference": "CmRaAAAAOP9WvhIb4NdVfDWlsAbY1D1mjWdW35XGculpayLE4SkRT2BEir2dqbQ7YrXHnAsYDyHIzyoKtXDjpWHcNM7KbrRcowyBuYpBd0wLeddvDWbUpD8DXte58KNpiXbT6_HBEhA51HcXBU7d2K_mHUpMaGGRGhRYJOLj-iLJ_06u1CxNGJOENUxR_Q",
+            "width": 4048
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100654438113670756837/photos\">Antonio Tannas</a>"
+            ],
+            "photo_reference": "CmRaAAAA8MwsnyEOz3RPdYLMeTYc1DrFnOxr1sLJOXyYXqKTEY0ivWnxiKmezSCzLC6alkgKHj50LtO4qupCt0iIUOd4BNnPxNY2wGMQ8uWM73QdjKdU0caMXIJWY2UtWHLPpC4xEhBoYx8bwQilW4PqySuSOErrGhSfW4tv5ZHM-8yC_wQ_xVSpNd6aGg",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111594993181825497543/photos\">Kate Sciamanna</a>"
+            ],
+            "photo_reference": "CmRaAAAAMAlx8JJXZ8FZwPyKXNz6u0PicYo8rypLrWFSBM7mBXGBax4Ne5xmFVI7d1c2zOXuqcIkxhkosTuvXqELJF5nK4bvF5Ps9Yl08fyLEgUXJeyDC8ra8vPISHcHPpjmsgCZEhCi9n23VCl3sCZ5ESICxWawGhR9Eo81dangjdg5eeo2Xbo-QbuPzA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJxUzzNsI0K4gRHXGgm-XuzPQ",
+    "plus_code": {
+        "compound_code": "MH3X+VQ Toronto, Ontario, Canada",
+        "global_code": "87M2MH3X+VQ"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "CmRSAAAAxw4JWJCJJ5SKR8mZ1lI5Vm-LD_VU1A_GSlW4LBg1nnuo22oMsAVM5x5hXckMpi1APq6imLrbIrShlzqTHbtUSzXahtmHy_UKrZ4Cm5mSJ9uQNDpSaBvNiNnx2wBB8LIKEhA9tY4l6v1lDgKRVd1uCB2qGhRy4Uoh8aKyux_mkenKNfD3TDSTOw",
+    "reviews": [
+        {
+            "author_name": "Sarosh Malik",
+            "author_url": "https://www.google.com/maps/contrib/102243405483713441966/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-59fLeI_niT4/AAAAAAAAAAI/AAAAAAAAAeo/x6esELMYRRQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "The chicken is cooked to perfection, juicy and battered perfectly. The sauce ads the perfect zing and to top it off the buttermilk pancakes are nice and fluffy to compliment the perfect chicken and waffles. My friend and I ordered the Sticky-Icky alongside the ODB and both were phenomenal options. Highly recommend for everybody to try.",
+            "time": 1529799364
+        },
+        {
+            "author_name": "trey day",
+            "author_url": "https://www.google.com/maps/contrib/112436183101876010215/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-FsephW2SvdU/AAAAAAAAAAI/AAAAAAAAAFQ/ydYAvcnlcBA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Honestly when I walked in the ceiling was being repaired and seating was limited due to these repairs being done .... I had the 2 piece with fries and honestly at $10.45 for a two piece is ridiculous considering it comes with no drink... the food was hot and fresh though.... the sticky icky chicken sandwich came to 8 bucks which is far too much just for a chicken sandwich in Toronto.... all together I would never consider spending my money here again ... the food isn\u2019t worth it \ud83d\udc4e",
+            "time": 1527448290
+        },
+        {
+            "author_name": "Priya Almeida",
+            "author_url": "https://www.google.com/maps/contrib/110086559492581986901/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oUoCDhDaDwk/AAAAAAAAAAI/AAAAAAAAAC8/Z2dl8n6t7_c/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Flavourless chicken, waffles from a boxed mix, insipid sides that felt store-bought - not at all worth the $17 price tag. Service and ambiance were lacklustre. Disappointing all-round.",
+            "time": 1526871272
+        },
+        {
+            "author_name": "Shamas Amin",
+            "author_url": "https://www.google.com/maps/contrib/108489429771704376411/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AcLQH6-4eEs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0fJzlfyT62KQ3JNSUwxvCXhmOYGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best chicken n waffles in the GTA! Must try the dirty club.  Amazing service, amazing food. Thank goodness for the second location open late!",
+            "time": 1527447305
+        },
+        {
+            "author_name": "Katrina J",
+            "author_url": "https://www.google.com/maps/contrib/108427846612070501613/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aPGReM2aV2k/AAAAAAAAAAI/AAAAAAAABX4/74O6CrQdjvs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love their chicken wings, they are smaller than most chicken wings but the maple garlic flavour is the bomb. The waffles are very crispy on the outside and soft on the inside, some people think it\u2019s too sweet but I personally like sweets so this doesn\u2019t bother me.",
+            "time": 1527444531
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17639736510429294877",
+    "utc_offset": -240,
+    "vicinity": "79 Kensington Avenue, Toronto",
+    "website": "http://www.thedirtybird.ca/"
+}

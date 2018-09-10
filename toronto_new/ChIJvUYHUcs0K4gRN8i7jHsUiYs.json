@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge St",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(416) 598-8560",
+    "geometry": {
+        "location": {
+            "lat": 43.6544382,
+            "lng": -79.3806994
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6579308,
+                "lng": -79.37795955000001
+            },
+            "southwest": {
+                "lat": 43.65035399999999,
+                "lng": -79.38525695
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "66578c7d4fd29f7375451f6316f02860b0147a55",
+    "international_phone_number": "+1 416-598-8560",
+    "name": "CF Toronto Eaton Centre",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2916,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116434591653906538710/photos\">Pagan Eka Cheung</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ0kzPWryY48TcKbbZEpYS1xOOPgnWcnVk-jvDjXduSBmJED9sXhTgLCD77Y291Wib_yJaGkQMv6-4zgOwVmHikxYd6pLv9TfuWXBwL1a-gRCsCgW2zb92bV633EpjZqPEhAcrWql-9FYoZmexdZqLb6XGhQeczQcYtu-HRV_SFbaE8MLAb_69A",
+            "width": 5184
+        },
+        {
+            "height": 638,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107280343555960506788/photos\">CF Toronto Eaton Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAow4Jlf-gIbPG18Dvniu_vymmIDPnD8KwlK8wviHbfIb5o-fFBPx44H7EXRZ94qu0kr1SUdU-zOI2hjB3BH0Ew2z-UsWhJZZX5OccuXX5q2JXxFFpJpuwPpNEGhs2IYlYEhBJlGSdnhzohAHjJR84yInhGhSG8zY7VsFeFdnuxhrOyhA23p3vdA",
+            "width": 960
+        },
+        {
+            "height": 851,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110035870627215878117/photos\">Ajay Sankar P S</a>"
+            ],
+            "photo_reference": "CmRaAAAAXYdOhcKQFRbGMjPL9JBBPUhQrKujtjfbb3wveiGN4RwGwqHiWPw61N6-rU4qmP6WpRzFFvVZUKSUwwMA8UohyKN3ckD2WpNpCi4Cpo4Z04fhiPKMPNxgL8gxt_xBgTGpEhCcjOOKRu8d_ePB4lpcV0v_GhSqmoQ6L3yS0lAmRvPs677W8WafLA",
+            "width": 1280
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116064422103801704599/photos\">Robert Parungao</a>"
+            ],
+            "photo_reference": "CmRaAAAAf4hpNYGWEPMLPqh_QQkbh_EGHaqPKLayGgZP7XLDV7iLnjR3eLnBgU0LmEo_CVaxlO7HOq87h-1R28vB-6RNcnMgoqFGE-Ozzat0YWfvV70bUxmLB3KI-t_Zz0oAtghfEhCteBh4jiPkx7iMmP8DI8IFGhQQ1kYrlpNh3t_ThmgGXE_c0d0URQ",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100012410020654856923/photos\">Helmi Ansari</a>"
+            ],
+            "photo_reference": "CmRaAAAAIwL14Q81p_g8TaIoWsjOng70AUp30ZeSJDdVcj7HGaN8Q6HelcfxjtebhVkfUj5ib-ATD19Ox1qTD5r7Zhz82_aeJf89AA98by_mPENF7LmNVGQ7ffE2WexmZhwbcFPqEhDRL1C5L1-a_CdDrl6CsztXGhSdjZVYXtw8DzAAquf4XSqwmmo_8w",
+            "width": 4032
+        },
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113550988739123325244/photos\">Alfonso .Romero</a>"
+            ],
+            "photo_reference": "CmRaAAAAAucoqQ0aJOd_snJCDCdl3Lc1Lz3N61FCJ72BvZYlryoiBQD9VM6w9IK2mymXdWcaLeHh1jISTyaBx27ZyK31khrUDCuRUDlIgqnM49qIvxsCQhvADL7HN5BrlAAnfS2NEhDBwKLkhJMfowiLwmrjiwOBGhQ3b1WwCdz6iVr25bpc4gMscQuR7g",
+            "width": 4096
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108557351468461410100/photos\">Tarannum Mistry</a>"
+            ],
+            "photo_reference": "CmRaAAAAPkEmOxKf_uP_oiKgtrzQBuJh5Ak2JVftUhycrQlmGYS58jPnTjCxHI5kAtYf5CPDuuf4MAZF0V8_nMR-aWBUXws7Hmex0hwWHf8gyZMA2yXcvTSoDiWhfQH8lZMQP88GEhCOFMGeZiaExdEs_1QdFGxOGhT7s_J11wmWOC1lsSJcok10P-xinw",
+            "width": 5312
+        },
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103789015317958650751/photos\">Calvin Engsci</a>"
+            ],
+            "photo_reference": "CmRaAAAAvW4VOExe2SBPTTitLwXO2X1KfumHn6eVMbttDSS6DbfY8EvpBFr1qNR9bp87wh8hIH-DLOyybyXWr_Rzu2o8TF9Rtt8EJDiEjl08HEeOX_8D--n5ktcI2UoMSUWspvu2EhBypjPqe1WBd4AUOzdTew8BGhSiYxBjaMrIW89KCExa0Lb40d1wqg",
+            "width": 4128
+        },
+        {
+            "height": 2736,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAA_Ur0WjnzloxQtzRgrl4eigTJVUTfJgkvF_H8Z68eXhfgnEhSbCVvyu5XD8m8X8qGz7dZ5Oj0c_IdbDfJYhlSLB_NpDrWCRRaUSnFdTRF8nkl7JkhkPm-G5qD57CBfY8tEhBanUyPR88ICYt4vP4JNZonGhQg6CctHr_g5dAi3N5QrZ3-haIcmw",
+            "width": 3648
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101639117842721987005/photos\">\u524d\u7530\u7f8e\u4f50</a>"
+            ],
+            "photo_reference": "CmRaAAAAK34wnk5yDmBxyfb0SL2gKeCdjNe_rWiywSKf7f0tSGELixemFoHNMn0j3lMePcUpIqUSiWsGwuLrUkPPpqP9XAmhNkMdLUyyKa-uroq1a8leI2EBsY2YDiI5LKUIzkVaEhBJj7KRXznV0zRaEXJMf9sKGhRbA__M6wuq5dvhQyxcYf1a_z7hIQ",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJvUYHUcs0K4gRN8i7jHsUiYs",
+    "plus_code": {
+        "compound_code": "MJ39+QP Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+QP"
+    },
+    "rating": 4.4,
+    "reference": "CmRSAAAApGKYw7UmEhq3L8L8CWzicMjsF66RO5i0ygw9nKfxBx1mibZyncGi2RbRMrk2nskd7DMJmv-2GRHiyuQFgUOpZDvOSTfGl6XGTAMq-Cz_MdEbAiJyOiY9nW15C2Hja2yLEhAnXr6l1Qsi34dntl9yNpwhGhQ-Qw0-2B1LRSSz2Dxs2mppoAvOew",
+    "reviews": [
+        {
+            "author_name": "B. Gold",
+            "author_url": "https://www.google.com/maps/contrib/104062174370143838786/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BOVweDKsU0Y/AAAAAAAAAAI/AAAAAAAAF6s/42sfg9txCpg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Beautiful architecture, gorgeous luxurious multi level Mall in Toronto downtown, excellent location to reach by subway or car. Huge classy Mall has everything your heart desires. Very nice ambiance and atmosphere. Modern stores with gorgeous displays are so inviting. Excellent food court with wide selection of international food presents Canadian multiculturalism at its best. Definitely worth visiting to treat yourself to very nice fashionable clothing, beautiful shoes and what ever makes you happy. Once on a while we deserve to treat ourselves with uplifting and ultimate shopping to experience luxury at its best.\ud83c\udf69\ud83c\udf81\ud83d\udecd\ud83c\udf79\ud83d\udc5c\ud83d\udc57\ud83d\udc60\ud83d\udc5a\ud83d\udc5b\ud83d\udc51",
+            "time": 1528830772
+        },
+        {
+            "author_name": "Amanda",
+            "author_url": "https://www.google.com/maps/contrib/112345546004393009735/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-XeJrCuf4Y5o/AAAAAAAAAAI/AAAAAAAAAh0/1doTDbAQW9Y/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "The Eaton Centre is a definite stop whenever I am in Toronto. I love visiting all of the shops, most of which do not have locations where I am from. The food market by the Shoppers Drug Mart is my favourite place to get food there; the selection is great! The mall is also perfect walking distance from many attractions in the area (e.g. Rogers Centre) if you have spare time and are willing to walk a few blocks downtown. They also have some interesting events sometimes as well, it just depends on when you go.",
+            "time": 1529981162
+        },
+        {
+            "author_name": "mj s",
+            "author_url": "https://www.google.com/maps/contrib/114289694729445120504/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QJKFJUJHVlM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2MvLFSr4XVNEhkfl_PKzVZwqGhoA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "What can I say, do you want everything conveniently in one place, looking for shoes, jewelry, clothes anything you will probably find it here. It can get really busy, but that\u2019s what happens in big cities. The Eaton Center staff does a great job of keeping the halls and floors clean. A day trip to the Eaton center is always an enjoyable time. Parking is an issue though so be prepared to look around, walk, or pay for underground if your driving.",
+            "time": 1526971826
+        },
+        {
+            "author_name": "Aleece McLean",
+            "author_url": "https://www.google.com/maps/contrib/106631233858706080774/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-TaOE4oEbuHw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0uzLkzYLJh9A2ztKWtkGcu5g-24A/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Only went to the food court and the Disney store...but the Disney store was awesome!!! The staff there was very friendly! They have lots of awesome stuff that is currently popular with Disney and some older stuff! I didn't want to leave! I found the girl stuff to be absolutely adorable and maybe like there was more for girls(?) But either way the stuff they had was awesome! The T shirts were great too! Some things are a little pricey tho.",
+            "time": 1526351195
+        },
+        {
+            "author_name": "gladmok1",
+            "author_url": "https://www.google.com/maps/contrib/107687502848248565850/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-K7_gw9AD_Ro/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0xQqEgBtas3zvQe71aZegO6W_ifg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Big mall. Great selection of stores. Some reasonably priced but most are overpriced. Food court is renovated with a great selection of foods and plenty of seating space although it still gets very crowded at peak times. Close to multiple subway stops. The top floor has an additional Food court and a movie theatre. Outside on Dundas square there is often some type of free street entertainment.",
+            "time": 1529546934
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10054590163955992631",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge St, Toronto",
+    "website": "https://www.cfshops.com/toronto-eaton-centre.html?cid=lis_tec_en_hp_gb"
+}

@@ -1,0 +1,303 @@
+{
+    "address_components": [
+        {
+            "long_name": "155",
+            "short_name": "155",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Walnut Avenue",
+            "short_name": "Walnut Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3W3",
+            "short_name": "M6J 3W3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">155 Walnut Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3W3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "155 Walnut Ave, Toronto, ON M6J 3W3, Canada",
+    "formatted_phone_number": "(416) 532-3019",
+    "geometry": {
+        "location": {
+            "lat": 43.6442876,
+            "lng": -79.4099184
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64561403029149,
+                "lng": -79.4086350697085
+            },
+            "southwest": {
+                "lat": 43.6429160697085,
+                "lng": -79.4113330302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "65117cd5d82e0e29e1a9df88e48c2ce5aa34cc9b",
+    "international_phone_number": "+1 416-532-3019",
+    "name": "Arraymusic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108959754274790417990/photos\">Sebastian Oreamuno</a>"
+            ],
+            "photo_reference": "CmRaAAAASV_OHjgtGYEunmSB23czzLlVukSvUe88p-DU530y89rV2fAOeyCU5OkW_CJhT_EliUYuNYW2t8_qoucRP1nVT6oBH_adOy143CTBX6-pjjF4eINoE--LqQ4H5RjWb8iJEhByeSXPmNPbmlsihp4se4IjGhTFjp9NRmJyaxnyPQGu6oNDKJaszA",
+            "width": 2560
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103689633531907118381/photos\">Paul Stillwell</a>"
+            ],
+            "photo_reference": "CmRaAAAAXbE-HQVG25Eo6zKKqThFHoDt1JG_P-7hC8snP6BMKU-XAwWIFULz5LteY-KMx2Mm3dX8Ef0BAgunIM6U05XZR4RZDkl08U3Si_ndUi6oFHeO1ROmC7HHCuEXWsgjP6G3EhB4hMzIIiTXb08MWAYWd7lXGhRBPg-Mdwv3BrVz6COQCw7XR4XKWQ",
+            "width": 4000
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116563815395661694780/photos\">michael lynn</a>"
+            ],
+            "photo_reference": "CmRaAAAAIiTfTn6w7lyzUCeOpkmQHD3ZsI-rWs_4Ik-6QMt37HthL1lyq6JC0ZKHB_O2wvGgM1DrXr9KKk6GVMrAh2wRDTbIG79ZhKRVv_HgtMFzxBlCjhjeIIzWmsXNZTe7xgeEEhDiYSJ9pRvu6X1moO_8acCqGhRLzumky6Ev9ofk3SPrhe6c8sDgGw",
+            "width": 3264
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103689633531907118381/photos\">Paul Stillwell</a>"
+            ],
+            "photo_reference": "CmRaAAAAsN2Um2HcU-zsh4jhpTQanzr1hq5E8wTQxfUSpIvOdS5aLZ2uirjejzQ_Pu3T453tg0pzND_kHoPJ2WyrG_ZR6_lhdHus6xQ0nEn7o9BMkxWm-KpsYTMUZ6OnEB7EdED2EhDw7p9MLbFbteR7riMqnmbSGhTAwAo8EkoOEIafjw0cFToEJRve0A",
+            "width": 4000
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114921915442650341695/photos\">Elixabeth Black</a>"
+            ],
+            "photo_reference": "CmRaAAAABKNEz7m-xl0OReuHRYIPmDD82iPvvczRNWksgkmJ-ipEhmS9b2KiZZK9oiosGgeZfTZqXK1_WNWg5aw9Yd1JjdlbzFXACRmS3ftDiU0c1EwYGQFb4_B5ikzKD4Tv3pMuEhAhhh6JELVkJpZmAog32Ox6GhRiUsOGgukCii9rCG1SabiEWJ82Zg",
+            "width": 4032
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116563815395661694780/photos\">michael lynn</a>"
+            ],
+            "photo_reference": "CmRaAAAAoSfpNuMhalc53tOgs89ck77ndWSDLDEuTtPcPaVDUT6X1M6xyeN7LVgDNmOxOiTLQdqpo_hB1FndflMUdomRg7d7D7lKFr9A781uek2ipjK_yhbFdtHs_bQa4vpE2Xk-EhDvYf0IbwjFtEquTkLHDTqvGhQx2cF-IblVqkrzOU6No_D9B0O4pw",
+            "width": 3264
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116971336478981844105/photos\">Pan Xu</a>"
+            ],
+            "photo_reference": "CmRaAAAAXWBR-Ny2woYzzledxGpWac32SG1Jh7AS07xvEpvorJBCi2Q2w6VcFbO2by-QPC4C36UbRe3b1C2HtLEz-o1ggxI-17hjiQq-SNl9PXfah5aeEFFkdFOM-X15c6J1C3W0EhCPeZ-F0WJFsDQMvGT31JToGhQ873hfYx_0dD4b9irdk8DgK-74gw",
+            "width": 4032
+        },
+        {
+            "height": 2934,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105343207858389170984/photos\">Mark Wilson</a>"
+            ],
+            "photo_reference": "CmRaAAAAf3UGKrJIyYzkmhfGnNj017HzuONJ5KBQL8ygfa4zGTnBzUZzH5bAEoky1bk5Ie1kGyAOq4sTwKSQ2jTlxKICuom4DoZBYLzT8CSjOUWK065Frg6ScCW8vRk8BZCocQ6vEhCvBo6-Ev9DIRpFnPuGr0siGhRWA1dM7sGmtqaLhftXK1WyRSQbRA",
+            "width": 5216
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113939448644369125305/photos\">Jonathan MacKenzie</a>"
+            ],
+            "photo_reference": "CmRaAAAAWPOZN6fDXl6oyn9ZRw6g7zcnU_GMZS_h-mRmDSU-Cmb2Ylv3WwnFhI_XKqndq42mxrOnBY6hqvyz7QefToC_9Vbip7RS9Dycbe7oaUWZ3WjpSEd46jAt7eVU8_6DlHD_EhCjR0sRAYH4z6AeoVvNL2lzGhSqXRwHd3oT1HEKcN3-XiIgNE_dfA",
+            "width": 4048
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108959754274790417990/photos\">Sebastian Oreamuno</a>"
+            ],
+            "photo_reference": "CmRaAAAAcifm72uXeW6nKfnDaE7vOLxd98wWslr90VWBVwHa35UROlpqJUNg-rPF13aT5iqIy4XCogzPW07OZ-8eFUQWoermQ8DYFDhn61M5A63L0dvxIUThsBFWb_i9EVbzBCKPEhAvwf4PF_qcBOAH1Q7Wu8FMGhRUiyH01YlAmKtRhbb6jcNUXtWMrw",
+            "width": 2560
+        }
+    ],
+    "place_id": "ChIJa_VesgY1K4gRVQ3p-ntk25I",
+    "plus_code": {
+        "compound_code": "JHVR+P2 Toronto, Ontario, Canada",
+        "global_code": "87M2JHVR+P2"
+    },
+    "rating": 4.6,
+    "reference": "CmRSAAAAmM9B2a_uGlKAR7ccOju5z2DtQ-e5VpQTuuUVw7p8wh5u0MFg_HAtutvfhof7pqwV5ZforC8noozvdGAz4gppzq-rnoqFXXB7n_XF2TKroQBvfjvT-mylDJGSdd9f6Ua2EhDSLc9L5GbjSbIIxXCQxPiUGhR1Oek-LD1J4Q4exHlnGPh_VcYbdQ",
+    "reviews": [
+        {
+            "author_name": "Harbinger Photography",
+            "author_url": "https://www.google.com/maps/contrib/114999551604097917609/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Akd6L_3jOCI/AAAAAAAAAAI/AAAAAAAAADA/RwvT29C-llk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I did a photoshoot for a client here, and our experience was amazing! The staff is wonderful and helpful, the studio is exactly what we needed, and it was super affordable! The space was beautiful! Thank you Kelley!",
+            "time": 1529160554
+        },
+        {
+            "author_name": "Katherine Langdon",
+            "author_url": "https://www.google.com/maps/contrib/104085280381244764313/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-u3Mos7f-Pek/AAAAAAAAAAI/AAAAAAAAA4U/GH_wCRYn6aY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We were booked on a recording here and the team was very helpful and resourceful! There was a brief technical issue but it was solved immediately and with no disruption to our session. The rates are reasonable, the location is great and there's a wider range of services than your average rehearsal space. Definitely a gem for all creatives in the city!",
+            "time": 1524023908
+        },
+        {
+            "author_name": "Daniel",
+            "author_url": "https://www.google.com/maps/contrib/111692676099740447244/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ALBHszZ6I6s/AAAAAAAAAAI/AAAAAAAAADw/wNRdyZ5lxmg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great space both for booking rehearsals as well as smaller chamber concerts. Loft space.",
+            "time": 1515795866
+        },
+        {
+            "author_name": "Alex Smirnov",
+            "author_url": "https://www.google.com/maps/contrib/103143032362364289269/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Yoqmsk0CUNY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3JPZp_wcBWo8KY_tlgZLIdN_chNA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Confusing building but good music",
+            "time": 1526750177
+        },
+        {
+            "author_name": "Jeff Skrypek",
+            "author_url": "https://www.google.com/maps/contrib/104935678647093473289/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UIdQsuFCShM/AAAAAAAAAAI/AAAAAAAAGeQ/SRzyYJmxfAo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great space. One of the best in the city. I don't even want to give it 5 stars because I want it to stay secret but it is the best. ",
+            "time": 1504664635
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10582162233090444629",
+    "utc_offset": -240,
+    "vicinity": "155 Walnut Avenue, Toronto",
+    "website": "http://www.arraymusic.com/"
+}

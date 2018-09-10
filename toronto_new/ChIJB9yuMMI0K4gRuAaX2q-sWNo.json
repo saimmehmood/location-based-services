@@ -1,0 +1,265 @@
+{
+    "address_components": [
+        {
+            "long_name": "80",
+            "short_name": "80",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kensington Avenue",
+            "short_name": "Kensington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T 2K1",
+            "short_name": "M5T 2K1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">80 Kensington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T 2K1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "80 Kensington Ave, Toronto, ON M5T 2K1, Canada",
+    "formatted_phone_number": "(416) 593-9262",
+    "geometry": {
+        "location": {
+            "lat": 43.6547577,
+            "lng": -79.40082710000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6561081302915,
+                "lng": -79.3994162697085
+            },
+            "southwest": {
+                "lat": 43.6534101697085,
+                "lng": -79.4021142302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1218cdc853e5edcdc7ff225ec236dec9219597f9",
+    "international_phone_number": "+1 416-593-9262",
+    "name": "Castle Fruit Retail & Wholesale Produce",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1067,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114731095001509178639/photos\">Castle Fruit Retail &amp; Wholesale Produce</a>"
+            ],
+            "photo_reference": "CmRaAAAAA6uNhX4XqkQx82-OBNqMqZ0lxDFfz4k-1E50A7X5kIiT1tiba95dOxEgi8fpxhzFqMH7flqv-oJ95qQF1YIj1tqoLJ0UlqKTZH2HBupfs97SbzELYbS0pbklZdw8oaMZEhBEbwECkTqiTPOO4CCS6G1bGhR27hBk2AvByspQF6NzIztHEkXYyw",
+            "width": 1799
+        },
+        {
+            "height": 587,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114731095001509178639/photos\">Castle Fruit Retail &amp; Wholesale Produce</a>"
+            ],
+            "photo_reference": "CmRaAAAAHef9ol3UWetB_Q9CwdwiTmTgrjy_ZvYxrT-d3dK-CSM08VRaPg4EQ3DTaWRxR39Uay9fhCD94FwiAAA0e7MDb5umkeMxDukUaw0kmTwCujH-Ki4DkDNEmlyJG8uC-rSXEhCTAZz5JJnIOgzDRXtlMkIvGhSc9MKOcPPGO7JZ-mqXlCa2NkILmQ",
+            "width": 944
+        },
+        {
+            "height": 295,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114731095001509178639/photos\">Castle Fruit Retail &amp; Wholesale Produce</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ6_rk6UUrOMa7XQ8JQiAEJeWs817mqi-bOtFLCI2pZ4EtmPtIHE_QDgTy7GJ_tGdkLuXc4Q2a9Lefmw2N3pZ67R-b3aSjvVDW6js0d7SN-GYYNhbas0UNACvY62D_63KEhD1ZnWhZuV-IdVLTXhnx9vuGhQ1WqBecHRcu1GpI29ZivU3UvnOLw",
+            "width": 407
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110467588298747470903/photos\">Keira Cuthbert</a>"
+            ],
+            "photo_reference": "CmRaAAAAhPciYlJ8CIE1pvyo-P5Xt2XFYjiKiYaolOdA22bNg4Tj6GYWxJQlS4VK2VXKl85xlK0gFfX8SPu-CXUHYLsZIFWt-g5A_G_8KYjPh0yiEvKUQj_Rb9uJvJRyyq8Xhmt2EhAAee9LM5o9kpjWHEze7WYsGhSKdbshDoP0G10lhpdkoNbEQowYcw",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJB9yuMMI0K4gRuAaX2q-sWNo",
+    "plus_code": {
+        "compound_code": "MH3X+WM Toronto, Ontario, Canada",
+        "global_code": "87M2MH3X+WM"
+    },
+    "rating": 5,
+    "reference": "CmRSAAAAonpaED9oZ-uabq26nz_YPginvLVFvecMu2fU4PKUy_IQBvrcLpo1oq06-YTOzaV6eU0ZBlZmgytqkzR1ZVZrj9ZKTJKPoqulISUyWxm41c137fKlETDRi8tvUOBiERF4EhALDyDgiqdR6VYLM0IfqlWGGhQZebzNVhkmJi1OEpMNz6uIs2n4KA",
+    "reviews": [
+        {
+            "author_name": "Keira Cuthbert",
+            "author_url": "https://www.google.com/maps/contrib/110467588298747470903/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Km_opI9dHd4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0VgO7xhMyZjVznNp5BU3eho5894w/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Castle Fruit has a wide variety of fresh fruit every day at reasonable prices.",
+            "time": 1491787273
+        },
+        {
+            "author_name": "Jimmy D",
+            "author_url": "https://www.google.com/maps/contrib/104526095713597901082/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xJEaEP9mRXA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq37T8xoas5heXbeFfTMVrROOhJVng/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Good",
+            "time": 1516247278
+        },
+        {
+            "author_name": "Martin Canning",
+            "author_url": "https://www.google.com/maps/contrib/103874710205038410038/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nrh3PZa9BJA/AAAAAAAAAAI/AAAAAAAABT0/N6oAtxcVRZE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The way produce and community should come together.",
+            "time": 1469979982
+        },
+        {
+            "author_name": "Jia Zhen",
+            "author_url": "https://www.google.com/maps/contrib/100039282179809524630/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-uXL-my3M4v4/AAAAAAAAAAI/AAAAAAAACJo/8Mq3ZKAvpbE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1517894412
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15733515169505412792",
+    "utc_offset": -240,
+    "vicinity": "80 Kensington Avenue, Toronto",
+    "website": "http://www.castlefruit.ca/"
+}

@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "10",
+            "short_name": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Britain Street",
+            "short_name": "Britain St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1R6",
+            "short_name": "M5A 1R6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10 Britain St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1R6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "10 Britain St, Toronto, ON M5A 1R6, Canada",
+    "formatted_phone_number": "(416) 599-9991",
+    "geometry": {
+        "location": {
+            "lat": 43.65382,
+            "lng": -79.371248
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6550858302915,
+                "lng": -79.36986276970849
+            },
+            "southwest": {
+                "lat": 43.6523878697085,
+                "lng": -79.37256073029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4f0b83aad82e8f4f4ccdd838d9a59f4d2c4af76a",
+    "international_phone_number": "+1 416-599-9991",
+    "name": "The Works Design Communications Ltd.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAA5wNyCs8UIiy-xFMi4L9NcjDKRZ3z6JmdiJySc-TgcFgcbKRt4oqpxjMUdHd9d9ksAcdz6ply-huRzjDkDHHIdxXzy0ceI5KKtqFa-iHw_CIi2dtQGaNj3cL5757_wy4VEhBCzr00Ew1wcztggP2WhjmZGhRk-10DRjdxCVbA8O35bI3Ord5d5Q",
+            "width": 3036
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112272191511595709966/photos\">The Works Design Communications Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAuZ5AhU4cEzuJsFNhDmjXiwj0GM9Ss9gcpFV_SDBNXiuCyp2iD7ATBsYit6pqvkuYlyJCqxbSZl7Fa3mMNI8-l41esi0LEY2OANQ8yhGAUkCCekAfILmE8BnuXl5IodwuEhBLHetZpm7o0GPtamrlCTvZGhQnOgvrJHgtTqxEbRSDI-r12qbVrA",
+            "width": 1500
+        },
+        {
+            "height": 251,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112272191511595709966/photos\">The Works Design Communications Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAA_CjUKfNq9BLNhgQ47nWRGX1IKQIuFVn_sb0rM-SWbjhUivNv5VNn_FfNwQcXIzapB-W46_S5qC_pWYtA-EjfQxolX0Db6yil9D0FbCyvsDKQST3WYbc5dC10trF_OlVUEhCW1pSWIz5PvZva59uGsrW7GhTn8NffDk6sqFLMOrgECq7bp0jgyw",
+            "width": 251
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112272191511595709966/photos\">The Works Design Communications Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAA77sNRCjU86480xX6EJuy8KChsiupVxbA3pOVAbJUzGWoy7kUlBztRA0R73sYatSC3v2xSy-zNEE4jCs6w4xklkjmk1QvuuvS-WjvnLbojIPNpCzqksaGP-skKLooihvJEhAFkl5i1nXTYKLCBjsE6j6BGhRcn_jKRUCBEp0t63KzHRnCj-RO2w",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJGZ2XPDfL1IkRMc_DTJeY_v8",
+    "plus_code": {
+        "compound_code": "MJ3H+GG Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+GG"
+    },
+    "reference": "CmRSAAAAdzlZiewe7UQchfb2oZ3I_oV_7R3m-MsXnpDQniTDNM_jkxHltKsJuhHKffOJ6_BQ3fgrMEOp6Tp1qBne276mStBx3VH_lCL4KA99w7bHF5rEyShvneioDQGYkonvxZJXEhAVvyU-QxqDYzhuvMpZnizwGhT8zVgMN6iEYUeRldTagQY6eflWvw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18446348899351514929",
+    "utc_offset": -240,
+    "vicinity": "10 Britain Street, Toronto",
+    "website": "http://www.worksdesign.com/"
+}

@@ -1,0 +1,315 @@
+{
+    "address_components": [
+        {
+            "long_name": "294",
+            "short_name": "294",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dundas Street West",
+            "short_name": "Dundas St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T 1G2",
+            "short_name": "M5T 1G2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">294 Dundas St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T 1G2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "294 Dundas St W, Toronto, ON M5T 1G2, Canada",
+    "formatted_phone_number": "(416) 591-8697",
+    "geometry": {
+        "location": {
+            "lat": 43.65448600000001,
+            "lng": -79.39118599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6557755302915,
+                "lng": -79.3898116697085
+            },
+            "southwest": {
+                "lat": 43.6530775697085,
+                "lng": -79.39250963029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "7b4a8ead33ae12909282964c6ed2d129b087624d",
+    "international_phone_number": "+1 416-591-8697",
+    "name": "Salmon Lovers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 9:00 PM",
+            "Tuesday: 11:30 AM \u2013 10:30 PM",
+            "Wednesday: 11:30 AM \u2013 10:30 PM",
+            "Thursday: 11:30 AM \u2013 10:30 PM",
+            "Friday: 11:30 AM \u2013 10:30 PM",
+            "Saturday: 12:00 \u2013 9:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101219148126358323829/photos\">Ariane Caron-Lacoste</a>"
+            ],
+            "photo_reference": "CmRaAAAAz-3dKldHbprt3K_sy7jHVOGIX3ZNq9BnoqOdDO9n6l4mxiYwPlc1ZxHMFWq5OlcG8WcrpsbPoiR7SwKSCsHgOe7EyYW-tyobfdHJtR8yYRliKzVSnAMYlELmAqvq_ISpEhCzvtDz0fmCv_ZNibRlQqtVGhSnmJ5E8RLLIw1m-pwQJyGx-fbw9g",
+            "width": 3264
+        },
+        {
+            "height": 3072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106975239332033600582/photos\">Kevin Kan</a>"
+            ],
+            "photo_reference": "CmRaAAAAKl-P1IgDxvhrx2AworMLJo0KucGHcecqpxjaWtAriwL_VZpen93cMDjObX_DjH-S0tEu23-02539pp5cjqXFPoBPeIjxXfPbugnzyu3Ftjp7ciycQpmj3hKhwThLyw9oEhDuVbGjGn9StfpWwoIS5t4oGhTQ0N3fAc6R_XSzvyXQXNpOjjCmlg",
+            "width": 4096
+        },
+        {
+            "height": 1840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101219148126358323829/photos\">Ariane Caron-Lacoste</a>"
+            ],
+            "photo_reference": "CmRaAAAADjCa6sShr9niDfmRNLJ8c1CMkCZ4o8KapBbEaJTmDIfN789TSo69E0qznn9oxqPizijA-snBt3f-NIsWHANXowW_qPsp2oZi12E4QcDgWIc4KIvkPPNPEK4O3hLEEChHEhARw10HDT8GiAyvzRuykk5lGhRyQkY4Z2Y_WCn2tA0l6XBJe_MafA",
+            "width": 3264
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106525414289354954913/photos\">Scott Johnson</a>"
+            ],
+            "photo_reference": "CmRaAAAAUnk1onA0sCXlSnmNxQTqYKfCzboIPuOvu7YQTdsfFtydOoNU0LRZPNbjFGTlVuPTqdt61T_P1ut2Td9cLUFiWy_jk6b3y9ytzD7kwsqBUeHD2q1P7wbdJjdjVhFj3z53EhDptDrmtLvsSJsg_DLYeUC4GhT9tdbNtJz-YcM_YOjDP7kdwki_6w",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100533333869393334205/photos\">Kenny Vo</a>"
+            ],
+            "photo_reference": "CmRaAAAAI4MY5LaWS0O8B4uoT0VWkabOFPp485KsbfJTTXkIdsc-R-TDKsFYjS3eYl7sLpQ4bIT3PJ4_cBGxyoyWHFpFhTmF3IN1QmT88lSJeIDC_OpG__46Y2TqElvQogHvpQM-EhC-AKVl5OalKqyRQgwCu0iEGhS46JJJZI7f0PxmJFebEY9CJHoYIg",
+            "width": 4032
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106525414289354954913/photos\">Scott Johnson</a>"
+            ],
+            "photo_reference": "CmRaAAAAGKbg9eujgIYxj_5D-2Rb1tVNz_VdaHmGPH9OYjmCfAUp1Kj_bMLwDZTGmQyVNy1Pa5mxzpecMtt1nYGYFIRy_rHWhPeQsnbpVVaVpyFCe3Frhz1HcZvIl2c7pfyGxm-zEhCiwBGuxDd0Ks3WgyhcScM0GhR5Ri1t6qTRXudON0-5VPezEYOtzA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114047260801975888019/photos\">Ben Toll</a>"
+            ],
+            "photo_reference": "CmRaAAAA2F1P2Y4pF6retYY08X5v4yP2q94eKn9GKTecD4MCxQRHP3gDGl35xJ1OA7XYiruC45RycQ9elF7G-ABYKnVvhG5WMZskSX5cyzhJrjjc3i4H40WRfQEuDxFD-1CR_QT5EhBeXffpB6U4JdFuWGdkel61GhTAvp4NcQXgh0DvvokDqMh9wMGd1w",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105845065843939607107/photos\">Brittany Postnikoff</a>"
+            ],
+            "photo_reference": "CmRaAAAAygIzGZoRrOvWwo7lv5ffkLwUeQbB3rAJ8ng0eFoEYm_cy4zZfE6ua-LhWxy6Sjmjibd4spkXaEfO8B0X2_RrXpYv5MduVPVUjdxAyIUS2hHjy265w9spFNvaJtaSP5KyEhD2l1Hbfw4He2Piri5T35w4GhTwkznMg7G1W_JGq3hz5P5dIGvhlw",
+            "width": 3036
+        },
+        {
+            "height": 1728,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100654159219193254403/photos\">Sung Min You</a>"
+            ],
+            "photo_reference": "CmRaAAAA3syLTXTYNEy3hNradP8hKrsBIiUcwQ_Z325Pyjqby8BLj_gdFdrUpQAnxz3-kB56R3koyIlpCgP6T7F7NkCrwwV2ZNu1gYgvVkw_N37m1fOROxKYuGdXyN_1F0hlCZpgEhDmZjc9eclTO0BBqTRvxu3_GhRTzuCV_KTnkITo0UDcDfe--2T1-A",
+            "width": 2304
+        },
+        {
+            "height": 906,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100654159219193254403/photos\">Sung Min You</a>"
+            ],
+            "photo_reference": "CmRaAAAAucr10ZJaB9NvNYctEYqNOAUZBqwjBvI_Hsqpq8xCe6DwrNbao5LzfR9idg7biCBwfSFy1z1eb1fvtrvHU_6S287QPrIDagY2Tz4F-ZFeW6LLIdlWcFxoCbnOgWLrYb7QEhBLBF_DsO-GqHCjEG_heOoeGhTW5DjKjsGxhfYYRO14otj3fzvFqQ",
+            "width": 1216
+        }
+    ],
+    "place_id": "ChIJvSTnU880K4gRrb6cmkSpKUw",
+    "plus_code": {
+        "compound_code": "MJ35+QG Toronto, Ontario, Canada",
+        "global_code": "87M2MJ35+QG"
+    },
+    "rating": 4.2,
+    "reference": "CmRRAAAAT_V_2-Kqb4uPOz7V8efbDz4BeExGPkuL64pPHhX37vZfWps1bbv4XkBt62bs81vojzcaelQp1svYhxYf3IlvbPgLKVWXXwjeCBVJMJd7jE6cZ1dj1sN9HmDbonBH2GwwEhAwrh5-DktK-Fy1VA6SDJ5pGhReajK4P3ie0bF5EjXrakSvO2kseQ",
+    "reviews": [
+        {
+            "author_name": "Masha Cern",
+            "author_url": "https://www.google.com/maps/contrib/111352849491665519946/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OhZJvE75CU0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2APRrlGhbl9v5V6ys6Gf7k72aGvA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Very cute and cozy place with quality sushi. The salmon is good too so it lives up to the name",
+            "time": 1528420712
+        },
+        {
+            "author_name": "1 0",
+            "author_url": "https://www.google.com/maps/contrib/116072048390653144503/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-F2fy5bPd72Q/AAAAAAAAAAI/AAAAAAAAAV0/CyhNNqygBUQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "I love salmon lovers! Very fresh avocado and tasty, soft rice for the maki. Portion sizes are on the smaller side but quite rich tasting. Some of the best rolls I've had. The outside and inside atmosphere is unassuming but you can tell the owner cares about their establishment. I would eat here again.",
+            "time": 1517010244
+        },
+        {
+            "author_name": "Vanessa Chow",
+            "author_url": "https://www.google.com/maps/contrib/106974349514825682742/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rSNFWb1ZPBs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1gO5uQjN9KCPe-yfehZSnDjgumLA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Very cozy place. Service was somewhat slow but the food was good. Conveniently located near the AGO if you don't want to be gauged by the prices at the AGO",
+            "time": 1523715998
+        },
+        {
+            "author_name": "Andy Quaile",
+            "author_url": "https://www.google.com/maps/contrib/108938838251389215825/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-W_8aUamAuzQ/AAAAAAAAAAI/AAAAAAAAJt4/vk97g5pwwxY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Tiny, quiet restaurant with lovely and thoughtful staff.",
+            "time": 1527771182
+        },
+        {
+            "author_name": "Denis Serebryakov",
+            "author_url": "https://www.google.com/maps/contrib/113334569823582115575/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6nAgCP-KqmY/AAAAAAAAAAI/AAAAAAAA4S4/wU10UQUBPg8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Had the weirdest experience in my life. Asked a server for a glass of water and a spoon (for my medicine). He forgot, so 10 min later I asked again. A minute later, the owner showed up, and in a very threatening voice told me I could not request spoons. He refused to serve the food that I ordered and asked me to leave. All of it in a very aggressive manner. When I took out my phone, he yelled that I can leave any review, and he doesn't care.\nThe situation was so bizarre, I m afraid to think what a person that reacts like this can do to your food.\nMe and my friend were shocked and threatened, since there were no other customers, but only 3 employees. It was very intimidating.",
+            "time": 1508986517
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5488103733044493997",
+    "utc_offset": -240,
+    "vicinity": "294 Dundas Street West, Toronto",
+    "website": "http://salmonloverstoronto.com/"
+}

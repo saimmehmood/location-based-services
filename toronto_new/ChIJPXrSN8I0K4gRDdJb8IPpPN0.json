@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "61-79",
+            "short_name": "61-79",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kensington Avenue",
+            "short_name": "Kensington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T",
+            "short_name": "M5T",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">61-79 Kensington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "61-79 Kensington Ave, Toronto, ON M5T, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6544397,
+            "lng": -79.40057379999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6557886802915,
+                "lng": -79.3992248197085
+            },
+            "southwest": {
+                "lat": 43.6530907197085,
+                "lng": -79.4019227802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a51b4c10f1aa1fb1dcfba66fc02b5fe89e919967",
+    "name": "61-79 Kensington Ave",
+    "place_id": "ChIJPXrSN8I0K4gRDdJb8IPpPN0",
+    "reference": "CmRbAAAAtL4l9fWmAEyxjV8ATsL3_kquZQaU5lfktjPQHJzEni5QEEhRLVAlNa49eNpIJaUcpK27QnZaXV9jc7UIILRaya_pgBPKv_tY9cXdvXRrKN1cCUyztAx7nSUPltClgkH1EhC4YFqaw1rOKEcdH6H8-9hmGhRLIdx6wb3fukWIf82Lqr-Rg1GCbg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=61-79+Kensington+Ave,+Toronto,+ON+M5T,+Canada&ftid=0x882b34c237d27a3d:0xdd3ce983f05bd20d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

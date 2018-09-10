@@ -1,0 +1,314 @@
+{
+    "address_components": [
+        {
+            "long_name": "183",
+            "short_name": "183",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">183 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "183 Queen St E, Toronto, ON M5A 1S2, Canada",
+    "formatted_phone_number": "(416) 603-9702",
+    "geometry": {
+        "location": {
+            "lat": 43.6539808,
+            "lng": -79.3714847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65537663029149,
+                "lng": -79.3701550197085
+            },
+            "southwest": {
+                "lat": 43.65267866970849,
+                "lng": -79.37285298029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "91d03cdc4daa9bbd0cc31f4184b6236e696fd42b",
+    "international_phone_number": "+1 416-603-9702",
+    "name": "Longboard Haven",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 6:00 PM",
+            "Wednesday: 12:00 \u2013 6:00 PM",
+            "Thursday: 12:00 \u2013 6:00 PM",
+            "Friday: 12:00 \u2013 6:00 PM",
+            "Saturday: 12:00 \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100565074142437573083/photos\">Longboard Haven</a>"
+            ],
+            "photo_reference": "CmRaAAAAoIvfwYz00E0jOnPkVheiNLo_0_lIaWLa85FE2sWPzKFg2znNz2W2ObjJoUA-8FKeaz7hc0o6WIbr_gRvuMw3yBnsvUlJwI86GdduuKbt47XFSCiZ3GBPQYf_RO0pJbmCEhDu6e1DQV6cDsTBhApeJUs1GhQKDlIGjVgzbVDRUIauEq61DzhDfA",
+            "width": 960
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAA5Bdg1NaevAqQPHM5-3oAmf6tF_eKSv7iVlcPmmKSLpCNrbg6c5WMriyvtyThauKvO__4lEZWawYIHm1sUUaiawioeeeemShLXO2vbgYPrKP_kSQ-S2pMeDdEP0xpSrshEhDtCQGxBoJvqapxnEWy9fLpGhTD2j2piiOX22rnC8Z606HvQVdSxQ",
+            "width": 5312
+        },
+        {
+            "height": 735,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100565074142437573083/photos\">Longboard Haven</a>"
+            ],
+            "photo_reference": "CmRaAAAApLe0B4xlUD2wyGX4OG-lFHeOEVQq_imeu4WqtoSh7kScPeLT-6hGeG4Iirqn61eXn00YFycu2Q3D75ixVil-4iecP5yo1UzUm-ZfhotZVuDXbhtIn-3WZsvCHVKpzrODEhAvZ8NI8K91XzU-SXaz1wiUGhR7Lg1sthHGUuy0rxnPw5TR43YtLw",
+            "width": 1307
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAApSCSIMzjLJBlhU2K8wpE1dcvPw1atqsmHoUp91IAX75XCa4Q13cUH-ZW7YlMBVaFbxki7vLAfVLf0qlyXjPhS4lmCGHRG_wgaOQimSk_2j7Y-NzZdUypa74-NsHVCYttEhDZafrVmXJ0bq22TQ-vO9_rGhRzZIWAal4fxD2VnO-CkmxJ3oHj1g",
+            "width": 3036
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114040283424334429391/photos\">Kamen Walker</a>"
+            ],
+            "photo_reference": "CmRaAAAASFj0geHPbuMiypaN1ZbkHO64WoinAS5V2qLEd85VElPeCta2gPlNS8thqg_hSzwRkzT6VkO0NvHzmpoayeel7Gfd60Y7sD8NboZeIU5xlWMvYfhYbMs768EL8IYa0RNZEhCDjP7pszKfuQo_zG6ZEbPTGhSLZCDTSg608Y8TzZ9ZOyYtyRJobw",
+            "width": 4032
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114562016286045699819/photos\">Dan Christov</a>"
+            ],
+            "photo_reference": "CmRaAAAAzMr0A-YHUKaxSDxkE06kGc3Fym9JZszntb1YXSqa6cTAdSKzIhhPFKo2uDfTtEeCijKQomQWlKgbW-t7Tlk1qSkP0CK2b1GLK9Y6OMVKxmfZTSV7PAVZy6hYQxfol5MAEhAuzal2Pq4ZGKmX5IscH3-UGhSGRhAFN4FmELYYKui1gA2mtH5ikA",
+            "width": 1080
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100565074142437573083/photos\">Longboard Haven</a>"
+            ],
+            "photo_reference": "CmRaAAAAriZokNT5-1x1K2i6409greV07AkilO-B8VfOtY2_19eK_Lup-Q0YLyP_RQp4NUyFu8uDNKsFVEo5aODcK16ZNcLoyGF8alUBJkVtBEV2SqWClP1jmaBTvOJ5v2PRnVzjEhBoU_yjUzUGmDnRbU5kYEijGhR2Mjw1wyCRMxTv1lbExK3UO1Re5A",
+            "width": 540
+        },
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109159334352230993117/photos\">LB Haven</a>"
+            ],
+            "photo_reference": "CmRaAAAAO-a26hClu6SlQxYazYBmj9sofBDJYBeXX5qY_W626NILkfB-9n-sV5XEPbMQkEF5riUJURnqAe2mdqaT916u0NZSHc1Ni8StUiOfSKi0Y7_KtaOFNHQ_qH__TN1fafeaEhCuPzYL_tFqzfXZLp1BCouvGhRZ4bHi4u5MdttHplOPrhawDjZ6sw",
+            "width": 4128
+        },
+        {
+            "height": 566,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100565074142437573083/photos\">Longboard Haven</a>"
+            ],
+            "photo_reference": "CmRaAAAAPQtWMwA84OeJuOh2iP3ikhsJFey2gSst7szRBwWJm7qYHeJqBcDpwt5uOgqXI4g_z0xZX-VA091oq0FJSpvrcRAzn-9Gzxk5SrcPjdror0x-68yONhUUo3OlvvPuYYfyEhDPdsH2u-qIr6TRDgQ5ophBGhSpTpW7hCV941OLdRA0NBJuF4giuw",
+            "width": 1006
+        },
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109159334352230993117/photos\">LB Haven</a>"
+            ],
+            "photo_reference": "CmRaAAAAYumlwEJWF9-W4AP0suagO0IdCI23xTjgpPbeya7EFAbSmAFVNCCR1JwqD7o7_5giccvL4wpPI6t8Q3qQFxp14q2xZk0-ONeEjqyUMZjhBkAF8rSRgA4Z5ft-lKQmh2_FEhD77BuVs6HKDKMLtWi5d5_YGhREtAlSkYMOZVYLGrPebeoOg_n_9g",
+            "width": 4128
+        }
+    ],
+    "place_id": "ChIJvcPGczgzK4gRgwoiL7bxk_c",
+    "plus_code": {
+        "compound_code": "MJ3H+HC Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+HC"
+    },
+    "rating": 4.7,
+    "reference": "CmRSAAAAFN-TSAHbbGb9ITrQOmAnVv7tV_FU5JPH8dSmX3T2fiQgOKkZ9RiY_XQAd0MepduvRy5lge3aDWGOlLnS9-bg0AX_tJTVlFXl5q9hP9q3n7ajqgnAAJuNtP6YihOuKHdpEhCe8P-CLP6ZOyNKgunfPXfaGhQdTeG-8E_F07P172JjDf4DE8egwg",
+    "reviews": [
+        {
+            "author_name": "Emily Chapman",
+            "author_url": "https://www.google.com/maps/contrib/105162904526720517626/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zIsvI_VJU1U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2s_dNi85C0j9Jw0JObQyXrh3HXGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "My friend and I had an awesome experience at Longboard Haven the other day. Rob took the time and care to get us set up with our very first boards and answered all of our questions. There's a real sense of camaraderie at the shop, and we immediately felt like part of the community even as complete newcomers. Thanks Rob\u2014you'll see a lot more of us in the future!",
+            "time": 1529848985
+        },
+        {
+            "author_name": "Sabrina T",
+            "author_url": "https://www.google.com/maps/contrib/109815907393137764806/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--Tg9sKUVOVw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq29sGWuWUH4vC0Aq4-4fHSf29OKSg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "This place came highly recommended  and I was not disappointed. Staff are knowledgeable, genuine, and never once pushed a sale. We were given free reign to try things on/out (hello, snow skate!) and were made to feel extremely welcome. I will be returning, without a question.",
+            "time": 1529010302
+        },
+        {
+            "author_name": "Violet Victoria",
+            "author_url": "https://www.google.com/maps/contrib/108987442206376262041/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NjQkLExyWug/AAAAAAAAAAI/AAAAAAAAAQY/ZyfoH1a1HBU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I'm just going home now from my second successful trip to Longboard Haven.\n\nThe first time back in 2015 I got some nice trucks, wheels & bearings that kept my older board going until it finally started to die after another two seasons so today I went back & was greeted by two very nice well informed staff members, they talked to me about different types and styles to help me find the perfect replacement board & even gave me sweet custom grip tape on my board as the icing on the cake. \n\n5/5 star's , hands down the best place in the GTA to get a new board or to upgrade your current ride with new parts!",
+            "time": 1525386152
+        },
+        {
+            "author_name": "Drew Tse",
+            "author_url": "https://www.google.com/maps/contrib/113723558164994461668/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mgkqa_BopYo/AAAAAAAAAAI/AAAAAAAAAD4/LvDo-3OLxXI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Wonderful experience with Rob, Chicken and Rufus. My wife and I are Onewheelers and we came in looking for some safety equipment. Solid selection, fair prices (never once felt upsold) and genuine people. Not only recommended, but will definitely return. \n\nReaders, please support your local businesses. A1 visit for us at Longboard Haven.",
+            "time": 1529009817
+        },
+        {
+            "author_name": "ATS 555",
+            "author_url": "https://www.google.com/maps/contrib/113520789526062447594/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-TW17nR2VAGA/AAAAAAAAAAI/AAAAAAAAIhk/htdk81BdvCo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Went in 30 minutes prior to closing, the worker greeted us in a friendly manner. We were looking for sliding gloves. There was a wide selection of brands and sizes. The worker was helpful and recommended some options. We found a pair that fit well. The store also had a wide selection of longboards and other accessories.",
+            "time": 1525639386
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17839868313721768579",
+    "utc_offset": -240,
+    "vicinity": "183 Queen Street East, Toronto",
+    "website": "http://www.longboardhaven.com/"
+}

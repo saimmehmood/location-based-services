@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "197-223",
+            "short_name": "197-223",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">197-223 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "197-223 Queen St E, Toronto, ON M5A 1S2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.65429040000001,
+            "lng": -79.3705189
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65563938029151,
+                "lng": -79.36916991970848
+            },
+            "southwest": {
+                "lat": 43.65294141970851,
+                "lng": -79.3718678802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "073516cd645380a8312765675ea23a9ab27decde",
+    "name": "197-223 Queen St E",
+    "place_id": "ChIJk6qqbDfL1IkRoXwAao2Ens0",
+    "reference": "CmRbAAAAR7w95szCgIfR2bOViVmgkmU_yS4WVd7QbV-F_MupWks4vTnDsZs3igwMKVQggyljxRiyF7lQm8HcYY36Eudk75os9mSC-s2_v2I3dB0CFUC-9VX1QvKq4Nc7MuBwAbE4EhCr5PEtq4laxd-F_uhv2mszGhRDRW7UOChYnA4-E_j6UpO2OtKtiQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=197-223+Queen+St+E,+Toronto,+ON+M5A+1S2,+Canada&ftid=0x89d4cb376caaaa93:0xcd9e848d6a007ca1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

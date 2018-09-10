@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "782",
+            "short_name": "782",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "College Street",
+            "short_name": "College St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6G 1C6",
+            "short_name": "M6G 1C6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">782 College St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6G 1C6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "782 College St, Toronto, ON M6G 1C6, Canada",
+    "formatted_phone_number": "(416) 535-2273",
+    "geometry": {
+        "location": {
+            "lat": 43.6548683,
+            "lng": -79.4208864
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65617003029151,
+                "lng": -79.41951841970848
+            },
+            "southwest": {
+                "lat": 43.65347206970851,
+                "lng": -79.4222163802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "aff36217e39d7388079c6376b5f25be7ece3a7c5",
+    "international_phone_number": "+1 416-535-2273",
+    "name": "Regina Pizzeria & Trattoria",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 12:00 AM",
+            "Tuesday: 11:00 AM \u2013 12:00 AM",
+            "Wednesday: 11:00 AM \u2013 12:00 AM",
+            "Thursday: 11:00 AM \u2013 12:00 AM",
+            "Friday: 11:00 AM \u2013 12:00 AM",
+            "Saturday: 11:00 AM \u2013 12:00 AM",
+            "Sunday: 3:00 \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105390781140475201103/photos\">Lorne G</a>"
+            ],
+            "photo_reference": "CmRaAAAAzH8T-pt33qawaXqxy17F0by7uReP1quNTUR0Aw_-YKhKJ7l6TLFXSwDo0gLP4gFLqVGhSufCGLy8BIr8NvdO5_ZedqViPOLSFcJQfqHkdxlO6DT_9bZ6w5O-jLaGGErZEhBkzlAMZbWy6SAJWtUHKy_oGhREPTnymW7z5vo2nv8MXDzysHyZAA",
+            "width": 3024
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114086522521367519833/photos\">Regina Pizzeria &amp; Trattoria</a>"
+            ],
+            "photo_reference": "CmRaAAAAtUNijnW4A_27oDqcEEy-pF30yoFkYudzteTckNSGhEyBZ-u-GWxhaoL_8y791sAWWutoZaag9OMxGTeGGOxjx7NhdpVOyWk658FQM1GhZ9pKG0dmd0mM-dYeogD7q_BQEhCLbI-2VPLaWj4HzGWwhIw2GhRxTvUXWisothlbEIy4-olkChdKbw",
+            "width": 800
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105390781140475201103/photos\">Lorne G</a>"
+            ],
+            "photo_reference": "CmRaAAAA84ZXIHd0pYijodmDNQRx8K5wiDChizI9k1YiSq93ZZs2kCLRFKfVivyMcbZknhlU1PeE9BNrSIutKxe7DyopSwaCntmLjuScj6XokPZQ1KzdfzK7HfywLRAZom7LfGFCEhC4H9_wm3kGU_FdWlCNAMT7GhSNj8OfXrh6dAjO7Mcb7oiL0R9PdQ",
+            "width": 3024
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100916906177864228793/photos\">Mike Spurlock</a>"
+            ],
+            "photo_reference": "CmRaAAAAOR6ByOUrXGcWlCoAkf9LmcI6vQzpOBpRIgLSmQFKbtgRjG70Tn3qLMVMVR-ZE-wZ4RJqTZjW_EZ7ZlyM9nt_FlRNIPdUnJdl5Xw43rGe5OBb8SRO42fao-s8XGmNy2s7EhD4jMcRNHYDWn2mNuC7WwJzGhTgObQ_lvuJsaTbgpfz3frdw-eQoQ",
+            "width": 5312
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114086522521367519833/photos\">Regina Pizzeria &amp; Trattoria</a>"
+            ],
+            "photo_reference": "CmRaAAAAhV-UhQhhG4gky1fCGpej-BT1tZnw6GTDz3VDcezuFf_miGaI-HghYmPgm4whoYyaicF9LvRUxO3Bt6h8Z9dwKhpLslje0zsZlB7CjTUIrE2qVO4OXvpNKutURVUdVoneEhBpjNw6IZUb8-gHKCjOWldVGhQ8z-BnPLK3Yr1HiB38_8spMmQruA",
+            "width": 600
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100916906177864228793/photos\">Mike Spurlock</a>"
+            ],
+            "photo_reference": "CmRaAAAA_iQok_kvwY9lwhSStxkUjKxpnnSJDm6zpBCPbo0DaJtBEpyeGUkvVB0mg9HcfT9KF2jh1eBhR3FN7icYZyxla33hWESvPSoqEJdYXNmhiGVK05GSWH9-_9ZwL7_x8ubREhDFX2gdp27ezrt3ULytmsQ-GhS9YA7II7vF9YQQltumThxLbYe1Aw",
+            "width": 5312
+        },
+        {
+            "height": 619,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114086522521367519833/photos\">Regina Pizzeria &amp; Trattoria</a>"
+            ],
+            "photo_reference": "CmRaAAAAcfFtdUUBujDbq3EJNuh--x8HD7lfKy8X8o_7iGw65XPLnvSH9GO4us2Whgi1Rr3m969B5rX_o8R64z9756wFWUs0ayaV5_qaZ7WZyZvYA5iq0YXj-PCMRZOJefuDfavXEhCNYdASQ4IyALqfN05ItmKUGhTejGAjv5RwnpEWNMZElWmr0tzw9w",
+            "width": 800
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100335940891270524507/photos\">Dorothy Mo</a>"
+            ],
+            "photo_reference": "CmRaAAAANiN3T96hrpHi-DCBXbD4-bB3y_ubtbtauGjUOMNpx_t3xoQD8NoJ7LpC6f748vP7GGU--XNj1RmQQHjRlia_R_pgvqD0rF0BOlKgCj9PEoNbl7NSwc62ovPh-X7WSK7gEhA7dJl7jXwtFUFduW1SJnlsGhSVD5plwhBsR7AmFDE8ynVJ1z4L9g",
+            "width": 4640
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106457748255313062758/photos\">Rafael Alcantara</a>"
+            ],
+            "photo_reference": "CmRaAAAA1K5AeSRKptWvDStaRTxThOJU4BMVFw3EoJCO_BwhAV5ZOe9iSjc4nE0Z80WMaCCv-vJ3iJRiJ7i-gzXAI5ZkidyUyOlXcRDQv2971-HYyLiPV8YwVe2pd_rsMyoJnZRqEhAYR9R3tUb3JkoXGB_YvDq9GhSLhzRsh4glzk6cCpzYVdsihK8Jug",
+            "width": 1836
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111176627896141204949/photos\">Cindy Yi</a>"
+            ],
+            "photo_reference": "CmRaAAAAPWFRQmRE3CsD2MO7C013CT4JMAz8AZiDinuBjZSyjBc-uQpaUdYxAhjjRoJAo61TmFHnjsm-x87ez03BUzfIO7DpcBHk_r9YGvsSYdb1JKkmwQa6pH8CxeJ0yl8YokvNEhARd_gVPbOdBYFE5z_mdWPpGhQDzu8A_XwhsSQWUjeHlH1Dv3Z4kQ",
+            "width": 2560
+        }
+    ],
+    "place_id": "ChIJL8VaIfc0K4gRooBf0PDlbMA",
+    "plus_code": {
+        "compound_code": "MH3H+WJ Toronto, Ontario, Canada",
+        "global_code": "87M2MH3H+WJ"
+    },
+    "rating": 4.1,
+    "reference": "CmRSAAAA_uHKJ-ffWdyB18nNxZLqL6f0c5Ru_xp-xYDyB8qPDvknnIbEQ3xq2Sq7PbcpGG0of26_3FybL6TjvANJZwXNwQwCQWRChF3rzPQpVADmRP1WOnXS51Fd_8h_dUqj1dPpEhCya3TcafzvDAOvzJpZeMkNGhQHpSiV6J0IHijVUMvN08qxaq_ysg",
+    "reviews": [
+        {
+            "author_name": "Ken Robinson",
+            "author_url": "https://www.google.com/maps/contrib/116040639474169637454/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aDa4uocHqj0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq03kEh-re0Q5mc60QVAOEIleZwxCg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Stop in for supper before our daughters dance show at The Mod Club. One the best meals I have ever had. The service was superb. The homemade pasta was fantastic. I would highly recommend this jewel for Italian food. We will definitely go back.",
+            "time": 1522115703
+        },
+        {
+            "author_name": "Reza Sanat",
+            "author_url": "https://www.google.com/maps/contrib/108641677987949085170/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-P0i0ytESy3w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1mGcWVNZjD8CR1ChGorPpWooxxew/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "They can pretty much customize anything that's on the menu with ingredients you want. As long as it's on the menu they can tweak it your way. The service was fast and employees were polite and helpful. The general atmosphere was quaint. Good for casual dining.",
+            "time": 1522766819
+        },
+        {
+            "author_name": "robert culling",
+            "author_url": "https://www.google.com/maps/contrib/101388762141621800728/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-hTo8I9yleR4/AAAAAAAAAAI/AAAAAAAAXlY/faM3GWVZQ6c/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "First time there \n\nWe went in there after putting  in a full day at the Taste of  Italy festival .\nI was nether impressed or  terribly disappointed. \nIt was ok . The service is good and the atmosphere was typical . I really enjoyed the  bruschetta but my dish seemed to be  a bit lacking in deep rich flavour I love about Italian cuisine  .  The meals came out very quickly and were plentiful however it tasted like what you could get  in a food court in the mall. \n\nOne complaint . I didn't like a  staff member  drinking beer while at work ...but hey there was a big street party going on and they handled the large crowd quite well .",
+            "time": 1529211993
+        },
+        {
+            "author_name": "Mizz LoveLippz",
+            "author_url": "https://www.google.com/maps/contrib/108137912304714273918/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0j5tOgA6Tuw/AAAAAAAAAAI/AAAAAAAABD4/uYcdnU9BCDw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I love Italian food and will try it everywhere I go but Regina really is one of the best places I\u2019ve tried for authentic Italian.  They\u2019ve been around for years and their popularity might have dwindled a little bit due to the millennial culture, but if you\u2019re downtown and want some good pizza, this is the place to go.  Prices are very reasonable as well!!",
+            "time": 1521551621
+        },
+        {
+            "author_name": "PAUL P",
+            "author_url": "https://www.google.com/maps/contrib/112345138534943307144/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IvYnbusWPuk/AAAAAAAAAAI/AAAAAAAAHDM/xl0lGptrYhc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Not what I was expecting...save your money and walk over to Diplomatico or Bitondo...\nAnyone that says? Best food ever? Is either fake review or eating at McDonald\u2019s...\nUnfortunately? Just like you can\u2019t find clean good Chinese food in Chinatown it\u2019s getting really hard to find good tastin Italian food?\n\nOnly snowflake restaurants using sauce from a can with pasta...",
+            "time": 1529436143
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13865710175217746082",
+    "utc_offset": -240,
+    "vicinity": "782 College Street, Toronto",
+    "website": "http://www.reginapizza.ca/"
+}

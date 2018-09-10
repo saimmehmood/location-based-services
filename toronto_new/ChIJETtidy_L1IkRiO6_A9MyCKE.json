@@ -1,0 +1,241 @@
+{
+    "address_components": [
+        {
+            "long_name": "10",
+            "short_name": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lower Jarvis Street",
+            "short_name": "Lower Jarvis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Z2",
+            "short_name": "M5E 1Z2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10 Lower Jarvis St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Z2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "10 Lower Jarvis St, Toronto, ON M5E 1Z2, Canada",
+    "formatted_phone_number": "(416) 364-0018",
+    "geometry": {
+        "location": {
+            "lat": 43.64449919999999,
+            "lng": -79.3696703
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458923302915,
+                "lng": -79.36818551970849
+            },
+            "southwest": {
+                "lat": 43.6431943697085,
+                "lng": -79.3708834802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "adde36690f392ff2ac37e547249200e4df83d2d7",
+    "international_phone_number": "+1 416-364-0018",
+    "name": "The Dry Cleaner",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1300"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 1:00 \u2013 5:00 PM"
+        ]
+    },
+    "place_id": "ChIJETtidy_L1IkRiO6_A9MyCKE",
+    "plus_code": {
+        "compound_code": "JJVJ+Q4 Toronto, Ontario, Canada",
+        "global_code": "87M2JJVJ+Q4"
+    },
+    "rating": 2.4,
+    "reference": "CmRSAAAAt5x0dt0u91fnJ_FmSSrGPiV10deOMH60Zu6B7H_dSIO1YT8nC6EmDUKBv5-IMfkw6YE_905fOPL2P4jS3FTZB2sTqmVPwZx2bnz2Hra9SYckIT0gAFXKsWkb0s1uzCvoEhBbolhamixoKRQ0dZSAch4JGhTUC5y9qQgP514Lj7S3IdljOzh9_A",
+    "reviews": [
+        {
+            "author_name": "Gobinaath Sivapatham",
+            "author_url": "https://www.google.com/maps/contrib/109465368511248032733/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-A_Nvy8y7WMk/AAAAAAAAAAI/AAAAAAAAB_A/ys0W2U7u5ls/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Actually closes at 5pm on Saturdays. Not 6pm as advertised online.",
+            "time": 1529185549
+        },
+        {
+            "author_name": "Tony C",
+            "author_url": "https://www.google.com/maps/contrib/110865141595428045797/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xH3zOOXvjCY/AAAAAAAAAAI/AAAAAAAAMxk/1MEZ--9Kg_E/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "$18 for shortening pants.... the task requires at most 15 mins of  cutting/ironing/sewing with a workshop already there.  So, that's like charging $72/hr.... I don't think so!... I'll go to a real tailor shop for that kinda price.",
+            "time": 1488042901
+        },
+        {
+            "author_name": "Janet Kim",
+            "author_url": "https://www.google.com/maps/contrib/115989169215051222772/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-czstNttuMK0/AAAAAAAAAAI/AAAAAAAAFZ0/VVyoeYAu0MY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Friendly service and the quality is clean.",
+            "time": 1473220458
+        },
+        {
+            "author_name": "Boris Stanislav",
+            "author_url": "https://www.google.com/maps/contrib/103891085866486637814/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZwZV8HgT9OM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1H_NJesVAlbdPc4Ib1zNrHtHm3Ew/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "too expensive.",
+            "time": 1483134240
+        },
+        {
+            "author_name": "\u0645\u0627\u0632\u0646 \u0627\u0644\u063a\u0631\u064a\u0628",
+            "author_url": "https://www.google.com/maps/contrib/116062339867364485571/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DGggtjgGrQg/AAAAAAAAAAI/AAAAAAAAB8A/i7l7HCR_YJ4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1481056018
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11603580321802481288",
+    "utc_offset": -240,
+    "vicinity": "10 Lower Jarvis Street, Toronto",
+    "website": "http://www.thedrycleaner.com/"
+}

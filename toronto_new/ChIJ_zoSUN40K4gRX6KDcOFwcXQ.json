@@ -1,0 +1,247 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "620",
+            "short_name": "620",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M5",
+            "short_name": "M5V 1M5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">620 King St W #300</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "620 King St W #300, Toronto, ON M5V 1M5, Canada",
+    "formatted_phone_number": "(416) 873-6970",
+    "geometry": {
+        "location": {
+            "lat": 43.6445465,
+            "lng": -79.4008056
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457776302915,
+                "lng": -79.39941041970849
+            },
+            "southwest": {
+                "lat": 43.6430796697085,
+                "lng": -79.40210838029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6026ed6c13c63f829402eec5e296085a6893f6bc",
+    "international_phone_number": "+1 416-873-6970",
+    "name": "RGZ",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 380,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103413985294513664372/photos\">RGZ</a>"
+            ],
+            "photo_reference": "CmRaAAAAfBm9trv8KeWst2r4CXUbHE4hi0uvBwnsAQAdje4PHI02HExKcfSJxaPfRRUY2CKqLK80FwIa1vHCWqdvuloQFbfKXbkDu1O1x1xl4bCSPh4oyW_3tX5syzdKA0IuH8e3EhD4u-5-ltxuLukvEZGr-Wx4GhQbfl3hLo9cwYpa3zlwIRG5CVELdw",
+            "width": 870
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103413985294513664372/photos\">RGZ</a>"
+            ],
+            "photo_reference": "CmRaAAAALNC_szed0N1QgsVLcMf5Mv-S5g3XGaXsy-rK6Y1a7MHgc3V5L2mEQ9ixm5RPjODSqYZQ-50XQ3TmjNTaWLTLZ91P8zeDt1oTibw9XAWOaKAJ4kmK5olLmEhHrbZ-6g8MEhDypMdzVckcCaozRfLiBUbpGhT-05kj0BN4inJqJDSRMglhR8gZbA",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJ_zoSUN40K4gRX6KDcOFwcXQ",
+    "plus_code": {
+        "compound_code": "JHVX+RM Toronto, Ontario, Canada",
+        "global_code": "87M2JHVX+RM"
+    },
+    "rating": 4.8,
+    "reference": "CmRRAAAA_h6mUFMbnmcFVbmvJ64v9de7erK9r8TH3K0O9M3UZEhyBGbspKvIjNgwo5JPlDDLN1Fwxb2zBzybN8QFs_EHRwsZxQiQM5fuFqDB9oeJNA_mw1BIoMyoc5p_Z76IO8AbEhATbrA5JfHuxlEEyQxRNn_CGhRjJzKBQRzGTHOwr72ppbQX_GyKDg",
+    "reviews": [
+        {
+            "author_name": "Tim James",
+            "author_url": "https://www.google.com/maps/contrib/112671825575373368546/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-mnaN8dkOxiA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0QYXOyGTJAsNI1efQmIeeOi187sQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Outcome positive however a number of commitments established at the outset not met. Would not recommend to a friend.",
+            "time": 1520821677
+        },
+        {
+            "author_name": "OLE KOVI",
+            "author_url": "https://www.google.com/maps/contrib/105359460027657960017/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Eb4grGe1uU8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq33ObqohBoratd2_ZTcZLZqkaiagQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "It\u2019s for the reason people keep posting good reviews about Graham Zoppi. He is an outstanding legal talent. Going to court for most people is the life changing experience, you are confused, pressured by police, you don\u2019t know your legal rights, you feel absolutely powerless and afraid of being tricked out and trapped by government bureaucracy machine. My son-in-law was the client of Graham Zoppi and now, when it\u2019s all finally over, he admits that from the first meeting he had confidence in Graham's skills, felt comfortable with his analysis of the case and has no regrets for choosing Mr. Zoppi as his defence attorney. He fought our case and he won! We believe that we couldn\u2019t get a better level of legal representation.  Graham knows exactly what he is doing; his experience in criminal defence is amazing and speak for itself. I am not saying he is cheap but he is the best of the best.",
+            "time": 1379249900
+        },
+        {
+            "author_name": "Michelle Johal",
+            "author_url": "https://www.google.com/maps/contrib/106946459145703279595/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wOzmOWJSiBA/AAAAAAAAAAI/AAAAAAAAACs/HcHugwiJC0w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Graham is a top notch criminal lawyer.  He is experienced in this area of the law. He is a highly effective and forceful advocate for his clients. I endorse him without hesitation.",
+            "time": 1449709947
+        },
+        {
+            "author_name": "Michael Nguyen",
+            "author_url": "https://www.google.com/maps/contrib/105013281433237856421/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7FxnlMvcImU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3g4bIhHWXyxMpOWjuY5SIVPQ4tbQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "I had an altercation at work with my employee and lots of things were said in the heat of the moment on both sides.  I thought we were cool and after a night of rest I didn\u2019t even recall the incident. However, I was soon served with the papers citing assault in the work place. I was entirely take by surprise but when a friend suggest Graham I was comforted from the first consultation, and we have worked closely together to reach a compromise and help persuade my colleague to drop the charges. I have Graham to thank for that, and for the resolution of the situation in my favour.",
+            "time": 1367991087
+        },
+        {
+            "author_name": "irene gomez",
+            "author_url": "https://www.google.com/maps/contrib/103515811333690213065/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-3gtfBhEOUlQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0F52IkohVCghAb5X7FcdiyllnOkQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "I hired him after a family member recommendation (he took care of their case for drinking and driving). I'm so glad that Graham is taking care of my case. He's highly responsible, has plenty knowledge and experience and always keeps a positive attitude while acting in a very professional way. With the stress that this type of situations bring, it's good to know that I don't have to worry about my lawyer.",
+            "time": 1367951369
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8390611694325572191",
+    "utc_offset": -240,
+    "vicinity": "620 King Street West #300, Toronto",
+    "website": "http://www.rgzlaw.com/"
+}

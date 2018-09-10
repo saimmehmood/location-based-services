@@ -1,11 +1,9 @@
 from googleplaces import GooglePlaces, types, lang
 from decimal import Decimal
 from pprint import pprint
-import json
+import os, json
 import math
 import numpy as np
-import urllib.request
-import ast
 
 # This function is needed to avoid json.dump decimal storage error 
 def decimal_default(obj):
@@ -23,6 +21,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 
 	Id_of_places = {}
 	place_details = []
+	
 	# sorting the given latitudes
 	x_cords = [lat1, lat2]
 	x_cords.sort()
@@ -87,8 +86,8 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		data = json.loads(json.dumps(place_details[i], default=decimal_default))
 
 		if str(data["place_id"]) in Id_of_places:
-			#print(str(data["place_id"]))
-			with open('scarborough\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
+			print(str(data["place_id"]))
+			with open('toronto_new\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
 			 	json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
 	
@@ -98,8 +97,21 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 
 
 
-YOUR_API_KEY = 'AIzaSyAb_1rwhupc22kzQXzIAsybx6dz2RlT2uA'
+YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
 # using bigger step value to avoid reaching api limit
-scanAreaForPOIs(43.766771, -79.324935, 43.757643, -79.169527, 0.001, YOUR_API_KEY)  
+#scanAreaForPOIs(43.659761, -79.420423, 43.644641, -79.365940, 0.01, YOUR_API_KEY)  # toronto new points
 
+def getPOIAroundTrajectory(route):
+	path_to_json = 'C:\\Users\\saim\\Documents\\location_based_services\\toronto_new'
+	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
+
+	for i in range(len(json_files)):
+	#print(json_files[i])
+		with open(path_to_json + '\\' + str(json_files[i])) as file:
+			data = json.load(file)
+			print(data["geometry"]["location"]["lat"])
+			print(data["geometry"]["location"]["lng"])
+
+
+getPOIAroundTrajectory(0)

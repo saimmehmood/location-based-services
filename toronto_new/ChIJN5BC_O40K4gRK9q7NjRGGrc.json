@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "358-294",
+            "short_name": "358-294",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Euclid Avenue",
+            "short_name": "Euclid Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2K2",
+            "short_name": "M6J 2K2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">358-294 Euclid Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2K2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "358-294 Euclid Ave, Toronto, ON M6J 2K2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.65441000000001,
+            "lng": -79.410853
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6557589802915,
+                "lng": -79.40950401970849
+            },
+            "southwest": {
+                "lat": 43.6530610197085,
+                "lng": -79.4122019802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "14f378e638fc7f00520ab55dc070525b631b9ebc",
+    "name": "358-294 Euclid Ave",
+    "place_id": "ChIJN5BC_O40K4gRK9q7NjRGGrc",
+    "reference": "CmRbAAAASFk0oHV-6QmTKthLnz-XSnxX3cG5hT0BVoiAQUOdX5uw7VOPNjF4YmNteB0uji3FNSbwAC5kVJl-0Ph8STQQIZwg-ykfU36LD-C1gRuFVJZarJEHvZCz-3Xq__A4eNauEhCYLqEaudxFgrNlmQbswwntGhTd64zPo0ehIJ64nBPtnGxNZl8YhA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=358-294+Euclid+Ave,+Toronto,+ON+M6J+2K2,+Canada&ftid=0x882b34eefc429037:0xb71a463436bbda2b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

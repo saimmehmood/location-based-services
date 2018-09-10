@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "199",
+            "short_name": "199",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">199 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "199 Queen St E, Toronto, ON M5A 1S2, Canada",
+    "formatted_phone_number": "(416) 985-7579",
+    "geometry": {
+        "location": {
+            "lat": 43.6540437,
+            "lng": -79.3708023
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6554781302915,
+                "lng": -79.3694883197085
+            },
+            "southwest": {
+                "lat": 43.6527801697085,
+                "lng": -79.37218628029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b8c1a878a75432730c4820086914e6f809a4ba99",
+    "international_phone_number": "+1 416-985-7579",
+    "name": "Patchouli Design",
+    "place_id": "ChIJs_H5FTfL1IkR-SdaMS6Thik",
+    "plus_code": {
+        "compound_code": "MJ3H+JM Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+JM"
+    },
+    "reference": "CmRRAAAAZKFK9xA892ZXs-iGSn2kfCLryI5rJ8phvbaNhUjk4c8U037JLxipmFaz456lrKZ_ZZJdXaKSvP2bJNzYyURrCXhemIK8zapQDOuXQjUo1NNajjWLCJJONAIFOqTi2trHEhBUPN-EPX1kviEuu8jYoumOGhQ2bKG-7r0qO5I1bpXEbAnhNHTjNA",
+    "scope": "GOOGLE",
+    "types": [
+        "florist",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2992240829040044025",
+    "utc_offset": -240,
+    "vicinity": "199 Queen Street East, Toronto",
+    "website": "http://www.patchoulidesign.com/"
+}

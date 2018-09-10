@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "778",
+            "short_name": "778",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "College Street",
+            "short_name": "College St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6G 1C6",
+            "short_name": "M6G 1C6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">778 College St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6G 1C6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "778 College St, Toronto, ON M6G 1C6, Canada",
+    "formatted_phone_number": "(647) 350-0200",
+    "geometry": {
+        "location": {
+            "lat": 43.6549111,
+            "lng": -79.4207376
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6562075302915,
+                "lng": -79.41936746970849
+            },
+            "southwest": {
+                "lat": 43.6535095697085,
+                "lng": -79.4220654302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f263770ffb3c808c7e57364ec0df890808b530f6",
+    "international_phone_number": "+1 647-350-0200",
+    "name": "De Sousa Woloshyn, Professional Corporation Lawyers",
+    "place_id": "ChIJf0m_Jvc0K4gRVBHNvUTTniA",
+    "plus_code": {
+        "compound_code": "MH3H+XP Toronto, Ontario, Canada",
+        "global_code": "87M2MH3H+XP"
+    },
+    "rating": 5,
+    "reference": "CmRRAAAA13bS0pFEq31Fxw46w6N4moDVV91BjO4lbr-kmzL3MCRh4rj6jr7JvWMnDDOZFLXks0M0gBojtj0Q-RmBr35hGgEpKv_zKY1bKGFtqVvSFjlYmvqjSnjIubpG8gj0coEjEhAmGT8mEB06azfQ8JLfnHwZGhR9nis7o_NbzTkqxuHMlttoc8-59Q",
+    "reviews": [
+        {
+            "author_name": "Gwen Millen",
+            "author_url": "https://www.google.com/maps/contrib/118147509344944702267/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-W5D_uxJmX2w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0AWs9x-liBpKlH2y-4rfZ_Hd4N6g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great Lawyers. Very fare with the legal fees. They work hard for clients. I would highly recommend",
+            "time": 1521567991
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2350548347729547604",
+    "utc_offset": -240,
+    "vicinity": "778 College Street, Toronto",
+    "website": "http://www.desousawoloshyn.ca/"
+}

@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "Windsor Street",
+            "short_name": "Windsor St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Windsor",
+            "short_name": "Windsor",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 0E9",
+            "short_name": "M5V 0E9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Windsor St</span>, <span class=\"locality\">Windsor</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 0E9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Windsor St, Windsor, ON M5V 0E9, Canada",
+    "formatted_phone_number": "(519) 915-2349",
+    "geometry": {
+        "location": {
+            "lat": 43.6445999,
+            "lng": -79.3903303
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64595588029149,
+                "lng": -79.38894756970849
+            },
+            "southwest": {
+                "lat": 43.64325791970849,
+                "lng": -79.3916455302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "9ba43378f9d732b9aaacba851d87b47d34ba4960",
+    "international_phone_number": "+1 519-915-2349",
+    "name": "Bean's Ladle Eatery & Takeout",
+    "place_id": "ChIJceF5SNc0K4gRYwMMDC-JU3c",
+    "reference": "CmRRAAAAfl1Oe0_3iERE9tUeEZVVa6-WEV0CdoAJaBa23efz4bD1qzSjmb5JyqxoilhDr2ZHQUk2QB3EWyBV6grvcxILnxnnaNzZrXZLHJ-QCMEvqiaPfBBMSh_G4LYojK-hL9IYEhC-2ADcpbUqcKG-UQntGWj9GhRamFKs9ujJb0nveZuO5l_rxYBchA",
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8598366948738990947",
+    "utc_offset": -240,
+    "vicinity": "Windsor Street, Windsor",
+    "website": "http://www.beansladle.com/"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "197",
+            "short_name": "197",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">197 Queen St E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "197 Queen St E, Toronto, ON M5A 1S2, Canada",
+    "formatted_phone_number": "(416) 601-1491",
+    "geometry": {
+        "location": {
+            "lat": 43.6541028,
+            "lng": -79.3708975
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6555006802915,
+                "lng": -79.36956856970848
+            },
+            "southwest": {
+                "lat": 43.6528027197085,
+                "lng": -79.3722665302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "38f9ec2bb1e550c7c33183d85776e6994cb24832",
+    "international_phone_number": "+1 416-601-1491",
+    "name": "Massage Therapy Centre",
+    "place_id": "ChIJWXLaFTfL1IkRz-ND_cXGNWE",
+    "plus_code": {
+        "compound_code": "MJ3H+JJ Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+JJ"
+    },
+    "reference": "CmRRAAAApXRX3HzyQJy4anX37_u9tZ94dSDV5iPXz5RvSRvIdb1fbx1eaxeT3yGZSW2OSe4R50zD1t2umkhycK2CekstpU_Gqwa9FypqgZvnBe80vv3GnUnIb1qg95eS5mY2i5f3EhBV4OoV1eIBchiSwMpeTjBFGhSn3LmHqODGTp455XTp4K2Ki8aC1Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7004723349104616399",
+    "utc_offset": -240,
+    "vicinity": "197 Queen Street East, Toronto"
+}

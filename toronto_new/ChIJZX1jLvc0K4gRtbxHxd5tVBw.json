@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "445",
+            "short_name": "445",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Shaw Street",
+            "short_name": "Shaw St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6G",
+            "short_name": "M6G",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">445 Shaw St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6G</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "445 Shaw St, Toronto, ON M6G, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6546286,
+            "lng": -79.420144
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6559775802915,
+                "lng": -79.41879501970848
+            },
+            "southwest": {
+                "lat": 43.6532796197085,
+                "lng": -79.4214929802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c051f1b5c223de2851b23b1c1dafa9ded68d44c7",
+    "name": "445 Shaw St",
+    "place_id": "ChIJZX1jLvc0K4gRtbxHxd5tVBw",
+    "reference": "CmRbAAAAhBkY_UsdA4aR_C3lfDe1CJp0iYWYJX9TAqfzVPv_PrqlHHwOECk8Tpwn7VLDzRX6EFSgsQu9esumqbES1McD31VP2pIk4O0kfDdYWqmDj9nGx11z8Uw2Xi60VseMgTBaEhC3he-KF0qyI8dd1RYM3XhXGhQr1oKtpoDJT4ErdW8qSCGBbezqMg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=445+Shaw+St,+Toronto,+ON+M6G,+Canada&ftid=0x882b34f72e637d65:0x1c546ddec547bcb5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

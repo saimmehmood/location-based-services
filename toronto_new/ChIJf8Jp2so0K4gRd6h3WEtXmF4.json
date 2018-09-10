@@ -1,0 +1,270 @@
+{
+    "address_components": [
+        {
+            "long_name": "306",
+            "short_name": "306",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 1R4",
+            "short_name": "M5B 1R4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">306 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 1R4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "306 Yonge St, Toronto, ON M5B 1R4, Canada",
+    "formatted_phone_number": "(416) 598-4676",
+    "geometry": {
+        "location": {
+            "lat": 43.6538662,
+            "lng": -79.3804765
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6552151802915,
+                "lng": -79.37912751970849
+            },
+            "southwest": {
+                "lat": 43.6525172197085,
+                "lng": -79.38182548029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e11e175948811f11fce591050c5601e5ed7e562c",
+    "international_phone_number": "+1 416-598-4676",
+    "name": "Guess",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAzS8KEhjkVJilv038cZ0Ldk55wJtDu1hIrXp9ztRrB4bBxXlGXBzcsEqzlHNV5T6c1AVr5hicw0T1EyUbvst964izNeBhuwGD357vBoLYurdCs1z2ksroyiKmxVvsbZgLEhAFeQX-dxUZ8m2MqAWuQ7TvGhT83QLMPyokN2Cc-GBYQBIQV07oNw",
+            "width": 3264
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Sga6wUeDQ72RjWyPqeNuIYi39cAm7tthBkroebWZNt6ua2OFOCk-OwBbV4MjE9c3erXS0wF3_BFNnzwEHig4WPhCbK0gzOFck69vVWqu0FaPmIP_TLjPIP3j2G_7VO3EhDyrMaHrA2vXAWwnDuEj8zhGhQcMIvuZqeWQX1NvaG2wJ3PQ_ySeg",
+            "width": 3264
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102758557943383490922/photos\">Jimmy Lu</a>"
+            ],
+            "photo_reference": "CmRaAAAAYIAG79vbuVPDh9k3ybAmH9555Qt-Z2k-H4iVnApjzUMZtH3SChArmh-Eo_cwZLglWp-9oFX1BoSKUqrdw5BFaKKK8szqWj50B0jqukhQXMnoAJFXUqBMZ7jerxUfUOYmEhD4nkzTBzSlPYOD1JSGPdbTGhTPmx94YzracVHUdR8U4m4y68fIIw",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJf8Jp2so0K4gRd6h3WEtXmF4",
+    "plus_code": {
+        "compound_code": "MJ39+GR Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+GR"
+    },
+    "price_level": 3,
+    "rating": 3.1,
+    "reference": "CmRRAAAAReIvC3dqxiibMx0neFCo6Hi34tTWU9yaDF_6DbI-YiiXaGSWszrfgs0GitG56pcNQ2wHZ7R0v59xiVheDBfiVw7HfG_lx6d9f8ws4fHhdy54jZ1Xqe2lrP3IZ3YW1V0NEhAFNBJbEdn4ggMYcoI-_aWoGhQ2VrNF5qSlNvM_-0bqefVJTxmubA",
+    "reviews": [
+        {
+            "author_name": "Glenn Dickler",
+            "author_url": "https://www.google.com/maps/contrib/112942586853670715121/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HSuZQB0TAUo/AAAAAAAAAAI/AAAAAAAAADE/2Pk6qZEQMmU/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Good selection nice people far prices",
+            "time": 1522951065
+        },
+        {
+            "author_name": "ziva2013",
+            "author_url": "https://www.google.com/maps/contrib/110388879571687672583/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Zrua5mCsEYM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1YtEfRvEVqRGqqdBOKiBi7tI7GGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I have bought a jeans online, the wrong model. I visited both retails in Eaton, they refused to accept my return. Than I wrote an e-mail to a customer service and asked for an advice. Twice. No answers, neither after two weeks. Goodbye Guess.",
+            "time": 1522330588
+        },
+        {
+            "author_name": "B Garcia",
+            "author_url": "https://www.google.com/maps/contrib/111596534591689235122/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-_9uMu6cEKnw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Vc40P5dfZZBfTFruBt2XADwDBIQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Worst experience ever. Terrible customer service. I was dealing with one girl where I asked her a quick question about an item. I told her I was just looking. She responded with \"k\", and walked over to her co-worker, and I could hear her talking about me, saying \"get out of the store if you're not going to buy\". I walked around the store and not once did she approach me again. The manager I believe brought me into the fitting room and I ended up buying a shirt. I always wondered why this location was dead and now I know why... The girl I dealt with had brown straight hair, medium build/thin and was white. The girl she complained to me about was another white female with brown hair in a pony tail. I definitely do not recommend this location to anyone. I've never felt more pressure to buy... As for the girls... Please get out of retail. If I knew her name I would have called head office by now",
+            "time": 1459373127
+        },
+        {
+            "author_name": "Edgar Safaryan",
+            "author_url": "https://www.google.com/maps/contrib/109947653616795254475/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0KR50l2CHTk/AAAAAAAAAAI/AAAAAAAAAFY/zNi8uVuCv0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Had an incredible experience shopping here! The staff were so nice! Especially the Armenian girl! She really helped me pick a shirt and made me feel confident about my purchase! Deff gonna visit more often!",
+            "time": 1471146316
+        },
+        {
+            "author_name": "Christine Zinni",
+            "author_url": "https://www.google.com/maps/contrib/111802808959391023054/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-pvt0ckZm7LI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1v0na6GYN0g6H43n85B6JD7bRhJw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Great service but those lights!! Wayyyyy toooooo hot under there!  Especially for Christmas shopping when u r all bundled up for winter.  It was quite uncomfortable.  It made me want to leave quick just to cool down.  Poor choice of lighting ",
+            "time": 1482190116
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6816294017143646327",
+    "utc_offset": -240,
+    "vicinity": "306 Yonge Street, Toronto",
+    "website": "http://www.guess.ca/"
+}

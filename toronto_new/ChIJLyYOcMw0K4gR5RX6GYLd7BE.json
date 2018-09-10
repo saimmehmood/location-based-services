@@ -1,0 +1,331 @@
+{
+    "address_components": [
+        {
+            "long_name": "unit 1113",
+            "short_name": "unit 1113",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St unit 1113</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St unit 1113, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(416) 351-1522",
+    "geometry": {
+        "location": {
+            "lat": 43.6543442,
+            "lng": -79.3808888
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6556931802915,
+                "lng": -79.37953981970848
+            },
+            "southwest": {
+                "lat": 43.6529952197085,
+                "lng": -79.3822377802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e7660936e1fff5af5bbcdc58e987fc5e7fb0b90d",
+    "international_phone_number": "+1 416-351-1522",
+    "name": "Rogers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2841,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAl30BFF44huY1JJt98pDqR5GOEHI_ued75LC20VDYluJlsm4yrZHx7edEE6qKX9ENiLZtzMYiash304qnCng84PHoFXgQ-6o3UYerC1yjKsVt7OYdlkIidA8-rwZgKLizEhDZvqC8RcYUGdyxoLfnNjgFGhRhyWgRUd1oA6ZqsME7LmmURsNMdQ",
+            "width": 4305
+        },
+        {
+            "height": 3187,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAz1PcKR2e7EKt73H-Ewjo0SqWAW6LyJuuHAh0jLYE-dU33ggoqMHL2eRV-mxIuJ_LF-Zxj0DottzUvIt_Ues8j2RG9UME_0l6PnrdK9fMSywtvktaAyLo_MM36vYCgZ98EhBLbxyIJ7mkfZ_7xq04llIAGhQzeC8JF8Ia6g4ekS4ftiwKSQh2aw",
+            "width": 3985
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAzn8xbmi5gwr4jWA8GQ6Ln5TbYdzwJ9_Q5TqmNgeDFwNQdGRukYR3m7zxM1aalq8u0dQr9lQXNLitj1_1DO6wjfBdIgI62UfrSEh_3oA9MdUhYJaQgefKrEvMz_HNOp2AEhAVYLsSh0rlo-xgwPhusN9_GhQ5PPIKI_fHbwfNoQjDjTflniQADg",
+            "width": 4646
+        },
+        {
+            "height": 3520,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104338436769037720835/photos\">Gerhard Gehrmann</a>"
+            ],
+            "photo_reference": "CmRaAAAAx52iOJDMAKBNZh2gHy1aaDnEQWfM4mCkg6TwrvRaXHc7f3Z0n9bEDPoocIGX0j-y3k7MQhyjreOH8OYrkLFbgGYIiPgv-SMKiqforJZ8iDa8YM_r2_0hiHGS-b3Skmh2EhAQqx74uNToOo3j-CbS3e_3GhT8m8bMIBceQ-aQnXEtRcLnynkbFQ",
+            "width": 3040
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAA-KRXrhhvoalfeCmSbxXP9gB_1wbyIqoKGogKKH0a8E6YSj-JntpsItDmYni_eqkvfedoMEXCgW9cBBqBcvkljE2wAEcoNYYRmA-qzCXGS40vV4Nmx9QExZMGbm7bUNQCEhBeMEIQ6N8Q_vHwoG6xM4TnGhQXIB5cjp-w2zLPtsRykQvXWMpSrQ",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAN042FIUrQj2NbwYfQKpV4ndThNNBxE6ATnpWkJGn7liBl3YkKdwmo0fE0W9JQoH1KIY3Ej0iJvnnbMhrq1UYxSjuzy4stxM9YEFaKx4qxlHBTUWReu4hqdPd_1JbrSTnEhDtbvhJ9BaW7ncK_f8lLX-oGhS-mI4TY_xgtTomOggltPni5yE_Pg",
+            "width": 5184
+        },
+        {
+            "height": 3265,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAQw3Tnx8-PAn9DTQHx91OVLypFWK74jeTKNOg-ur3NVN0LxRqa1SdBftaKIjbxwZMq0KPZ6x0ayz8XXIAXQUL4tJy26gMhsyhvQnWZ-NN0c7JWoCmRdoBCiUaX_Kg-dG-EhBa6p4ECAffnOn4N3_Nmz9WGhTumerdH7AtWRo4_dQ9iJxQc4TYCQ",
+            "width": 4898
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104338436769037720835/photos\">Gerhard Gehrmann</a>"
+            ],
+            "photo_reference": "CmRaAAAASRFY_8WDiTw7UXf631iQke4a-kt4mQOZXdk0swcjuMCasOkkKp8S_64MOlC6-xxd0lbXi_fzUZBF55N7v-RHcofVvy-O23lTQ7cVp7bzqa5bmU_kYtRyw7rmJzSaxG6kEhDBWYGWXn-FzCXVfayZTlUDGhR_5oGA04oF8VM3mZs5jh08qNUYFQ",
+            "width": 1836
+        },
+        {
+            "height": 3265,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAB6H59sUIBUQmkziFY0nUSwA-qcd42IbI1AMZYas0sCzWcCNHGXP7U_DI2oC7wOppOOXdb-7nE8V_G4Es7dHE6kFaFrZ_wLGGB6EDilHDs-81HP-PNOZj-0SnpP2xTdlhEhBHnqwPhXdfjgC2ZicEr4zfGhTIinYq5ueXWAJN_ZNYYxlYGPshhg",
+            "width": 4898
+        },
+        {
+            "height": 2979,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837/photos\">Virtuo</a>"
+            ],
+            "photo_reference": "CmRaAAAAwTv_p9sMaAplYnr6nHLYjbsDaG72bKU7y7oS7miw2gmc02xRiWpIiGO74Vb1pKEuUNyoj7QJ7EjbKINmNd35IJzbtvR1nomCgY9svODt9y59zFKG04lxXtZHwsbA1fIzEhAvkdDG9L5OwS20AL-1iYHKGhQ8XuK6B2ED1ekNt2CYihmuY074UA",
+            "width": 4500
+        }
+    ],
+    "place_id": "ChIJLyYOcMw0K4gR5RX6GYLd7BE",
+    "plus_code": {
+        "compound_code": "MJ39+PJ Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+PJ"
+    },
+    "rating": 3,
+    "reference": "CmRRAAAA1hSS1HEbECyN1lx2obwmCWZKGjo5GQ9yH7wVuSsc5Qj9klC-6l8Zw6KgQZQosytSOW7O7Ey9_wDL6a63JLV_vY50Ww_KA2rmolhpskRHF7Y-7sZkaLS3Ln5XPuKQPqNkEhBAGJBS05jDb-qV29u3J0CeGhTYG2g5VxAtBRtOKiztr090sEVOww",
+    "reviews": [
+        {
+            "author_name": "Mitchell Villeneuve",
+            "author_url": "https://www.google.com/maps/contrib/112075184607941260639/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-m2Jf22Njv0o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3DE4hzOts1dDcz4xrxSJJHKum0Aw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent experience at the Rogers kiosk. Was served by a staff member immediately, and quickly able to solve all of our issues. Stephen was a big help.",
+            "time": 1525386047
+        },
+        {
+            "author_name": "Alia Baig",
+            "author_url": "https://www.google.com/maps/contrib/108612508990216106692/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--MDRkigPUB8/AAAAAAAAAAI/AAAAAAAAAKM/NtuOfMEUshg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Bad customer service. Not willing to help a customer, rather chatty amongst themselves though.",
+            "time": 1528558200
+        },
+        {
+            "author_name": "Barrie Smith",
+            "author_url": "https://www.google.com/maps/contrib/116043336105786452378/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7mL-bOF9WpQ/AAAAAAAAAAI/AAAAAAAAAAc/iaILP65AU6w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "What a place Rogers.  Nice store front.  Hook up a free HDMI cable for me please.",
+            "time": 1521923222
+        },
+        {
+            "author_name": "Frenny Murji",
+            "author_url": "https://www.google.com/maps/contrib/116676921767011569170/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--3a0AFjpDHc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3gHk9k58x5kgkYE4SvzNFTpwrIDA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Went to Rogers at Toronto Eaton Centre and received the worst service ever! The sales person was not willing to help resolve my phone issue. Lazy! Lazy! Lazy!",
+            "time": 1529680123
+        },
+        {
+            "author_name": "Alberto Colagrosso",
+            "author_url": "https://www.google.com/maps/contrib/112361325036303828359/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ct7VI1k_liE/AAAAAAAAAAI/AAAAAAAAZzg/8YnDa4HFaPU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Was just in the temporary kiosk while they are renovating their actual store. The manager of this outlet should truly be ashamed. Stood infront of the kiosk for a good 4+ minutes while no other customers were there and the representative was having a conversation with someone about work gossip. Entirely innapropriate to not even acknowledge customers when standing right infront of you. As a former Rogers employee i was sure to advise her if i were a mystery shopper she would have failed immediately. Terrible service!",
+            "time": 1521041589
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1291650743999796709",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street unit 1113, Toronto",
+    "website": "http://www.rogers.com/web/content/store-locator?store=344746106&utm_source=G&utm_medium=lpm&utm_campaign=Rogers"
+}

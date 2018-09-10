@@ -1,0 +1,303 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "220 Yonge Street, <span class=\"street-address\">Toronto Eaton Centre</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge Street, Toronto Eaton Centre, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(416) 979-9311",
+    "geometry": {
+        "location": {
+            "lat": 43.65433789999999,
+            "lng": -79.3807412
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65568688029149,
+                "lng": -79.37939221970849
+            },
+            "southwest": {
+                "lat": 43.65298891970849,
+                "lng": -79.3820901802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8015a8d9ee46a8522fbaaad977b7b220823e100e",
+    "international_phone_number": "+1 416-979-9311",
+    "name": "Birks",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110914727279363631684/photos\">Keith Chan</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ5NParJSCKJmJlxjFm9zAbJKDSzP5gqxjnltpg5KB_YUlkpbT9ae7pVomTcw1TeZekS1mR8NRH9ubq_6Qn0Xhd6O8fCom37_l9vY1o3MBIV8iApqOET5KM1XyEjul9lEEhCQ6DJK35HRtexUv5vPzaqHGhQXGKXA1uhngFUg8f6z6co-XmlRLA",
+            "width": 4128
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113689427642834014353/photos\">Albert Chow</a>"
+            ],
+            "photo_reference": "CmRaAAAA7dk1CRmM4BzsQQ5ztgw9SDcLcHeV9T8-iU4PIOkP3-Ps6qUaK_mnvZTaLQhMDBZ4qeap_uhaPIQjgDZrH-2uwgCkP1FgVMtZkHkych63Jdu2W7ivJPFlLHwY34iWVOTIEhAMMB3mWPRIb7dBsL0jnVsRGhTDhnEapFMJp3g8AJgR_GQPfS6j6A",
+            "width": 3264
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100547036229882858813/photos\">Hernand Pollaruste</a>"
+            ],
+            "photo_reference": "CmRaAAAAYGHOaq54nbxPL76dpWIIVMjyUeoBNTZr-V1nWMAWqR8itLYZXwVPtjcdDGByKjAZt64M_qPJMbnvRR0fCDWkxVJjhMTavjWqoJDkZyOGdIvMNfvOVGqmek-OWKJGGvA0EhAZcvEOAMXbU4un5_da-LkLGhSHXgL3NaJ70A4FmXOnuDMlITZ8Cg",
+            "width": 3120
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAR_95WTqH2R7_yENtnvEN_R6RG50qD-iN7Bb7U2jeSuuh_vTbZnawfaL9wv556CUuBYB0Dao3J66ksBzV3Svi5rCditmMS6yT5Am0i7a7ywSiwYxCKcp79KE3YAEj_iwjEhB-uEXzzmvd1Jg5I7htW2VJGhR2jSxqKOebdGdcrT3rR1G6lVddow",
+            "width": 3872
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112986353719990171087/photos\">Alex Chan</a>"
+            ],
+            "photo_reference": "CmRaAAAAD2XAqMwAz6pD35P1rxK6bsTIeQPQKuKDW42ImMjfgJWJlY21Zexw_n1Pr14yD5V7J7rGMdtsJjJ8fPwPEjpIgJD4apFGHza5yCATUFe6o8-5_00NcZoOtflmyzw09l6QEhACvHdXqWPb16QbqAmJRBx1GhSOcg9wh6OI5l6BSk-7Ron4BqDF_g",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117571663240289184683/photos\">Edgar Leung</a>"
+            ],
+            "photo_reference": "CmRaAAAAaUo63MlzwaqYg6r-FZ4jpIB6-MK5LyFBX6aK9OQolE-_inqDui2nVFg4Uf2JRdd5dcFdxLiiA-btOntY6pdZvfaY67ua16VMPT059fcXbN0Bz6bWLgabzIcGmkFd2n68EhCZOaMztUHrlD0BVOOLiTShGhQy9UExg-lTBmRGg2tU-wdZBVD4vA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117571663240289184683/photos\">Edgar Leung</a>"
+            ],
+            "photo_reference": "CmRaAAAAm-qhvHjoxHd2IWDMZBtF_QJqOU9DGnNGmeTQT5AlyLzlnsiM4JhqOtfgNP7SgyWARa1e28ald67r9OMrOMKIC_PVKhC-g8bRevZu3kpqcsNm_8pNh0-q6gjVBsP0_EmjEhA-02pILY7YnR1jGD_rF6cWGhRUGl7eCupLFYNV72TJ_nSSLG9Maw",
+            "width": 3024
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\">Good Four</a>"
+            ],
+            "photo_reference": "CmRaAAAAZIc65Eves__tOs94Tlf4Dw2hN8aZER1Be63lPDOON_WGgWrib_uRrwr20rrfVv04hdwFvb22VAgpVYMqWG-mCxez-7Kz-chvLvJI3HBw2zd3xQBdZXkzbiJteYq9XjcREhBHl8dx3uVfzApxQbTmm8WuGhQmakaM8qyAwHtiyDjjk2zAEtJ-4g",
+            "width": 2592
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101102808126446713359/photos\">Sabrina Paez-Parent</a>"
+            ],
+            "photo_reference": "CmRaAAAAkWxRzLovcDPlAjRXFIo5s4IfvAbWurNY343HRrth8dH91JliAglfhIgdn3ZLQfr45fv976TEW54l38u1umjO19rnw-8ojur8JVIYMeEBWNK7bBpRgnW4gOtBHB4JDsfsEhD1glzwUwPbUrhoA4ZuupU2GhSw4QI-aLOvGKooYRKszkhpRZDP1A",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJY8qjVTPL1IkRPBm5BBJ9VOc",
+    "plus_code": {
+        "compound_code": "MJ39+PP Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+PP"
+    },
+    "rating": 5,
+    "reference": "CmRSAAAAv-vr_Oo9pVJ6erTV_UB3b8MZ7C-xFqP2Q1czh3ZaWwKE6ejbxaewpHU_WBfhVWHS_tMdRIYMBxsMdb5w3lT2zjTI2IOtHNrT9gk6W6bBJSif3_Ugz3kbCAJvnL75iEGiEhAhdo5C42Ymuf6eBmHmi6ceGhTd1CVBaijsDAjgoycnar_2i7VZyQ",
+    "reviews": [
+        {
+            "author_name": "Sabrina Paez-Parent",
+            "author_url": "https://www.google.com/maps/contrib/101102808126446713359/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-PCwmzom9D9c/AAAAAAAAAAI/AAAAAAAAArk/QhAY_19z_rs/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "Great service from the sales representatives. They are helpful without being pushy. \n\nWhen purchasing you will need to wait 6-8 weeks for your order to come in and pay 50% before you leave and the rest when you come back to pick up the item.\n\nBirks does not have a wide selection of some metals like rose gold, but they can make one if you request it. ",
+            "time": 1498962084
+        },
+        {
+            "author_name": "Vintage Cornwall Archives",
+            "author_url": "https://www.google.com/maps/contrib/105090892723680568870/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-aa-uxjQhRg4/AAAAAAAAAAI/AAAAAAAALig/SuAIbdxSMLU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The kind of place you accidentally buy the perfect diamond,  you get your money's worth every time, you won't see this quality or clarity in a small town, the kind of diamond that scintillates, is fiery, glows in the dark and the kind of diamond that outshines everyone else's, even in horrible lighting. I can reflect thousands upon thousands of speckled lit dots on a wall from quite a distance and love blowing people's minds with it, especially mine. I appreciate all my purchases and gifts from this store and highly recommend it. My uncle, also a jeweller, started as a diamond setter for Birks. I still have one of those old rings. Thank you, Birks!",
+            "time": 1480693476
+        },
+        {
+            "author_name": "Big Feet",
+            "author_url": "https://www.google.com/maps/contrib/103062576220705487467/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-r7YfgTdHsqY/AAAAAAAAAAI/AAAAAAAAB_E/mFLCW4cu29Y/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "My fianc\u00e9e and I shopped around for e ring in Dec. 2016 until we landed in this Birks store. Annie Tse is the one who gave us the best service out of all other stores. She gave us different bands with the diamond we chose to compare with. She explained us the clarity grading scale. In the end we picked a satisfying e ring both in style and quality. Can't thank you more!",
+            "time": 1486500170
+        },
+        {
+            "author_name": "Annabelle Pare",
+            "author_url": "https://www.google.com/maps/contrib/108811614704393524606/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MhZ9LAmSNWs/AAAAAAAAAAI/AAAAAAAABSA/7YzYE3i6cYo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great service. The staff is very professional.",
+            "time": 1498241797
+        },
+        {
+            "author_name": "Good Four",
+            "author_url": "https://www.google.com/maps/contrib/104417808822603625140/reviews",
+            "language": "ru",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-lSjgebk8n1k/AAAAAAAAAAI/AAAAAAAAyg4/cf8Ur4DtisY/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u044e\u0432\u0435\u043b\u0438\u0440\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u0439 \u0438\u0437 \u0437\u043e\u043b\u043e\u0442\u0430. \u0410\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u0430 \u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u0430\u044f, \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u044b \u043f\u0440\u0438\u0432\u0435\u0442\u043b\u0438\u0432\u044b\u0435. ",
+            "time": 1488683096
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16669085637147171132",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street, Toronto Eaton Centre, Toronto",
+    "website": "http://www.maisonbirks.com/"
+}

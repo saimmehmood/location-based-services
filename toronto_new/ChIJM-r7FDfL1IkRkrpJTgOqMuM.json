@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "200",
+            "short_name": "200",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "207",
+            "short_name": "207",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">207 Queen St E #200</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "207 Queen St E #200, Toronto, ON M5A 1S2, Canada",
+    "formatted_phone_number": "(416) 603-2442",
+    "geometry": {
+        "location": {
+            "lat": 43.6541218,
+            "lng": -79.3705853
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65554173029151,
+                "lng": -79.36926536970849
+            },
+            "southwest": {
+                "lat": 43.65284376970851,
+                "lng": -79.37196333029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0b487296ce113979a228c91259e3abf557cf8f4f",
+    "international_phone_number": "+1 416-603-2442",
+    "name": "Consolidated Information Technologies",
+    "place_id": "ChIJM-r7FDfL1IkRkrpJTgOqMuM",
+    "plus_code": {
+        "compound_code": "MJ3H+JQ Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+JQ"
+    },
+    "reference": "CmRSAAAAyqyxStjKiD_1WgocBQ7xxPlXME9OQnmpskgAQ_sEHhYIkm38TzHKSN5TtZ7dyZWenesx-Gt3fzGihXvkjJTWsMMh5nZ-OWVzle4YkAbAmMIAY6ndo_3w8QnRLfjUX6MHEhBDOtTtLRMb29x6Hd9kE_P8GhRSAHyJptGBkTV9Nnny2s1DGUCQCA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16371334526620252818",
+    "utc_offset": -240,
+    "vicinity": "207 Queen Street East #200, Toronto",
+    "website": "http://www.consolidated-it.com/"
+}

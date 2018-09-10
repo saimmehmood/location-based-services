@@ -1,0 +1,335 @@
+{
+    "address_components": [
+        {
+            "long_name": "C020B",
+            "short_name": "C020B",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St C020B</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St C020B, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(416) 907-5677",
+    "geometry": {
+        "location": {
+            "lat": 43.6538674,
+            "lng": -79.38055589999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6552163802915,
+                "lng": -79.37920691970848
+            },
+            "southwest": {
+                "lat": 43.6525184197085,
+                "lng": -79.38190488029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ecd89203ce0ee3112d445fab495e975c286ea4ba",
+    "international_phone_number": "+1 416-907-5677",
+    "name": "Michael Kors",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110914727279363631684/photos\">Keith Chan</a>"
+            ],
+            "photo_reference": "CmRaAAAAeIHrukGsvKViVMevPtxj_huApaKD44Xh34gHCQBaIwQjHH3NWQ7yXnmR6mnqa5L5a-oTU0uVvOOXMn3csX4OrfdG-Z7c6DwpMb-KRT4yj2Mp2aj3ae3x5B52k7ryZtTQEhDSfhVlYfFTSL_3415GHVgcGhRdBUGaJ9zPXnTmqMTAJd9CmRdVcg",
+            "width": 4128
+        },
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117665560871293011352/photos\">Nat Buffone</a>"
+            ],
+            "photo_reference": "CmRaAAAAgtjosCFmCqIVkAi4Pr-ZCViG-DlJHC0qd5E2wbaRi8GhI3btxZyz0d0QBTzNVdzrCFgGPOXCywQ4-tban8Y_shlDwX2nb2Y_UXNaUXdrx0yTvfNzZDV5k4h0k1hgLh1DEhD7KEOYcQFAtggWZ5bQte8gGhQL1-Cz-Q9xinF4u5xvgYe7S23VbQ",
+            "width": 3071
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115270095429737433208/photos\">Cris Diaconu</a>"
+            ],
+            "photo_reference": "CmRaAAAAURxZy4n8SOoYEBm1byHzc_sJXKqygwZnMyAQ9gkjxPMSvDe55wCHPLDo7IEuuTr_OHUurOPcb3chDCFMoyTDNU5juYDKhSWqUeKT2AP9J8PgjUGM-xkGJDP4F_pwTmO7EhAKsQdn7n897ev0Ph55ijjLGhSzyhbRs0KYWuaHq1GlK_QQnCCNiw",
+            "width": 3840
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAzZ52VHaYeYia_B4Jk_FGhI_9jCzwgU61EHfUfrFRpp8Vz20brV04e3Qef3AfBDrJD1iPfpYA47e-eC3rxDYpsAkLks6OsRfZkcws8RuN_q5EHiPW6ZlGyBc2uogBBgkBEhCRi5azom2NF17jKmmkFLgCGhQcwb3esIIu061r7tbXZ8mvzWVHFw",
+            "width": 3872
+        },
+        {
+            "height": 1390,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103204544783398896179/photos\">Michael Kors</a>"
+            ],
+            "photo_reference": "CmRaAAAA6b8lnspKqhWdL9SX_v4bUzfnouimvvauZrMZ1w5eOD7FTSZirfhtGgfypFoP0FjSGSbR3Zs_Ldd9tGRyXdtUzzJrG3VWOsMDeoqO6WOZfPgZSSHwpXah03CDJP1EIdGVEhC8SmPyk154k1iwuj2vxd4DGhR61Rc-BIjVvMK5Fft5370UkPPwFA",
+            "width": 2085
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117378921583620319300/photos\">Andrew Kachaniwsky</a>"
+            ],
+            "photo_reference": "CmRaAAAAIoGGOlR30TTNHOj9KhSLz3dUxPiTZGDqjOqGmfeOWmDNlchh59uztd30qIGa5ybpuL9nFzeum0JyxH2Nhq67321voaLDaJMy8LpNVO9ndSbc1fmIrsVebImZf9rrfBRAEhCr3dEPTRcXc3hJZPUdsVsjGhTFgRpnEBcWc548BnBg4N36pDbVGA",
+            "width": 4160
+        },
+        {
+            "height": 912,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103204544783398896179/photos\">Michael Kors</a>"
+            ],
+            "photo_reference": "CmRaAAAApKndx3VDxbRninQlrkJHTO4Z9d60nzyBLywT_c-N0JiQGuXv1NLssg7Zh07FHrZUOBmXVO3TcdAQfaXX4H_if6fEVrSUZdBPpqBlxLhV9flBp9v7Ga6_wfCc-HL3dt6jEhB98IYXNw65Z0r0BLUnGV5pGhRIeYkylsurvHISdVj31HF1ssrc2w",
+            "width": 1340
+        },
+        {
+            "height": 1390,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103204544783398896179/photos\">Michael Kors</a>"
+            ],
+            "photo_reference": "CmRaAAAAsxqv6r7bUWPS5327P17VDm1t0JLTv70u4dLQm444palsQsuD_bzhVJPfVv8jmEpL7Zm8gNCqGAtvs-hu-zIlkQ6aEpqpELDGPjwLo_eMK_mKutxXnSJTOEtVLKMKfQ11EhAEdY46TFZz9lzT6uihnW87GhSwLyb5Jg31a1iVk7SWE4yFfgN81w",
+            "width": 2085
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\">Good Four</a>"
+            ],
+            "photo_reference": "CmRaAAAAITLRXW7skxdbi9F9oFeyLPA8gkkb8ZWxHajwml6lBilA32r8rlQ5oz0ek8cZyuQbeF40KwXbHpt5xzgRwKN8wysXb5S7TdMjOI2QaPCsbTSyIMGr_TPVt4qzdPwEeFPbEhDpFWx4eeTID3B4liIj_hViGhR-8jQQxhcEX88dBsXG3EACrK7IZQ",
+            "width": 2592
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100962857136462240087/photos\">Aryan Nava</a>"
+            ],
+            "photo_reference": "CmRaAAAAZa3RYz7aWTXmVKbTEuNBzLKn77j97GmK7mnddguWEEaTlVt3pjKe9wRVT8RJ2XDJUbF_tlEXwwPBekyz4k6eqhOvpift-83vf7Xpe0BjprOlFJHeScQ2z088Vt3hHjPmEhB8DjWelGpUMNRnZUIGVQ3JGhRs7RSNNibbiAHBJg1rzIJD5SgzbA",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJY8qjVTPL1IkRDz0Yo_AFnts",
+    "plus_code": {
+        "compound_code": "MJ39+GQ Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+GQ"
+    },
+    "price_level": 3,
+    "rating": 3.7,
+    "reference": "CmRSAAAAwESmZj6Un2KPg3vBZmg55T2kBrYBnfexUH8gwFMeTPImoG2tuj9Ns0O5w6cPIY1KMCdY-VPyvwrCd9SMP2s_0lWq-jts5bQyspr1f8vLsw7hbhDe6AFvDYVbMoedb8L6EhBEKByc95eTYyegCVu6nxQ7GhQUBL96gTPtMxPDWVkY5UGJ8-Q4CA",
+    "reviews": [
+        {
+            "author_name": "Karen M",
+            "author_url": "https://www.google.com/maps/contrib/103873662103713732583/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-59ecX7lRuio/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2xSttui7n4ZsUNoFtQUKgR_iKhkQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "I did a return that I purchased online at the Scarborough Town Centre location and the store associate that processed the return was a very attractive young blonde woman but her customer service skills much less appealing.  She was unfriendly, cold and stuck up, not so much as a smile and the other associates seemed to keep their distance.  I believe she is the store manager.  She needs customer service training desperately!!!!  The service was so poor that I wish I would have gotten her name!",
+            "time": 1512074365
+        },
+        {
+            "author_name": "Jessica MacDonald",
+            "author_url": "https://www.google.com/maps/contrib/111091978786281082560/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1oAblQ6G9BA/AAAAAAAAAAI/AAAAAAAANnU/3vuQjSFnrNA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Very helpful and lovely staff at this location.",
+            "time": 1527537805
+        },
+        {
+            "author_name": "Erin Cowan",
+            "author_url": "https://www.google.com/maps/contrib/104233384980899761486/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-lX4Ds9FBkKY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3u7gZN6AAI01__uhyF-DJfGxYMdg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Horrible service, no one greeted me, selected what I wanted and waited for someone to come over, easily 5 mins. I said I wanted the embossed hamilton black she and went to go collect a fresh one from the back. I pay and leave only to get home and it's not the correct hamilton, she gave me th black calf skin so now I get to waste my time taking back the bag to get the correct one. First time shopping at this MK location and it by far was the worst store location!",
+            "time": 1508610039
+        },
+        {
+            "author_name": "Laurie Sullivan",
+            "author_url": "https://www.google.com/maps/contrib/117337090574489120985/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ZLDK3i2_bAk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3-JpPqJCIAR2LWT4GRnGXkG99H0w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Good deals",
+            "time": 1528387300
+        },
+        {
+            "author_name": "Aryan Nava",
+            "author_url": "https://www.google.com/maps/contrib/100962857136462240087/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tcvt5rCnsKY/AAAAAAAAAAI/AAAAAAAAMok/NDtlbV91HW0/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Went to store with my wife and the store was busy still staffs are there to welcome us and provide information about products. Excellent customer service, many new products and deals.",
+            "time": 1494634810
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shoe_store",
+        "jewelry_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15825092671713066255",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street C020B, Toronto",
+    "website": "https://www.michaelkors.ca/"
+}

@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(647) 288-0333",
+    "geometry": {
+        "location": {
+            "lat": 43.6542493,
+            "lng": -79.3811887
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65559828029149,
+                "lng": -79.3798397197085
+            },
+            "southwest": {
+                "lat": 43.65290031970849,
+                "lng": -79.3825376802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1d42d5d43caca0d2249dd4d6948eca2ee298f97f",
+    "international_phone_number": "+1 647-288-0333",
+    "name": "Zara",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\">Good Four</a>"
+            ],
+            "photo_reference": "CmRaAAAAHtc3xec1BPbszy_gop5EWuFQlZzBnmDiTk9MTEuBdfNKwD1krqQ-PnDZ1FpVAkIC8Bg6fKIgArUvO-RCUYA0s8uppDNZ7535axQcSekNpC4R4gjgnuUtBolnYV4LfaiNEhDqhxB7ZX-G_lYDAEVNzWghGhRboG_NKHSA7IbYIDRtkrPU4vI0xw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115807887523993920734/photos\">KIAN FIT</a>"
+            ],
+            "photo_reference": "CmRaAAAASXVJSlAonxmUmRLFJpkja2uRzMRGJ7TSMpVcsGF6EjWOdNH0HiTCUCbVaCpyYHF5-iBcycUCSS0fDHks4BrQ-1yskr97O32l_Z_4Yue6-vHK1cn_aqwD9wI7AjM857vyEhBUYSPPLvwC6tXPb3-nnYZsGhScC5tVRMj-t-uae4hTOZ--ePJEyA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115325419640950604336/photos\">Robert Karbaum</a>"
+            ],
+            "photo_reference": "CmRaAAAAWOadyK1DsmEMypfABLd1NfXY1-kK3Q8hER-WmMK3qjbqZGtKWdJwbxJVGAQre3mZ8Vpae7xN7-m9JMTxnjPYETWx72VzkCjUFdc5hPY5EgeTBaamWXLDcrncSByCC-a5EhDkhd0eMpItfYcMdfyJEDtjGhR_BCLP3iQwy8jJsWxEQqEQfsEo2g",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\">Good Four</a>"
+            ],
+            "photo_reference": "CmRaAAAAb-3k9piuNf5j4BAU-QWcYB7gHn0vDWKY7oFeaUevJVAYGYasoux--GU950CxpE2AYfUiv0B5PHxn5unVUm4OLhLe7DoyPl4T0OrCugz_a-DM8Ri2KOEbWfUPBp0eJBrvEhBsZvulB_E9SjGauhtac9zXGhQdaoz5f1cbiBLoP4de81K8o8NfIg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104417808822603625140/photos\">Good Four</a>"
+            ],
+            "photo_reference": "CmRaAAAA3zItpoOATlxYwuRAQewTilaiDIWbP9bgvFvmiuYJ14Vaw9GrxcKzRmInK73gFPXs3clOtmilsniQlnlnL89DyfBkPdrldI9Kagw2hnRkHf8hjSCPwzOvx3m7Z2iwxH4cEhDleQOeRvexXkk3ViwvqnauGhTdhb9wbNCaRP1_z1AhrbMJUaozcg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115325419640950604336/photos\">Robert Karbaum</a>"
+            ],
+            "photo_reference": "CmRaAAAAPV7Fv6HOmWexcW3Z9ZsddaB9aLvBsY9vHMk0TOoJGR1jkeWc32TWSraB140kscJIj_3Gl-yfsYWyjIAHJ_sAt2KQVinSOxDGaW1sRNjuA2XMOTHwS9tHJowV74uBfsKrEhCLkd2HK93UXSNXrXLHbQpsGhSdCp5dgPxJxFqZ8hb1Ck90B_3kMA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115325419640950604336/photos\">Robert Karbaum</a>"
+            ],
+            "photo_reference": "CmRaAAAAdRpRTGGiOW1a-E524zGmry-DDdgv22sVesr92IT17xQ8OxsCaRTZTzazcH6XELo_-q1Vp78BzWNrF1Ox7dsmWYMPhUhvtOnZpXkyAgnYY9YAzn1Ccogp2KAg9m6Y74tnEhCyGnhY_PG_4q3-KVvpP8ydGhQX4B4FVIqEVHTx2DbrlEdZnG8BgQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115325419640950604336/photos\">Robert Karbaum</a>"
+            ],
+            "photo_reference": "CmRaAAAAM-Fk3tmVLUpbGKC2aDPxv_wkIUNy5B8rvXdScYXj0k89luzFHX1Pnweq5p3iTp0sRDmNaRKi9WHG-4Hw_nXh0Gl4uSwjOowk7C6HzKr8fhzGZ_jIIwWAKDiymZL5EodvEhCmN9H-m5gx1GFHNZBvhjeYGhSzkxL9sTS8GHRxubG5kUWnCQwlLA",
+            "width": 4032
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108409282195615169300/photos\">Dimitar Kalendzhiev</a>"
+            ],
+            "photo_reference": "CmRaAAAA7n13fUX5KztnUVE45lkBoAVSf4c7UR6zWIRa9k3cCXIakJWUTEo7ZO_HBcFUZCWVW9AgTJHomf5f93gY4szpGOnYlAB6dzTcHgSTICRoO5lPQpob0kE5Ntno4TwVTUdsEhBZhwWtz6qj0nXSehdbT2mcGhQSD803lYYVSvgRW3CfwgvfhwKNdQ",
+            "width": 3840
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115325419640950604336/photos\">Robert Karbaum</a>"
+            ],
+            "photo_reference": "CmRaAAAAxdGIpx7kcBoIGHtyfVBV0_NIkqCGMoAC6ACJ0hzCDxNTw39BSb9XYe8pdCRL5prdKBw7aS4u5l84b0weRH1OH0PZfU4Y6iRYwkrecQguTkYMXhm95hY_E0AvVfVswCfPEhAz-gsSyw_-tgD-tCMojx3YGhSHN-Pf1QeuStJ27gpnUNJwowFyow",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJY8qjVTPL1IkRode1q0E5P88",
+    "plus_code": {
+        "compound_code": "MJ39+MG Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+MG"
+    },
+    "price_level": 2,
+    "rating": 2.8,
+    "reference": "CmRSAAAAivDvt5GOrbaQriSyoI74826Z1Xzpnan4wR0XQHMk8uIFDHf3dWyjQtkRC9FQUM2IGJ6hV5hRD-MLkSfRiggodaVo2yWPIMvNsbmUOfrsDTMOBOXFeDBssrrY10PVMlI0EhDzq_5jTtXNXF4SjWCacLKLGhSJuFnPavSjtw-yBu6WmEUrnRnm5A",
+    "reviews": [
+        {
+            "author_name": "steve smith",
+            "author_url": "https://www.google.com/maps/contrib/113929874302046694760/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RVT0jjegUDU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3fB1B21Ga7XvyWn8j_splTtOSMOw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "I visited today Monday June 4 2018 and it was mess and difficult to find any coworkers , wait they are all in the back talking.\nI waited almost 25 min in line to buy an item.\nThere was only 1 gentleman on cash who was excellent trying to move as quickly as possible .\nThe manager I believe joesephine approaches him 3 times and seen there were at 10 people in line. She done nothing except leave him and headed down stairs.where she was to busy talking to an Asian friend with blond hair and hugged him priorities I guess friends are more important Save your energy and avoid this store.i would advise more managerial training and customer service.",
+            "time": 1528156485
+        },
+        {
+            "author_name": "TR wang",
+            "author_url": "https://www.google.com/maps/contrib/100633943494919623783/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-qIfXhxIGe1Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1HrKaSESOdhy-PRIicRJn8eBEmyQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Terrible customer service there. The tag price and the actual price is different, so I went to the store and talked with the store manager. He told me his staff made a mistake, however, he did not apologize to me at all. Then I found there are many more shirts in small size have the wrong tag price, I showed it to him. He said only small size has the cheaper price. Excuse me, this is how you cover the mistake your staff have made??? After a second he just tear off the wrong tag in front me and told me he is the manager he can do everything he want. To be honest, if he can apologize to me, even without return me back the difference I would accept it. What he did today made me feel like the store maybe doing this on purpose, they put the lower price tag then sell it in a higher price and he really don\u2019t care about his customers. I hope the higher level manager at Zara can realize this problem, at least educate the store manager how to treat customers properly at Zara eaton centre.",
+            "time": 1524429821
+        },
+        {
+            "author_name": "Nim Mat",
+            "author_url": "https://www.google.com/maps/contrib/111823083972148081986/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qEA12qwHAD4/AAAAAAAAAAI/AAAAAAAAynA/GQbfy6spsMo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Unarguably the absolute worst! Absolute arrogance! Condescending! Never ever ever ever ever again! My first and the last time!",
+            "time": 1529009576
+        },
+        {
+            "author_name": "Anna Y.",
+            "author_url": "https://www.google.com/maps/contrib/105538266231552159436/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-zZj8QmF4JW0/AAAAAAAAAAI/AAAAAAAACmM/4xL99rira-8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Don't bother calling them. They'll just leave the phone ringing and will not answer anyways. Saw that happening right in front of my eyes, and have been ignored on phone and in store. Guess this can be anyone's first job opportunity because no one there seemed to have received any sort of customer service training before.",
+            "time": 1528936842
+        },
+        {
+            "author_name": "Maria Charberet",
+            "author_url": "https://www.google.com/maps/contrib/102897502832316242920/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--wBN-Jm73oI/AAAAAAAAAAI/AAAAAAAAABE/fx1Sm2Q-StM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "love the location.  Great finds every time I go in.  Lots of other shops and places to meet and chat with friends",
+            "time": 1527162601
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14933717843600332705",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street, Toronto",
+    "website": "http://www.zara.com/ca"
+}

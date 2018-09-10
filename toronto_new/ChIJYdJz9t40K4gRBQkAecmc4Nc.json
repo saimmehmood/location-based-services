@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "600",
+            "short_name": "600",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M3",
+            "short_name": "M5V 1M3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">600 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "600 King St W, Toronto, ON M5V 1M3, Canada",
+    "formatted_phone_number": "(416) 360-0600",
+    "geometry": {
+        "location": {
+            "lat": 43.6448594,
+            "lng": -79.40000529999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460212302915,
+                "lng": -79.39858416970849
+            },
+            "southwest": {
+                "lat": 43.6433232697085,
+                "lng": -79.4012821302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "010cb21c0b5e83d4778f2237f392674daa30db47",
+    "international_phone_number": "+1 416-360-0600",
+    "name": "Freed Sales & Design",
+    "place_id": "ChIJYdJz9t40K4gRBQkAecmc4Nc",
+    "plus_code": {
+        "compound_code": "JHVX+WX Toronto, Ontario, Canada",
+        "global_code": "87M2JHVX+WX"
+    },
+    "reference": "CmRSAAAAH42SgU8i8h808NcFGcHz9gffZM3Tvxs9cqDM4lqwC3MVFHh1S_Q9DmpogOAZGxb5tg2YhwxAVuFPltfB7TupLq1Qc_tjgOJSIUOZhc6fTA1VyDKDL6V98yPGOA4Y6G8HEhDD4h9oK7nD9ZWn-jmLIe5MGhQCzaEbr4zLZCrd7r745irwOdV0Zg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15555605502070098181",
+    "utc_offset": -240,
+    "vicinity": "600 King Street West, Toronto"
+}

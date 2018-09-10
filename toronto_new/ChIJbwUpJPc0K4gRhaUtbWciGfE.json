@@ -1,0 +1,277 @@
+{
+    "address_components": [
+        {
+            "long_name": "776",
+            "short_name": "776",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "College Street",
+            "short_name": "College St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6G 1C6",
+            "short_name": "M6G 1C6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">776 College St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6G 1C6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "776 College St, Toronto, ON M6G 1C6, Canada",
+    "formatted_phone_number": "(647) 694-2626",
+    "geometry": {
+        "location": {
+            "lat": 43.6549641,
+            "lng": -79.4207212
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6562376802915,
+                "lng": -79.41934191970849
+            },
+            "southwest": {
+                "lat": 43.6535397197085,
+                "lng": -79.4220398802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c5be2ec5fd7076881681dc5063bf158ccaf49013",
+    "international_phone_number": "+1 647-694-2626",
+    "name": "The Monocle Shop Toronto",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 7:00 PM",
+            "Tuesday: 11:00 AM \u2013 7:00 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 AM \u2013 7:00 PM",
+            "Friday: 11:00 AM \u2013 7:00 PM",
+            "Saturday: 11:00 AM \u2013 7:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2538,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAOB7VlNspGvOKmj6SAwEwhUcfbiDtECl1Q_q4f3oZDxDiMBv-kBdMERoDkG_uaiTcMJiROaKpcte1ZE15Nu0yu4MhnLkDEyoEU0upxAcjIiHW4OjXVGdTW7H1lGwR_TGUEhB0qVr4dgdzZF69_ObYywScGhQQJuqh5BAFn7FBZeYzXnhBmMCRLA",
+            "width": 3384
+        },
+        {
+            "height": 3872,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ],
+            "photo_reference": "CmRaAAAAlmNxAw23KXclr1ZSxpuR5CvU-UUETWllgt6rsko1qf-vaLdqc2ME8MEJVPga6LiOrEN_n9o7VO86k4oHGqV0rqqSEnQJpYpqvhe50BIKgMnziP8CO_x2QjiG9hbXE8E_EhAk_vDAajy_Tp2AYVRPHaxlGhS4ksmlAsoUc0DGqoVErUBpXlVjaQ",
+            "width": 2592
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAIHtU6-CWkpvmvv9xGcW-YN5OWs38YM27v0e5Lad_tJI2Jsl3cBUZlA5ewdnbjHUmcbjXW6Wpnp_DC72F_h6nuYz9gIUiQn091tIyQJEAys-B7kce7rQ9n1sSa3jjY7x4EhBTzEykuI-4SVBT5z2X28wNGhSXRIq3cBPaTb1eCggLO1Nzk0Yrgw",
+            "width": 3036
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAulT2Dtw_KYYSBYskzH3VEmGcaaX8mfOYtKMQDPhr6fY6zlz4AzxlTswSrjuP4IfGLK-8HHZrfFoJiVHBw6kw2PKRu3laVIfGW5hUVW1X374QDMmRThOpE2c2PlnaIPXKEhD0xgGuQKHBeCN6tqB7xHGWGhSTJOYl40i3RnJpHUL9GeFuGKtOFA",
+            "width": 4048
+        }
+    ],
+    "place_id": "ChIJbwUpJPc0K4gRhaUtbWciGfE",
+    "plus_code": {
+        "compound_code": "MH3H+XP Toronto, Ontario, Canada",
+        "global_code": "87M2MH3H+XP"
+    },
+    "rating": 4.6,
+    "reference": "CmRSAAAAvEgvJnYp4_icMhpqJNrCKbfaB9U3zIAu9baSX_SHtzcsRnavJA8teZbBzED6ssonOffH6F2n2DJSKhp6azOZTUBLOHFHOZ7GhAOVjfCNu1AVLarGDj4DBtlYHlXNX2nyEhCTm81zuuS51mhAZPJgakccGhT70CtIJnkL889ZuxIIbUzTcBHbJg",
+    "reviews": [
+        {
+            "author_name": "Chomen Reyal",
+            "author_url": "https://www.google.com/maps/contrib/114742421318121987935/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-yA2SgeXFl2A/AAAAAAAAAAI/AAAAAAAAAA8/SkotnHwodX4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Monocle cloths shop is  you go to at when the pulse of the city becomes a little too loud. It is also the place you go when you start to crave a canoe more than a coffee. This eco-friendly store is the in heart of downtown Toronto, but feels like it is in harmony with nature. You can buy excellent (albeit stereotypical) Canadian products, such as maple syrup, or you can get other handmade products that are unexpected, such as a local skincare line. The clothing is sustainable and local, with designs that don't scream \"hippie!\" During the summer months, golf tees and maxi dresses reign with lovely neutral colours that will blend well with your existing closet.",
+            "time": 1526340362
+        },
+        {
+            "author_name": "Jesse Alexander",
+            "author_url": "https://www.google.com/maps/contrib/109065606103294105837/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-tWhlO3or1yM/AAAAAAAAAAI/AAAAAAAAHLY/ogQF66mVDsk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Amazing. Well edited. Friendly staff. I want to live a Monocle life.",
+            "time": 1528653612
+        },
+        {
+            "author_name": "Juan Vanegas",
+            "author_url": "https://www.google.com/maps/contrib/108859129569100854949/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Ai_zMiWNOFc/AAAAAAAAAAI/AAAAAAAAABM/-nxPkMCZtRQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A great place that brings together media, fashion and culture, and always you can have great conversations with amazing people!",
+            "time": 1520459482
+        },
+        {
+            "author_name": "Michael Hay",
+            "author_url": "https://www.google.com/maps/contrib/101373023048033941722/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dlbZ4YmvY6Q/AAAAAAAAAAI/AAAAAAAAAAA/5bllNk0UKYg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Well laid out. Would have liked more product knowledge in staff.",
+            "time": 1518324879
+        },
+        {
+            "author_name": "John Thai",
+            "author_url": "https://www.google.com/maps/contrib/115939693095591453964/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-BV1vdwf97Cc/AAAAAAAAAAI/AAAAAAAAF6Q/k_YE1xz2vzU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Br\u00fbl\u00e9's empire delivers the perfect little boutique for all things Monocle related. Gorgeous Vits\u0153 606 shelving. I wish they served coffee.",
+            "time": 1500400626
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17372954865167082885",
+    "utc_offset": -240,
+    "vicinity": "776 College Street, Toronto",
+    "website": "http://monocle.com/"
+}

@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "114-72",
+            "short_name": "114-72",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Portland Street",
+            "short_name": "Portland St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">114-72 Portland St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "114-72 Portland St, Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6450835,
+            "lng": -79.4003266
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6464324802915,
+                "lng": -79.39897761970849
+            },
+            "southwest": {
+                "lat": 43.6437345197085,
+                "lng": -79.40167558029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bdb7532667e31ac26bb117b228610157c47fed9f",
+    "name": "114-72 Portland St",
+    "place_id": "ChIJr14cYd40K4gR2zgHHz9E4Tw",
+    "reference": "CmRbAAAAnU_KtFl0xSfRZWmZCHMHfAIxHUlmJBEr9ehaVTUZ8cTthaIdKNdUv1sQ4AuiNRvVTaSAEWTqnwjQSlpzYhXWf8cmvnwNEhboq24d1lTxmw33gxpL7xwc2LbJRV8803P4EhAIVdZRRG31ex9LMr_puRG9GhQ65fgLX4FTxPi2tGG4xGemPpci_g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=114-72+Portland+St,+Toronto,+ON+M5V,+Canada&ftid=0x882b34de611c5eaf:0x3ce1443f1f0738db",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

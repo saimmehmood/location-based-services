@@ -1,0 +1,226 @@
+{
+    "address_components": [
+        {
+            "long_name": "155",
+            "short_name": "155",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Walnut Avenue",
+            "short_name": "Walnut Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3W3",
+            "short_name": "M6J 3W3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">155 Walnut Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3W3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "155 Walnut Ave, Toronto, ON M6J 3W3, Canada",
+    "formatted_phone_number": "(647) 881-6085",
+    "geometry": {
+        "location": {
+            "lat": 43.6442425,
+            "lng": -79.4099434
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455765802915,
+                "lng": -79.40863776970849
+            },
+            "southwest": {
+                "lat": 43.6428786197085,
+                "lng": -79.41133573029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "b628fdaf033cb28c74911d9be19335a27e208a72",
+    "international_phone_number": "+1 647-881-6085",
+    "name": "Lauren Ferraro, Public Speaking for the Digital Age",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 PM \u2013 12:00 AM",
+            "Tuesday: 12:00 AM \u2013 6:00 PM, 10:00 PM \u2013 12:00 AM",
+            "Wednesday: 12:00 AM \u2013 6:00 PM, 10:00 PM \u2013 12:00 AM",
+            "Thursday: 12:00 AM \u2013 6:00 PM, 10:00 PM \u2013 12:00 AM",
+            "Friday: 12:00 AM \u2013 6:00 PM, 10:00 PM \u2013 12:00 AM",
+            "Saturday: 12:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAAqV72WAzCb2IDiLE9FJSuV5TByf-CYPm0maLmwkU76lPzjdN1FVtyA8En9U_0okk32k7270Pd4YdggICrNM6P_q9hhd0R1KmNvcTkQILjfiSUcr9wAi36rr9PNF72S9bIEhAqA7tRUQjBgpvny_KvORcKGhRt2uiZv9tqCohajU6k25-BdE5kcQ",
+            "width": 640
+        },
+        {
+            "height": 1342,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAA3beAjuZyUQF0Hn0VEW6hFSqvP0Ua0PpMxsF_FSwcEqQ0w9NdcGbGtk6L6H8PJLhbz0MJBgjM06piMXO2pq0OII92H7jnp7u066LNViMzOfP3siYmgSCjf8c0hqxjY0JlEhA_7vgfhWuP3mupi_OrqouaGhShAyNrkXaGN2WUyUEXaj_o4KXgtQ",
+            "width": 1644
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAAi9nz-7_-XUQXYE68S8vqKhxX1HxroWk2ALucXA1Tt6xb4yOxHq-nCf8Yqj-h4rQSAYUrrQyy8ZX2waq4tu720gkjL7docYEuTcfBZhVjPvYjFa26UJc-2fLBomBjBsXlEhC4aZmhVlif1_kt7VKc_swNGhTeoAVB7WW58orVDYcuiG2orclcwg",
+            "width": 1125
+        },
+        {
+            "height": 1211,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAAWhB_yEECv3nDgZ4Td4kpAt6rkze1K5LnyR0fRdvmQrRS5UffY3ZGdNEHFjK5U6P0r2JyFFvytWGeGCr7cHhWtN8cp9oWONCqg2cnc_9SzrlVpJ2SY3oCcwvRnTt-voIuEhBzSVDF3xfbS8ncpwxOltKMGhR4mrUyLd7JT2TCin6pAyE8tpnm_Q",
+            "width": 1211
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAAFp6i07yUOVch1MoVuAMFFv2ir84iE5eMesGKJnKYKfosTGYzsjvDDdHmTP9a-x7U1UWpRwaYflK7EM4rYhXT-xplHMN8pQjuEawp2pCB5zW0Yp-lpKdQ8T6GFnqD1SabEhAToZnRPBky9p75jmhxGEOYGhRy6Eh-cjMj1RtShCPMx0BP_BSZ9Q",
+            "width": 640
+        },
+        {
+            "height": 478,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAANXoOD3i74ig0Lja70OPW9dsHOZuPwelMX4Kw2knjENf1C7dXOYjyjNVcWLchA7jmwW32LMEEm2656TScA_ez77ONOBr1KhHua7gMmLS7EmxDEa794AqBYP1WJJIIXXyhEhAYQdpAbO_-B3RUAT7bc06UGhSRwGg3oGld0kNIOQP47orkVDrxsQ",
+            "width": 640
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113725377210026652270/photos\">Lauren Ferraro, Public Speaking for the Digital Age</a>"
+            ],
+            "photo_reference": "CmRaAAAASq6SuLyw2520k8FCgJfGhEgk8_4YW8DI6f656n3N-TBnFGZUyi6KG9MU5pU9AF25bmP1bIKhWqds-zKYM_7ao-bDUN8OYKWuhMy72rcxVkDTCy_VozqbGhOQ21EmEBvIEhD2hKLLGiB9iunc6wbOyekkGhQ4xBzkdSxqDM5CFnB0lR4Y6xU7DQ",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJ-TLbSeI0K4gRuvSdjh8VVlY",
+    "plus_code": {
+        "compound_code": "JHVR+M2 Toronto, Ontario, Canada",
+        "global_code": "87M2JHVR+M2"
+    },
+    "reference": "CmRRAAAAtt1AmibCAy5baDs0fT7PL2NNG3xIjaU9qQccITezNcRUCCU2p7GFaMB1cIgxLW8xxd4j2IpxAowrcqbmuOq9usMqMsbVqrNoxnewJuz-xuPjyxaJ-TClopp_JCBETpvtEhDphZSodTEhPUwbvugYEc_WGhSYaBHxWlFj5eqhqnKJP2CQWLKKHQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6221183160539804858",
+    "utc_offset": -240,
+    "vicinity": "155 Walnut Avenue, Toronto",
+    "website": "http://laurenferraro.ca/"
+}

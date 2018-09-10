@@ -1,0 +1,332 @@
+{
+    "address_components": [
+        {
+            "long_name": "n117",
+            "short_name": "n117",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St n117</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St n117, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(844) 763-0636",
+    "geometry": {
+        "location": {
+            "lat": 43.6540644,
+            "lng": -79.3806966
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65541338029149,
+                "lng": -79.37934761970848
+            },
+            "southwest": {
+                "lat": 43.65271541970849,
+                "lng": -79.38204558029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "297b70099cf1eaeeb7d9abc2252386e39ae2c257",
+    "international_phone_number": "+1 844-763-0636",
+    "name": "The Source",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 854,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114855785335372438334/photos\">The Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAWUFyqj31WhRtiTr_1N05paml4vyIZK64K-tPbadWkAVGK8Xha5RJrw5CGjGRuRjBwNqFh1C8HvyhLBS8tS4FcGtZ3aaiEtISohwHHqAYIXGr-u3FRm79NF-ydqeetLsEEhC8ILectnl5BXyu4B7R6E89GhQMc2uAdAAaRf5P4v6QAQEpOII1Ww",
+            "width": 1280
+        },
+        {
+            "height": 854,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114855785335372438334/photos\">The Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAgR9xdbEKnznETM_zmSV42QWjYkJOEMaMzdr-yXZ67NAMgLBiVLR-61k3whe5cyt7zMZeOdFLR2HltFwMBT5MgGvQbTvliAYwWukTjc1rgIyODwVr-aIG4yDE-Qy4VqqVEhBAqUwA0D0fn8K8P_CseODGGhS6yfS4xRntuRYqYMfThHtFk57Bfw",
+            "width": 1280
+        },
+        {
+            "height": 791,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114855785335372438334/photos\">The Source</a>"
+            ],
+            "photo_reference": "CmRaAAAAMOXQCjGrQlI5MZu2L0ToWFeeNSTocs0KsY1hA51G4fPkrOfvjoY-FJj8e730kdRiKSqcgtDjicYsbrSaG0g7nasZUoLTaQO5hdno5Lpmaplh6Y7exxcfGt-X61BZO3U1EhDBIj6k_0GzEUg6-WZrbTRKGhT_hs4tA2hyienTlRUf4Rd0gBTcVA",
+            "width": 1219
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116573799676246272460/photos\">Valerie</a>"
+            ],
+            "photo_reference": "CmRaAAAAgqBlYfSPvjtFojFcOZMlYsa4GSKcX1k_BHkF87PdzD6mkh6UcY6NIT7PMcswH1GVp-nVIvI3EhxPuG15COdvQmm7mdAhZ4HbWLIajyRxCEleOcT4HsKLwxUWu0KMPAsbEhCypVeHfUMUOjbGqboPrEoOGhSUq5iqKoHODqzRyQQbJ5xt4F3dTQ",
+            "width": 1920
+        },
+        {
+            "height": 854,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114855785335372438334/photos\">The Source</a>"
+            ],
+            "photo_reference": "CmRaAAAA8qSLHdrN0zo36u3T5wfiWeTv47Nn2UJSTo3AHUk_LDDh9WZINdh-Ke6TgDYeLa-4tBrWduWRwd3zW4Czd0fvw6S8eS-ImEASfIMppzTxSLmTOFe6brkkBooBU9TAW022EhBVAzwG0YYVPHHjvp0UsCMrGhR5Q2hPLfw5D8hbbnnM9L5S9XrReQ",
+            "width": 1280
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104138486366667544013/photos\">Stephen Morris</a>"
+            ],
+            "photo_reference": "CmRaAAAAZYc5sXlD_HNyBcZOvbjdy3x1baOyezvC0nAkefKJJiBYjKnsgS3NQFT8IQwl9hYJu-GNiIXdURr34UJaF4PTWAOkz9b1Rfcjz7DtCooSQfJ1CiWM78Asj9aet21wAh5pEhDFSAL8GT12bqPqE3IcBb4JGhRwksrDWWSnqhdHCIGwREHqzXYfQA",
+            "width": 4160
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116573799676246272460/photos\">Valerie</a>"
+            ],
+            "photo_reference": "CmRaAAAA-ENyhPz7FbMhOOYRG4WXhTr6qwSeGRN5XOGUAy4GzYUDh2lk9FGnHXn9wN1dQ1JeeZOimCnzJu7v1dqqZQ57KYka3fGOoKkUKmdYNWyaTb--_nGjhvZ_mU4KKTSyVtUvEhDZrT44wLFCoKZAv8QTO69AGhQ3xoDIkOqKbas8v9RWje-BkPSPVg",
+            "width": 1920
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112327129145394395261/photos\">D C</a>"
+            ],
+            "photo_reference": "CmRaAAAAgrbUEKNGKC7a0bjd0iRfpHiYqXLaEkUnbm_8abtyvEg4Q9i0fqLlV7edzp0mK76EQbBF9zTbOWUUd0q5j6ptZRlnAEuAWw_Smhk0AxQ6Rb4ObnP8aBOPC9tRGUFC5SqQEhD8-vAislxC-K6_6wHLHUW2GhTCTr50GGZQu78p4yonm9eEO6qr_A",
+            "width": 3120
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116620866085451395436/photos\">Cord Allman</a>"
+            ],
+            "photo_reference": "CmRaAAAAHxljcCrpbitWuY2hziAmKtux8t__fyF0qtxiz68szXU46t1OAhFiZE5N_MbrvORq_0YedHyL1Q8qrPDdxllpogEIk2kYEDiIXHR9EMsGrikAOhSPsBgkaBzMD0wwK4oREhBcNgSyE1oy8ivEShRha8v0GhSBT8zlFY-4rRJGz6ZYjASNt_NTmg",
+            "width": 3120
+        },
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114855785335372438334/photos\">The Source</a>"
+            ],
+            "photo_reference": "CmRaAAAArUoMqn4pg4ck2EyCUAB5xCCJUPGsYCy2b3igxQQVT5tHjX4Hyqv3xJYrjP5KYDa6kNDTYEws1zI6OnAYO9W_QRjCnCATo9-XgVINe8tjVlkSe7QhIm0f4nHusVMFSfL8EhD4rIAvWBBTa8JrT1HFPw5xGhSjihjtjnjKkyEBx7lGqgreXA9qZg",
+            "width": 270
+        }
+    ],
+    "place_id": "ChIJ2Ya9VTPL1IkRDnRkR1FRBOw",
+    "plus_code": {
+        "compound_code": "MJ39+JP Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+JP"
+    },
+    "rating": 2.7,
+    "reference": "CmRSAAAAg3HmI30YuQdprNaDg8MCIS1B4FxTfQnD3MwCtGburdpRSB3rcJI-rKVcHrJCMAxPMCx1SMo3-o8acajBhA3EpSkBWjm6Et9r37ZP8MdliYdKrHp2zHqu0Pr-TUH1SXgSEhCFdjm32FfUkZXgvj_ZAL8hGhT4I-PIt70asBIQelgNKg1EWdZRFQ",
+    "reviews": [
+        {
+            "author_name": "Jen Yazu",
+            "author_url": "https://www.google.com/maps/contrib/103526704426122547956/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_Nd8zKmON64/AAAAAAAAAAI/AAAAAAAAAEM/c868fNdwsv4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Everyone is nice and friendly, the only downside: they recommended me to go to Mobile Snap to get a phone cover, and that store is straight up garbage.",
+            "time": 1527116855
+        },
+        {
+            "author_name": "D L",
+            "author_url": "https://www.google.com/maps/contrib/104082359782418235750/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-i58X_rSOuFY/AAAAAAAAAAI/AAAAAAAAtbs/7YSfPBfcgFo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Got there 6 staff in store. One walk right by me three times, when I expressively look at him for help, but still pretend I am not there. 1 helping with other customer. (Good for him) Others head down with their phones or computers.\n\nSo what are the staff doing at this store? I Should just buy it online. Kill this retail locAtion already!!",
+            "time": 1514521672
+        },
+        {
+            "author_name": "Vivien Mollard",
+            "author_url": "https://www.google.com/maps/contrib/116204893416448098982/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_603jIfdX10/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0n2o7cMiof7x_zCHtYCTDFowv0Lw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "They are trying to sell a Sony headset (can't remember the exact model) saying that it is the sony wh1000xm2. I argued with a vendor, showing her that the model written on the headset is not the same that the one displayed (I had just tested this headset at best buy and saw several reviews so I know what it looks like) but she could stop saying that this is the same. I can't believe how she could lie to me right in my face.",
+            "time": 1514392943
+        },
+        {
+            "author_name": "Alex Beheshti",
+            "author_url": "https://www.google.com/maps/contrib/116965030372528574000/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bhFmt6Tjqws/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq37yhiMEVsL595EL_7aRiEpRKXc_g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "You have 6 staff members walking around but none willing to help you or pass you off to someone who can. Staff is also not knowledgeable about products and website says they have stock for the item you want but when you go in it's not there. Do yourself a favour and go to the best buy upstairs.",
+            "time": 1506287470
+        },
+        {
+            "author_name": "Jay Legue",
+            "author_url": "https://www.google.com/maps/contrib/115458226288548711983/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-lbv3kfcQobc/AAAAAAAAAAI/AAAAAAAAAqs/DX6Xqtw7EzE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Helpful staff but limited selection of item due to the size of the store.",
+            "time": 1497462755
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17006807502389801998",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street n117, Toronto",
+    "website": "http://www.thesource.ca/"
+}

@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "778",
+            "short_name": "778",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "College Street",
+            "short_name": "College St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1X4",
+            "short_name": "M6J 1X4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">778 College St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1X4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "778 College St, Toronto, ON M6J 1X4, Canada",
+    "formatted_phone_number": "(416) 536-0214",
+    "geometry": {
+        "location": {
+            "lat": 43.65497080000001,
+            "lng": -79.42073900000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6562395802915,
+                "lng": -79.4193577697085
+            },
+            "southwest": {
+                "lat": 43.6535416197085,
+                "lng": -79.4220557302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0024c86c946964b23188bd8bef2bc05cb40c0128",
+    "international_phone_number": "+1 416-536-0214",
+    "name": "David Rendeiro",
+    "place_id": "ChIJHSMfJPc0K4gRCEgRb2QSbLk",
+    "plus_code": {
+        "compound_code": "MH3H+XP Toronto, Ontario, Canada",
+        "global_code": "87M2MH3H+XP"
+    },
+    "reference": "CmRSAAAAKlIYZY-nXP0M8OMeR0pKXxqtN4zv1ZiGW2I6kVj09PkxT0o9ADu1RbUJhNff1V-qHgn6gJ8rCCF-rmQEswCIoVIsZk5IY8WaQGVI1OQnhEsqXVHOEyDGWbMEQKwRu41NEhCjA60y7lgl_k4iZW_NkspGGhSwAIg_XUWpsaWlYNaYPtFPJlZR1w",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13361074417070852104",
+    "utc_offset": -240,
+    "vicinity": "778 College Street, Toronto",
+    "website": "http://www.davidrendeiro.com/"
+}

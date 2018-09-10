@@ -1,0 +1,332 @@
+{
+    "address_components": [
+        {
+            "long_name": "102",
+            "short_name": "102",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "263",
+            "short_name": "263",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">263 Wellington St W #102</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "263 Wellington St W #102, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(416) 576-2252",
+    "geometry": {
+        "location": {
+            "lat": 43.6447004,
+            "lng": -79.39094949999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6461405302915,
+                "lng": -79.38963816970849
+            },
+            "southwest": {
+                "lat": 43.6434425697085,
+                "lng": -79.3923361302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0e90c34ddbf7cc1e361089d851ee38fa950e5d0a",
+    "international_phone_number": "+1 416-576-2252",
+    "name": "Rosabella Boutique & Flowers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111013875320554074991/photos\">Diana Konovalova</a>"
+            ],
+            "photo_reference": "CmRaAAAAdBjXSHg53T7Uyykqw7VohIlAus096HE-US5IZy3Lzq5LXYK8AsBm8IO_XG10dyUh5SzTrFwaOWOIy6tHiGA5MePu45z0ffW49QaxnSsNHqd4f__bxWD7gFjOLiS3kxHyEhDw1c0Y3mhRXIVzS4zO04mRGhS6OR-161KV_nLHnmtKWnCM1v3jww",
+            "width": 2048
+        },
+        {
+            "height": 1705,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAgQVWXRqX8MfltD9Da15gt1AoM4dCF9ChVg5ISTWBMUoBhWVYxmxGOReePBIpmQbuDOfpv3K6pJEgmecnw1imOBwebddhK11RYGpb4SZO-WCYG9C0xqTnQ4gpmx_1Zl3VEhDIA8AoUZg63o4dfgd8vInYGhSjVX3rE9nceHG5-t6b7_tPsZPmFg",
+            "width": 1281
+        },
+        {
+            "height": 1595,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAn531fqg1Yz2wqqw-4ql5XYuwEvvO306ev6MgRkIQMCRRvIhnnYxy96bpof-KNIwETAvOX4qhEPwczLP_zzvSnoPRLT8bPNPFoCwuTG-DWlWrh7mD2FqiekUNC4FkLEUjEhDWoI1_83gt0DlMKIni5XfzGhR0iY8mUnALAMevuiLilARmqJSzSQ",
+            "width": 1433
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAXgjOc7TR5t5sISMYG-LiDE7Ji8zcaNl3AGsSbVKHkpmNnz2WsxqsTio1h6BgubcYbutWZu92-r4AK2XpMwx4yQyK4SjovGvgLyZulVuDIJv2vAXe9YczDGMyJDbSAyovEhBXIdMxy8YzE8JkVUTwPWBjGhSxAsPe5dK4mOkIyE5GZm2iabs4xA",
+            "width": 686
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAPhMLhTSL-9gpgrmSeicO_722c4cH2gZT1Mx-e0JiIqhBOTBKK93Vyadhr38u4Idg0WGG0hr6zdI3Pkq8KQRIxf8bLm_d2NS8KDXjQcB8AVf5I96bry-nC10h8Qzd3SHHEhBKeKPSuQs4nypS-0IbaClWGhTFx8BMwbutbKIcC4-P-j54Ry-3SQ",
+            "width": 2048
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAf5UDBv-ZXzmNbdocqJMBEe8r-kVWhrmYwANEhwpX1xf4_UfIQD4V3RzksiB9rn2BSZSMu9qVWkc0IBGzuhdniFiWPLnZp1T-M-16aNHRrOujKGDQg9yFVCFD1seWkWXdEhBp1Ze6Qk-dABNniIZ1PbYaGhTdw3L045yJQDMYmyzzi8z4h0WjmA",
+            "width": 445
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAgACwiS-rTBErPtQqeuUtBmmCJdNJWsYsXVPELGhuz4kxAVB9gzuo2Siu0Mu8FveLVHHvTpRm20Z4rlcEU2FHY13kxUZAE0oGy3PhHo301WIDAyfyhlHhEn7Zc2hI0brEEhAsotIBgTn-j1aoaY5Txt-JGhRcOb813Oiz6HzssuTkyjaxPYh1nQ",
+            "width": 1536
+        },
+        {
+            "height": 378,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAABUbvbxHMeooLz9g2v5akVs-5EiWcCme-Hu-vPcRD6DZ3OCNEcOlBLlLgvzR0TJS-u3AwP9fmzNQFdpVwPtF1QYVYtV9-BKgIDgsD6RRb62Q2xrkk3flL_2T1zam4GGakEhDcfuHxH5HiVg9ZwxSrp4DSGhRBhcIQztCBm1JEXK_jfgkePoiPJw",
+            "width": 345
+        },
+        {
+            "height": 474,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAiaIrMiJ9NqA4CFua7VvrVRQiUccynTVeRUTEH9yN4ro71uhGAHXjP5nt2nloHvfV-H3ei_sKRfdaaJK_UyCb6VJZj0n3LeiH45teQ7Zf1xK09CUs4b-GIHp2RRd4aAGTEhDChVGRASkRzYd2o5aiAv_OGhQWHYh4MA00IqahwkWfJmNpQ_1QNQ",
+            "width": 350
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108126202369788960169/photos\">Rosabella Boutique &amp; Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAhcEuyK3F34h7rtcjcGOTn6l4tlOXvqd5M6HCiAagmqx-JZH3ZTvU13BAEeF_EP6jlq6z8berMejIpnySsEZ30u4HXKIYcz9RS_GWtCdcX018G6Uqj78GPrSn0htfuNQaEhCXJmrV0RkhopPFrk5f_wYUGhSAOQC1OjPXyCzjDvBdhggt8JiaxA",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJhdG-Udc0K4gR2STw2JchWOs",
+    "plus_code": {
+        "compound_code": "JJV5+VJ Toronto, Ontario, Canada",
+        "global_code": "87M2JJV5+VJ"
+    },
+    "rating": 3.1,
+    "reference": "CmRSAAAAaAlWCIqfxwcVJO-_JgIaWW6IzCZVz_S_Pshu-Y_qlUg-OuKBqxnnbpiwQWAnrkPOFrW90ziqf1kj4hJwJa2u2RIaYIEB7yqFKKIm8kYYo7az-kntcM1DAP9fjdOXlNbxEhB0wyd632_ZY6v4sJ9TbuMSGhQ9krENZ3nqq1dVkYD-nBAA8NQ3AA",
+    "reviews": [
+        {
+            "author_name": "Christopher Howard",
+            "author_url": "https://www.google.com/maps/contrib/103920300910237788857/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0Z9aZXt2G4I/AAAAAAAAAAI/AAAAAAAAAPI/3xhN6Z7IecA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Terrible customer service, extremely rude woman that I *tried* to purchase flowers from. She opened the door to bargaining by offering a lower price for a bouquet of overpriced, mediocre flowers, then chided me for continuing to bargain and soon-after reneged on her offer(s). Kept encouraging me to go elsewhere for flowers - so I did. \n\nGlad to see other negative reviews here as well. \n\nPlease take your business elsewhere.",
+            "time": 1525039256
+        },
+        {
+            "author_name": "Ann Sousa",
+            "author_url": "https://www.google.com/maps/contrib/100540944472982687127/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-OpdHRj7txj4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2yZGkwUgWk8qLXEmC2T6Rvp3Ht-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "DO NOT PURCHASE FLOWERS FROM THIS STORE! LOW QUALITY FLOWERS AND EXTREMELY RUDE / UNPROFESSIONAL!\n\nMy husband purchased roses from this store and gave them to me the same day. The roses were not fresh and barely lasted two days in water. Therefore, I contacted the store to notify them that the flowers they sold were not of good quality. The female employee I spoke to was EXTREMELY unprofessional. She would not let me speak and even started yelling on the phone. I asked for the owner of the stores contact information due to the unprofessional way the female employee was speaking to me and she stated she was not allowed to provide the owners information, which I found very strange. After getting off the phone with the female employee who was reluctant to give me her name, she proceeded to text me, which I found was an invasion of my privacy. I received no explanation for the low quality flowers and no apology for the unprofessional and unnatural behaviour from the female employee.",
+            "time": 1518401863
+        },
+        {
+            "author_name": "Aquarian Mama",
+            "author_url": "https://www.google.com/maps/contrib/114398926161781069690/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-60W9p_FbfV0/AAAAAAAAAAI/AAAAAAAAA48/dXFkUeiS3pM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Super friendly and accommodating staff - new gifts from around the world add alot of charm to the place.  My husband and I were happy with\nour purchase!",
+            "time": 1523356619
+        },
+        {
+            "author_name": "Alison Lee",
+            "author_url": "https://www.google.com/maps/contrib/111848695962745130409/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-CdmIeW5nEUE/AAAAAAAAAAI/AAAAAAAAATY/hYALIGIYhF0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Flowers were ready at the time we agreed and the bouquet was beautiful. She went out of her way to find peonies even though they're not in season. She wasn't there when I visited the store to order so I called the number left on the door and we sorted everything out over text. Very easy, and pickup went smoothly. Would go here again for flowers.",
+            "time": 1500591779
+        },
+        {
+            "author_name": "Diana Konovalova",
+            "author_url": "https://www.google.com/maps/contrib/111013875320554074991/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-knkhn1Lqw3U/AAAAAAAAAAI/AAAAAAAAABM/Qy5o6fEcfQk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "There were many times that I have had flowers from the Rosabella Flower Boutique. All the times the flowers were fresh and would be alive for a while, as well as the flower compositions are always very good looking!",
+            "time": 1488842883
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "florist",
+        "hair_care",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16958341332926997721",
+    "utc_offset": -240,
+    "vicinity": "263 Wellington Street West #102, Toronto"
+}

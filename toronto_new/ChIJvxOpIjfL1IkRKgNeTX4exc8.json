@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "189 Queen Street East, Suite 1, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "189 Queen Street East, Suite 1, Toronto, ON M5A 1S2, Canada",
+    "formatted_phone_number": "(416) 923-4050",
+    "geometry": {
+        "location": {
+            "lat": 43.6539078,
+            "lng": -79.3711235
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6552567802915,
+                "lng": -79.3697745197085
+            },
+            "southwest": {
+                "lat": 43.6525588197085,
+                "lng": -79.3724724802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "68098238fd98c765f4d08101d15f93fcae44231a",
+    "international_phone_number": "+1 416-923-4050",
+    "name": "Ontario Society of Psychotherapists",
+    "place_id": "ChIJvxOpIjfL1IkRKgNeTX4exc8",
+    "plus_code": {
+        "compound_code": "MJ3H+HH Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+HH"
+    },
+    "reference": "CmRSAAAABJA3tAgOs0p55jqQ2uS0VAKHdy5WeazTjHtRON--H5tcS0Yi6zBWHKprzA_k-pnX7K181iri3cIhUXhek7GJr_GkpIdT_kfO8j2nLkVp7xzrPJpZtokje6nzV2BJfvUQEhDxUg9agRYWMv54x-Wp5RpvGhRkzuyQfmfUo1sL5_5VzvjprKgSdQ",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14971406064075801386",
+    "utc_offset": -240,
+    "vicinity": "189 Queen Street East, Suite 1, Toronto",
+    "website": "http://www.psychotherapyontario.org/"
+}

@@ -1,0 +1,332 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "floor"
+            ]
+        },
+        {
+            "long_name": "73",
+            "short_name": "73",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kensington Avenue",
+            "short_name": "Kensington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T 2K2",
+            "short_name": "M5T 2K2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "2, <span class=\"street-address\">73 Kensington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T 2K2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2, 73 Kensington Ave, Toronto, ON M5T 2K2, Canada",
+    "formatted_phone_number": "(647) 781-5821",
+    "geometry": {
+        "location": {
+            "lat": 43.654523,
+            "lng": -79.400536
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6558671302915,
+                "lng": -79.39921056970849
+            },
+            "southwest": {
+                "lat": 43.6531691697085,
+                "lng": -79.40190853029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dad393f1ba0044dbd0e9d18778c89d3e7acc94c6",
+    "international_phone_number": "+1 647-781-5821",
+    "name": "Proper Barbers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAPIkGcE7K6FbBDXcyRzTOg4_yvH32F6fDF7OxxZpEMHyPMP2NDWODEr4HZN-w-WaWQ5XVigC_IYV5vjrBSKJILZX-FrpQJ47DfYzIgLXgOCQA4P6cMUY19ZRGpJErF8oLEhAWq8azXB4TTFIJtpqOCBHyGhSxnA5yIKidTS4-4MuSPmopdisN_A",
+            "width": 2048
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105698334736835793563/photos\">Cube Online Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAArAQJ0nA4SoUCLuDX2cbHk94wUcs5C6Sd3RYUitOZCmSmrUQEbxR-eEFOx13q09H79ek4ZSEDKsYFLfqJgzGwnQUe8AZ8dVvh8TFD2ImCZo-H2mkhWVQcr54ntjEd2FqZEhAUiQBKnX50eUttMkCLMWPbGhTXwEW78MhQKqlJ5xcfzN9_27u6vQ",
+            "width": 5472
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAr-EedG2BkZyADGHSolnddVoVROptqTSLy-zRARR_v80DOKGoEJFBoHDjF7Lwji0qxu-YtwWEMJJp0buNawkJQHEdSGEAQczR_jAxj_FglG329FsmvLchyWzd25RrMMy8EhADkLoIm3RQrL0d2QXysSFDGhQDLRxslkxivhiDxiis-FnhFOcT6g",
+            "width": 5760
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAChNMhd5QL4lC6qbNlnzP3QFPGqRKNkVe6VHBJzWwD7nACauzfvnzYQGk_74iOjc1Bn3Xf9scfN6jE0jRZJ9kydAVZk2bdqhxIxzxuswYkcDNdp0WpdkPZWvV4KualfBMEhCk_OezxU1Lgnjl_EVZUvnDGhSZhuJFsvWBaPtED40Gw_EKj3qUWA",
+            "width": 5472
+        },
+        {
+            "height": 2816,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAba_GDzRWdMNWqOG1dIv4S0uQP5t-K0pzRUBsPIfg_RaqqmeB4gH9PWOzUak8PSCMVFjrDj7A9Hj8UgTYaPhu0jzQi8JRbs9YFjLJQfGvNSMN3QeERnYEYyTYd5dKjrq_EhBE4oxdtKnUp0vwe135hPEDGhRXX6k9dTEwg9-RB53xRdTnPAelvg",
+            "width": 1584
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAH2oKyoPqKZ9F1FRI7XIZbdDJYHyI00LSLkBS6-reIGPM5bgWITVjFJLKAM4D4alw6vBT3y_GanqbUQDnKcU9dhlaJ47ncpH5Xkuy7qUsG4kGfeFMoYdllKFw8h3z9nozEhDB8tPG9dasV7_076Z18QgjGhRPS-Kl6izlmf49_4EOu6n6vKBomw",
+            "width": 5472
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAz9dFl8sX0Ke15hbl2W7UjnbLCcwoGcdDZKX3YGy8866rpWtOyLvonJQn8t5TFB8w8SL8wdniGkCYWb9FhiFHDuIm-9W5_LUv72Ux3RecskyV-1JV3vzcGwE8hhNFXOBREhC2Lp6S4jp9TS7wkzUdIRzHGhTQMgo_3MibzZ46XolwOoEbN1RAKw",
+            "width": 4928
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111559324500040715105/photos\">Luis Carlos Su\u00e1rez Pestana</a>"
+            ],
+            "photo_reference": "CmRaAAAAuY1z8Y7pgLAxUw8XrnMR8RUTdzyWkVZlBF6O_HTFwWD2osO8M6EO5ctRcF6R8sL3sWk2y8qIiHwtOA4pFDE6itYymOy4CgdUsRydU3zuN_8DG7tre-wbeca-0Y064DNaEhCUzpLBKiRxWZF6OHGDDwT1GhSjrv4q9rQFeJ8MU8Jy4rUNAuThFA",
+            "width": 4032
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAP3HtPEc86OydJGS-RE2VoHgdPEU8u5WMBJob2hfPe26ybN_dC6XtAoOObK-OCZeyVNFNX1xq_VOgDmIUPrXHsYyJ9VjOAKu1tPA_lAODbUfbQEsRTQEDDtkBG_D_PDz4EhAqm6aX6NiUWyUJEYOXxYkBGhQBiTrzqQvWDHJfBJ4_94hA-IRtug",
+            "width": 5760
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114251581922717277653/photos\">Proper Barbers</a>"
+            ],
+            "photo_reference": "CmRaAAAAqo6igaHIpRJRQIo81DgrEfNrqhgDaPQKw38Duv68fmEljWTA2yho6TutyebnrBU8_vSLDsFacgjV6UmWrFBtaiJ9YbWzK2GY9WPnM_8WLyj6yWOAME4oCUgydvAZC1j3EhBjAQQkRp-pTbNgWSNwBMmvGhSMsBYhQIsAcIt9Iz_BKt3OFiGF5A",
+            "width": 5472
+        }
+    ],
+    "place_id": "ChIJ4faavN00K4gR2t1TNaNpKjQ",
+    "plus_code": {
+        "compound_code": "MH3X+RQ Toronto, Ontario, Canada",
+        "global_code": "87M2MH3X+RQ"
+    },
+    "rating": 4.3,
+    "reference": "CmRRAAAAghnRACAxxbH-h4icO5hyg378A19KAT0XV4JaB-cUm4Xh7H_5v8ct1XblDJF_YeWzu75Sy870ctDoEjyLtNqzbNjg3ObWg7VPF5ObrXKPA0clAwSr7LhRosHnw-z1VULrEhAneSiKDtE0T3kfQqmlCCdDGhTEMSKFe2PTBr-u3s-6lIzYiRJ7hQ",
+    "reviews": [
+        {
+            "author_name": "Sunny Vykunthan",
+            "author_url": "https://www.google.com/maps/contrib/100431779391978342041/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-OsUul24NXY0/AAAAAAAAAAI/AAAAAAAAFwM/rYisT-RCU8Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Two cancellation in a row for me this week. Today I went in because nobody left me a MSG or text for the cancellation.  When mentioned all I got was a shoulder shrug sorry. Usually don't have issues - not sure what's going on but disappointing as the cuts are good.",
+            "time": 1527274767
+        },
+        {
+            "author_name": "Jah Jah",
+            "author_url": "https://www.google.com/maps/contrib/112156799723749188107/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2pyfuMBmB9s/AAAAAAAAAAI/AAAAAAAAAEk/YwItLNgRsnw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "My guy Cliff is A1, professionalism and quality of cut is on 1000. If it\u2019s your first time going in you won\u2019t be disappointed with any of the barbers but Cliff and Solo will have you extra freshh.",
+            "time": 1527729665
+        },
+        {
+            "author_name": "Camille Lendor",
+            "author_url": "https://www.google.com/maps/contrib/106339707684162847870/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-pXKm9B_eTiA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1w6qnYxrR23OFe8KRfdCopiCjQrg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Cliff was very friendly and professional. He really took the time to do an amazing job with my haircut! I'll most definitely keep coming back",
+            "time": 1528680688
+        },
+        {
+            "author_name": "Cheryl McKenzie",
+            "author_url": "https://www.google.com/maps/contrib/115663587283209804886/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ACPzER_taFU/AAAAAAAAAAI/AAAAAAAACF0/nlXqUMT-ZgI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great barber shop in Toronto. Always a good experience and time for my boys. Friendly and professional.",
+            "time": 1526870581
+        },
+        {
+            "author_name": "Jimmy Asad",
+            "author_url": "https://www.google.com/maps/contrib/102681933775829395015/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FbUj03RD_Bs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2fNAMYdr9FyTx891FmdwnSb_32gQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Great place. Patricio was great. He paid close attention to details and did a very good job on the cut/beard trim. I have never have someone who spent so much time on a beard and came out looking fresh as f**k. Top was cut well too, friendly people, nice atmosphere. Definitely will return!",
+            "time": 1507317856
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3758932988689374682",
+    "utc_offset": -240,
+    "vicinity": "2, 73 Kensington Avenue, Toronto",
+    "website": "http://www.properbarbers.com/"
+}

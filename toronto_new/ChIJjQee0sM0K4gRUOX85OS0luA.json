@@ -1,0 +1,228 @@
+{
+    "address_components": [
+        {
+            "long_name": "179",
+            "short_name": "179",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baldwin Street",
+            "short_name": "Baldwin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T 2K2",
+            "short_name": "M5T 2K2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">179 Baldwin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T 2K2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "179 Baldwin St, Toronto, ON M5T 2K2, Canada",
+    "formatted_phone_number": "(647) 717-5772",
+    "geometry": {
+        "location": {
+            "lat": 43.6546226,
+            "lng": -79.40053309999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65605498029149,
+                "lng": -79.39921721970849
+            },
+            "southwest": {
+                "lat": 43.65335701970849,
+                "lng": -79.4019151802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "162b668ef535140ee08d7bbe54042db8c495526e",
+    "international_phone_number": "+1 647-717-5772",
+    "name": "Crystal Visions Psychic Healer and Advisor",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJjQee0sM0K4gRUOX85OS0luA",
+    "plus_code": {
+        "compound_code": "MH3X+RQ Toronto, Ontario, Canada",
+        "global_code": "87M2MH3X+RQ"
+    },
+    "rating": 5,
+    "reference": "CmRSAAAAYh_ucs9rv_5xpUfp3s_K8jtxd5twQo2WTUojPh_K91Wa43vjsZdg46Tn8yRpL6OwkkxSwIGs5UdabTkZSKtGdk0sOcVfLPA2GNxUwBKxM_UQ3LiZxexHlFiW_YRbvoupEhCiC7NSzREkILuw8LNCi3yfGhQY2waUYLZ8hVDqo0UodZK9FeccNQ",
+    "reviews": [
+        {
+            "author_name": "ruby ruby",
+            "author_url": "https://www.google.com/maps/contrib/102578901466729893869/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1gvMJnN8uM8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq26oonG2_pk7_sbpSsCNuzCc0NpUw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Crystal is truly a amazing psychic one of the best I seen thanks for your honesty and your guidance",
+            "time": 1526491083
+        },
+        {
+            "author_name": "Theresa Towell",
+            "author_url": "https://www.google.com/maps/contrib/107470795736962804726/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QXZDNjuzr6s/AAAAAAAAAAI/AAAAAAAAANg/qa-T6RslBBQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "1st psychic for me and never met her before. Did reading via phone. So lovely. 100% the real deal people. She is amazing. Crystal is Kind, loving, great personality, and truly gifted. She read me like yesterday's newspaper. I really hope you take my word for it. See her. Just give it a go like I did. Best thing I ever did. \u2764",
+            "time": 1491620644
+        },
+        {
+            "author_name": "afaq al mashhari",
+            "author_url": "https://www.google.com/maps/contrib/114826400267394879988/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ONtfSBIaMhc/AAAAAAAAAAI/AAAAAAAACTQ/Q6eGR8-dYFk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1513917572
+        },
+        {
+            "author_name": "Roop",
+            "author_url": "https://www.google.com/maps/contrib/100584924611439937189/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1cpmEm9HHv0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1boID30bBfA82_z_mPvqUdDlPIRg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1499888819
+        },
+        {
+            "author_name": "alanna chelmick",
+            "author_url": "https://www.google.com/maps/contrib/102830734983192796480/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-_OfBHwBgVrI/AAAAAAAAAAI/AAAAAAAAAbY/d7eXn4JVFVc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1489377162
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16183321206189778256",
+    "utc_offset": -240,
+    "vicinity": "179 Baldwin Street, Toronto",
+    "website": "https://www.crystalvisionsreader.com/"
+}

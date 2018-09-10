@@ -1,0 +1,302 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2L7",
+            "short_name": "M5B 2L7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2L7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St, Toronto, ON M5B 2L7, Canada",
+    "formatted_phone_number": "(416) 642-0638",
+    "geometry": {
+        "location": {
+            "lat": 43.654464,
+            "lng": -79.380574
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6558129802915,
+                "lng": -79.37922501970849
+            },
+            "southwest": {
+                "lat": 43.6531150197085,
+                "lng": -79.38192298029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "29f6257637bd64ef08c4c8dbf0ca11aeb1e7bc80",
+    "international_phone_number": "+1 416-642-0638",
+    "name": "Eddie Bauer",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 11:00 AM \u2013 7:00 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115941716737677940999/photos\">Ty Villa</a>"
+            ],
+            "photo_reference": "CmRaAAAAvr1DCmuA2MWQrlr6fE4vpcH250E6oBOusBdK7DRp8e_smTu7JdXZ9Mx8KlUbZ0nuszTQn_7p9TP_2LffB66-J6T95w_2DGZygKfP5l_VTTK_owEl4LuFYI1zC-PDBLUXEhANyEsSRr8npfDXOdTMaoSgGhS4yP3UnF5dkD1IEmrSlJuxoO4DMA",
+            "width": 4032
+        },
+        {
+            "height": 2133,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103056531435039136310/photos\">Tan Canchela</a>"
+            ],
+            "photo_reference": "CmRaAAAAPVmvCE1Z8QLt3E0Z4TMzggDpRNa9DVDdb9WF4a9AUf_q5h2gJSWQDWCVqA4435Vz0bvmem6ZUThdRAmWhXQbjB57hs41hEpjwccPFQpPK44JQyCDwvA1wZ2dLR_zbsojEhBpuRSkW4A0UbCL-j2WpFmNGhSOfOlXr5DoUepyx6X9NMiwDrDFWQ",
+            "width": 2580
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113689427642834014353/photos\">Albert Chow</a>"
+            ],
+            "photo_reference": "CmRaAAAAXkFs7mo2rs5YudqFDGQTTsm1TSortdM9e72nJdWAfgc0T0TuY5QUVUAIFFwK55AUo1v3gyjQEg9VoTuoxOKkgXhDoQlQ3xa0E0pyT52Gif-HBTlQTOXTlJdrpBRfoy3-EhAwO0YXn_ox9RmHpavvSSeVGhQW5qaqAv8XGffMuWGxIwLMzTtuog",
+            "width": 3264
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117378921583620319300/photos\">Andrew Kachaniwsky</a>"
+            ],
+            "photo_reference": "CmRaAAAAb-4nzbOPZtSfBs9utDoCvwYeheTxU6Y80zWyTYAVS-6AoZykYjKua-8RcEz8VcH7vmm8pJ8cYKrXLaSG7l4YoldN6YYQrMlhnVYNshnI3Mrx02WMJHdCNanUJd04zTAMEhApyEdMJQPdWZT36scrHgZsGhR6UasOVNumcXW-69CiZGgQykVjgw",
+            "width": 4160
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108175737639667891620/photos\">M A Kabir</a>"
+            ],
+            "photo_reference": "CmRaAAAA3PNEZDAzRdnWAvPgNZRGR0Rzn18QD8MA0ljmKV3bFOjuULNTJsIfi8YTD339tjfsx1gA4ZBICtO9DtVR1oWZCPHxAzlEBcyYEOTSwFQJa4FuX8SlVv7MfJOR-p2A7ZKPEhCwcvHzs0pIH-pLRzdqVoC6GhRxc9pr55H_v449px6kMi8UbxSQjQ",
+            "width": 2048
+        },
+        {
+            "height": 2901,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103056531435039136310/photos\">Tan Canchela</a>"
+            ],
+            "photo_reference": "CmRaAAAAhnhd3N6cNbUmvLa9ySAMumvV3_uN1sNq_MheQlG7oE3CH1dkl05dGSIFUqeuYv_YRWZpvhl2w7x8QYL0fKmrfJgVhLd2bx6LV3hQocPPyShEV8qbCcwgiSBW82uG7cuSEhBXGZBxa64s4_tcZGhNB-d6GhRVmbFg4d-n3rUiOQ7RVf8LTFI50A",
+            "width": 3926
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116620866085451395436/photos\">Cord Allman</a>"
+            ],
+            "photo_reference": "CmRaAAAAN_Bw_4oKE800_nZLwdGLapTuRFJWwANa5AEXHwecEG7nWBkSFq_t33chldca-6yMy-Y4gza2wTbEhk3tLBrQo7YwWfuPzt1Ugj7sXYFHCSVIT-KE7K6IEb7wYzlzHQAMEhDMGEj9Fa_yBzdP66DOiKHZGhTXtPEM8n-wiERBB1HFE1oKGSkSDg",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJG90GlzUyK4gRHPmBpSGt32g",
+    "plus_code": {
+        "compound_code": "MJ39+QQ Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+QQ"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "CmRRAAAA8FgPUjKqqNlErkNgc8wDsEpUF3v20DkQDw3W9TTodJc94vsv3Gv1Cuitwow9PoTOwdhakUzol3WnUFqKf1HAGQEDYagtYfTxqcaYURqw4-1lg5KPukys-sukOTLDyZ6lEhB1ziii0287ULOXpNr4drs7GhTxoAXa1rz1aPkd7zEGZiKPU96yyw",
+    "reviews": [
+        {
+            "author_name": "Jonathan Ng",
+            "author_url": "https://www.google.com/maps/contrib/104982731166595138890/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-SLwZwdDXr1s/AAAAAAAAAAI/AAAAAAAAW0E/VVpxQipkW5I/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Their reward membership give out $10 voucher several times per year.",
+            "time": 1529617488
+        },
+        {
+            "author_name": "Gnomze",
+            "author_url": "https://www.google.com/maps/contrib/104846204907417989405/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RdKhAXRHPJo/AAAAAAAAAAI/AAAAAAAAB8Y/3dlHfbR3CEU/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "This is one of my favorite stores for any type of activewear. Though the price tags tend to be fairly steep when you first look at them, you quickly realize that they have many sales going on it every time of the year, and the even have a teacher discount as well as a student discount I can help with your purchase. Great quality products!",
+            "time": 1518816215
+        },
+        {
+            "author_name": "Lise M",
+            "author_url": "https://www.google.com/maps/contrib/104608871236085394851/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-C_j2si11mqA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Y954PpeNrJpXtU6zhEa6LI__pRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great selection of products and helpful staff. I have a few of their packable bags and gear which are good quality. \ud83d\udc4d\ud83c\udffc",
+            "time": 1523148687
+        },
+        {
+            "author_name": "Anna Kim",
+            "author_url": "https://www.google.com/maps/contrib/104530198020737536727/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-U_qy4TYqRWg/AAAAAAAAAAI/AAAAAAAAHyo/2QAqHrnQ0zk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Love, Love, LOVE this store. Vanessa (manager) and her crew are always so friendly and helpful. They always go out of their way to make sure I get exactly what I\u2019m looking for. For example, they would call other stores across the country to look for my merchandise. More than once I got merchandise shipped to me from another province. I cannot say enough about how great Vanessa, and the customer service, is at this store.",
+            "time": 1506958674
+        },
+        {
+            "author_name": "abdul-wahab hawsawi",
+            "author_url": "https://www.google.com/maps/contrib/109538176049836021868/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-cYJm8nnJilQ/AAAAAAAAAAI/AAAAAAAARTM/jvaEVzei6kU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "The store is incredible, staff is friendly, prices are reasonable ( went there during sales ), jackets are good, and the warranty is unbeatable",
+            "time": 1512495507
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7556949059773266204",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street, Toronto",
+    "website": "http://www.eddiebauer.com/"
+}

@@ -1,0 +1,166 @@
+{
+    "address_components": [
+        {
+            "long_name": "253",
+            "short_name": "253",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3W1",
+            "short_name": "M5V 3W1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">253 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3W1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "253 Wellington St W, Toronto, ON M5V 3W1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6446139,
+            "lng": -79.3901173
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6461763302915,
+                "lng": -79.3888562697085
+            },
+            "southwest": {
+                "lat": 43.6434783697085,
+                "lng": -79.3915542302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "307995ac9e2d02b4ed16b597ba0c1ef3f8d8b9b0",
+    "name": "Toronto Hydro-Electric System Windsor Station",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJm-_sN9c0K4gRXGpXWPo_RJU",
+    "plus_code": {
+        "compound_code": "JJV5+RX Toronto, Ontario, Canada",
+        "global_code": "87M2JJV5+RX"
+    },
+    "reference": "CmRSAAAAfHWr6AUnknf5Ov71D2x1zW7-MYQksI0TUCJxVJfXpVmKKVBtKOrIlvbeNg7Jgl6G6MG4zhYHkfwu9_hBWixEdSweZ8lHqYswnKKdjMJ6Xekwbjf_jhqCPmY2MNsP_GJGEhDu4Kd-HhYJTtmdSRc8nYHuGhQaosQTXXcxlWu99Z1r4XxpIh5KXg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10755792154524084828",
+    "utc_offset": -240,
+    "vicinity": "253 Wellington Street West, Toronto",
+    "website": "http://www.torontohydro.com/"
+}

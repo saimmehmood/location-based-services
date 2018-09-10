@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "189",
+            "short_name": "189",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street East",
+            "short_name": "Queen St E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5A 1S2",
+            "short_name": "M5A 1S2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">189 Queen St E #1</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5A 1S2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "189 Queen St E #1, Toronto, ON M5A 1S2, Canada",
+    "formatted_phone_number": "(416) 968-0207",
+    "geometry": {
+        "location": {
+            "lat": 43.6539078,
+            "lng": -79.3711235
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6553729302915,
+                "lng": -79.3698223697085
+            },
+            "southwest": {
+                "lat": 43.6526749697085,
+                "lng": -79.37252033029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "337de64ae41255d8e92da6a215317f970750bc5b",
+    "international_phone_number": "+1 416-968-0207",
+    "name": "Canadian Association of Psychosocial Oncology",
+    "place_id": "ChIJvxOpIjfL1IkRVE2ZR74SBBg",
+    "plus_code": {
+        "compound_code": "MJ3H+HH Toronto, Ontario, Canada",
+        "global_code": "87M2MJ3H+HH"
+    },
+    "reference": "CmRRAAAA-NEd1E85DWru2Q6yiwVOx2EcuRnUL8L7JVcUCDBYteQ5fdaHiHy9E81NWdDI7IxU-H-i0Nhgug8xCEM3umSRscdRAa_uqW0KbVNVBYqls4ZhglyFFAOc7JiuVAVm_LxFEhAtYc9m4nE8dih7M3dfRw0tGhRj9OIRH0W370uIAR6KBPmBBSAYAQ",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1730528765271428436",
+    "utc_offset": -240,
+    "vicinity": "189 Queen Street East #1, Toronto",
+    "website": "http://copingwithcancer.ca/"
+}

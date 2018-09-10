@@ -1,0 +1,297 @@
+{
+    "address_components": [
+        {
+            "long_name": "10",
+            "short_name": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lower Jarvis Street",
+            "short_name": "Lower Jarvis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Z2",
+            "short_name": "M5E 1Z2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10 Lower Jarvis St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Z2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "10 Lower Jarvis St, Toronto, ON M5E 1Z2, Canada",
+    "formatted_phone_number": "(647) 827-9200",
+    "geometry": {
+        "location": {
+            "lat": 43.6442857,
+            "lng": -79.3697718
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457159302915,
+                "lng": -79.36818986970849
+            },
+            "southwest": {
+                "lat": 43.6430179697085,
+                "lng": -79.37088783029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2a8aaae578992e41f179b5ffec03813503b09055",
+    "international_phone_number": "+1 647-827-9200",
+    "name": "Primacy - Queen's Quay Medical Centre",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAun6Xw8he-mesmv1hqK8pcfhM9ViP3GoPB7tuAlWa_JaYNYKHaURtTe52cCKoJxIztAaXrVpPxl_nMnUeBES2dAvPSgMmDHXjYWS-NPR5l4iuC4Q8FxroAQv-JhOhyk32EhC4vjk8Vg7qNd5LKOxDvtwZGhRs6YEPYaTL-GZJZHNlJKjHPH2xiA",
+            "width": 4608
+        },
+        {
+            "height": 379,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAcasp97a6mXeiI4HyyZcDIk59CT5qc3Ck62wX_-NCXYqaJ6YNtCddT3VcwBupVHpDMEMlLR_7H5aDbl4b_TNpQQipOW9egriiBtcxXty3UlsVMUzNgouqbXhNth3wmI2WEhAI6GJDgKD9NYn5sJdpC8zqGhQVv1EaVev5Npq-GfgYjAeaX-frzg",
+            "width": 600
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAALLAJwvwvf5E9AzQIbKu_OJMRGwVdiiJrYho3qxlUABa8PIur2EI0jcUTKGo1rJqGMTlv9nuDlSSishF9OGfaq92A2GlCYiekf5O1nTmORyayU5pQl1YMajqMZ0r-AYV4EhBB79OVfCrNVsgdWN6-GkSoGhRPM21uoLdrx2OjLrqaDrvTcbWThg",
+            "width": 4608
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA6h8iqKUgZZoozDg9gSVGRz2PQQ0HyiTy3nB2sh_PVhWdDyFA4unWHyLW5FMjDi5KKqiKXfbLsXll4X2xPf0aKIRviheMtgHuDdD7UQ_C4vZPG6jbrQq3Uxjq6E_4I-yWEhAO7OTJ9G9LM7cFgzklQ9DgGhTvuIv09Xp4Zf3wk3tdUpdlk8gH9Q",
+            "width": 1024
+        },
+        {
+            "height": 763,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAgRgDttllKqFoHQ8FKerISfhZp9-WrCt_9OSRe-Cpr9JxyW61y00cp4uffMXQR7nJh6DUqGY4TFYbm5Ky2aVVKhjT1d3mdaLZ1rrqHpG7gDOStgFVE-S5Cg5V33v3qEODEhCzYaeSMxY82YXYTXSHcgAyGhRNXSRsoBJ8Ynam7f6ij4YPGImUiw",
+            "width": 764
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAMsayexNzCe03SzIdaeVRhrLzt8owj4wiOBqh4UjE3_PU2rBzD6pbymZNCznKrVBGUl-2S3_q43aoWvwreNT-n11J2odvZHSvSoiChMueWvNr_SQCK_i3VrKzDyYFF33-EhAZ7bT78BtWCWCTKHu3ZD06GhQYAHDEJ4F0P0fkMooFUKaZ8bvT1Q",
+            "width": 4608
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAALJaOfE_3CNzW_uJ9eyDGkZ7dsts5y2Ti_LXVgakYfzfnL_7NzGQ2heqgFa2llIFkIYy0a3RqB-ArYacC2SCB__ZIiH9D_dxuF6k94RBAL48I0HHG5RHjGRyiJGKsLQ3GEhBx270SZauny1EUNzTGMEWGGhQyb098FkONv9HNjH5vjxr_MarxIw",
+            "width": 1024
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAbr6cnFKk-mIe9GF5znYyPMsof3MdxIdGXUBWOZllGflaKt0atTjIh92ktIbAA5jEMrkXcI1sSue5AjbQ2VH7tcNKB80YKI7eXhuPnpMSEzvgMZElsLKMoV2bxGn80OETEhDnfJ4yy_MGFC5m7M6awaExGhS9dEw8wVcRYOmpxkUvwJnYgHV37Q",
+            "width": 4608
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115817206809447551233/photos\">Primacy - Queen&#39;s Quay Medical Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAYpqBaGvoovtre57JCXzro-T9-iiCdttVlSIKjfmRoc7Gtk2_pO9Bg9YBh0mMVHdkvO-88i0oeUtHq4TQvhJTXjLrBv5KUprUTYCeJRTackPEQS8wMpPYl6al4bQ5DyMFEhBULPOoTXuhK4ONgmNtsyY_GhTgY0I5FUdq0gmF9WLHhDQF17-NVw",
+            "width": 1024
+        }
+    ],
+    "place_id": "ChIJcQ1idy_L1IkRIhy2_G12QeE",
+    "plus_code": {
+        "compound_code": "JJVJ+P3 Toronto, Ontario, Canada",
+        "global_code": "87M2JJVJ+P3"
+    },
+    "rating": 2.6,
+    "reference": "CmRSAAAANXufh_bdnM89f0ucVo3J-7wBs0QKc8bXhX7k8qxahO-YQy886Gho69xgNRmthv2eSpNzzkIlepC-PH-aK07NOqMfiw56cubf4C9JtwLQnvr3litqeKjWa0BJHYpPklSxEhBVw6IxPOx9vSFtAkLJlOpiGhSS8ER1tcY3wESztvpX-xG7EoEHog",
+    "reviews": [
+        {
+            "author_name": "K Marsh",
+            "author_url": "https://www.google.com/maps/contrib/116393024129777121168/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-v6_RDZp5MDo/AAAAAAAAAAI/AAAAAAAAAso/_QDAYjbUTF0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I've had nothing but positively outstanding experiences here. This is the fourth family practice I've checked out in Toronto and it's by far the best.  Dr Melanie is professional, courteous and thorough. When I needed to have stitches out and she wasn't there they booked me within an hour of calling with another physician who was equally awesome. The front staff have been very pleasant and prompt. As far as accusations of disorganization; they're running around all the time because they're always busy helping a lot of patients. Despite the workload they've always been efficient and kind. Thanks for the great work you do.",
+            "time": 1526053973
+        },
+        {
+            "author_name": "Maryam Shakiba",
+            "author_url": "https://www.google.com/maps/contrib/103455670035626235601/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-p6EDbcyZ-UQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1JpyuZH9p4t1L8wQX76KcRD8v1pg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "The issue with this clinic is mainly the front staff! They make it impossible for you to book an appointment. They never have walk ins available and you cannot book an appointment with your doctor! \nI asked them to book me any time in the future even if it has to be a month or two and they basically said that they can't!\nAlso one time I called and I needed to see a doctor that week. The receptionist asked me the reason that I want to see a doctor. I was at work and I told her that I am not comfortable sharing that info as I am in the office. She said she can't book an appointment for me unless I tell them the reason! I don't understand what difference it makes!\nI need to mention that I talked to Anjou (The manager) and she seems to be helpful. I am going to give this clinic one more chance and then start looking for some other doctors/clinics.",
+            "time": 1526501163
+        },
+        {
+            "author_name": "Jess M",
+            "author_url": "https://www.google.com/maps/contrib/105563521616870725262/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QUPsiytDwwo/AAAAAAAAAAI/AAAAAAAAq1s/vOZVVSs4nmg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Dr. Sanghera is amazing. She is professional, compassionate, and knowledgeable. I am so glad we found this clinic! There is never any wait time. Highly recommend this clinic!",
+            "time": 1527562614
+        },
+        {
+            "author_name": "Amanda Andrews",
+            "author_url": "https://www.google.com/maps/contrib/116021823521630302780/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-LsmJAEe4d08/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3BoWrnBOjLx8rYSS86qf-TKkE_5w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "We have great experiences here. Dr Reynolds is very warm and great with my kids. We all feel comfortable and have built a great relationship. The front line staff can be disorganized some what but with patience and persistence I've never had any issues. As with anyone at any business if you become loud and rude they are less likely to be helpful. \nWe are often able to get same day or next day appointments. When we go for our scheduled time the most I've waited is 10mins. We've been attending this clinic for 2.5 years.",
+            "time": 1511275214
+        },
+        {
+            "author_name": "ARLETTE G",
+            "author_url": "https://www.google.com/maps/contrib/116419559172773831354/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-AQhk_BjfPzc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2iqovaHpukyAagDzCt_u-7YYjSCg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "My family doctor is never available, receptionist are really rude. If you have an emergency they don't care.",
+            "time": 1530120268
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16231384746783284258",
+    "utc_offset": -240,
+    "vicinity": "10 Lower Jarvis Street, Toronto",
+    "website": "http://www.health-local.com/clinic/walk-in-clinics/toronto/ontario/primacy-queens-quay-medical-centre/"
+}

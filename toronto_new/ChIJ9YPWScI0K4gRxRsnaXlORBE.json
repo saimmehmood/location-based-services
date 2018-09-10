@@ -1,0 +1,252 @@
+{
+    "address_components": [
+        {
+            "long_name": "Kensington Avenue",
+            "short_name": "Kensington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5T 2K2",
+            "short_name": "M5T 2K2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Kensington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5T 2K2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Kensington Ave, Toronto, ON M5T 2K2, Canada",
+    "formatted_phone_number": "(416) 323-1924",
+    "geometry": {
+        "location": {
+            "lat": 43.6547861,
+            "lng": -79.4001806
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65617038029149,
+                "lng": -79.39887896970849
+            },
+            "southwest": {
+                "lat": 43.65347241970849,
+                "lng": -79.4015769302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "085d96dab427e1e2611efc962a84c3567d76fc17",
+    "international_phone_number": "+1 416-323-1924",
+    "name": "Kensington Market",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2357,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100605720596088435388/photos\">Andre Laurent</a>"
+            ],
+            "photo_reference": "CmRaAAAAUthckvzGjgwWoqdyFmFfSxZLTXx4iELzCDtO9i_HMU_ZgDsrAmtVVEB8Tl-mv4gi_UGByQxQjhThTxFKnB2sT9kJIwRt5m30eUdbFWs2XVgsfL02HzoSUa3wr3k4hipPEhAsNEElFRkr4fmjp4p3QU91GhRLCiwWYif1n2LLR1U63x0BQvTYTA",
+            "width": 4190
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110423160687583409045/photos\">gang yu</a>"
+            ],
+            "photo_reference": "CmRaAAAAssrVMStd7ATRLgYGqtvt6ZIzsYBmBd7ISWCfR38hIWMMwIx2oFXqkbNKCjJLIfuu3a-52atkkMwcjBBsHFuROIFCskkLEYObKhmZXGSZ7u3c7glvgHD6XiqG4lgBUxIuEhBgSFK99qqk9hPDaPjpux_AGhQ64DCzRe0kzuRdKrzIRmNhpe8_Jg",
+            "width": 6000
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116070910053138541165/photos\">Jordan Cherkewich</a>"
+            ],
+            "photo_reference": "CmRaAAAAClpMvlHFUXfv8mj4casdBJkLsw3PYJAwC6YDro8QvWBI2lhNJ8hTPsIabgS_RKlLlRRMrScuDrkLOx1_MHK8fhOCkfSkSK1YWpUnr5_sNs841dyOYf8F40JlSEEj3r-iEhAUrUNPlLVGFOkD9d0LPXqVGhTfSiwTvq0Bd8THPu5STb98IlubbQ",
+            "width": 4032
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110440100409080005381/photos\">Andaleeb Kabir</a>"
+            ],
+            "photo_reference": "CmRaAAAAIcb9nWdPVxz4SMO2zbusU6Q6R4cRaqEHaIcBGXe_JziP5lOqEFqIBwflTU6yiyVRMQgND_30Qmpnb_wEU3EwKAAMKCm8kYa3q4v1YeNqMYsPKnQJauusa-oRjr-O4iH4EhAVdXC3_NDz7jGz15PudMvfGhSBSepBvsN6a8jDcNFNRsIS2Dc1FQ",
+            "width": 4048
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116410583817760243613/photos\">Sahar Jamshidi</a>"
+            ],
+            "photo_reference": "CmRaAAAANUNbMdRgrjYbcKt50aoqNkZx0fWb2SsYk7FaLbyqcpbXXnCpNYBgj2Xo-4ph4Knwchw30aHYIQqA32a3lq7UchQ_bygCT7YW8v3mP5ehJYHfw07BjA6WlN-hMzSDSruxEhBOZ_d4147CNYsjywRKp_CKGhSeuCspjtLlXC12Dw9OFWvzStuwiA",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115570804059527154819/photos\">Erik Kingissepp</a>"
+            ],
+            "photo_reference": "CmRaAAAAxYArRUqYhWjksAikiUzSlIFgMOZYH2Y1gsEf3Vxg0BTMZ6ZsyskVWIG9hPWAht0uPn9nSWIw7f5doPBDJAv9XXNiGKrubF1HkyYFWyDKr4ZGHXbB5g2ckqdqA07Pkz83EhDyulLcrjMlPcrZ9u8q4IE3GhS0CJdFVw6yFMLWeDy7VMbj6cTYbg",
+            "width": 4160
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107556763744057052175/photos\">Katharina Dannenberg</a>"
+            ],
+            "photo_reference": "CmRaAAAAFQS-XPmyNTvL4MywZ3zRHcRGa0T0NWFujlvgg-lo70W1tdD-M8C6m6uoVzX623kHioyaUGtD_hdgXZ7hcfRAHYiyqx2xxhPkjmss4kkofIz2ptrKswsaxGQY61ZFUnz3EhDrdSqz-ALvgf84EFBotNxqGhQZtfSMtCTl7nDm4G7Jz1Kjq-XGpQ",
+            "width": 2448
+        },
+        {
+            "height": 3949,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101752163670307752091/photos\">Anne de Haas</a>"
+            ],
+            "photo_reference": "CmRaAAAAPl8nC-eEK_Adv8ZDHRPWsQbbnWiGho_jKN-25ABA9yPr6_V2zUnVCiVWScjAlkq4HNxGfZ7PlKmp-r_lxHf7a_jyGCjY6sis4QK2Hmdgvp_cR2Gr5FH9OZlOrk9V0iBvEhDM3vnmxMzQo4cB5b8RMzZVGhQRKVPR-0BqLteih5FOZjYzcun1JQ",
+            "width": 2962
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107556763744057052175/photos\">Katharina Dannenberg</a>"
+            ],
+            "photo_reference": "CmRaAAAAW3CCZvvXXKZ7WIugP5H-xewZLaUwNqloZ6rRUPPbfWuPCaFdbKAKzOx1JVpIDrzTHeieK1AxixiVzK2iAZ9NsZW_M2AEGk9p_SXNnZxfFGiN1qBOpxFwlzVrMz8N064yEhClIdzWnIVZbeHZZ1yg2T6HGhSHLCHny4IgzhNz_57eD99_4F2FYw",
+            "width": 2448
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111026247025913363476/photos\">Ashley Shaffer</a>"
+            ],
+            "photo_reference": "CmRaAAAAz6mu64ywUkdFJ8_Z23eYKSQvAFjjfoLYa6TpOsUN6pTgxdHC11O39rgk4LVfNX8j7efZ3W9qEH15p6C6uP2I5KYRsoejMFfcHPyg29JDnVde4FtUJQdeUOXPEwJvKEodEhBhl8sVEqMNDt2Z933SlN-4GhQBSZpwL2yuusb_A-28zotjAJneUA",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJ9YPWScI0K4gRxRsnaXlORBE",
+    "plus_code": {
+        "compound_code": "MH3X+WW Toronto, Ontario, Canada",
+        "global_code": "87M2MH3X+WW"
+    },
+    "rating": 4.6,
+    "reference": "CmRRAAAAKU3IQmdhW1AtO9eY6YxSMOBCOV5pyB6plfEDJ3VjAahW-JMESXjNmzprho3s2oXYUCO2kmpjjhj02KerMw7BGggOmVHjAG4gWEX93ylybaaM1pnAHvBk88XkV36fjgZdEhB_UnJwikoj1LezeDTQvFlUGhRn_eDlSMvE9hzLrU1iu0PItdJJ-A",
+    "reviews": [
+        {
+            "author_name": "Crystal Eve",
+            "author_url": "https://www.google.com/maps/contrib/111245985042646926280/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-nC-3p0O1o-M/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3cTfq0dB8sp1c2JRWK4bIKXSW_cQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Awesome area. Great little shops!\n\nGreat little bars and restaurants to waste an afternoon or evening at ;)\n\nThe hot box cafe is pretty awesome if you want to smoke and relax.\n\nI find all the shop owners in this area are so friendly and down to earth.\n\nSomething about this area feels like you've left Toronto and you're in a small quirky town",
+            "time": 1526452370
+        },
+        {
+            "author_name": "Kamoy Nicola",
+            "author_url": "https://www.google.com/maps/contrib/113851269162288985924/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-G7640kQeNF8/AAAAAAAAAAI/AAAAAAAABQc/_8AaSZKcBDM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "This is the inner child of Toronto . The fullness, joy and heart of the city really. Thriving and vibrant community with so much variety to choose from. Check out We Are Radar for good vibes and please get a patty from Patty King! So good.",
+            "time": 1528120554
+        },
+        {
+            "author_name": "Vincent Chevalier",
+            "author_url": "https://www.google.com/maps/contrib/109416428066808687559/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wkBiJ3vldvY/AAAAAAAAAAI/AAAAAAAASwM/FJP9Oc8FXok/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Still fun. Still chill. Visit to see and be seen. There are a lot of new eateries and bars popping up, although it's sad to see some institutions disappear. 4/5 would market again.",
+            "time": 1529523579
+        },
+        {
+            "author_name": "VJ",
+            "author_url": "https://www.google.com/maps/contrib/112075540529931125474/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-lD-3cIeAFns/AAAAAAAAAAI/AAAAAAAAEnE/xlQfnQmdry8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is a wonderful place to visit in summers. Lots of options for good food, great music on the streets, desserts and some great options for shopping clothing, food items and other offbeat stuff. \nCome hear to relax and soak in the great atmosphere. You can easily spend a whole afternoon or evening here.",
+            "time": 1526159779
+        },
+        {
+            "author_name": "Jason Snider",
+            "author_url": "https://www.google.com/maps/contrib/104923022143265636560/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pS9UNQ9ryh8/AAAAAAAAAAI/AAAAAAAAABQ/P00Oe3npsVw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "One of the most diverse markets in the city. Heavily Chinese and Latin American, excellent food, groceries, shops and bars. In the summer they have Pedestrian Sundays, where the streets are closed to cars and all kinds of independent vendors sell their wares to locals and tourists alike. There is always something to do in Kensington.",
+            "time": 1527451584
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1244205680423279557",
+    "utc_offset": -240,
+    "vicinity": "Kensington Avenue, Toronto",
+    "website": "http://www.kensington-market.ca/"
+}

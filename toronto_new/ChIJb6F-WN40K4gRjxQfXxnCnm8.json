@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M5V 1M1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6444429,
+            "lng": -79.4000701
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457918802915,
+                "lng": -79.39872111970848
+            },
+            "southwest": {
+                "lat": 43.64309391970851,
+                "lng": -79.4014190802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c495ed12690bd2dd5d03decc3ebdf5887e4e3e41",
+    "name": "King St West at Portland St",
+    "place_id": "ChIJb6F-WN40K4gRjxQfXxnCnm8",
+    "plus_code": {
+        "compound_code": "JHVX+QX Toronto, Ontario, Canada",
+        "global_code": "87M2JHVX+QX"
+    },
+    "reference": "CmRRAAAAUWbMvX4BsJ2ewb1RKo9VOuR0wD1KrHBoFEO1R3bNsjimkyAHopcqaoKxLuddY3Bf2rr0zOTkgFIVz9ON1bBJH8z6ATuxX5YRiWlLwsBWRI78ALSuKti3aumbMgr28T6uEhBe9_hh6lrYj75x-v1UyxBCGhQuXIh25W8oNi5Z_LpbPGvZuYYIlA",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8043079398756127887",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

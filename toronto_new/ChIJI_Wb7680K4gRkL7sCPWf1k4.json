@@ -1,0 +1,300 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5B 2H1",
+            "short_name": "M5B 2H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5B 2H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "220 Yonge St, Toronto, ON M5B 2H1, Canada",
+    "formatted_phone_number": "(416) 977-7364",
+    "geometry": {
+        "location": {
+            "lat": 43.65376879999999,
+            "lng": -79.38040079999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6551177802915,
+                "lng": -79.37905181970848
+            },
+            "southwest": {
+                "lat": 43.6524198197085,
+                "lng": -79.38174978029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b8e2689b01f72698135114224aca09f234af8ace",
+    "international_phone_number": "+1 416-977-7364",
+    "name": "The Body Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:30 PM",
+            "Tuesday: 10:00 AM \u2013 9:30 PM",
+            "Wednesday: 10:00 AM \u2013 9:30 PM",
+            "Thursday: 10:00 AM \u2013 9:30 PM",
+            "Friday: 10:00 AM \u2013 9:30 PM",
+            "Saturday: 9:30 AM \u2013 9:30 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115194631866631738394/photos\">Ty Agha</a>"
+            ],
+            "photo_reference": "CmRaAAAAZp_98Cogk0F6w7GaZ-wauPXihmO0b60mWGNxzDuLJZpiN0wsdaGN2JPG2gdTQZh1IwnQZMYmCaTSxTMkIiq4UGIuK4kVAgLJUjp9QlqvbmemX_sabeZm0YWaywdrKSo6EhD4i--4m-ZaDPNuUPddGyomGhTAHgb7mHh32wrl3qDN3zZ4h2t3bA",
+            "width": 4048
+        },
+        {
+            "height": 2366,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103056531435039136310/photos\">Tan Canchela</a>"
+            ],
+            "photo_reference": "CmRaAAAAn0w1-8svs751z1-y_HHYIYCPCq4xwAJXJ7yzY7FrdkZ-oazAGX-BFi7uOn094RNzKi43ZZlPDxAxlBIMy6goGYSFZ_0MxIXKsf-jCLSforocu8rIcEgXW4DAhKkim943EhCbsGGxlmiSsq5YoLloYwuUGhQGVctOZ0zhoLOT-ssDPQYQ8Z-BZA",
+            "width": 2969
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116577272766330957361/photos\">Sandeep Garg</a>"
+            ],
+            "photo_reference": "CmRaAAAAlQuXr5TEVHcSPoIbURag1SRXCVt9wMLVVqKFZc4BxmpZ56A4tExJYkGzU56IVCrHoN45qbRVZ0qi7-WDiig76o_tYvmvHW_AEFyMkwIVwxTHMBQ4c0IGr501LeWfPnHiEhBy9jYXTiIv_dWxZXncf71FGhR91g8z27nP5kpccuK_hUwciaONvg",
+            "width": 3036
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100832660058697406254/photos\">Paul Magda</a>"
+            ],
+            "photo_reference": "CmRaAAAARzN-NS1RIECGQpWVmzujNzEzuYmdAXeJw7LfOC_VktNb3sdGwmwn97k2Z6xod8jI2cymWMCpUIvKV60SlpLVyOt2EhJpwbK1AhAYwXppAXdtHs_bo7yaHfd8ql3ogwOREhC04VzD_CKfKFXrIwiRxPu6GhQVuV15oImVQP9wpxEdfStlbvY8kw",
+            "width": 1536
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115885318575888408106/photos\">nick knickle</a>"
+            ],
+            "photo_reference": "CmRaAAAAaa3fM_vG8zNEOB4BFaW60yRQjB5LDlYiKrQDgNj9km7M1TO-KRtuaKjTAZmjay2ZPUzCaAK5dgUIdumPF5gdN0EZAMR4dtPlU16hEAzLt-mnEdehiBmwetqeyG-gNwE8EhCMZCkaaLL4ZnAKIVe_PLOUGhSHlXf2RT_8lqGpWFKx5K1z8gXopQ",
+            "width": 528
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116577272766330957361/photos\">Sandeep Garg</a>"
+            ],
+            "photo_reference": "CmRaAAAAd9s5yIc1n9TRS7dhnLCCrIoCaAxRQx4T0M_HtOg--BZ6MOT4vb100Na1yYfYP1i4Tt9iMaPvVHruWSwycELoYTFhs_RFnWw6NV-D8HfhzM8BK9rrO9CueCEyIt6ezlKQEhAxO7sMicxx_nZrzPxuyqWbGhSCxKts_DLo0n3E-gbnmOKXD9iCnA",
+            "width": 3036
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100832660058697406254/photos\">Paul Magda</a>"
+            ],
+            "photo_reference": "CmRaAAAAm79zH-0Gj1E_PWgCpjrXJ-m-3_Jw4nI6vS1YPeJ7L5O_NAarJXua8EgVrniRa8jSGfzXunKzZgehw79A5JNo5twLNL77094aFElHg7EvBRUZeMUVxLRsGtkoeQQGIvSiEhDqnrpRlrMS7UVKtnSjVUBkGhRJ6xpyVb_oWIuI7Q4h_uuxINv94w",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJI_Wb7680K4gRkL7sCPWf1k4",
+    "plus_code": {
+        "compound_code": "MJ39+GR Toronto, Ontario, Canada",
+        "global_code": "87M2MJ39+GR"
+    },
+    "rating": 3.4,
+    "reference": "CmRRAAAAbIWEr1aYQfXnA-PhpQLGYebsvRLQIMWrgcj5RnC-k7SbvqZw1s-hPYnj7rN4aD4N3B_IL5NQYO1lawp8zgtEbrwiLwnZvmJLuuWK5LFYZO03sKCx5hw49h82YPDeGYypEhAgv4MPHk8e0JFE-IyHdJE4GhRWBlo8n8C9HsjrwvmJcqjdy0K06g",
+    "reviews": [
+        {
+            "author_name": "Veronica Eastman",
+            "author_url": "https://www.google.com/maps/contrib/110080783392109623118/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8s8kl-9IfMo/AAAAAAAAAAI/AAAAAAAACEk/MD8tr4KkQj0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "No animal testing!  Great products.  Love the assortment of shower gels, and body creams.",
+            "time": 1525918100
+        },
+        {
+            "author_name": "Nancy Ferareza",
+            "author_url": "https://www.google.com/maps/contrib/114029506770430797943/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-G9go0lb6d14/AAAAAAAAAAI/AAAAAAAAABI/32NPxyvtAYc/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I am not to sure why the average rating is 2ish? The stores tends to be very crowded but, the staff are very helpful. The products are amazing.",
+            "time": 1505964839
+        },
+        {
+            "author_name": "Mark Huynh",
+            "author_url": "https://www.google.com/maps/contrib/104457967267271355528/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-37lhC5Ztyuk/AAAAAAAAAAI/AAAAAAAABaA/ws1bJOjzkPk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Love it.",
+            "time": 1527728927
+        },
+        {
+            "author_name": "Linda Singer",
+            "author_url": "https://www.google.com/maps/contrib/117887411186794279666/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-B8nmsy1Eaok/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2c64rHMQUZRc_1DhEKlqjyw5ZPxg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Looking for Blue Corn Mask.",
+            "time": 1520079815
+        },
+        {
+            "author_name": "Richard Trus",
+            "author_url": "https://www.google.com/maps/contrib/109975121508820120641/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-CY5mg6Bd20M/AAAAAAAAAAI/AAAAAAADS6c/KZYVGBX3hrQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Outstanding selection of soaps, and bath accessories - Richard Trus review",
+            "time": 1442663019
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5680903854739996304",
+    "utc_offset": -240,
+    "vicinity": "220 Yonge Street, Toronto",
+    "website": "http://www.thebodyshop.ca/"
+}

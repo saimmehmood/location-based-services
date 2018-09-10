@@ -1,0 +1,194 @@
+{
+    "address_components": [
+        {
+            "long_name": "604",
+            "short_name": "604",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E1",
+            "short_name": "M5V 1E1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">604 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "604 King St W, Toronto, ON M5V 1E1, Canada",
+    "formatted_phone_number": "(416) 915-3500",
+    "geometry": {
+        "location": {
+            "lat": 43.6444741,
+            "lng": -79.40038609999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457785802915,
+                "lng": -79.3990196697085
+            },
+            "southwest": {
+                "lat": 43.64308061970851,
+                "lng": -79.4017176302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1e6d74bb663e330cc410ac18bf13d0915a91accf",
+    "international_phone_number": "+1 416-915-3500",
+    "name": "Scholastic Canada",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 514,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103189913600864472846/photos\">Scholastic Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAAtXDbRY2EBMI9skMC4efSEegWCKL-htvtRDYVzyPAbU8Oq6Ytx5F2DLCfzwuhzcfdqhg6DJNlYC9Q8Mls8aXMmZimSXNXZrQ4Las1mfv2TVyE6RWpXmxR4QGPY_yHuj72EhCmSLz9hjP4F07uXHDRui-kGhS_9EQuK3iap-d_wsFJibrJlZBQUQ",
+            "width": 915
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAA_LfSnQuZPDvGDo4ahDFx6eMbUM1jIRPpdTmYLoSsn-i5ZfzxlGRIBkftC7P3odm53rPabej1Yfts-Lnpk7P8y93BUTv6QaN1D3P_7UiWsanjyED-XfcSwBXt28aJo-RXEhCfokIB-3OpMUL1478p4iUxGhTIn8j-l-PzDQCRfhAak67m9gdXNw",
+            "width": 4896
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103189913600864472846/photos\">Scholastic Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAAxxfoEFdp5kFVxllQzhzk2qCU3WyF96juhq9H78aK5ELN4AYYMAl4RKp-RTIgQ5uzVe5ATNV8x9Txscz96S9TRIrS6XnNJ3kPgMDclQAsuMXs7eS3kCnUqhRjSazG27SpEhCzWR9cbPmlBhwRLTkSQChwGhTL9M8QZ6lJ1EtebXkMk8MSyXXA6g",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJiWBnWN40K4gRTp33_egX1Ag",
+    "plus_code": {
+        "compound_code": "JHVX+QR Toronto, Ontario, Canada",
+        "global_code": "87M2JHVX+QR"
+    },
+    "reference": "CmRRAAAAueErjG64DwhuB2iBxZwwhZn3vJaN6WT-Fb9z8DzY_atG7Er2J62Lwe0vyKmQoqMbIWYeKLe7-W0FPLInYyvMwmkdB6VTKY60YAXrdmtOZMAJRNQ-Thn80iY6occXtwTxEhCcoOHMlRexSa1rhKtWD2MkGhSXpZZs9PECdTWFCkX9l8AdnMLA4w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=636159736826797390",
+    "utc_offset": -240,
+    "vicinity": "604 King Street West, Toronto",
+    "website": "http://www.scholastic.ca/"
+}

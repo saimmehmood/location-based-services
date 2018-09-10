@@ -1,0 +1,82 @@
+{
+    "address_components": [
+        {
+            "long_name": "The PATH - Sears-Eaton Centre-Cadillac",
+            "short_name": "The PATH - Sears-Eaton Centre-Cadillac",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">The PATH - Sears-Eaton Centre-Cadillac</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "The PATH - Sears-Eaton Centre-Cadillac, Toronto, ON, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.65446309999999,
+            "lng": -79.38066529999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.65581208029149,
+                "lng": -79.37931631970848
+            },
+            "southwest": {
+                "lat": 43.6531141197085,
+                "lng": -79.3820142802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "861ade6e0fa44edc64705b0a6d90c2b205f59599",
+    "name": "The PATH - Sears-Eaton Centre-Cadillac",
+    "place_id": "ChIJneHQTcs0K4gRCyMwSf4h8yk",
+    "reference": "CmRbAAAAbbzjZzW0UjQW1LRfj25CTBFsDiZcNAe1LHP-d-iJscQzKS527aCv_tk5kOuaKDZF_wQBdawLvvY3lY2p3LfaQjAHm0Vu8nV3Afb_IdMinpOvHjyoId6zCLl01OdM4MGoEhBSOFYpPDYM-eGNbx3-3azMGhRJuLGm7KjktBCvPAAW6z1ijPa1cQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=The+PATH+-+Sears-Eaton+Centre-Cadillac,+Toronto,+ON,+Canada&ftid=0x882b34cb4dd0e19d:0x29f321fe4930230b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}
