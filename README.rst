@@ -31,9 +31,11 @@ it. Please check the Google API console, here: http://code.google.com/apis/conso
 
 
 Usage
-------
+----------
 
-.. _usage:
+::
+
+usage:
 
 Code is easier to understand than words, so let us dive right in ::
 
