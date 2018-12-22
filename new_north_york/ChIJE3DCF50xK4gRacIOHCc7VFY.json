@@ -1,0 +1,87 @@
+{
+    "utc_offset": -300, 
+    "name": "Lbc", 
+    "reference": "ChIJE3DCF50xK4gRacIOHCc7VFY", 
+    "geometry": {
+        "location": {
+            "lat": 43.72668009999999, 
+            "lng": -79.4831334
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7280202302915, 
+                "lng": -79.48178056970849
+            }, 
+            "southwest": {
+                "lat": 43.7253222697085, 
+                "lng": -79.48447853029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 3G1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJE3DCF50xK4gRacIOHCc7VFY", 
+    "plus_code": {
+        "global_code": "87M2PGG8+MP", 
+        "compound_code": "PGG8+MP Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=6220662024465990249", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3M 3G1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 3G1"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3M 3G1, Canada", 
+    "id": "24b9b51e3da4206804641bf105fef509a6d8c612", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Sheppard Avenue West", 
+    "reference": "ChIJRRd31rMxK4gR_p6BUdT2QgY", 
+    "geometry": {
+        "location": {
+            "lat": 43.73960020000001, 
+            "lng": -79.50988319999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7409491802915, 
+                "lng": -79.5085341697085
+            }, 
+            "southwest": {
+                "lat": 43.7382512197085, 
+                "lng": -79.5112321302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Sheppard Ave W</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1Y4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJRRd31rMxK4gR_p6BUdT2QgY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=Sheppard+Ave+W,+North+York,+ON+M3L+1Y4,+Canada&ftid=0x882b31b3d6771745:0x642f6d451819efe", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Sheppard Avenue West", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sheppard Ave W"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1Y4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1Y4"
+        }
+    ], 
+    "formatted_address": "Sheppard Ave W, North York, ON M3L 1Y4, Canada", 
+    "id": "fb292717ca0c6843983539c623e7b70b575e4d10", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

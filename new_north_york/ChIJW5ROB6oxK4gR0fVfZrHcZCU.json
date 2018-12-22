@@ -1,0 +1,111 @@
+{
+    "rating": 4.5, 
+    "utc_offset": -300, 
+    "name": "2265 Jane St", 
+    "reference": "ChIJW5ROB6oxK4gR0fVfZrHcZCU", 
+    "geometry": {
+        "location": {
+            "lat": 43.72751299999999, 
+            "lng": -79.510133
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72886198029149, 
+                "lng": -79.50878401970849
+            }, 
+            "southwest": {
+                "lat": 43.72616401970849, 
+                "lng": -79.5114819802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1A6</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJW5ROB6oxK4gR0fVfZrHcZCU", 
+    "plus_code": {
+        "global_code": "87M2PFHQ+2W", 
+        "compound_code": "PFHQ+2W Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Microsoft Store", 
+            "language": "es", 
+            "text": "Bien bien", 
+            "relative_time_description": "11 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/116551903197488813652/reviews", 
+            "time": 1513035302, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HR_BBjPRXQA/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jiGbyfOLHXsVsrTdRmmqUZlyKlpQ/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-aelFGNwgd3s/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iuskEe3tizwhilquRo0nWA1U24zg/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Abena Frimpomaa", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/118126288439090652128/reviews", 
+            "time": 1481954599
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=2694521131559286225", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3M 1A6", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1A6"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3M 1A6, Canada", 
+    "id": "3f3fbea44c7ecf076d52a80b5d8be5533d2e0b4c", 
+    "types": [
+        "bus_station", 
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png"
+}

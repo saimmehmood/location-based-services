@@ -1,0 +1,177 @@
+{
+    "utc_offset": -300, 
+    "name": "Busy B Maids", 
+    "reference": "ChIJS9P4gKkxK4gR-WLcsvoVB-8", 
+    "geometry": {
+        "location": {
+            "lat": 43.7292292, 
+            "lng": -79.5092557
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7305781802915, 
+                "lng": -79.50790671970849
+            }, 
+            "southwest": {
+                "lat": 43.7278802197085, 
+                "lng": -79.5106046802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">190 Exbury Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1R8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJS9P4gKkxK4gR-WLcsvoVB-8", 
+    "international_phone_number": "+1 416-248-9796", 
+    "plus_code": {
+        "global_code": "87M2PFHR+M7", 
+        "compound_code": "PFHR+M7 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 248-9796", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=17223759466388546297", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM", 
+            "Tuesday: 8:00 AM \u2013 6:00 PM", 
+            "Wednesday: 8:00 AM \u2013 6:00 PM", 
+            "Thursday: 8:00 AM \u2013 6:00 PM", 
+            "Friday: 8:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 0, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 0, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0800"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "190 Exbury Road, North York", 
+    "address_components": [
+        {
+            "long_name": "190", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "190"
+        }, 
+        {
+            "long_name": "Exbury Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Exbury Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1R8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1R8"
+        }
+    ], 
+    "formatted_address": "190 Exbury Rd, North York, ON M3M 1R8, Canada", 
+    "id": "105ca81f13690ef0e9d448b638068de9ea938fa9", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

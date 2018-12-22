@@ -1,0 +1,183 @@
+{
+    "website": "http://www.nyli.org/", 
+    "utc_offset": -300, 
+    "name": "Ny Law Institute", 
+    "reference": "ChIJp4OyaxdawokRXp6fTgrYRaU", 
+    "geometry": {
+        "location": {
+            "lat": 40.7082281, 
+            "lng": -74.0105245
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.7097023802915, 
+                "lng": -74.0094694197085
+            }, 
+            "southwest": {
+                "lat": 40.7070044197085, 
+                "lng": -74.0121673802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">120 Broadway # 932</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10271-0043</span>, <span class=\"country-name\">USA</span>", 
+    "place_id": "ChIJp4OyaxdawokRXp6fTgrYRaU", 
+    "international_phone_number": "+1 212-732-8720", 
+    "plus_code": {
+        "global_code": "87G7PX5Q+7Q", 
+        "compound_code": "PX5Q+7Q New York, United States"
+    }, 
+    "formatted_phone_number": "(212) 732-8720", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=11909162328431500894", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 6:00 PM", 
+            "Tuesday: 8:30 AM \u2013 6:00 PM", 
+            "Wednesday: 8:30 AM \u2013 6:00 PM", 
+            "Thursday: 8:30 AM \u2013 6:00 PM", 
+            "Friday: 8:30 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0830"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "120 Broadway # 932, New York", 
+    "address_components": [
+        {
+            "long_name": "# 932", 
+            "types": [
+                "subpremise"
+            ], 
+            "short_name": "# 932"
+        }, 
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10271", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10271"
+        }, 
+        {
+            "long_name": "0043", 
+            "types": [
+                "postal_code_suffix"
+            ], 
+            "short_name": "0043"
+        }
+    ], 
+    "formatted_address": "120 Broadway # 932, New York, NY 10271, USA", 
+    "id": "4f3d1911cef7cacd03bf7dfcaffe83c261d8cad4", 
+    "types": [
+        "library", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png"
+}

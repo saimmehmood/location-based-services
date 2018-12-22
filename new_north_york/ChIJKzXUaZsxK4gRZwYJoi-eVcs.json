@@ -1,0 +1,232 @@
+{
+    "rating": 2.5, 
+    "utc_offset": -300, 
+    "name": "Keele Medical Place", 
+    "reference": "ChIJKzXUaZsxK4gRZwYJoi-eVcs", 
+    "geometry": {
+        "location": {
+            "lat": 43.7304919, 
+            "lng": -79.4833247
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7318644802915, 
+                "lng": -79.4817904697085
+            }, 
+            "southwest": {
+                "lat": 43.7291665197085, 
+                "lng": -79.4844884302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2830 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 3E5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJKzXUaZsxK4gRZwYJoi-eVcs", 
+    "international_phone_number": "+1 416-633-6812", 
+    "plus_code": {
+        "global_code": "87M2PGJ8+5M", 
+        "compound_code": "PGJ8+5M Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 1, 
+            "author_name": "John Lancia", 
+            "language": "en", 
+            "text": "Told them that my father could no longer come for visits due to his mobility issues.  When I asked if I could make an appointment I was told that the doctor wasn't taking any new patients.  I just told you my father wasn't coming anymore!!!   Receptionist had quite the 'tude.", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/100781669386507836520/reviews", 
+            "time": 1536166058, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-kV0k6GLurRw/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iyEmpd4iMdY6o99SCi49J7ZOPa0g/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 1, 
+            "author_name": "QQ Recluse", 
+            "language": "en", 
+            "text": "JOSIE is rude and unprofessional, someone needs to hire better professionals, she gives off so much attitude.", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/112790819470305807385/reviews", 
+            "time": 1534963636, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-K7Xq111r_wU/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hprsiK7BhNl-YQjKPUNiFnrx8E0g/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Monica Canas", 
+            "language": "en", 
+            "text": "I have been going to see Dr.Sussman at the Keele Medical Center since I was a baby and I have never had any issues. All the staff have always been polite, kind and friendly. They're all such sweet people. I never had any bad experiences and never seen them been rude to anyone. They're all VERY professional.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/117638541213498693315/reviews", 
+            "time": 1511959075, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kc96IK0jUYw/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jvm3TTZocA1Ewj8CZqCwmZg9HVYg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 1, 
+            "author_name": "steve Roesch", 
+            "language": "en", 
+            "text": "The blood clinic here is a JOKE. They have one person working who is so RUDE to all the patients including the elderly.  The screen says ten minutes wait......try 1.5 hours.", 
+            "relative_time_description": "6 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/109231471419330441383/reviews", 
+            "time": 1526317111, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-BZrwSplaZYs/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-g-Al0rIfAypMgCU6a0jiwjvMEYVg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Pamela Dickey", 
+            "language": "en", 
+            "text": "Couldn't disagree more with negative comment above.    Always get caring and helpful assistance from staff and physicians, for 8+ years.\n.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/112810398858581382818/reviews", 
+            "time": 1506007986, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-SzEzUCYIWHQ/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-inWUKnOwt-6SPFoOa_2BJNO83W_Q/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "(416) 633-6812", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=14651790890138928743", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM", 
+            "Tuesday: 10:00 AM \u2013 7:00 PM", 
+            "Wednesday: 10:00 AM \u2013 7:00 PM", 
+            "Thursday: 10:00 AM \u2013 7:00 PM", 
+            "Friday: 10:00 AM \u2013 7:00 PM", 
+            "Saturday: 10:00 AM \u2013 12:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1200"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "1000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "2830 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2830", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2830"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 3E5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 3E5"
+        }
+    ], 
+    "formatted_address": "2830 Keele St, North York, ON M3M 3E5, Canada", 
+    "id": "3b71f1490752598c52d7bc7221fd47572ccb8948", 
+    "types": [
+        "doctor", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

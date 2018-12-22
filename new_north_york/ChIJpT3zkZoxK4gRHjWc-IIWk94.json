@@ -1,0 +1,229 @@
+{
+    "rating": 2.4, 
+    "reference": "ChIJpT3zkZoxK4gRHjWc-IIWk94", 
+    "price_level": 1, 
+    "place_id": "ChIJpT3zkZoxK4gRHjWc-IIWk94", 
+    "plus_code": {
+        "global_code": "87M2PGM8+FM", 
+        "compound_code": "PGM8+FM Toronto, Ontario, Canada"
+    }, 
+    "url": "https://maps.google.com/?cid=16038187449769014558", 
+    "formatted_address": "2887 Keele St, North York, ON M3M 2G9, Canada", 
+    "id": "444129ee10350e6dec59ec3cf37665ff2b8bef71", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM", 
+            "Tuesday: 10:00 AM \u2013 7:00 PM", 
+            "Wednesday: 10:00 AM \u2013 7:00 PM", 
+            "Thursday: 10:00 AM \u2013 7:00 PM", 
+            "Friday: 10:00 AM \u2013 7:00 PM", 
+            "Saturday: 10:00 AM \u2013 5:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "1000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "2887 Keele Street, North York", 
+    "scope": "GOOGLE", 
+    "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-North-York-ON-M3M2G9/059018/", 
+    "utc_offset": -300, 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "U-Haul Neighborhood Dealer", 
+    "geometry": {
+        "location": {
+            "lat": 43.7337282, 
+            "lng": -79.4833404
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7350546302915, 
+                "lng": -79.4821806697085
+            }, 
+            "southwest": {
+                "lat": 43.7323566697085, 
+                "lng": -79.4848786302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2887 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2G9</span>, <span class=\"country-name\">Canada</span>", 
+    "international_phone_number": "+1 416-635-8616", 
+    "reviews": [
+        {
+            "rating": 1, 
+            "author_name": "andrei hrusca", 
+            "language": "en", 
+            "text": "Terrible store, fake good reviews. Closed in the middle of the day.", 
+            "relative_time_description": "5 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/110733998990792904152/reviews", 
+            "time": 1528998006, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-brT5yEkLixk/AAAAAAAAAAI/AAAAAAAAAE4/L-HYw4P9AGk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Gurinder Litt", 
+            "language": "en", 
+            "text": "Excellent Service, though they were busy...explain well...will love to book from here only", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/102654337755894888034/reviews", 
+            "time": 1450283842, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DLIX_8Q5lCA/AAAAAAAAAAI/AAAAAAAAErY/G9CfxAwcDM0/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 2, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-D8s9CJj_3K0/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gtNW3a0-eebn0tUdK-gpcyPgxO3w/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Chi Hien Tran", 
+            "text": "", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/117138613600637814008/reviews", 
+            "time": 1534772586
+        }, 
+        {
+            "rating": 3, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-6hpgclTDsyc/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hTlSVu6JFiIwRTz8-fRoC7Jr7dEg/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Mohammadreza Zaheerfard", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/116682341758031009129/reviews", 
+            "time": 1502850957
+        }, 
+        {
+            "rating": 1, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iPZfFwYSuWU/AAAAAAAAAAI/AAAAAAAAUZE/nAIpgPyJ-zo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Monolith", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/110146578189901559011/reviews", 
+            "time": 1492690579
+        }
+    ], 
+    "formatted_phone_number": "(416) 635-8616", 
+    "address_components": [
+        {
+            "long_name": "2887", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2887"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2G9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2G9"
+        }
+    ]
+}

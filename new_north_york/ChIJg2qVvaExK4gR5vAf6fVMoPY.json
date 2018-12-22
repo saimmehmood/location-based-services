@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "18-2 Exbury Rd", 
+    "reference": "ChIJg2qVvaExK4gR5vAf6fVMoPY", 
+    "geometry": {
+        "location": {
+            "lat": 43.7295384, 
+            "lng": -79.49475790000001
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73088603029149, 
+                "lng": -79.4934165197085
+            }, 
+            "southwest": {
+                "lat": 43.72818806970849, 
+                "lng": -79.49611448029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">18-2 Exbury Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1Z1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJg2qVvaExK4gR5vAf6fVMoPY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=18-2+Exbury+Rd,+North+York,+ON+M3M+1Z1,+Canada&ftid=0x882b31a1bd956a83:0xf6a04cf5e91ff0e6", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "18-2", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "18-2"
+        }, 
+        {
+            "long_name": "Exbury Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Exbury Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1Z1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1Z1"
+        }
+    ], 
+    "formatted_address": "18-2 Exbury Rd, North York, ON M3M 1Z1, Canada", 
+    "id": "ad5af17bd6b43bb57fb6b3dadfc46f23375d2c8b", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

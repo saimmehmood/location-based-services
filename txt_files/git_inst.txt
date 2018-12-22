@@ -1,0 +1,16 @@
+git clone -b <branch> <remote_repo>
+
+To ensure that your local repo. matches the github repo. just run git status, check and see if any files have been modified, deleted, or added. 
+If so, then you can stage those files to be commited.
+
+To stage a file(s) to be commited, I typically use
+
+git add <rel_path_to_file> (for each file that is to be changed or added) followed by a
+
+git commit -m 'your commit message'
+
+then when you're through staging the files that you'd like to commit, or telling git what you want to change in the github repo 
+and what note to leave when you change it, just run 
+
+git push
+

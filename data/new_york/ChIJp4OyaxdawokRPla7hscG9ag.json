@@ -1,0 +1,134 @@
+{
+    "website": "http://www.mnlandscape.com/", 
+    "rating": 5, 
+    "utc_offset": -300, 
+    "name": "Mathews Nielsen Landscape Architects", 
+    "reference": "ChIJp4OyaxdawokRPla7hscG9ag", 
+    "geometry": {
+        "location": {
+            "lat": 40.7082281, 
+            "lng": -74.0105245
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.7097023802915, 
+                "lng": -74.0094694197085
+            }, 
+            "southwest": {
+                "lat": 40.7070044197085, 
+                "lng": -74.0121673802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">120 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10271-1099</span>, <span class=\"country-name\">USA</span>", 
+    "place_id": "ChIJp4OyaxdawokRPla7hscG9ag", 
+    "international_phone_number": "+1 212-431-3609", 
+    "plus_code": {
+        "global_code": "87G7PX5Q+7Q", 
+        "compound_code": "PX5Q+7Q New York, United States"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Derell Griffin", 
+            "language": "en", 
+            "text": "Very talented landscape architecture firm, wonderful staff!", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/107307159806882211951/reviews", 
+            "time": 1494898202, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7dtNIPlDc8I/AAAAAAAAAAI/AAAAAAAAfo8/x2eOxendbWA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NtnYE7yxS6E/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jkN5r9fm_kVy7uSbAdAflQMECtQg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Robert DeMarco", 
+            "text": "", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/111339194449140604298/reviews", 
+            "time": 1479767475
+        }
+    ], 
+    "formatted_phone_number": "(212) 431-3609", 
+    "url": "https://maps.google.com/?cid=12174644621694686782", 
+    "scope": "GOOGLE", 
+    "vicinity": "120 Broadway, New York", 
+    "address_components": [
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10271", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10271"
+        }, 
+        {
+            "long_name": "1099", 
+            "types": [
+                "postal_code_suffix"
+            ], 
+            "short_name": "1099"
+        }
+    ], 
+    "formatted_address": "120 Broadway, New York, NY 10271, USA", 
+    "id": "53f23bce3459b290d4598a5d1a91cc1b106046fa", 
+    "types": [
+        "general_contractor", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

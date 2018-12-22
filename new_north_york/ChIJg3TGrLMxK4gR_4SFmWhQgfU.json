@@ -1,0 +1,226 @@
+{
+    "rating": 5, 
+    "utc_offset": -300, 
+    "name": "Pharmatrust Pharmacy", 
+    "reference": "ChIJg3TGrLMxK4gR_4SFmWhQgfU", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAH_0swW4fo3qCv3_oz296zFR4Gr01f94Jlx3s6O2rc_b7jQcnqNGn697diA3g0TxORbgNPLO1Xam4NgkaVj6jPZuJ1eOkoXedICzefRg1MzY6FVLIOpzzybdGyDe2P9FLEhAF7_h0ReLJPtDvuv0irfOqGhSLCSqdGjH2YG_aqJnScoYiRP2ftg", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103999869365966012414/photos\">Pharmatrust Pharmacy</a>"
+            ], 
+            "height": 1536
+        }, 
+        {
+            "photo_reference": "CmRaAAAAk7YEwn5gkY0E6UBHEMjoNs77Fz_-2XE0mhuW3Q9jjJILK8JPxLbAk3MAcl533FWEEp0pVAGep9CCRRebSPpid3ka8ybBcCXIEBIgjtqyjVgRZhXN4iS7whMtIVPhSiv4EhBNLbQCLYwnDI0-zAoB9ImxGhR8sxvIKZAqUQhHP-ZHsx5zrhNHJg", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103999869365966012414/photos\">Pharmatrust Pharmacy</a>"
+            ], 
+            "height": 1536
+        }, 
+        {
+            "photo_reference": "CmRaAAAATx9cg7x6x6y7ncHfWFSqbyraJUsYeoIrJy0PcSirZxXHlRitaOa1KM3-dBSxT-MhwMY894D_203-9qCiLRJjZ4NRm3mfHKVBPqtOGbClziUr8-A6vc4v0-yDnMO1nhHXEhA40EIS1RnSx5IpuwcEAgUzGhQ531vQdfiuEn-boFZ_xRJCNW3gfg", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103999869365966012414/photos\">Pharmatrust Pharmacy</a>"
+            ], 
+            "height": 1536
+        }, 
+        {
+            "photo_reference": "CmRaAAAAyylWmkj72qW7mkr-FVBgjHwPbPsiOgX-JFl2d0kAjVXyZjSWlg04CvfjC--bxR3V8VWFx7S6osNBHYKcYB6sWbQBxqX28necR1fUW3s49TzIiTR6jBBZjf3EtOnGmlLwEhBhNiKoTGLjrY2Ya3FpsjiJGhQBnqpGeXC3c7KNtfEyoOT4AIk29g", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103999869365966012414/photos\">Pharmatrust Pharmacy</a>"
+            ], 
+            "height": 1536
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.7393907, 
+            "lng": -79.5121808
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7407875302915, 
+                "lng": -79.51083361970849
+            }, 
+            "southwest": {
+                "lat": 43.7380895697085, 
+                "lng": -79.5135315802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1935 Sheppard Ave W</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1Y8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJg3TGrLMxK4gR_4SFmWhQgfU", 
+    "international_phone_number": "+1 416-743-3351", 
+    "plus_code": {
+        "global_code": "87M2PFQQ+Q4", 
+        "compound_code": "PFQQ+Q4 Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gqHjpzm9oEU/AAAAAAAAAAI/AAAAAAAAAO8/WMZzmek6S6I/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Mariam Ghobrial", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/100398264337783704024/reviews", 
+            "time": 1498702940
+        }
+    ], 
+    "formatted_phone_number": "(416) 743-3351", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=17690509221470504191", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM", 
+            "Tuesday: 9:00 AM \u2013 7:00 PM", 
+            "Wednesday: 9:00 AM \u2013 7:00 PM", 
+            "Thursday: 9:00 AM \u2013 7:00 PM", 
+            "Friday: 9:00 AM \u2013 7:00 PM", 
+            "Saturday: 9:00 AM \u2013 3:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1500"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "1935 Sheppard Avenue West, North York", 
+    "address_components": [
+        {
+            "long_name": "1935", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1935"
+        }, 
+        {
+            "long_name": "Sheppard Avenue West", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sheppard Ave W"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1Y8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1Y8"
+        }
+    ], 
+    "formatted_address": "1935 Sheppard Ave W, North York, ON M3L 1Y8, Canada", 
+    "id": "83bba12a6aeb9a9e791eb100cfb4627fee3d2511", 
+    "types": [
+        "pharmacy", 
+        "store", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

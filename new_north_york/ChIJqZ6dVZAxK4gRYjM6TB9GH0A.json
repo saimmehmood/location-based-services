@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Keele Street", 
+    "reference": "ChIJqZ6dVZAxK4gRYjM6TB9GH0A", 
+    "geometry": {
+        "location": {
+            "lat": 43.73675219999999, 
+            "lng": -79.4843929
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73810118029149, 
+                "lng": -79.48304391970849
+            }, 
+            "southwest": {
+                "lat": 43.7354032197085, 
+                "lng": -79.4857418802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2H2</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJqZ6dVZAxK4gRYjM6TB9GH0A", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=Keele+St,+North+York,+ON+M3M+2H2,+Canada&ftid=0x882b3190559d9ea9:0x401f461f4c3a3362", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2H2", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2H2"
+        }
+    ], 
+    "formatted_address": "Keele St, North York, ON M3M 2H2, Canada", 
+    "id": "b81358aabb63c99f5127d308e88e2515f72bff1d", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

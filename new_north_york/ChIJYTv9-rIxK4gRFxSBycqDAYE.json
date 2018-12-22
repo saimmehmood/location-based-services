@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Jane Street", 
+    "reference": "ChIJYTv9-rIxK4gRFxSBycqDAYE", 
+    "geometry": {
+        "location": {
+            "lat": 43.7390828, 
+            "lng": -79.5132047
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7404318802915, 
+                "lng": -79.5118549697085
+            }, 
+            "southwest": {
+                "lat": 43.7377339197085, 
+                "lng": -79.5145529302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Jane St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1R9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJYTv9-rIxK4gRFxSBycqDAYE", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=Jane+St,+North+York,+ON+M3L+1R9,+Canada&ftid=0x882b31b2fafd3b61:0x810183cac9811417", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Jane Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Jane St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1R9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1R9"
+        }
+    ], 
+    "formatted_address": "Jane St, North York, ON M3L 1R9, Canada", 
+    "id": "44beff45dc4469acd86e4f1445bc158ab82d564e", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

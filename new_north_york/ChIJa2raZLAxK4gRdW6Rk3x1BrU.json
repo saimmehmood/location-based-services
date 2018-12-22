@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "65-83 Dombey Rd", 
+    "reference": "ChIJa2raZLAxK4gRdW6Rk3x1BrU", 
+    "geometry": {
+        "location": {
+            "lat": 43.7384343, 
+            "lng": -79.5049112
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7397832802915, 
+                "lng": -79.5035621697085
+            }, 
+            "southwest": {
+                "lat": 43.7370853197085, 
+                "lng": -79.50626013029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">65-83 Dombey Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1P1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJa2raZLAxK4gRdW6Rk3x1BrU", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=65-83+Dombey+Rd,+North+York,+ON+M3L+1P1,+Canada&ftid=0x882b31b064da6a6b:0xb506757c93916e75", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "65-83", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "65-83"
+        }, 
+        {
+            "long_name": "Dombey Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Dombey Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1P1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1P1"
+        }
+    ], 
+    "formatted_address": "65-83 Dombey Rd, North York, ON M3L 1P1, Canada", 
+    "id": "783570ad6db1c7419263997c5ee0f882d4cd90e3", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

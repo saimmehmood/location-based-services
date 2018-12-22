@@ -1,0 +1,327 @@
+{
+    "rating": 4, 
+    "reference": "ChIJ2yDaHLMxK4gRGhrMvcA3eew", 
+    "price_level": 1, 
+    "place_id": "ChIJ2yDaHLMxK4gRGhrMvcA3eew", 
+    "plus_code": {
+        "global_code": "87M2PFQP+V7", 
+        "compound_code": "PFQP+V7 Toronto, Ontario, Canada"
+    }, 
+    "url": "https://maps.google.com/?cid=17039711966090500634", 
+    "formatted_address": "2526 Jane St, North York, ON M3L 1S1, Canada", 
+    "id": "f6ea3bc4ae6691db3d7f268d411ca8606635ce91", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 12:00 AM", 
+            "Tuesday: 11:00 AM \u2013 12:00 AM", 
+            "Wednesday: 11:00 AM \u2013 12:00 AM", 
+            "Thursday: 11:00 AM \u2013 1:00 AM", 
+            "Friday: 11:00 AM \u2013 2:00 AM", 
+            "Saturday: 11:00 AM \u2013 2:00 AM", 
+            "Sunday: 12:00 PM \u2013 12:00 AM"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "0000"
+                }, 
+                "open": {
+                    "day": 0, 
+                    "time": "1200"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "0000"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "0000"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "0000"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "0100"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "0200"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 0, 
+                    "time": "0200"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "1100"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "2526 Jane Street, North York", 
+    "scope": "GOOGLE", 
+    "website": "https://plus.google.com/103673140007119750730/about?hl=en&gl=ca", 
+    "utc_offset": -300, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAA-Z1Yn3XdR0ZWP-OxfMb1ZtjWcBuSpxEg1N9yPGlmpRQf8u5wh--aSgmRraaAuW4W6ePvgigoQ9wc0xsiDrkR2kEzJToFmN_MmtrNcGrQuq8AYfaBjXowDWUahXd8rb3mEhBxBeI4zH8p-mUaVQI_PhZMGhTCqGI9INUYjwRBiqHcLiKDgcsYAg", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103673140007119750730/photos\">Wing Machine</a>"
+            ], 
+            "height": 2264
+        }, 
+        {
+            "photo_reference": "CmRaAAAANCBAerngWATJwOmPecZGKbUZswGWOyrTq-Mv8hsUApx88S6AKIu_ezDv2hV9MWZ5_ofbr3JXI8298p5uV6Y7ueSRlLGbDlf4pljKbOt2m6Vhndi5Wfb0dtMXKa89YVbBEhAzRPEsFus4alMkfb9yY49eGhSMLyZ5Un0DhQIgZ_uG5AUBICpMhg", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116198128734636936832/photos\">Chantel Sweetie</a>"
+            ], 
+            "height": 3024
+        }, 
+        {
+            "photo_reference": "CmRaAAAAtQU2m2pYHr7LCBjiQpaeH8baCMjscLV2MVztkYSi90ILbrM9bMrxn0K9IqJfDeQP1xH4BOn4-gTZS9OVFUOG1OyiIEtZGepOcWim2nJPpDwrNO71SI2UawIriZWftSyzEhAP5RYBy3WKbw9Svin4dEUkGhS9eQf5IAaIViWIa8uulc82QUEMUA", 
+            "width": 3264, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111798418693287049227/photos\">Oswyn Alvares</a>"
+            ], 
+            "height": 1836
+        }, 
+        {
+            "photo_reference": "CmRaAAAAA3uoZ2yWwrvGFYQyyPYezpKVxALsuz1lv-tKU0NUGhmcFS9QUuzBVGTCrSK-WyGdhcVDjAJWc5TWRsyiZ5j5JdXSDJE8Jx7V795rXakt_C_ElLgJrpMEBx1nI9J704ZBEhDYOnk_EGiKayLQ5I7liaIXGhQek8RCg_nyo3a0xS9RF1tYggtWKQ", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116198128734636936832/photos\">Chantel Sweetie</a>"
+            ], 
+            "height": 3024
+        }, 
+        {
+            "photo_reference": "CmRaAAAAdT_N_npVa9NVKCMk4asxkrhLAFExvHNFXWFXfwTgHBgbK0Vy_pi2acPw74GI13qpuAsEDU-Y3uluHwKQ8dAhloMGPJJRubUMTHCILNZkHPstJxUv7ke490LYoZfiSGFPEhAaCfovn_SQiPiLmTyCMMDTGhT37zDIsYtaeRZkSrgYAHj-ytfGAw", 
+            "width": 3264, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111798418693287049227/photos\">Oswyn Alvares</a>"
+            ], 
+            "height": 1836
+        }, 
+        {
+            "photo_reference": "CmRaAAAA3EJ0_xAAAqSXukMA4f6GYKs_aJqOF4tKxYPTlbLEk9mr6SleDvkKbWoOdp6N9exyJRzyvntR_JrE3IVzLQq88Z4OR0S3mszTd495_fsppV7HHE3f-pzoypemVklYOylREhBFCP-4kphJW__KbpPVegueGhRcHltAXdXVz3oJ9m6Jhf1E43Br6g", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116198128734636936832/photos\">Chantel Sweetie</a>"
+            ], 
+            "height": 3024
+        }, 
+        {
+            "photo_reference": "CmRaAAAAD32XY8sPvfh7Hw_05fTjxkx2PnSCt2lwO6UOi-f0CLW249AigSppEutrxXr6n1NPhYXvW5N2ySNSKKC_OeHMiJF3ZN_gOyKqZjvaiTQmiSebA7fiEYzG-u_4k8Msx-qMEhBhD40um9ypQ7mLwHCkfN4QGhRNrXfeOoZc1FXfgc3GUDcqn8PGOA", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116198128734636936832/photos\">Chantel Sweetie</a>"
+            ], 
+            "height": 3024
+        }, 
+        {
+            "photo_reference": "CmRaAAAAKu4xHycC8W6a3lRCqDc5Tfg5VvvizT-gtIBIVwB_KsdlI2vwch8Q83x7D1m0O0otiusQtpEDfrSH6QTPTlDYBIMsBpf212LY0pJkrv4FAh-yeDVBxjjHMTeS99I-2wmkEhCJ-K8yR7gHCIXvZWgHYJjqGhRcZdFoTArtCYPqoAT0Ou_UrFE5OA", 
+            "width": 1539, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103673140007119750730/photos\">Wing Machine</a>"
+            ], 
+            "height": 1536
+        }, 
+        {
+            "photo_reference": "CmRaAAAAvwt6_8tAKQMm6JvDFA9yvOMd5obmR4Qg_88wm5BnXdVno4Dqi2vel5z9-83GpiM0mHBO0XbCkAh1tZDil_qlWIeOc0oOXkvwshIXb_aquHVm7gltXkSCY2k7MvpYues4EhBNG7KaFasdxY_2f5icDCx-GhSIc0zaXF9cR6-2uedE2tLh5E03Vw", 
+            "width": 2448, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110206309262593620446/photos\">Jordyc HD</a>"
+            ], 
+            "height": 3264
+        }, 
+        {
+            "photo_reference": "CmRaAAAA0Z9Z8X1xYlzJhlG8c56-bHQblHknj-3w2_3hT2rQmVseYCAE2SbWR7B04ohXQHy3qrD6FKUeiGYdu1zIn4quhK3BXUGcyqppX9mg0g6V1JiILUcDCml1WlUPNbN8RmRqEhCG2srujU7KjC1eKP4tkyunGhTtr_YzaCB46WDphBMPD0zgPTxThA", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116198128734636936832/photos\">Chantel Sweetie</a>"
+            ], 
+            "height": 3024
+        }
+    ], 
+    "types": [
+        "meal_delivery", 
+        "restaurant", 
+        "point_of_interest", 
+        "food", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png", 
+    "name": "Wing Machine", 
+    "geometry": {
+        "location": {
+            "lat": 43.73974399999999, 
+            "lng": -79.514338
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7411094802915, 
+                "lng": -79.51287411970848
+            }, 
+            "southwest": {
+                "lat": 43.7384115197085, 
+                "lng": -79.5155720802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2526 Jane St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1S1</span>, <span class=\"country-name\">Canada</span>", 
+    "international_phone_number": "+1 416-746-2514", 
+    "reviews": [
+        {
+            "rating": 3, 
+            "author_name": "Jennifer Nguyen", 
+            "language": "en", 
+            "text": "Not happy with how dishonest this location is. I called in for my dad since he doesn\u2019t speak English well and ordered this large special of $13.95. I asked to make sure and the worker said $14.99 and I mentioned its 13.95 on the website. He said he\u2019ll honour it and I repeated to make sure.  When my dad came in, they rang in $14.99. I don\u2019t care about that dollar but its the principle that matters. Not nice.\n\nFood was good though! Very nice large pizza.", 
+            "relative_time_description": "5 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/114680176241597531537/reviews", 
+            "time": 1530233035, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-YYJytCgyXcU/AAAAAAAAAAI/AAAAAAAAACA/Rsh9DqKRSn4/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 2, 
+            "author_name": "Kris Powell", 
+            "language": "en", 
+            "text": "Wings are good, but way too small. Poutine is good.", 
+            "relative_time_description": "a month ago", 
+            "author_url": "https://www.google.com/maps/contrib/102496045187212745475/reviews", 
+            "time": 1539106448, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QNnKXdoR9NQ/AAAAAAAAAAI/AAAAAAAAJYs/8sLx_JNg5zA/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Racquel Garnette", 
+            "language": "en", 
+            "text": "It was nice. The staff was very friendly. There food prices was reasonable. The wing machine at bloor and  Bathurst is gone. Which is sad.", 
+            "relative_time_description": "4 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/117199715063421902225/reviews", 
+            "time": 1531547298, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8glXhICyp7s/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iegrA48Ph48GrYC5wvz69oA4k_Vw/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Ahmad Khan", 
+            "language": "en", 
+            "text": "I have tried there all menu they're all the best and also their employees are so nice", 
+            "relative_time_description": "9 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/110213186977488313596/reviews", 
+            "time": 1520649150, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fXvRMV7Zey0/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gwQxfd44rJhN6u58GdB1grc9cOpg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 3, 
+            "author_name": "Carol Clarke", 
+            "language": "en", 
+            "text": "Need something  fast go there", 
+            "relative_time_description": "7 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/109790081527868307136/reviews", 
+            "time": 1524944493, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kilbF1Kv3zQ/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jIkwMTp3I0JUvZTqpgPt5Lt_DqhA/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "(416) 746-2514", 
+    "address_components": [
+        {
+            "long_name": "2526", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2526"
+        }, 
+        {
+            "long_name": "Jane Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Jane St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1S1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1S1"
+        }
+    ]
+}

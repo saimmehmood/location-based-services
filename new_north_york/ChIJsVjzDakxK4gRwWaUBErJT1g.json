@@ -1,0 +1,97 @@
+{
+    "utc_offset": -300, 
+    "name": "169 Exbury Rd", 
+    "reference": "ChIJsVjzDakxK4gRwWaUBErJT1g", 
+    "geometry": {
+        "location": {
+            "lat": 43.7301693, 
+            "lng": -79.5081009
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7315182302915, 
+                "lng": -79.50675191970849
+            }, 
+            "southwest": {
+                "lat": 43.7288202697085, 
+                "lng": -79.50944988029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">169 Exbury Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJsVjzDakxK4gRwWaUBErJT1g", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=169+Exbury+Rd,+Toronto,+ON+M3M,+Canada&ftid=0x882b31a90df358b1:0x584fc94a049466c1", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "169", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "169"
+        }, 
+        {
+            "long_name": "Exbury Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Exbury Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3M"
+        }
+    ], 
+    "formatted_address": "169 Exbury Rd, Toronto, ON M3M, Canada", 
+    "id": "bee47e78ac38bd4e1dc9eb0be3e173187dcd4a0c", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

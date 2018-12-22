@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "20-12 Austrey Ct", 
+    "reference": "ChIJySmKza4xK4gRyy_2eRRIPNk", 
+    "geometry": {
+        "location": {
+            "lat": 43.73213200000001, 
+            "lng": -79.50770539999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7334383802915, 
+                "lng": -79.5063140197085
+            }, 
+            "southwest": {
+                "lat": 43.7307404197085, 
+                "lng": -79.5090119802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">20-12 Austrey Ct</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1Y4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJySmKza4xK4gRyy_2eRRIPNk", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=20-12+Austrey+Ct,+North+York,+ON+M3M+1Y4,+Canada&ftid=0x882b31aecd8a29c9:0xd93c481479f62fcb", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "20-12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "20-12"
+        }, 
+        {
+            "long_name": "Austrey Court", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Austrey Ct"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1Y4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1Y4"
+        }
+    ], 
+    "formatted_address": "20-12 Austrey Ct, North York, ON M3M 1Y4, Canada", 
+    "id": "be76b77f6a7987a8056d768ffa35e72b0050171a", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

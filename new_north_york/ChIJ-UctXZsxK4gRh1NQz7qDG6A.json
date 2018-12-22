@@ -1,0 +1,201 @@
+{
+    "website": "http://www.gracehealthcentre.ca/", 
+    "rating": 4.7, 
+    "utc_offset": -300, 
+    "name": "Grace Health Centre", 
+    "reference": "ChIJ-UctXZsxK4gRh1NQz7qDG6A", 
+    "geometry": {
+        "location": {
+            "lat": 43.73050730000001, 
+            "lng": -79.4834393
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7318867302915, 
+                "lng": -79.4818513197085
+            }, 
+            "southwest": {
+                "lat": 43.7291887697085, 
+                "lng": -79.48454928029152
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2830 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 3E5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ-UctXZsxK4gRh1NQz7qDG6A", 
+    "international_phone_number": "+1 416-633-7337", 
+    "plus_code": {
+        "global_code": "87M2PGJ8+6J", 
+        "compound_code": "PGJ8+6J Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Jenny Ha", 
+            "language": "en", 
+            "text": "Dr. Rajaratnam stayed to see me as I came off from work late, but she was so kind and listened attentively as I spoke about why I came to see her. I am so relieved that she was covering my retired doctor because I think she'd be able to take great care of me as Dr. TK Wong did.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/104618420427942339418/reviews", 
+            "time": 1503515330, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-tucy_CQDt3g/AAAAAAAAAAI/AAAAAAAAC_4/NzOtMqbZk4M/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Jason Lee", 
+            "language": "en", 
+            "text": "Please remember this is not a walk in clinic.", 
+            "relative_time_description": "11 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/116578542761014779586/reviews", 
+            "time": 1514429011, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rQgdkQAvlSc/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gMAaLBs29CmehWx16iT2rXf0DEpg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1vjBy6XkS4U/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gpS-bd5WXDwCS03OstX9ZUSEdcbQ/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Alan Tang", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/103195617191510566712/reviews", 
+            "time": 1504221176
+        }
+    ], 
+    "formatted_phone_number": "(416) 633-7337", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=11536959708804961159", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM", 
+            "Tuesday: 9:00 AM \u2013 8:00 PM", 
+            "Wednesday: 9:00 AM \u2013 7:00 PM", 
+            "Thursday: 9:00 AM \u2013 8:00 PM", 
+            "Friday: 9:00 AM \u2013 5:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "2830 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2830", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2830"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 3E5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 3E5"
+        }
+    ], 
+    "formatted_address": "2830 Keele St, North York, ON M3M 3E5, Canada", 
+    "id": "ec90be675f91d5ebb82f482f9e8800b3a7599014", 
+    "types": [
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

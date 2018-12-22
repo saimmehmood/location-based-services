@@ -1,0 +1,180 @@
+{
+    "utc_offset": -300, 
+    "name": "Grd Drugs", 
+    "reference": "ChIJKzXUaZsxK4gRxXmyZvZ2Meo", 
+    "geometry": {
+        "location": {
+            "lat": 43.7312289, 
+            "lng": -79.4834113
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73259493029149, 
+                "lng": -79.48192526970848
+            }, 
+            "southwest": {
+                "lat": 43.7298969697085, 
+                "lng": -79.4846232302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2830 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 3E5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJKzXUaZsxK4gRxXmyZvZ2Meo", 
+    "international_phone_number": "+1 416-638-1200", 
+    "plus_code": {
+        "global_code": "87M2PGJ8+FJ", 
+        "compound_code": "PGJ8+FJ Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 638-1200", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=16875400079390964165", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM", 
+            "Tuesday: 8:00 AM \u2013 8:00 PM", 
+            "Wednesday: 9:00 AM \u2013 9:00 PM", 
+            "Thursday: 8:00 AM \u2013 8:00 PM", 
+            "Friday: 8:00 AM \u2013 4:00 PM", 
+            "Saturday: 8:00 AM \u2013 2:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "2100"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1400"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0800"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "2830 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2830", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2830"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 3E5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 3E5"
+        }
+    ], 
+    "formatted_address": "2830 Keele St, North York, ON M3M 3E5, Canada", 
+    "id": "f922b207266475a937a8cf765be041ad7aad6d23", 
+    "types": [
+        "pharmacy", 
+        "store", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

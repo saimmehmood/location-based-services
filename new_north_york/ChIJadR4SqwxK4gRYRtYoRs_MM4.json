@@ -1,0 +1,243 @@
+{
+    "rating": 5, 
+    "reference": "ChIJadR4SqwxK4gRYRtYoRs_MM4", 
+    "place_id": "ChIJadR4SqwxK4gRYRtYoRs_MM4", 
+    "plus_code": {
+        "global_code": "87M2PFMQ+RG", 
+        "compound_code": "PFMQ+RG Toronto, Ontario, Canada"
+    }, 
+    "url": "https://maps.google.com/?cid=14857444558598839137", 
+    "formatted_address": "9 Giltspur Dr, North York, ON M3L 1M4, Canada", 
+    "id": "a5194756f2554ec5a16fe0e8bae21bce95a29317", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM", 
+            "Tuesday: 8:30 AM \u2013 5:30 PM", 
+            "Wednesday: 8:30 AM \u2013 5:30 PM", 
+            "Thursday: 8:30 AM \u2013 5:30 PM", 
+            "Friday: 8:30 AM \u2013 5:30 PM", 
+            "Saturday: 8:30 AM \u2013 5:30 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0830"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "9 Giltspur Drive, North York", 
+    "scope": "GOOGLE", 
+    "website": "http://smarttechapplianceservice.com/", 
+    "utc_offset": -300, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAoowRLW-XUC3DrrcpiVLSt06fbZhc_rD_UzJ-3F519ZukvRHNYXgwK1iJlV0QOHv7wnJvP9zZOkBcm2xuZs_hTcz0tPlCK0RP-aYjdMEQp-thB9T7VmF09tdDdf08xN3mEhDnXi8hL6ZFMZTvN3Sn1s9CGhR8L2ID3R3gsX6SwR1hhsJyvIog9w", 
+            "width": 1066, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110781580421831106052/photos\">Smart-Tech Appliance Service</a>"
+            ], 
+            "height": 1600
+        }
+    ], 
+    "types": [
+        "home_goods_store", 
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png", 
+    "name": "Smart-Tech Appliance Service", 
+    "geometry": {
+        "location": {
+            "lat": 43.734502, 
+            "lng": -79.511183
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7359600302915, 
+                "lng": -79.50988116970849
+            }, 
+            "southwest": {
+                "lat": 43.7332620697085, 
+                "lng": -79.51257913029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">9 Giltspur Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1M4</span>, <span class=\"country-name\">Canada</span>", 
+    "international_phone_number": "+1 647-285-9768", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Steven Viera", 
+            "language": "en", 
+            "text": "Kirk came to my rescue when my fridge died Canada Day weekend. He worked hard to get things fixed and the fridge works better than it ever did. His price was great. He has integrity and can be trusted. I will have him fix my stuff anytime. Thanks, Kirk.", 
+            "relative_time_description": "3 weeks ago", 
+            "author_url": "https://www.google.com/maps/contrib/118422921827050700814/reviews", 
+            "time": 1542253393, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bOUy7fhL0a0/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iIUD2eEOYkQa7N3XedEfCtjVXreg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Veronica Eastman", 
+            "language": "en", 
+            "text": "I was very happy with the service that I received, and the level of professionalism.  This company definitely has my future business!\nMy washing machine is working better than it did before.  Thanks Kirk, for your prompt, and reliable service.  He was recommended to me, now I am recommending him to anyone who needs an appliance fixed.  You will be happy with the excellent service.", 
+            "relative_time_description": "4 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/110080783392109623118/reviews", 
+            "time": 1532532684, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8s8kl-9IfMo/AAAAAAAAAAI/AAAAAAAACEk/MD8tr4KkQj0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Maria A", 
+            "language": "en", 
+            "text": "Kirk is professional, knowledgeable, efficient, has competitive pricing and quick to come to your rescue.  He has come to mine a few times and he is the only one that I will ever consider calling when my appliances are giving me trouble.  You can trust him to diagnose the problem and give you all the options possible. Best Appliance Doctor out there.", 
+            "relative_time_description": "4 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/107555878603171345616/reviews", 
+            "time": 1532700452, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-u24QaAYnAO8/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hS6l4JTh9GSmhpPqOkcc-ElkDu_A/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "kassandrae larrieux", 
+            "language": "en", 
+            "text": "Recently, on a google search for a technician, I found and contacted Smart-Tech Appliance Service to repair my Whirlpool stove and spoke to a guy named Kirk. He was very knowledgable and polite, and I was able to book an appointment with him for the following day. He arrived on time, clean and in uniform, introducing himself to me and also showing me his ID. \nHe thoroughly and carefully diagnosed my stove and immediately was able to let me know what the problem was. \nHe fixed my stove for a reasonable and affordable price. He was very professional. His invoice was easy to read and understand and he had a variety of methods to make a payment which I was glad for. I would and have recommended Smart-Tech Appliance Service to my friends and family or to anyone who is looking for a friendly, reliable and trustworthy technician who is knowledgeable but also passionate about what he does! \nThanks Kirk!!!", 
+            "relative_time_description": "4 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/115816242906874045241/reviews", 
+            "time": 1532358001, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cEZuoGbcuIk/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-h0BmR8hmRUF4Oa_RlkqsCQuUiZTg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Bibi Chung", 
+            "language": "en", 
+            "text": "Kirk from Smart Tech Appliances is very polite and well spoken, reliable, dependable and knowledgeable.  He is even dressed in a uniform. Called him to fix my stove top for me as I broke the glass top. Within  a few days my stove top  was ordered, delivered and installed.  That\u2019s what you call efficient service! Since, I have recommended him to two of my very close friends and received applaudable feed back.  My husband who is a Building Superintendent  is now using Kirk as one of his appliance trades.  And everyone has given great feed back... some of the words used to commend Kirk was reliable, great price, great value, professional, knowledgeable and affordable. \n\nThank you for your service.\nThe Chungs.", 
+            "relative_time_description": "4 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/114034994955887710289/reviews", 
+            "time": 1533665671, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wDsy6r0741I/AAAAAAAAAAI/AAAAAAAABGg/OivXBup41n4/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "(647) 285-9768", 
+    "address_components": [
+        {
+            "long_name": "9", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "9"
+        }, 
+        {
+            "long_name": "Giltspur Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Giltspur Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1M4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1M4"
+        }
+    ]
+}

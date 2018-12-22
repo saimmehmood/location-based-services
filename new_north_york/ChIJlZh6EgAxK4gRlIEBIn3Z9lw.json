@@ -1,0 +1,163 @@
+{
+    "website": "http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=3066", 
+    "rating": 5, 
+    "utc_offset": -300, 
+    "name": "Chalkfarm Public School", 
+    "reference": "ChIJlZh6EgAxK4gRlIEBIn3Z9lw", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAA_pj5XPgLwYNdYbWbeA2591rMCdwWBU8Wc_0NYLxAyL4OoEMEr-VY0yXmKWdPC_inP7gn6ZMH8vOZ556dFYa706xS3FFjoqmJ8A6Zr7QI1mx6sGavTqgaiYl9mmxElm3VEhBIc-2xAvmAkfKmiHqfij1-GhTDinH7fycRt0FRpStup8VnDvccHA", 
+            "width": 4048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102767642875474732782/photos\">Nhu\u1ec7 L\u00e2n Tr\u1ea7n</a>"
+            ], 
+            "height": 3036
+        }, 
+        {
+            "photo_reference": "CmRaAAAA0Jdwz2y8YrM1vBJwJka0rGvZGZgktFNYxL7ZVx3Kdbg-IjdlvQvKYbsCv7U046U-eHbTqxNmzhEQoIuvPVRGJetdDCrRPXSAMUaIWYc-BKkohrRL0j8wHveVNRAewAYaEhBSZk0tELrh55_qvVw9RHteGhQTe-fTqpAAzYp7fb1iMmzh74rwZg", 
+            "width": 4128, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109921565029777309782/photos\">Angelo Centofante</a>"
+            ], 
+            "height": 2322
+        }, 
+        {
+            "photo_reference": "CmRaAAAAhZV4uwRv-8wRYlYKOp4xk_ZGA36Q00V70gzCugsfgckLX05WNr_E3RsMClr-gpG1bLtH8C2ZA1nK7FB8F-f9YWioFFJE99Nb5vTH89djulmP1R7jhSM7pF5lYnxv3HOqEhA_sI7lMtUBuDmXxyNS33z2GhRlwBZg-717ONo9qn51RdOmrpUEMg", 
+            "width": 4048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102767642875474732782/photos\">Nhu\u1ec7 L\u00e2n Tr\u1ea7n</a>"
+            ], 
+            "height": 3036
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.727368, 
+            "lng": -79.51406899999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72874368029149, 
+                "lng": -79.51252071970849
+            }, 
+            "southwest": {
+                "lat": 43.72604571970849, 
+                "lng": -79.5152186802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">100 Chalkfarm Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1L4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJlZh6EgAxK4gRlIEBIn3Z9lw", 
+    "international_phone_number": "+1 416-395-2160", 
+    "plus_code": {
+        "global_code": "87M2PFGP+W9", 
+        "compound_code": "PFGP+W9 Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Mariam", 
+            "language": "en", 
+            "text": "good school but changed lots.", 
+            "relative_time_description": "6 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/113184205732056836995/reviews", 
+            "time": 1527559363, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-9Q9MxnV7yPk/AAAAAAAAAAI/AAAAAAAAAJo/ZXdWQ14bEYw/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Leaf", 
+            "language": "en", 
+            "text": "this was the first school i went to when i got back from the USA, i was in grade 2", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/103504595165069085952/reviews", 
+            "time": 1507830521, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-mTK5dXEipcY/AAAAAAAAAAI/AAAAAAAADqk/OSxDfzjMQDw/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-387oqaFbTds/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jpDjDmaMXps3iOLAMBrSYW2VxCYA/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Men Quoc Tran", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/110020747721505530415/reviews", 
+            "time": 1495151283
+        }
+    ], 
+    "formatted_phone_number": "(416) 395-2160", 
+    "url": "https://maps.google.com/?cid=6698780627224854932", 
+    "scope": "GOOGLE", 
+    "vicinity": "100 Chalkfarm Drive, North York", 
+    "address_components": [
+        {
+            "long_name": "100", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "100"
+        }, 
+        {
+            "long_name": "Chalkfarm Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Chalkfarm Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1L4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1L4"
+        }
+    ], 
+    "formatted_address": "100 Chalkfarm Dr, North York, ON M3L 1L4, Canada", 
+    "id": "66413d4585d9bb4e849366e07653657d908a26e7", 
+    "types": [
+        "point_of_interest", 
+        "school", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

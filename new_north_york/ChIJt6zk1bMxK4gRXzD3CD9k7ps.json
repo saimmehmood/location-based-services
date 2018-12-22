@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Sheppard Ave West At Magellan Dr", 
+    "reference": "ChIJt6zk1bMxK4gRXzD3CD9k7ps", 
+    "geometry": {
+        "location": {
+            "lat": 43.73955499999999, 
+            "lng": -79.509799
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.74090398029149, 
+                "lng": -79.50845001970849
+            }, 
+            "southwest": {
+                "lat": 43.73820601970849, 
+                "lng": -79.5111479802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1Y4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJt6zk1bMxK4gRXzD3CD9k7ps", 
+    "plus_code": {
+        "global_code": "87M2PFQR+R3", 
+        "compound_code": "PFQR+R3 Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=11236028342232100959", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3L 1Y4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1Y4"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3L 1Y4, Canada", 
+    "id": "c16135bf2c9de06f061fbf53694e8394e3aee11a", 
+    "types": [
+        "bus_station", 
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png"
+}

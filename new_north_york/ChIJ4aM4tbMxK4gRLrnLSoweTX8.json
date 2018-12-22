@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "22 Sheppard Ave W", 
+    "reference": "ChIJ4aM4tbMxK4gRLrnLSoweTX8", 
+    "geometry": {
+        "location": {
+            "lat": 43.7394978, 
+            "lng": -79.5112558
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7408497802915, 
+                "lng": -79.5099065697085
+            }, 
+            "southwest": {
+                "lat": 43.7381518197085, 
+                "lng": -79.51260453029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">22 Sheppard Ave W</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 2G8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ4aM4tbMxK4gRLrnLSoweTX8", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=22+Sheppard+Ave+W,+North+York,+ON+M3L+2G8,+Canada&ftid=0x882b31b3b538a3e1:0x7f4d1e8c4acbb92e", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "22", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "22"
+        }, 
+        {
+            "long_name": "Sheppard Avenue West", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sheppard Ave W"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 2G8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 2G8"
+        }
+    ], 
+    "formatted_address": "22 Sheppard Ave W, North York, ON M3L 2G8, Canada", 
+    "id": "d2ac924dc323f14d97aa7ec46fa7e1520b7b74b9", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

@@ -1,0 +1,97 @@
+{
+    "utc_offset": -300, 
+    "name": "101-119 Exbury Rd", 
+    "reference": "ChIJfwGg36UxK4gRpaXoivohDoY", 
+    "geometry": {
+        "location": {
+            "lat": 43.731451, 
+            "lng": -79.5025096
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7328319802915, 
+                "lng": -79.50104714999998
+            }, 
+            "southwest": {
+                "lat": 43.7301340197085, 
+                "lng": -79.50401054999999
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">101-119 Exbury Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJfwGg36UxK4gRpaXoivohDoY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=101-119+Exbury+Rd,+Toronto,+ON+M3M,+Canada&ftid=0x882b31a5dfa0017f:0x860e21fa8ae8a5a5", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "101-119", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "101-119"
+        }, 
+        {
+            "long_name": "Exbury Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Exbury Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3M"
+        }
+    ], 
+    "formatted_address": "101-119 Exbury Rd, Toronto, ON M3M, Canada", 
+    "id": "1f48a0db716b89c5a75ebac174dcfdf6d0128549", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

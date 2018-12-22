@@ -1,0 +1,88 @@
+{
+    "utc_offset": -300, 
+    "name": "Calvington Dr at Keele St", 
+    "reference": "ChIJc5Ez85oxK4gRAdPHmlOLSLo", 
+    "geometry": {
+        "location": {
+            "lat": 43.73332199999999, 
+            "lng": -79.48398499999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7346709802915, 
+                "lng": -79.48263601970848
+            }, 
+            "southwest": {
+                "lat": 43.7319730197085, 
+                "lng": -79.48533398029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2L7</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJc5Ez85oxK4gRAdPHmlOLSLo", 
+    "plus_code": {
+        "global_code": "87M2PGM8+8C", 
+        "compound_code": "PGM8+8C Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=13423131880573096705", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3M 2L7", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2L7"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3M 2L7, Canada", 
+    "id": "2c74119ede68a31a504b7fd54cd280c93fedd571", 
+    "types": [
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,144 @@
+{
+    "website": "https://www.tcdsb.org/schools/stconrad", 
+    "rating": 3.5, 
+    "utc_offset": -300, 
+    "name": "St. Conrad Catholic School", 
+    "reference": "ChIJkf3YVJ8xK4gRO6JchVmfhXw", 
+    "geometry": {
+        "location": {
+            "lat": 43.7295816, 
+            "lng": -79.4943807
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7308895302915, 
+                "lng": -79.49321181970849
+            }, 
+            "southwest": {
+                "lat": 43.7281915697085, 
+                "lng": -79.49590978029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">5 Exbury Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 0A8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJkf3YVJ8xK4gRO6JchVmfhXw", 
+    "international_phone_number": "+1 416-393-5396", 
+    "plus_code": {
+        "global_code": "87M2PGH4+R6", 
+        "compound_code": "PGH4+R6 Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 1, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-szOTlVK7wi4/AAAAAAAAAAI/AAAAAAAAAAA/tcg80xhjrGI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg", 
+            "author_name": "Nigel Mohammed", 
+            "text": "", 
+            "relative_time_description": "a month ago", 
+            "author_url": "https://www.google.com/maps/contrib/103163078820201409004/reviews", 
+            "time": 1540041105
+        }, 
+        {
+            "rating": 3, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-gFvKM2qQYdw/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-ie8pUGybirCrBGqDgpwWJGCf4tJQ/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Fowsia Ibrahim", 
+            "text": "", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/106708571612706609094/reviews", 
+            "time": 1538585661
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BUchn9nnW3A/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gyup6HENhLgY3pIGdXXDqY6Yke5w/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Edwin Williams", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/111361242376907773147/reviews", 
+            "time": 1504613378
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bsVPNH_Xo5I/AAAAAAAAAAI/AAAAAAAACHg/n11FdytH-OQ/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "andrelina Oliveira Silva", 
+            "text": "", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/108087906301417162545/reviews", 
+            "time": 1534434055
+        }
+    ], 
+    "formatted_phone_number": "(416) 393-5396", 
+    "url": "https://maps.google.com/?cid=8972753039443927611", 
+    "scope": "GOOGLE", 
+    "vicinity": "5 Exbury Road, Toronto", 
+    "address_components": [
+        {
+            "long_name": "5", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "5"
+        }, 
+        {
+            "long_name": "Exbury Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Exbury Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 0A8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 0A8"
+        }
+    ], 
+    "formatted_address": "5 Exbury Rd, Toronto, ON M3M 0A8, Canada", 
+    "id": "e1baf6147d1bd6f4db6d48d213c07147ba368e49", 
+    "types": [
+        "point_of_interest", 
+        "school", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

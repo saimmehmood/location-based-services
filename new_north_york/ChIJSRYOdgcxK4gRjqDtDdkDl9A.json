@@ -1,0 +1,103 @@
+{
+    "utc_offset": -300, 
+    "name": "African Idol", 
+    "reference": "ChIJSRYOdgcxK4gRjqDtDdkDl9A", 
+    "geometry": {
+        "location": {
+            "lat": 43.7263188, 
+            "lng": -79.5070044
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7276573802915, 
+                "lng": -79.5056509197085
+            }, 
+            "southwest": {
+                "lat": 43.7249594197085, 
+                "lng": -79.5083488802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">55 Heathrow Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1X1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJSRYOdgcxK4gRjqDtDdkDl9A", 
+    "international_phone_number": "+1 416-245-1773", 
+    "plus_code": {
+        "global_code": "87M2PFGV+G5", 
+        "compound_code": "PFGV+G5 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 245-1773", 
+    "url": "https://maps.google.com/?cid=15030486512148783246", 
+    "scope": "GOOGLE", 
+    "vicinity": "55 Heathrow Drive, North York", 
+    "address_components": [
+        {
+            "long_name": "55", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "55"
+        }, 
+        {
+            "long_name": "Heathrow Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Heathrow Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1X1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1X1"
+        }
+    ], 
+    "formatted_address": "55 Heathrow Dr, North York, ON M3M 1X1, Canada", 
+    "id": "dc0eda6806b84f086a9ac61546bc8551274c6528", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

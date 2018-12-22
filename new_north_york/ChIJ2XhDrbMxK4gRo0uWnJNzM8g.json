@@ -1,0 +1,117 @@
+{
+    "rating": 5, 
+    "utc_offset": -300, 
+    "name": "Anthony's Hair Stylist", 
+    "reference": "ChIJ2XhDrbMxK4gRo0uWnJNzM8g", 
+    "geometry": {
+        "location": {
+            "lat": 43.739521, 
+            "lng": -79.5119059
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7408605302915, 
+                "lng": -79.51055776970848
+            }, 
+            "southwest": {
+                "lat": 43.73816256970851, 
+                "lng": -79.51325573029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1929 Sheppard Ave W</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1Y8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ2XhDrbMxK4gRo0uWnJNzM8g", 
+    "international_phone_number": "+1 416-740-8978", 
+    "plus_code": {
+        "global_code": "87M2PFQQ+R6", 
+        "compound_code": "PFQQ+R6 Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Allen McGill", 
+            "language": "en", 
+            "text": "Excellent place to get a haircut. Felice and his partner there are very skilled, detailed and modern. The price is very fair for the quality that you get here. Getting my haircut here significantly improved my confidence.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/104508960118957967773/reviews", 
+            "time": 1511549491, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-YQAs4H0ofuE/AAAAAAAAAAI/AAAAAAAAACE/hHozwJ4Vh6E/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "(416) 740-8978", 
+    "url": "https://maps.google.com/?cid=14426001109222312867", 
+    "scope": "GOOGLE", 
+    "vicinity": "1929 Sheppard Avenue West, North York", 
+    "address_components": [
+        {
+            "long_name": "1929", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1929"
+        }, 
+        {
+            "long_name": "Sheppard Avenue West", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sheppard Ave W"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1Y8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1Y8"
+        }
+    ], 
+    "formatted_address": "1929 Sheppard Ave W, North York, ON M3L 1Y8, Canada", 
+    "id": "988ac7e0fdef9ce9dba7304f581e22a58c832078", 
+    "types": [
+        "beauty_salon", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

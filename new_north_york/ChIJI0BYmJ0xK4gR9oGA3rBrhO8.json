@@ -1,0 +1,103 @@
+{
+    "utc_offset": -300, 
+    "name": "Americana Apartments", 
+    "reference": "ChIJI0BYmJ0xK4gR9oGA3rBrhO8", 
+    "geometry": {
+        "location": {
+            "lat": 43.7264182, 
+            "lng": -79.48496659999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7275840302915, 
+                "lng": -79.4835398697085
+            }, 
+            "southwest": {
+                "lat": 43.7248860697085, 
+                "lng": -79.4862378302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1130 Wilson Ave</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1K3</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJI0BYmJ0xK4gR9oGA3rBrhO8", 
+    "international_phone_number": "+1 416-630-5607", 
+    "plus_code": {
+        "global_code": "87M2PGG8+H2", 
+        "compound_code": "PGG8+H2 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 630-5607", 
+    "url": "https://maps.google.com/?cid=17259038079381963254", 
+    "scope": "GOOGLE", 
+    "vicinity": "1130 Wilson Avenue, North York", 
+    "address_components": [
+        {
+            "long_name": "1130", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1130"
+        }, 
+        {
+            "long_name": "Wilson Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilson Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1K3", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1K3"
+        }
+    ], 
+    "formatted_address": "1130 Wilson Ave, North York, ON M3M 1K3, Canada", 
+    "id": "0a98b08a9dd4de95ca91bd3369b3a955db7ca848", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,97 @@
+{
+    "utc_offset": -300, 
+    "name": "60-52 Coquette Rd", 
+    "reference": "ChIJ_3W7BrIxK4gRVNdaFXoNo4k", 
+    "geometry": {
+        "location": {
+            "lat": 43.7371881, 
+            "lng": -79.51023579999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7385456302915, 
+                "lng": -79.50882701970849
+            }, 
+            "southwest": {
+                "lat": 43.73584766970851, 
+                "lng": -79.51152498029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">60-52 Coquette Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ_3W7BrIxK4gRVNdaFXoNo4k", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=60-52+Coquette+Rd,+North+York,+ON+M3L,+Canada&ftid=0x882b31b206bb75ff:0x89a30d7a155ad754", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "60-52", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "60-52"
+        }, 
+        {
+            "long_name": "Coquette Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Coquette Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3L"
+        }
+    ], 
+    "formatted_address": "60-52 Coquette Rd, North York, ON M3L, Canada", 
+    "id": "d3164a08b8a8fac646aed82d43466fc8cc517eee", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

@@ -14,7 +14,8 @@ def decimal_default(obj):
 # given the coordinates of two points, step value and your api key
 # this function will calculate all the unique point of interests (POIs)
 # in the rectangle defined by the two points
-# step must be given in float value
+# step value denotes distance between POIs retrieval (must be given in float value). 
+# format for values (lat & long (first point), lat & long (second point), step value (float), google places api key)
 def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 	
 	google_places = GooglePlaces(your_api)
@@ -35,7 +36,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 	y_points = np.arange(y_cords[0], y_cords[1], float(step))
 
 
-	k = 0 # to keep in check google api limit of 1000 requests per 24h
+	#k = 0 # to keep in check google api limit of 1000 requests per 24h
 	
 	# traversing through all the latitude and longitude points
 	for i in range(len(x_points)):
@@ -47,7 +48,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 
 			# querying google api
 			query_result = google_places.nearby_search(
-				location=str(x) + ',' + str(y), radius=50)
+				location=str(x) + ',' + str(y), radius=30)
 
 
 			# getting ID's from the specified location
@@ -70,14 +71,14 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 				
 
 			# Breaking both loops to avoid reaching limit		
-			k += 1
-			if (k == 100):
-				print("breaking loop")
-				break
+		# 	k += 1
+		# 	if (k == 100):
+		# 		print("breaking loop")
+		# 		break
 
-		if (k == 100):
-			print("breaking loop")
-			break
+		# if (k == 100):
+		# 	print("breaking loop")
+		# 	break
 
 	Id_of_places = [key for key, value in Id_of_places.items() if value]
 	#pprint(Id_of_places)	
@@ -87,31 +88,36 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 
 		if str(data["place_id"]) in Id_of_places:
 			print(str(data["place_id"]))
-			with open('toronto_new\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
-			 	json.dump(place_details[i], outfile, indent=4, default=decimal_default)
+			with open('new_north_york\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
+				json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
 	
 	# store Id_of_places outside loop
-	with open('storing_all_ID.json', 'a') as outfile:
-		json.dump(Id_of_places, outfile, indent=2)
+	# with open('storing_all_ID.json', 'a') as outfile:
+	# 	json.dump(Id_of_places, outfile, indent=2)
 
 
 
 YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
 # using bigger step value to avoid reaching api limit
-#scanAreaForPOIs(43.659761, -79.420423, 43.644641, -79.365940, 0.01, YOUR_API_KEY)  # toronto new points
+#scanAreaForPOIs(43.739829, -79.514102, 43.726355, -79.481279, 0.001, YOUR_API_KEY)  # north york points
 
 def getPOIAroundTrajectory(route):
-	path_to_json = 'C:\\Users\\saim\\Documents\\location_based_services\\toronto_new'
+	path_to_json = 'C:\\Users\\saim\\Documents\\location_based_services\\new_north_york'
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
+	# data = None
 
+	# write_stuff = open("lat_long.txt", "w")
 	for i in range(len(json_files)):
 	#print(json_files[i])
 		with open(path_to_json + '\\' + str(json_files[i])) as file:
 			data = json.load(file)
-			print(data["geometry"]["location"]["lat"])
-			print(data["geometry"]["location"]["lng"])
+			print(data["geometry"]["location"]["lat"], data["geometry"]["location"]["lng"])
+			#write_stuff.write("%d %d \n" % (int(data["geometry"]["location"]["lat"]), int(data["geometry"]["location"]["lng"])))
+	
+	
+
 
 
 getPOIAroundTrajectory(0)

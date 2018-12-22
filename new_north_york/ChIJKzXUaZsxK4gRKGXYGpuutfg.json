@@ -1,0 +1,118 @@
+{
+    "rating": 4, 
+    "utc_offset": -300, 
+    "name": "Dr. Rosa Leone", 
+    "reference": "ChIJKzXUaZsxK4gRKGXYGpuutfg", 
+    "geometry": {
+        "location": {
+            "lat": 43.731229, 
+            "lng": -79.48341099999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73259498029149, 
+                "lng": -79.48192516970849
+            }, 
+            "southwest": {
+                "lat": 43.7298970197085, 
+                "lng": -79.4846231302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2830 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 3E5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJKzXUaZsxK4gRKGXYGpuutfg", 
+    "international_phone_number": "+1 416-243-2939", 
+    "plus_code": {
+        "global_code": "87M2PGJ8+FJ", 
+        "compound_code": "PGJ8+FJ Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 4, 
+            "author_name": "Mo G", 
+            "language": "en", 
+            "text": "Very good doctor. She is caring. When she doesn't know something she will send you to a specialist right away rather than waste your time with multiple appointments. Competent staff. Would recommend.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/101413953713768647027/reviews", 
+            "time": 1496782069, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-N3M_Wj6QPTs/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-ieFSdzl-TyKR3CgRUJdbq9NV2itA/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "(416) 243-2939", 
+    "url": "https://maps.google.com/?cid=17921422273384310056", 
+    "scope": "GOOGLE", 
+    "vicinity": "2830 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2830", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2830"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 3E5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 3E5"
+        }
+    ], 
+    "formatted_address": "2830 Keele St, North York, ON M3M 3E5, Canada", 
+    "id": "2ce3cdcb7c567f6ab982f9a7d0a315b4c25d319a", 
+    "types": [
+        "doctor", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

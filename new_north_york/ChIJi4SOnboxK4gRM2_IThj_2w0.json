@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "1-39 Calico Dr", 
+    "reference": "ChIJi4SOnboxK4gRM2_IThj_2w0", 
+    "geometry": {
+        "location": {
+            "lat": 43.7379565, 
+            "lng": -79.5041021
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73930543029149, 
+                "lng": -79.50275316970848
+            }, 
+            "southwest": {
+                "lat": 43.7366074697085, 
+                "lng": -79.50545113029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1-39 Calico Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1V5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJi4SOnboxK4gRM2_IThj_2w0", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=1-39+Calico+Dr,+North+York,+ON+M3L+1V5,+Canada&ftid=0x882b31ba9d8e848b:0xddbff184ec86f33", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "1-39", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1-39"
+        }, 
+        {
+            "long_name": "Calico Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Calico Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1V5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1V5"
+        }
+    ], 
+    "formatted_address": "1-39 Calico Dr, North York, ON M3L 1V5, Canada", 
+    "id": "62bdd70feb28a16fcef36ae6e1a8463db6a6bfef", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

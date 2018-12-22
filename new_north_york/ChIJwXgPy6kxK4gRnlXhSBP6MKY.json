@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "20-2 Nagel Rd", 
+    "reference": "ChIJwXgPy6kxK4gRnlXhSBP6MKY", 
+    "geometry": {
+        "location": {
+            "lat": 43.7282136, 
+            "lng": -79.5070908
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7295625802915, 
+                "lng": -79.50509305
+            }, 
+            "southwest": {
+                "lat": 43.72686461970851, 
+                "lng": -79.50908845
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">20-2 Nagel Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1X8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJwXgPy6kxK4gRnlXhSBP6MKY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=20-2+Nagel+Rd,+North+York,+ON+M3M+1X8,+Canada&ftid=0x882b31a9cb0f78c1:0xa630fa1348e1559e", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "20-2", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "20-2"
+        }, 
+        {
+            "long_name": "Nagel Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Nagel Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1X8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1X8"
+        }
+    ], 
+    "formatted_address": "20-2 Nagel Rd, North York, ON M3M 1X8, Canada", 
+    "id": "4bb4260bdd1d485ea0111e7f4cef32851dc9bfd8", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

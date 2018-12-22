@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "35-15 Chalkfarm Dr", 
+    "reference": "ChIJsw0hXKoxK4gRCwxJ3kb9nK8", 
+    "geometry": {
+        "location": {
+            "lat": 43.7290661, 
+            "lng": -79.51220119999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7304056802915, 
+                "lng": -79.51084916970848
+            }, 
+            "southwest": {
+                "lat": 43.7277077197085, 
+                "lng": -79.5135471302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">35-15 Chalkfarm Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1L1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJsw0hXKoxK4gRCwxJ3kb9nK8", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=35-15+Chalkfarm+Dr,+North+York,+ON+M3L+1L1,+Canada&ftid=0x882b31aa5c210db3:0xaf9cfd46de490c0b", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "35-15", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "35-15"
+        }, 
+        {
+            "long_name": "Chalkfarm Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Chalkfarm Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1L1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1L1"
+        }
+    ], 
+    "formatted_address": "35-15 Chalkfarm Dr, North York, ON M3L 1L1, Canada", 
+    "id": "b78b477e0c9171506626f56d934b4bc6a62972f6", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

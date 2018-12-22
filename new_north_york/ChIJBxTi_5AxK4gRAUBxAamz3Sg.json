@@ -1,0 +1,81 @@
+{
+    "utc_offset": -300, 
+    "name": "Keele St at Whitburn Cres", 
+    "reference": "ChIJBxTi_5AxK4gRAUBxAamz3Sg", 
+    "geometry": {
+        "location": {
+            "lat": 43.7369335, 
+            "lng": -79.4845115
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7382824802915, 
+                "lng": -79.48316251970849
+            }, 
+            "southwest": {
+                "lat": 43.7355845197085, 
+                "lng": -79.4858604802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJBxTi_5AxK4gRAUBxAamz3Sg", 
+    "plus_code": {
+        "global_code": "87M2PGP8+Q5", 
+        "compound_code": "PGP8+Q5 Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=2944707269825216513", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }
+    ], 
+    "formatted_address": "Toronto, ON, Canada", 
+    "id": "b16b3a8dfc5b9e07969977d3db2205dcebf33582", 
+    "types": [
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

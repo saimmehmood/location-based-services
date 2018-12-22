@@ -1,0 +1,230 @@
+{
+    "rating": 3, 
+    "reference": "ChIJp4OyaxdawokRlVoKGWu_fFA", 
+    "place_id": "ChIJp4OyaxdawokRlVoKGWu_fFA", 
+    "plus_code": {
+        "global_code": "87G7PX5Q+8V", 
+        "compound_code": "PX5Q+8V New York, United States"
+    }, 
+    "url": "https://maps.google.com/?cid=5799720886848871061", 
+    "formatted_address": "120 Broadway, New York, NY 10271, USA", 
+    "id": "ed904d98fcdf488cf605392fd91734637ed67d42", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM", 
+            "Tuesday: 8:00 AM \u2013 6:00 PM", 
+            "Wednesday: 8:00 AM \u2013 6:00 PM", 
+            "Thursday: 8:00 AM \u2013 6:00 PM", 
+            "Friday: 8:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0800"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "120 Broadway, New York", 
+    "scope": "GOOGLE", 
+    "website": "http://www.downtownny.com/", 
+    "utc_offset": -300, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAKfpDWs_JZnxzty2_klB45c492bhBJygfyuI-oFLFz-rHAmA-XocyhMjX-EcjcQkfa2QZ-vT_pSh7tnEFQy1Z0p_c42WX-tpDoOKtkdh5VjfIxB6rjLhjpLeC4f_wcwFWEhCTK2iI8zo1k4UzZcWK1iq4GhRfJPmPsqm9YqxYsi78Xo8LEyWZew", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100753230390166214751/photos\">Simcha Grieve</a>"
+            ], 
+            "height": 3024
+        }
+    ], 
+    "types": [
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "Alliance for Downtown NY", 
+    "geometry": {
+        "location": {
+            "lat": 40.70831940000001, 
+            "lng": -74.01028409999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.7098270802915, 
+                "lng": -74.0092898197085
+            }, 
+            "southwest": {
+                "lat": 40.7071291197085, 
+                "lng": -74.0119877802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">120 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10271</span>, <span class=\"country-name\">USA</span>", 
+    "international_phone_number": "+1 212-566-6700", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Kristina Macecevic", 
+            "language": "en", 
+            "text": "Nor'eastern's March storm that brought us snow, then freezing rain, piled onto more snow yesterday made for a difficult dig out of street parking a day later, to say the least. \nDowntown Alliance saw this lady struggling to pick away, unsuccessfully, at almost 2 feet of accumulated ice around her car parked on the street near Brookfield Place. Extremely grateful to have had the help you gentleman provided - I would have never made it out!\nThank you for your kindness! Keep up the great work :)", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/106617141042463676699/reviews", 
+            "time": 1489594217, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dyIDgZDRK3g/AAAAAAAAAAI/AAAAAAAAA7k/UrcmHal8Pic/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 1, 
+            "author_name": "Karen Campbell", 
+            "language": "en", 
+            "text": "I am a downtown resident who utilizes the Downtown Connection. Tonight, a bus bee let the Water and Wall bus stop. The only was I could get the bus was to step in front of a commuter bus to wave him down. There is space at the bus stop for multiple buses to pick up passengers. Instead, the Connection drivers routinely take the opportunity to by pass bus stops. Even when there is no other bus, they ride in the left lane forcing passengers to step into the right lane in front of other vehicles or bicycles in order to aggressive wave and get in the bus. The drivers appear to misunderstand the purpose of running the buses. I will testify in court when someone is injured or killed behind this practice. Downtown Alliance there must be a company deserving of the contract. I have witnessed drivers who don't know the route, lie to passengers and who are surly and unprofessional. I appreciate the idea if he service. I simply do not appreciate how it is provided to the public. It is horrible service. Horrible. ", 
+            "relative_time_description": "3 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/114224470235215230839/reviews", 
+            "time": 1446158826, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-El0jKDBPMfA/AAAAAAAAAAI/AAAAAAAAAHA/A--9j7jTiYY/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "author_name": "Miroslav Maksimovic", 
+            "language": "en", 
+            "text": "ka boom", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/115009024625948560200/reviews", 
+            "time": 1458209960, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-e60b0akOX-o/AAAAAAAAAAI/AAAAAAAABAY/8qzg4rdfSoo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-mMTiL9MoAgo/AAAAAAAAAAI/AAAAAAAAYwo/2gnBfvA0IeQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg", 
+            "author_name": "delilah Linda", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/102351248971119955730/reviews", 
+            "time": 1507390535
+        }, 
+        {
+            "rating": 2, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-E4zMyT8_U6w/AAAAAAAAAAI/AAAAAAAAABA/pSP3ZsSz_d4/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Maggie Allen", 
+            "text": "", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/112497009179582540214/reviews", 
+            "time": 1470425534
+        }
+    ], 
+    "formatted_phone_number": "(212) 566-6700", 
+    "address_components": [
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10271", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10271"
+        }
+    ]
+}

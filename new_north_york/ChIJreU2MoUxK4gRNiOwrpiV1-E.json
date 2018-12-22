@@ -1,0 +1,103 @@
+{
+    "utc_offset": -300, 
+    "name": "Abercast Inc", 
+    "reference": "ChIJreU2MoUxK4gRNiOwrpiV1-E", 
+    "geometry": {
+        "location": {
+            "lat": 43.7324893, 
+            "lng": -79.4819857
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7338520802915, 
+                "lng": -79.48064116970849
+            }, 
+            "southwest": {
+                "lat": 43.7311541197085, 
+                "lng": -79.4833391302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">47 Cuffley Crescent S</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3K 1X4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJreU2MoUxK4gRNiOwrpiV1-E", 
+    "international_phone_number": "+1 416-636-1359", 
+    "plus_code": {
+        "global_code": "87M2PGJ9+X6", 
+        "compound_code": "PGJ9+X6 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 636-1359", 
+    "url": "https://maps.google.com/?cid=16273640261524923190", 
+    "scope": "GOOGLE", 
+    "vicinity": "47 Cuffley Crescent South, North York", 
+    "address_components": [
+        {
+            "long_name": "47", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "47"
+        }, 
+        {
+            "long_name": "Cuffley Crescent South", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Cuffley Crescent S"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3K 1X4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3K 1X4"
+        }
+    ], 
+    "formatted_address": "47 Cuffley Crescent S, North York, ON M3K 1X4, Canada", 
+    "id": "1b5f359a885dad087af97e18f427c25426ade78c", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

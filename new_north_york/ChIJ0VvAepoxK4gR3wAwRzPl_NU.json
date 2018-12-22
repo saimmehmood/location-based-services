@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "6-40 Tavistock Rd", 
+    "reference": "ChIJ0VvAepoxK4gR3wAwRzPl_NU", 
+    "geometry": {
+        "location": {
+            "lat": 43.73410620000001, 
+            "lng": -79.48507239999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7354543802915, 
+                "lng": -79.48268669999999
+            }, 
+            "southwest": {
+                "lat": 43.7327564197085, 
+                "lng": -79.4874575
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">6-40 Tavistock Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2N6</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ0VvAepoxK4gR3wAwRzPl_NU", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=6-40+Tavistock+Rd,+North+York,+ON+M3M+2N6,+Canada&ftid=0x882b319a7ac05bd1:0xd5fce533473000df", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "6-40", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "6-40"
+        }, 
+        {
+            "long_name": "Tavistock Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Tavistock Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2N6", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2N6"
+        }
+    ], 
+    "formatted_address": "6-40 Tavistock Rd, North York, ON M3M 2N6, Canada", 
+    "id": "4ebc7aa616220d88603103696f002acd8552c6f2", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

@@ -1,0 +1,103 @@
+{
+    "utc_offset": -300, 
+    "name": "VIP Entertainment Group", 
+    "reference": "ChIJ06MbOpcxK4gRxEhiaikUfCo", 
+    "geometry": {
+        "location": {
+            "lat": 43.73621009999999, 
+            "lng": -79.4880864
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73764283029149, 
+                "lng": -79.4867739197085
+            }, 
+            "southwest": {
+                "lat": 43.73494486970849, 
+                "lng": -79.4894718802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">59 Whitburn Crescent</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2S5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ06MbOpcxK4gRxEhiaikUfCo", 
+    "international_phone_number": "+1 905-850-8594", 
+    "plus_code": {
+        "global_code": "87M2PGP6+FQ", 
+        "compound_code": "PGP6+FQ Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(905) 850-8594", 
+    "url": "https://maps.google.com/?cid=3061344014816135364", 
+    "scope": "GOOGLE", 
+    "vicinity": "59 Whitburn Crescent, North York", 
+    "address_components": [
+        {
+            "long_name": "59", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "59"
+        }, 
+        {
+            "long_name": "Whitburn Crescent", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Whitburn Crescent"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2S5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2S5"
+        }
+    ], 
+    "formatted_address": "59 Whitburn Crescent, North York, ON M3M 2S5, Canada", 
+    "id": "4f60ebd2f489b9902d210395d0ba63ab22070084", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

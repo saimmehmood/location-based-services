@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "22-8 Sinton Ct", 
+    "reference": "ChIJO2LCw6UxK4gRk4lMiBHgsUY", 
+    "geometry": {
+        "location": {
+            "lat": 43.7322922, 
+            "lng": -79.50259570000001
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7336345802921, 
+                "lng": -79.50109421970849
+            }, 
+            "southwest": {
+                "lat": 43.73093661970911, 
+                "lng": -79.5037921802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">22-8 Sinton Ct</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1P4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJO2LCw6UxK4gRk4lMiBHgsUY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=22-8+Sinton+Ct,+North+York,+ON+M3M+1P4,+Canada&ftid=0x882b31a5c3c2623b:0x46b1e011884c8993", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "22-8", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "22-8"
+        }, 
+        {
+            "long_name": "Sinton Court", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sinton Ct"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1P4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1P4"
+        }
+    ], 
+    "formatted_address": "22-8 Sinton Ct, North York, ON M3M 1P4, Canada", 
+    "id": "30fb5d70819b3692d26c5812251bbb18d6c11c08", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

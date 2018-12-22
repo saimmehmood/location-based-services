@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "53-71 Cuffley Crescent S", 
+    "reference": "ChIJZ2BwMYUxK4gRITiWvNGMyO8", 
+    "geometry": {
+        "location": {
+            "lat": 43.7326388, 
+            "lng": -79.481229
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73399843029149, 
+                "lng": -79.479494
+            }, 
+            "southwest": {
+                "lat": 43.7313004697085, 
+                "lng": -79.48296880000001
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">53-71 Cuffley Crescent S</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3K 1X4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJZ2BwMYUxK4gRITiWvNGMyO8", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=53-71+Cuffley+Crescent+S,+North+York,+ON+M3K+1X4,+Canada&ftid=0x882b318531706067:0xefc88cd1bc963821", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "53-71", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "53-71"
+        }, 
+        {
+            "long_name": "Cuffley Crescent South", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Cuffley Crescent S"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3K 1X4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3K 1X4"
+        }
+    ], 
+    "formatted_address": "53-71 Cuffley Crescent S, North York, ON M3K 1X4, Canada", 
+    "id": "766afe0e673e09eccf9353c91ee9a1a2b41fb02b", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

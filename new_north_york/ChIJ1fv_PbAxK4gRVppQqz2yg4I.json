@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Purchase Place", 
+    "reference": "ChIJ1fv_PbAxK4gRVppQqz2yg4I", 
+    "geometry": {
+        "location": {
+            "lat": 43.737447, 
+            "lng": -79.5055916
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7387637802915, 
+                "lng": -79.5042078697085
+            }, 
+            "southwest": {
+                "lat": 43.7360658197085, 
+                "lng": -79.5069058302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Purchase Pl</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1T9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ1fv_PbAxK4gRVppQqz2yg4I", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=Purchase+Pl,+North+York,+ON+M3L+1T9,+Canada&ftid=0x882b31b03dfffbd5:0x8283b23dab509a56", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Purchase Place", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Purchase Pl"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1T9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1T9"
+        }
+    ], 
+    "formatted_address": "Purchase Pl, North York, ON M3L 1T9, Canada", 
+    "id": "cab4972d35b58916d6800b465392e2e449b5d95b", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

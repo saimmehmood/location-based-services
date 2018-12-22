@@ -1,0 +1,101 @@
+{
+    "utc_offset": -300, 
+    "name": "Snack Plus", 
+    "reference": "ChIJu1DPlZoxK4gRKEFXMdZFfTM", 
+    "geometry": {
+        "location": {
+            "lat": 43.7335023, 
+            "lng": -79.4831773
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7347087302915, 
+                "lng": -79.48178371970849
+            }, 
+            "southwest": {
+                "lat": 43.73201076970851, 
+                "lng": -79.4844816802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">12 Keelegate Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3K 1X7</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJu1DPlZoxK4gRKEFXMdZFfTM", 
+    "plus_code": {
+        "global_code": "87M2PGM8+CP", 
+        "compound_code": "PGM8+CP Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "12 Keelegate Drive, North York", 
+    "url": "https://maps.google.com/?cid=3710198454276276520", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Keelegate Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keelegate Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3K 1X7", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3K 1X7"
+        }
+    ], 
+    "formatted_address": "12 Keelegate Dr, North York, ON M3K 1X7, Canada", 
+    "id": "5c4e8d564f60570def2d861e5412f9cd0e749011", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

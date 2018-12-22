@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Jane St At Sheppard Ave West", 
+    "reference": "ChIJ_0bo-7IxK4gRuzKMx0cjL80", 
+    "geometry": {
+        "location": {
+            "lat": 43.739207, 
+            "lng": -79.512969
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7405559802915, 
+                "lng": -79.51162001970849
+            }, 
+            "southwest": {
+                "lat": 43.7378580197085, 
+                "lng": -79.51431798029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1R9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ_0bo-7IxK4gRuzKMx0cjL80", 
+    "plus_code": {
+        "global_code": "87M2PFQP+MR", 
+        "compound_code": "PFQP+MR Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=14785074892878131899", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3L 1R9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1R9"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3L 1R9, Canada", 
+    "id": "880c112cd8f032ff028437617f2116e8e53c0496", 
+    "types": [
+        "bus_station", 
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png"
+}

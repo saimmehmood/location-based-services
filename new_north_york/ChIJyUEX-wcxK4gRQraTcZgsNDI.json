@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "46-28 Chesham Dr", 
+    "reference": "ChIJyUEX-wcxK4gRQraTcZgsNDI", 
+    "geometry": {
+        "location": {
+            "lat": 43.72643799999999, 
+            "lng": -79.5045955
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72778528029149, 
+                "lng": -79.50326231970848
+            }, 
+            "southwest": {
+                "lat": 43.72508731970849, 
+                "lng": -79.50596028029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">46-28 Chesham Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1W8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJyUEX-wcxK4gRQraTcZgsNDI", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=46-28+Chesham+Dr,+North+York,+ON+M3M+1W8,+Canada&ftid=0x882b3107fb1741c9:0x32342c987193b642", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "46-28", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "46-28"
+        }, 
+        {
+            "long_name": "Chesham Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Chesham Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1W8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1W8"
+        }
+    ], 
+    "formatted_address": "46-28 Chesham Dr, North York, ON M3M 1W8, Canada", 
+    "id": "6d101353c4cd53eae0188e19898951ee23c9ba67", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

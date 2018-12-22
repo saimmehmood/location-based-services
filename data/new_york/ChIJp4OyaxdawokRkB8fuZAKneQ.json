@@ -1,0 +1,111 @@
+{
+    "website": "http://www.hartrodt.com/", 
+    "utc_offset": -300, 
+    "name": "A Hartrodt", 
+    "reference": "ChIJp4OyaxdawokRkB8fuZAKneQ", 
+    "geometry": {
+        "location": {
+            "lat": 40.70821180000001, 
+            "lng": -74.01065899999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.7096662802915, 
+                "lng": -74.0095574197085
+            }, 
+            "southwest": {
+                "lat": 40.7069683197085, 
+                "lng": -74.0122553802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">120 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10271-0002</span>, <span class=\"country-name\">USA</span>", 
+    "place_id": "ChIJp4OyaxdawokRkB8fuZAKneQ", 
+    "international_phone_number": "+1 212-329-2400", 
+    "plus_code": {
+        "global_code": "87G7PX5Q+7P", 
+        "compound_code": "PX5Q+7P New York, United States"
+    }, 
+    "formatted_phone_number": "(212) 329-2400", 
+    "url": "https://maps.google.com/?cid=16473334628688535440", 
+    "scope": "GOOGLE", 
+    "vicinity": "120 Broadway, New York", 
+    "address_components": [
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10271", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10271"
+        }, 
+        {
+            "long_name": "0002", 
+            "types": [
+                "postal_code_suffix"
+            ], 
+            "short_name": "0002"
+        }
+    ], 
+    "formatted_address": "120 Broadway, New York, NY 10271, USA", 
+    "id": "ed394a6def15bd780773babb759541a8d66f1be9", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

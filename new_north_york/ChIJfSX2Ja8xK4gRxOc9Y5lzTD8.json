@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "24-6 Linthurst Ave", 
+    "reference": "ChIJfSX2Ja8xK4gRxOc9Y5lzTD8", 
+    "geometry": {
+        "location": {
+            "lat": 43.7324124, 
+            "lng": -79.50651669999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73419410000005, 
+                "lng": -79.5052093697085
+            }, 
+            "southwest": {
+                "lat": 43.73060729999995, 
+                "lng": -79.5079073302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">24-6 Linthurst Ave</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1P2</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJfSX2Ja8xK4gRxOc9Y5lzTD8", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=24-6+Linthurst+Ave,+North+York,+ON+M3M+1P2,+Canada&ftid=0x882b31af25f6257d:0x3f4c7399633de7c4", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "24-6", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "24-6"
+        }, 
+        {
+            "long_name": "Linthurst Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Linthurst Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1P2", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1P2"
+        }
+    ], 
+    "formatted_address": "24-6 Linthurst Ave, North York, ON M3M 1P2, Canada", 
+    "id": "77036f653dd42dab772d17d21b2279a874f63cf2", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

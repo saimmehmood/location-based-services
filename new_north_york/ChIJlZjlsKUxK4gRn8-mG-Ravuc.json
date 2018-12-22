@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "Photograp Photogenix", 
+    "reference": "ChIJlZjlsKUxK4gRn8-mG-Ravuc", 
+    "geometry": {
+        "location": {
+            "lat": 43.73277549999999, 
+            "lng": -79.5015257
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73412448029149, 
+                "lng": -79.50017671970849
+            }, 
+            "southwest": {
+                "lat": 43.73142651970849, 
+                "lng": -79.50287468029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">22 Buxton Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1Y5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJlZjlsKUxK4gRn8-mG-Ravuc", 
+    "international_phone_number": "+1 416-241-6863", 
+    "plus_code": {
+        "global_code": "87M2PFMX+49", 
+        "compound_code": "PFMX+49 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 241-6863", 
+    "url": "https://maps.google.com/?cid=16698884404099338143", 
+    "scope": "GOOGLE", 
+    "vicinity": "22 Buxton Rd, North York", 
+    "address_components": [
+        {
+            "long_name": "22 Buxton Rd", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "22 Buxton Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1Y5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1Y5"
+        }
+    ], 
+    "formatted_address": "22 Buxton Rd, North York, ON M3M 1Y5, Canada", 
+    "id": "8f36a7f8fb244acb5ec99804e536961c5389e367", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

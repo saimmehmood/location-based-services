@@ -1,0 +1,114 @@
+{
+    "website": "https://onestepmedia.ca/", 
+    "utc_offset": -300, 
+    "name": "OneStep Media", 
+    "reference": "ChIJ9bCcHgoxK4gRb1TC7YC6jPE", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAANjK--w7LcECD0gfqd4pW6DCFNF7XFvC6zAQpxnn0JdAefSYcOJQgNaA8Jk86scSEqY7s95VwA9B0hGOWoMi4JtCbxaL7ZfOdF_SWuBIqBN8TjNMhbchGX9om62Tyj40dEhAarT7nBGGWW1opeMLEEe6rGhSwX42RcdkV4YvfkV-92UqisX5Qvw", 
+            "width": 1125, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117896759325025709085/photos\">OneStep Media</a>"
+            ], 
+            "height": 1125
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.73230559999999, 
+            "lng": -79.48367739999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73367218029149, 
+                "lng": -79.4821866197085
+            }, 
+            "southwest": {
+                "lat": 43.73097421970849, 
+                "lng": -79.4848845802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">9-2866 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2G8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ9bCcHgoxK4gRb1TC7YC6jPE", 
+    "international_phone_number": "+1 437-779-2658", 
+    "plus_code": {
+        "global_code": "87M2PGJ8+WG", 
+        "compound_code": "PGJ8+WG Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(437) 779-2658", 
+    "url": "https://maps.google.com/?cid=17405491722787640431", 
+    "scope": "GOOGLE", 
+    "vicinity": "9-2866 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "9-2866", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "9-2866"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2G8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2G8"
+        }
+    ], 
+    "formatted_address": "9-2866 Keele St, North York, ON M3M 2G8, Canada", 
+    "id": "3b083167eb231de509631d9a76a0fb6910539697", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

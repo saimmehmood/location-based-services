@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "8 Chalkfarm Dr", 
+    "reference": "ChIJaTj0RqoxK4gR6lJgFFTMscY", 
+    "geometry": {
+        "location": {
+            "lat": 43.7292001, 
+            "lng": -79.51139959999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7305490802915, 
+                "lng": -79.5100505697085
+            }, 
+            "southwest": {
+                "lat": 43.7278511197085, 
+                "lng": -79.5127485302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">8 Chalkfarm Dr</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1L9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJaTj0RqoxK4gR6lJgFFTMscY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=8+Chalkfarm+Dr,+Toronto,+ON+M3L+1L9,+Canada&ftid=0x882b31aa46f43869:0xc6b1cc54146052ea", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "8", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "8"
+        }, 
+        {
+            "long_name": "Chalkfarm Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Chalkfarm Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1L9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1L9"
+        }
+    ], 
+    "formatted_address": "8 Chalkfarm Dr, Toronto, ON M3L 1L9, Canada", 
+    "id": "9f79fb901e8baea0e925fd93b1cbbd797bd808be", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

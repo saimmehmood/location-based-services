@@ -1,0 +1,126 @@
+{
+    "website": "http://www.havenbrook.com/", 
+    "rating": 5, 
+    "utc_offset": -300, 
+    "name": "Havenbrook Realty", 
+    "reference": "ChIJd36dB6oxK4gRM0QkGKbCa3o", 
+    "geometry": {
+        "location": {
+            "lat": 43.7284786, 
+            "lng": -79.51042939999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72982303029151, 
+                "lng": -79.5091189197085
+            }, 
+            "southwest": {
+                "lat": 43.72712506970851, 
+                "lng": -79.5118168802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2335 Jane St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1A7</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJd36dB6oxK4gRM0QkGKbCa3o", 
+    "international_phone_number": "+1 416-614-9231", 
+    "plus_code": {
+        "global_code": "87M2PFHQ+9R", 
+        "compound_code": "PFHQ+9R Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-6qyTRdtGIiM/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jVF439So8v1HbgdquvNr0e7zhhJg/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Gustavo Vasquez", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/115263024572058538372/reviews", 
+            "time": 1497364480
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Wk3KiBwLt9Q/AAAAAAAAAAI/AAAAAAABcDY/xt3CTStpl7U/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Keisel Vasquez", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/110931761533095525693/reviews", 
+            "time": 1484881447
+        }
+    ], 
+    "formatted_phone_number": "(416) 614-9231", 
+    "url": "https://maps.google.com/?cid=8821358313760638003", 
+    "scope": "GOOGLE", 
+    "vicinity": "2335 Jane Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2335", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2335"
+        }, 
+        {
+            "long_name": "Jane Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Jane St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1A7", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1A7"
+        }
+    ], 
+    "formatted_address": "2335 Jane St, North York, ON M3M 1A7, Canada", 
+    "id": "ca91a026bd5effa1ebcd468ccfc91c65d17dd1c0", 
+    "types": [
+        "real_estate_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

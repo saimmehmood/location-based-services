@@ -1,0 +1,194 @@
+{
+    "website": "http://www.bluesailenergy.ca/", 
+    "utc_offset": -300, 
+    "name": "Blue Sail Energy Solutions", 
+    "reference": "ChIJx9vSIqIxK4gRAlpI5BHk3Jc", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAABxzBsbdMw7UMlaKJrf-Q0foK7YoXqGlFm3qX9F1LHYsjXTXeAHH2Y1KZCgbb1UoGyvBiZwfQnXEegjFB4jrAc7z4hLZIbVXJpIjbhWerW8VitlnWV1Ugba6u0_H_ElCgEhAzZU84AZ52GB_X-KfVEoB1GhQzIq72MW-fwzV4KHETJ8sMxIJyrw", 
+            "width": 5152, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104128784835646794714/photos\">Blue Sail Energy Solutions</a>"
+            ], 
+            "height": 3864
+        }, 
+        {
+            "photo_reference": "CmRaAAAA5FqPDQhkfHK3bFrDf5tYdA1e5Oz0YE7XdSnQSGQhaaMqwaBRuX6oMsZI4tGNGGuDj1S9oyVCf8aUA2vV6Oitrvp0TyHNLe5_ZbQlhXZqrAhlpqE6aW-V4Sac48IJ8iM-EhAHpPu9dArL50Zq8-deTOVpGhR6Ti-oGkoNQ2inp0DltcIDMHFaZw", 
+            "width": 459, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104128784835646794714/photos\">Blue Sail Energy Solutions</a>"
+            ], 
+            "height": 454
+        }, 
+        {
+            "photo_reference": "CmRaAAAAzqYJsatYZnDiQ0HGICmywCO_k7UsSsbTa4Vzajc6zi9L9CNOffNMOJL6M3NFB9C-H4aCCFx2jxNyDqns8lVGt-U67WksHMA3d1P9fKgKFzG4m8Klmx0Z0_asZPwHsTsMEhASXhE741uWrkHEnN2gJb9gGhTrXTZRgNUuLuVROizdKwQndHezdw", 
+            "width": 1000, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104128784835646794714/photos\">Blue Sail Energy Solutions</a>"
+            ], 
+            "height": 1000
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.731338, 
+            "lng": -79.49443269999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7325953802915, 
+                "lng": -79.49304416970848
+            }, 
+            "southwest": {
+                "lat": 43.7298974197085, 
+                "lng": -79.4957421302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">154 Calvington Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2M6</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJx9vSIqIxK4gRAlpI5BHk3Jc", 
+    "international_phone_number": "+1 647-860-2978", 
+    "plus_code": {
+        "global_code": "87M2PGJ4+G6", 
+        "compound_code": "PGJ4+G6 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(647) 860-2978", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=10942871960098986498", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM", 
+            "Tuesday: 8:00 AM \u2013 6:00 PM", 
+            "Wednesday: 8:00 AM \u2013 6:00 PM", 
+            "Thursday: 8:00 AM \u2013 6:00 PM", 
+            "Friday: 8:00 PM \u2013 12:00 AM", 
+            "Saturday: 12:00 AM \u2013 6:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "2000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "154 Calvington Drive, North York", 
+    "address_components": [
+        {
+            "long_name": "154", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "154"
+        }, 
+        {
+            "long_name": "Calvington Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Calvington Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2M6", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2M6"
+        }
+    ], 
+    "formatted_address": "154 Calvington Dr, North York, ON M3M 2M6, Canada", 
+    "id": "e960b6b30082dda2d298dcf4102930b7a2f5c5f2", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

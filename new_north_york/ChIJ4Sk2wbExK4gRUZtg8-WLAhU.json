@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "36-10 Dombey Rd", 
+    "reference": "ChIJ4Sk2wbExK4gRUZtg8-WLAhU", 
+    "geometry": {
+        "location": {
+            "lat": 43.7377403, 
+            "lng": -79.5080421
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7390892302915, 
+                "lng": -79.50597895
+            }, 
+            "southwest": {
+                "lat": 43.7363912697085, 
+                "lng": -79.51010515
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">36-10 Dombey Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1N9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ4Sk2wbExK4gRUZtg8-WLAhU", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=36-10+Dombey+Rd,+North+York,+ON+M3L+1N9,+Canada&ftid=0x882b31b1c13629e1:0x15028be5f3609b51", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "36-10", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "36-10"
+        }, 
+        {
+            "long_name": "Dombey Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Dombey Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1N9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1N9"
+        }
+    ], 
+    "formatted_address": "36-10 Dombey Rd, North York, ON M3L 1N9, Canada", 
+    "id": "6c50e1ce16a2c642d785516b381304de648049b9", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

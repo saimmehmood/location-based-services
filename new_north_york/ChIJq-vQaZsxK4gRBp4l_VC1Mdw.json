@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Keele St At Tilbury Dr", 
+    "reference": "ChIJq-vQaZsxK4gRBp4l_VC1Mdw", 
+    "geometry": {
+        "location": {
+            "lat": 43.73046799999999, 
+            "lng": -79.48307199999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7318169802915, 
+                "lng": -79.48172301970848
+            }, 
+            "southwest": {
+                "lat": 43.7291190197085, 
+                "lng": -79.48442098029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 3E5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJq-vQaZsxK4gRBp4l_VC1Mdw", 
+    "plus_code": {
+        "global_code": "87M2PGJ8+5Q", 
+        "compound_code": "PGJ8+5Q Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=15866662321652080134", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3M 3E5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 3E5"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3M 3E5, Canada", 
+    "id": "7979d236ea7deef9fabbfc9fb20d352bcd4d739d", 
+    "types": [
+        "bus_station", 
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png"
+}

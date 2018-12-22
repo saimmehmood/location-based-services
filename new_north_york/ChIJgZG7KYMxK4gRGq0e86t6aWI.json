@@ -1,0 +1,100 @@
+{
+    "utc_offset": -300, 
+    "name": "Downsview Memorial Parkette", 
+    "reference": "ChIJgZG7KYMxK4gRGq0e86t6aWI", 
+    "geometry": {
+        "location": {
+            "lat": 43.7270615, 
+            "lng": -79.4818135
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7285764302915, 
+                "lng": -79.47965756970848
+            }, 
+            "southwest": {
+                "lat": 43.7258784697085, 
+                "lng": -79.4823555302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1092 Wilson Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3K</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJgZG7KYMxK4gRGq0e86t6aWI", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=1092+Wilson+Ave,+Toronto,+ON+M3K,+Canada&ftid=0x882b318329bb9181:0x62697aabf31ead1a", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "1092", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1092"
+        }, 
+        {
+            "long_name": "Wilson Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilson Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3K", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3K"
+        }
+    ], 
+    "formatted_address": "1092 Wilson Ave, Toronto, ON M3K, Canada", 
+    "id": "4cda75c570cac5cf0a0d1b59e05c2a9e4edb4af1", 
+    "types": [
+        "park", 
+        "premise", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png"
+}

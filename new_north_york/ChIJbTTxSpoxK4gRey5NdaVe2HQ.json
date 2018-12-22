@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "33-1 Sunray Crescent", 
+    "reference": "ChIJbTTxSpoxK4gRey5NdaVe2HQ", 
+    "geometry": {
+        "location": {
+            "lat": 43.7321466, 
+            "lng": -79.4851594
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7337987302915, 
+                "lng": -79.48430239999999
+            }, 
+            "southwest": {
+                "lat": 43.7311007697085, 
+                "lng": -79.48716080000001
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">33-1 Sunray Crescent</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2C4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJbTTxSpoxK4gRey5NdaVe2HQ", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=33-1+Sunray+Crescent,+North+York,+ON+M3M+2C4,+Canada&ftid=0x882b319a4af1346d:0x74d85ea5754d2e7b", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "33-1", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "33-1"
+        }, 
+        {
+            "long_name": "Sunray Crescent", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sunray Crescent"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2C4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2C4"
+        }
+    ], 
+    "formatted_address": "33-1 Sunray Crescent, North York, ON M3M 2C4, Canada", 
+    "id": "80df2519e503159d3c9249a812fa97faeb557839", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

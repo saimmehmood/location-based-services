@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "85-105 Newlin Crescent", 
+    "reference": "ChIJWdX7lbsxK4gRHoeQpHz-89M", 
+    "geometry": {
+        "location": {
+            "lat": 43.73933769999999, 
+            "lng": -79.4999234
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7406540802915, 
+                "lng": -79.4985667697085
+            }, 
+            "southwest": {
+                "lat": 43.7379561197085, 
+                "lng": -79.50126473029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">85-105 Newlin Crescent</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1X5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJWdX7lbsxK4gRHoeQpHz-89M", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=85-105+Newlin+Crescent,+North+York,+ON+M3L+1X5,+Canada&ftid=0x882b31bb95fbd559:0xd3f3fe7ca490871e", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "85-105", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "85-105"
+        }, 
+        {
+            "long_name": "Newlin Crescent", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Newlin Crescent"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1X5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1X5"
+        }
+    ], 
+    "formatted_address": "85-105 Newlin Crescent, North York, ON M3L 1X5, Canada", 
+    "id": "78beab54a46d9250f3813033d28ae88c51b100cf", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

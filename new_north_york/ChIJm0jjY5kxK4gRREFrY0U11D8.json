@@ -1,0 +1,93 @@
+{
+    "utc_offset": -300, 
+    "name": "A J Stucco & Renovation Inc.", 
+    "reference": "ChIJm0jjY5kxK4gRREFrY0U11D8", 
+    "geometry": {
+        "location": {
+            "lat": 43.731608, 
+            "lng": -79.4875668
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7331041302915, 
+                "lng": -79.4856575197085
+            }, 
+            "southwest": {
+                "lat": 43.7304061697085, 
+                "lng": -79.4883554802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Sunray Crescent</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2C6</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJm0jjY5kxK4gRREFrY0U11D8", 
+    "international_phone_number": "+1 416-471-9974", 
+    "vicinity": "Sunray Crescent, Toronto", 
+    "formatted_phone_number": "(416) 471-9974", 
+    "url": "https://maps.google.com/?cid=4599359691589108036", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Sunray Crescent", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sunray Crescent"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2C6", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2C6"
+        }
+    ], 
+    "formatted_address": "Sunray Crescent, Toronto, ON M3M 2C6, Canada", 
+    "id": "70a82a8f06a318907ce3d09cf6a2825352e870ef", 
+    "types": [
+        "general_contractor", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

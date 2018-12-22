@@ -1,0 +1,242 @@
+{
+    "rating": 4.4, 
+    "reference": "ChIJp4OyaxdawokRjMcLtgFb560", 
+    "place_id": "ChIJp4OyaxdawokRjMcLtgFb560", 
+    "plus_code": {
+        "global_code": "87G7PX5Q+7Q", 
+        "compound_code": "PX5Q+7Q New York, United States"
+    }, 
+    "url": "https://maps.google.com/?cid=12531084551089014668", 
+    "formatted_address": "120 Broadway # 35, New York, NY 10271, USA", 
+    "id": "118ab97eae797e3ed4ff370fd1e0b2fa6335d2f5", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM", 
+            "Tuesday: 8:30 AM \u2013 5:30 PM", 
+            "Wednesday: 8:30 AM \u2013 5:30 PM", 
+            "Thursday: 8:30 AM \u2013 5:30 PM", 
+            "Friday: 8:30 AM \u2013 5:30 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1730"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0830"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "120 Broadway # 35, New York", 
+    "scope": "GOOGLE", 
+    "website": "http://www.sifma.org/", 
+    "utc_offset": -300, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAg8xu-Q2wP9sgSrNDpVOwm0GeFSGQJ9AMHEhNBmc3S-W5KBekLaexiae-jSRU3Kpa4yw4deyuoeNQut1IgjE11FZuUQlbslaqJMndFPJqQY4sE0CKv9GDTNqoDrCMYxJOEhAguVt1QO8szlUm9k7aiWe_GhSDZRPAedE4C5l6W4o8pDaMg7oMaQ", 
+            "width": 2988, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115461792234107999392/photos\">Scott Buller</a>"
+            ], 
+            "height": 5312
+        }
+    ], 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "SIFMA", 
+    "geometry": {
+        "location": {
+            "lat": 40.708228, 
+            "lng": -74.010525
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.7097022302915, 
+                "lng": -74.0094697697085
+            }, 
+            "southwest": {
+                "lat": 40.70700426970851, 
+                "lng": -74.01216773029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">120 Broadway # 35</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10271-3599</span>, <span class=\"country-name\">USA</span>", 
+    "international_phone_number": "+1 212-313-1000", 
+    "reviews": [
+        {
+            "rating": 4, 
+            "author_name": "Gerald Cook", 
+            "language": "en", 
+            "text": "Good location and interesting seminars.  A bit hard to find the actual seminar hall.", 
+            "relative_time_description": "10 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/111481002302178740924/reviews", 
+            "time": 1517590005, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Q4A1RFgo2u8/AAAAAAAAAAI/AAAAAAAAAF4/aDpW-up28VI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Ted Gregory", 
+            "language": "en", 
+            "text": "Great event! Come see us at #1816 #etnasoft ", 
+            "relative_time_description": "6 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/110678809185204174704/reviews", 
+            "time": 1340029246, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5qXpqPdNbQo/AAAAAAAAAAI/AAAAAAAAIF8/G_Q-V5ZjKjs/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 3, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-e9aUAL5rKBY/AAAAAAAAAAI/AAAAAAAAEEQ/fihyvoJsynk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Steve Velez", 
+            "text": "", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/107521712416762574439/reviews", 
+            "time": 1536703637
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-42lTPFB2aZ0/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gwv1bs0yAV1gRqJ85mBrB3Rzvf_A/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg", 
+            "author_name": "Amyn Merchant", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/101993132432615073640/reviews", 
+            "time": 1508119590
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-j3rbYMfmc0I/AAAAAAAAAAI/AAAAAAAAB-U/kzaRn7-6f00/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Yasmine Bensai", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/104822181958885865465/reviews", 
+            "time": 1504220286
+        }
+    ], 
+    "formatted_phone_number": "(212) 313-1000", 
+    "address_components": [
+        {
+            "long_name": "# 35", 
+            "types": [
+                "subpremise"
+            ], 
+            "short_name": "# 35"
+        }, 
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10271", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10271"
+        }, 
+        {
+            "long_name": "3599", 
+            "types": [
+                "postal_code_suffix"
+            ], 
+            "short_name": "3599"
+        }
+    ]
+}

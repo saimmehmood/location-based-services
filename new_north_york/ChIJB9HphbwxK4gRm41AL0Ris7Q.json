@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "42-26 Northover St", 
+    "reference": "ChIJB9HphbwxK4gRm41AL0Ris7Q", 
+    "geometry": {
+        "location": {
+            "lat": 43.7378922, 
+            "lng": -79.4979006
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7391938302915, 
+                "lng": -79.49657471970849
+            }, 
+            "southwest": {
+                "lat": 43.73649586970851, 
+                "lng": -79.4992726802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">42-26 Northover St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1W5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJB9HphbwxK4gRm41AL0Ris7Q", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=42-26+Northover+St,+North+York,+ON+M3L+1W5,+Canada&ftid=0x882b31bc85e9d107:0xb4b362442f408d9b", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "42-26", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "42-26"
+        }, 
+        {
+            "long_name": "Northover Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Northover St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1W5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1W5"
+        }
+    ], 
+    "formatted_address": "42-26 Northover St, North York, ON M3L 1W5, Canada", 
+    "id": "dde3036b2bd5158afee8f30a2dc8725d4ffedf95", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

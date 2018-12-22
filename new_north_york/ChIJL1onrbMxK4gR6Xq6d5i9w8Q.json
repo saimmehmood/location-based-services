@@ -1,0 +1,97 @@
+{
+    "utc_offset": -300, 
+    "name": "1937-1929 Sheppard Ave W", 
+    "reference": "ChIJL1onrbMxK4gR6Xq6d5i9w8Q", 
+    "geometry": {
+        "location": {
+            "lat": 43.73948499999999, 
+            "lng": -79.5120389
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.74083158029149, 
+                "lng": -79.51069001970849
+            }, 
+            "southwest": {
+                "lat": 43.7381336197085, 
+                "lng": -79.51338798029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1937-1929 Sheppard Ave W</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJL1onrbMxK4gR6Xq6d5i9w8Q", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=1937-1929+Sheppard+Ave+W,+North+York,+ON+M3L,+Canada&ftid=0x882b31b3ad275a2f:0xc4c3bd9877ba7ae9", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "1937-1929", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1937-1929"
+        }, 
+        {
+            "long_name": "Sheppard Avenue West", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Sheppard Ave W"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3L"
+        }
+    ], 
+    "formatted_address": "1937-1929 Sheppard Ave W, North York, ON M3L, Canada", 
+    "id": "31e44efcb8b49518ae76f83ccbcf71871ba2b3fb", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

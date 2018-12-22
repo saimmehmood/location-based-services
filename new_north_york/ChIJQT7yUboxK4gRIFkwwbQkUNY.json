@@ -1,0 +1,97 @@
+{
+    "utc_offset": -300, 
+    "name": "19 Lucinda Ct", 
+    "reference": "ChIJQT7yUboxK4gRIFkwwbQkUNY", 
+    "geometry": {
+        "location": {
+            "lat": 43.7391184, 
+            "lng": -79.5017436
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7404258802915, 
+                "lng": -79.5003775197085
+            }, 
+            "southwest": {
+                "lat": 43.7377279197085, 
+                "lng": -79.5030754802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">19 Lucinda Ct</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJQT7yUboxK4gRIFkwwbQkUNY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=19+Lucinda+Ct,+North+York,+ON+M3L,+Canada&ftid=0x882b31ba51f23e41:0xd65024b4c1305920", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "19", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "19"
+        }, 
+        {
+            "long_name": "Lucinda Court", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Lucinda Ct"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3L"
+        }
+    ], 
+    "formatted_address": "19 Lucinda Ct, North York, ON M3L, Canada", 
+    "id": "5b30d533ae5b47ca7c663d1f908a5a2c4e8ad372", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

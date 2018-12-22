@@ -1,0 +1,103 @@
+{
+    "utc_offset": -300, 
+    "name": "Certified General Accountant", 
+    "reference": "ChIJUwRMPZ0xK4gRxrHgIOcVgVE", 
+    "geometry": {
+        "location": {
+            "lat": 43.72670859999999, 
+            "lng": -79.4829799
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72805453029149, 
+                "lng": -79.48162956970849
+            }, 
+            "southwest": {
+                "lat": 43.7253565697085, 
+                "lng": -79.4843275302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1108 Wilson Ave</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1G7</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJUwRMPZ0xK4gRxrHgIOcVgVE", 
+    "plus_code": {
+        "global_code": "87M2PGG8+MR", 
+        "compound_code": "PGG8+MR Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "1108 Wilson Avenue, North York", 
+    "url": "https://maps.google.com/?cid=5872999471501062598", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "1108", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1108"
+        }, 
+        {
+            "long_name": "Wilson Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilson Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1G7", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1G7"
+        }
+    ], 
+    "formatted_address": "1108 Wilson Ave, North York, ON M3M 1G7, Canada", 
+    "id": "3f7840e61f758adbd6eea4256bbd969aee28c5fe", 
+    "types": [
+        "accounting", 
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

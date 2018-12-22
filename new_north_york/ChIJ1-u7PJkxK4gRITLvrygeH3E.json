@@ -1,0 +1,104 @@
+{
+    "utc_offset": -300, 
+    "name": "Ales Electric Inc", 
+    "reference": "ChIJ1-u7PJkxK4gRITLvrygeH3E", 
+    "geometry": {
+        "location": {
+            "lat": 43.73121459999999, 
+            "lng": -79.4893096
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7325494302915, 
+                "lng": -79.48795466970849
+            }, 
+            "southwest": {
+                "lat": 43.7298514697085, 
+                "lng": -79.4906526302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">12 Compton Crescent</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2C2</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ1-u7PJkxK4gRITLvrygeH3E", 
+    "international_phone_number": "+1 416-755-7131", 
+    "plus_code": {
+        "global_code": "87M2PGJ6+F7", 
+        "compound_code": "PGJ6+F7 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 755-7131", 
+    "url": "https://maps.google.com/?cid=8151267010663100961", 
+    "scope": "GOOGLE", 
+    "vicinity": "12 Compton Crescent, North York", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Compton Crescent", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Compton Crescent"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2C2", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2C2"
+        }
+    ], 
+    "formatted_address": "12 Compton Crescent, North York, ON M3M 2C2, Canada", 
+    "id": "1166f9640d8c70a6c4559b79b524032c89f07609", 
+    "types": [
+        "electrician", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

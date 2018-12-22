@@ -1,0 +1,97 @@
+{
+    "utc_offset": -300, 
+    "name": "84-66 Lexfield Ave", 
+    "reference": "ChIJffifuqAxK4gRxEXyHViaOu0", 
+    "geometry": {
+        "location": {
+            "lat": 43.7270213, 
+            "lng": -79.49778789999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72836658029149, 
+                "lng": -79.49647136970849
+            }, 
+            "southwest": {
+                "lat": 43.72566861970849, 
+                "lng": -79.4991693302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">84-66 Lexfield Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJffifuqAxK4gRxEXyHViaOu0", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=84-66+Lexfield+Ave,+Toronto,+ON+M3M,+Canada&ftid=0x882b31a0ba9ff87d:0xed3a9a581df245c4", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "84-66", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "84-66"
+        }, 
+        {
+            "long_name": "Lexfield Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Lexfield Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M", 
+            "types": [
+                "postal_code_prefix", 
+                "postal_code"
+            ], 
+            "short_name": "M3M"
+        }
+    ], 
+    "formatted_address": "84-66 Lexfield Ave, Toronto, ON M3M, Canada", 
+    "id": "d9025474d8c7fc2c3a809ac19f7841eb0647b607", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

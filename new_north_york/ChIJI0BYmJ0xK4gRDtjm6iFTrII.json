@@ -1,0 +1,199 @@
+{
+    "utc_offset": -300, 
+    "name": "UN*ruli", 
+    "reference": "ChIJI0BYmJ0xK4gRDtjm6iFTrII", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAmlaQVWbuKgN20fT-Y2qrHlOG1B-NfjHIqqsYUCotKuxv3QskGtRgw1Oc5Iq0YP3go4mHIpAk6STAFk6qakv-DfKxsCjPVM_reINOZJD_irn6KhD4Xj-ITMzLiSlIaXiREhBSpes1Q5ntHFDY1x_RgVz9GhSl2XsSrf4MOryNQ5laTQA0ZG8YqQ", 
+            "width": 1941, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111900271833807966858/photos\">UN*ruli</a>"
+            ], 
+            "height": 637
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.7264252, 
+            "lng": -79.4849332
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72759123029149, 
+                "lng": -79.4835065197085
+            }, 
+            "southwest": {
+                "lat": 43.7248932697085, 
+                "lng": -79.4862044802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1130 Wilson Ave</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1K3</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJI0BYmJ0xK4gRDtjm6iFTrII", 
+    "international_phone_number": "+1 647-449-2535", 
+    "plus_code": {
+        "global_code": "87M2PGG8+H2", 
+        "compound_code": "PGG8+H2 Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(647) 449-2535", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=9415992326064887822", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM", 
+            "Tuesday: 9:00 AM \u2013 5:00 PM", 
+            "Wednesday: 9:00 AM \u2013 5:00 PM", 
+            "Thursday: 9:00 AM \u2013 5:00 PM", 
+            "Friday: 9:00 AM \u2013 5:00 PM", 
+            "Saturday: 9:00 AM \u2013 5:00 PM", 
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 0, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 0, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "1130 Wilson Avenue, North York", 
+    "address_components": [
+        {
+            "long_name": "1130", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1130"
+        }, 
+        {
+            "long_name": "Wilson Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilson Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1K3", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1K3"
+        }
+    ], 
+    "formatted_address": "1130 Wilson Ave, North York, ON M3M 1K3, Canada", 
+    "id": "e44f86ac2c251a4706901ace2f67b6539e9cd664", 
+    "types": [
+        "jewelry_store", 
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

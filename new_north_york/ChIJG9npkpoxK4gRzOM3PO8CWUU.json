@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "2898-2876 Keele St", 
+    "reference": "ChIJG9npkpoxK4gRzOM3PO8CWUU", 
+    "geometry": {
+        "location": {
+            "lat": 43.7333593, 
+            "lng": -79.4836389
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7347082302915, 
+                "lng": -79.4822899697085
+            }, 
+            "southwest": {
+                "lat": 43.7320102697085, 
+                "lng": -79.48498793029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2898-2876 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2G9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJG9npkpoxK4gRzOM3PO8CWUU", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=2898-2876+Keele+St,+North+York,+ON+M3M+2G9,+Canada&ftid=0x882b319a92e9d91b:0x455902ef3c37e3cc", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "2898-2876", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2898-2876"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2G9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2G9"
+        }
+    ], 
+    "formatted_address": "2898-2876 Keele St, North York, ON M3M 2G9, Canada", 
+    "id": "71f8b5734a9392b268b482d0317b4712640cba0e", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

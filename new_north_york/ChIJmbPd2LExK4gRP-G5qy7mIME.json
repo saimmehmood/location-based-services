@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "24-22 Rambler Pl", 
+    "reference": "ChIJmbPd2LExK4gRP-G5qy7mIME", 
+    "geometry": {
+        "location": {
+            "lat": 43.73688569999999, 
+            "lng": -79.50792969999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73823468029151, 
+                "lng": -79.50658071970848
+            }, 
+            "southwest": {
+                "lat": 43.73553671970851, 
+                "lng": -79.5092786802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">24-22 Rambler Pl</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1N7</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJmbPd2LExK4gRP-G5qy7mIME", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=24-22+Rambler+Pl,+North+York,+ON+M3L+1N7,+Canada&ftid=0x882b31b1d8ddb399:0xc120e62eabb9e13f", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "24-22", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "24-22"
+        }, 
+        {
+            "long_name": "Rambler Place", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Rambler Pl"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1N7", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1N7"
+        }
+    ], 
+    "formatted_address": "24-22 Rambler Pl, North York, ON M3L 1N7, Canada", 
+    "id": "10b81204f5eb8c08002e90c27d5e95386ca0234e", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

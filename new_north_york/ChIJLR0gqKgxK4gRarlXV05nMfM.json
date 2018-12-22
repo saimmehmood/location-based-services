@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "127-131 Exbury Rd", 
+    "reference": "ChIJLR0gqKgxK4gRarlXV05nMfM", 
+    "geometry": {
+        "location": {
+            "lat": 43.73108199999999, 
+            "lng": -79.50410839999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7324309802915, 
+                "lng": -79.50275936970849
+            }, 
+            "southwest": {
+                "lat": 43.7297330197085, 
+                "lng": -79.50545733029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">127-131 Exbury Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1R5</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJLR0gqKgxK4gRarlXV05nMfM", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=127-131+Exbury+Rd,+North+York,+ON+M3M+1R5,+Canada&ftid=0x882b31a8a8201d2d:0xf331674e5757b96a", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "127-131", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "127-131"
+        }, 
+        {
+            "long_name": "Exbury Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Exbury Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1R5", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1R5"
+        }
+    ], 
+    "formatted_address": "127-131 Exbury Rd, North York, ON M3M 1R5, Canada", 
+    "id": "c6d944df585ef807be1a2837d6b70c85ad082de2", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

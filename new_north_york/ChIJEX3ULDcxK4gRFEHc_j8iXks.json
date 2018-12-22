@@ -1,0 +1,104 @@
+{
+    "utc_offset": -300, 
+    "name": "Horizon Blinds", 
+    "reference": "ChIJEX3ULDcxK4gRFEHc_j8iXks", 
+    "geometry": {
+        "location": {
+            "lat": 43.7346477, 
+            "lng": -79.48394189999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7358550302915, 
+                "lng": -79.48251876970849
+            }, 
+            "southwest": {
+                "lat": 43.7331570697085, 
+                "lng": -79.48521673029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2952 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2H2</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJEX3ULDcxK4gRFEHc_j8iXks", 
+    "international_phone_number": "+1 289-929-0008", 
+    "plus_code": {
+        "global_code": "87M2PGM8+VC", 
+        "compound_code": "PGM8+VC Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(289) 929-0008", 
+    "url": "https://maps.google.com/?cid=5430815858909528340", 
+    "scope": "GOOGLE", 
+    "vicinity": "2952 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2952", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2952"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2H2", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2H2"
+        }
+    ], 
+    "formatted_address": "2952 Keele St, North York, ON M3M 2H2, Canada", 
+    "id": "39e0b29dc3e26b28bc8b8725e1c6098827c48237", 
+    "types": [
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

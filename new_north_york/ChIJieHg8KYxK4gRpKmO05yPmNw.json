@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "220-236 Calvington Dr", 
+    "reference": "ChIJieHg8KYxK4gRpKmO05yPmNw", 
+    "geometry": {
+        "location": {
+            "lat": 43.7296903, 
+            "lng": -79.50086449999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7310392802915, 
+                "lng": -79.49939215
+            }, 
+            "southwest": {
+                "lat": 43.7283413197085, 
+                "lng": -79.50233675
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">220-236 Calvington Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2N1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJieHg8KYxK4gRpKmO05yPmNw", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=220-236+Calvington+Dr,+North+York,+ON+M3M+2N1,+Canada&ftid=0x882b31a6f0e0e189:0xdc988f9cd38ea9a4", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "220-236", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "220-236"
+        }, 
+        {
+            "long_name": "Calvington Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Calvington Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2N1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2N1"
+        }
+    ], 
+    "formatted_address": "220-236 Calvington Dr, North York, ON M3M 2N1, Canada", 
+    "id": "5df9bd34285cab64bec43b3be7ba116188fd14bb", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

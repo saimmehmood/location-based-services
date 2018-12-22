@@ -1,0 +1,185 @@
+{
+    "utc_offset": -300, 
+    "name": "Kiiwednong Aboriginal Head Start", 
+    "reference": "ChIJv1mF2pwxK4gRNdu-6qZOwvA", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAA2NBLz7y84AxEd2MPLSX31FN6tU4AwdB-1nltJrHuT71AoQTzOkv9m0jXJ-vNUJnGW33JzfNSGjMOjA5mBOhSV3KDLkSD4Qw2L4EkOGDOmDBwBUnrv4P23bhSTs4yAdkvEhBSutVFtrCqm9h6O3f_uw7tGhS8HQoFWm_YIMcQNqOCKTWXtLJY8g", 
+            "width": 2997, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106735659924497421264/photos\">chiara pastrello</a>"
+            ], 
+            "height": 5328
+        }, 
+        {
+            "photo_reference": "CmRaAAAAhJSSB_eJlE2ZLEAuDNKjN2u5MQQF9wsebYc74TzHFNnKPb3qRYRTtHwfCuGzjP4M3bLXdn9SkpMYDJfo2KaIAFLeeAHs5742xIo0o9VIAWuUayGGmg6nc-iyDaWdSueBEhCpo88bp6jTReYrMRVk3TdWGhTmrkJA3r-QG4BNQkHWD46wBbEilQ", 
+            "width": 2997, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106735659924497421264/photos\">chiara pastrello</a>"
+            ], 
+            "height": 5328
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.72812529999999, 
+            "lng": -79.4826777
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7294872302915, 
+                "lng": -79.48121131970849
+            }, 
+            "southwest": {
+                "lat": 43.7267892697085, 
+                "lng": -79.4839092802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2784 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2G2</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJv1mF2pwxK4gRNdu-6qZOwvA", 
+    "international_phone_number": "+1 416-630-3423", 
+    "plus_code": {
+        "global_code": "87M2PGH8+7W", 
+        "compound_code": "PGH8+7W Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 630-3423", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=17348515193394486069", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 4:30 PM", 
+            "Tuesday: 8:30 AM \u2013 4:30 PM", 
+            "Wednesday: 8:30 AM \u2013 4:30 PM", 
+            "Thursday: 8:30 AM \u2013 4:30 PM", 
+            "Friday: 8:30 AM \u2013 4:30 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1630"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1630"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1630"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1630"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0830"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1630"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0830"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "2784 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2784", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2784"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2G2", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2G2"
+        }
+    ], 
+    "formatted_address": "2784 Keele St, North York, ON M3M 2G2, Canada", 
+    "id": "e5ae8b7f1fccc870ba45ff36baf7a86b860c3a92", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

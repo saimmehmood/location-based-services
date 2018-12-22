@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "124 Broadway", 
+    "reference": "ChIJF84BQhdawokRkdVPm000UEQ", 
+    "geometry": {
+        "location": {
+            "lat": 40.7087028, 
+            "lng": -74.0109421
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.71005178029149, 
+                "lng": -74.0095931197085
+            }, 
+            "southwest": {
+                "lat": 40.70735381970849, 
+                "lng": -74.0122910802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">124 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10006</span>, <span class=\"country-name\">USA</span>", 
+    "place_id": "ChIJF84BQhdawokRkdVPm000UEQ", 
+    "vicinity": "Manhattan", 
+    "url": "https://maps.google.com/?q=124+Broadway,+New+York,+NY+10006,+USA&ftid=0x89c25a174201ce17:0x4450344d9b4fd591", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "124", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "124"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10006", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10006"
+        }
+    ], 
+    "formatted_address": "124 Broadway, New York, NY 10006, USA", 
+    "id": "c93c3b28e4f5df1fe21a0c8d39430a48067c4d4b", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

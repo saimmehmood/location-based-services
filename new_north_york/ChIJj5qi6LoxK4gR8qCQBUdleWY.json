@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "12-8 Buckland Rd", 
+    "reference": "ChIJj5qi6LoxK4gR8qCQBUdleWY", 
+    "geometry": {
+        "location": {
+            "lat": 43.7376181, 
+            "lng": -79.5020454
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73896638029149, 
+                "lng": -79.5007018697085
+            }, 
+            "southwest": {
+                "lat": 43.7362684197085, 
+                "lng": -79.5033998302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">12-8 Buckland Rd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3L 1V9</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJj5qi6LoxK4gR8qCQBUdleWY", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=12-8+Buckland+Rd,+North+York,+ON+M3L+1V9,+Canada&ftid=0x882b31bae8a29a8f:0x667965470590a0f2", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "12-8", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12-8"
+        }, 
+        {
+            "long_name": "Buckland Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Buckland Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3L 1V9", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3L 1V9"
+        }
+    ], 
+    "formatted_address": "12-8 Buckland Rd, North York, ON M3L 1V9, Canada", 
+    "id": "d534455d1ebc3f815f5464e81c5d807cb4a1a889", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

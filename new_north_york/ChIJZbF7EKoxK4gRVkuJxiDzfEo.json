@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "2355-2377 Jane St", 
+    "reference": "ChIJZbF7EKoxK4gRVkuJxiDzfEo", 
+    "geometry": {
+        "location": {
+            "lat": 43.7282234, 
+            "lng": -79.5103669
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7295723302915, 
+                "lng": -79.5090179697085
+            }, 
+            "southwest": {
+                "lat": 43.7268743697085, 
+                "lng": -79.51171593029152
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2355-2377 Jane St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1A6</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJZbF7EKoxK4gRVkuJxiDzfEo", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=2355-2377+Jane+St,+North+York,+ON+M3M+1A6,+Canada&ftid=0x882b31aa107bb165:0x4a7cf320c6894b56", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "2355-2377", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2355-2377"
+        }, 
+        {
+            "long_name": "Jane Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Jane St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1A6", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1A6"
+        }
+    ], 
+    "formatted_address": "2355-2377 Jane St, North York, ON M3M 1A6, Canada", 
+    "id": "ec55a30f2ae3fd87572881f46d6548944911f8e7", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

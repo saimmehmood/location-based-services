@@ -1,0 +1,241 @@
+{
+    "rating": 4.8, 
+    "reference": "ChIJST0cgRZawokRewE4cpG0KFQ", 
+    "price_level": 3, 
+    "place_id": "ChIJST0cgRZawokRewE4cpG0KFQ", 
+    "plus_code": {
+        "global_code": "87G7PX5Q+8R", 
+        "compound_code": "PX5Q+8R New York, United States"
+    }, 
+    "url": "https://maps.google.com/?cid=6064295435033903483", 
+    "formatted_address": "120 Broadway, New York, NY 10005, USA", 
+    "id": "3eef1a50a4160e7a150e7dcb47fcdf19002d0207", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 6:00 PM", 
+            "Tuesday: 7:00 AM \u2013 6:00 PM", 
+            "Wednesday: 7:00 AM \u2013 6:00 PM", 
+            "Thursday: 7:00 AM \u2013 6:00 PM", 
+            "Friday: 7:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0700"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "120 Broadway, New York", 
+    "scope": "GOOGLE", 
+    "website": "http://www.leonidas.com/", 
+    "utc_offset": -300, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAA_guj_Xs-xbDygy98A2xAUloGxSbAPr12ydyd7QoFXuZ4l3HlM5sIvtlwIvX273QDqkvkTkE02PpZWeCJk_iudp3On1ahe558F96NxcfsCs7Uwpwh-gxgUAF8dBch6hn7EhBMutKn0s87dBIg8dtcQsVIGhRQjV6FXVEFni5OoEg2kZ7N74rMcg", 
+            "width": 6000, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110854164034814697389/photos\">Aaron Johnson</a>"
+            ], 
+            "height": 4000
+        }, 
+        {
+            "photo_reference": "CmRaAAAAXtN41m_pVNNxYO0s3FwyNN5rseH1GeSmHsYniQQOAZhZQIUyTdJe6ybARdDzMyNH0vegwAH0m1OIYjkxX-dxwpM2c0oXbqdLlC-CwKPa5dxjBQG7eKn8Nwzvq_9sKhp0EhCNvEqzY9O_pFRb5MwtNPxSGhQ69XvooA5TdDiuxb0k3EkL2EGfxg", 
+            "width": 6000, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110854164034814697389/photos\">Aaron Johnson</a>"
+            ], 
+            "height": 4000
+        }
+    ], 
+    "types": [
+        "store", 
+        "point_of_interest", 
+        "food", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png", 
+    "name": "Leonidas", 
+    "geometry": {
+        "location": {
+            "lat": 40.7082763, 
+            "lng": -74.01049119999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.7097501802915, 
+                "lng": -74.0094351697085
+            }, 
+            "southwest": {
+                "lat": 40.7070522197085, 
+                "lng": -74.0121331302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">120 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10005</span>, <span class=\"country-name\">USA</span>", 
+    "international_phone_number": "+1 212-766-6100", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Joerg Hafer", 
+            "language": "en", 
+            "text": "A nice and friendly place in the middle of tightest financial node of the world.", 
+            "relative_time_description": "7 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/104099879182884281640/reviews", 
+            "time": 1523477987, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Otg-JxgMShY/AAAAAAAAAAI/AAAAAAAAl_U/ri56I22oOhE/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Sherry Yang", 
+            "language": "en", 
+            "text": "Friendly staff. Cute decor and great coffee and treats! ", 
+            "relative_time_description": "5 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/109640453326552069783/reviews", 
+            "time": 1375119235, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-f9886VaNNE0/AAAAAAAAAAI/AAAAAAAAGZo/amm5vGG06ck/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Jasmine Garmony", 
+            "language": "en", 
+            "text": "Best chocolates coming from france", 
+            "relative_time_description": "5 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/106400605148991011327/reviews", 
+            "time": 1363216463, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xwSJfWwHZj8/AAAAAAAAAAI/AAAAAAAAKZw/wTrJmBPeD5k/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "MIKI G", 
+            "language": "iw", 
+            "text": "\u05e9\u05d5\u05e7\u05d5\u05dc\u05d3 \u05d8\u05e2\u05d9\u05dd \u05d5\u05de\u05d9\u05d5\u05d7\u05d3", 
+            "relative_time_description": "a month ago", 
+            "author_url": "https://www.google.com/maps/contrib/107174740559992975848/reviews", 
+            "time": 1539136367, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-DTcg2aa8Mbg/AAAAAAAAAAI/AAAAAAAAB-c/cBuOv376NRE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-oeF9Zk5gCRE/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-i0Bv93GTWvkX1fB1Osu0UXMWyVhQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg", 
+            "author_name": "Antonieta Cheng", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/113761541250682491614/reviews", 
+            "time": 1507827595
+        }
+    ], 
+    "formatted_phone_number": "(212) 766-6100", 
+    "address_components": [
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Broadway", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Broadway"
+        }, 
+        {
+            "long_name": "Manhattan", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Manhattan"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York County", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "New York County"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }, 
+        {
+            "long_name": "10005", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10005"
+        }
+    ]
+}

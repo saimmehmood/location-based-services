@@ -1,0 +1,201 @@
+{
+    "website": "http://www.starlightinvest.com/portfolio/portfolioListing/Canadian-Multi-Family", 
+    "rating": 3.7, 
+    "utc_offset": -300, 
+    "name": "20 Skipton Court Apartments", 
+    "reference": "ChIJ_Te20ZcxK4gRDCLbFkPh2XA", 
+    "geometry": {
+        "location": {
+            "lat": 43.737238, 
+            "lng": -79.49227599999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7385113302915, 
+                "lng": -79.49090996970848
+            }, 
+            "southwest": {
+                "lat": 43.7358133697085, 
+                "lng": -79.4936079302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">20 Skipton Ct</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2S8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ_Te20ZcxK4gRDCLbFkPh2XA", 
+    "international_phone_number": "+1 647-531-2834", 
+    "plus_code": {
+        "global_code": "87M2PGP5+V3", 
+        "compound_code": "PGP5+V3 Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Bob Kinley", 
+            "language": "en", 
+            "text": "I have been looking in the GTA for quite some time for an apartment. I got a job downtown but am relocating from far away. This location is very elegant and well-kept, unfortunately I needed something closer to downtown.\n\nEven though I voiced these concerns to the superintendent Tonia she still was extremely warm and welcoming and answered any questions I had about the building and the general GTA area. \n\nI really appreciated the respect she showed me (even though I showed up late because I got lost), she showed me the whole building in case it could work for me and didn't make me feel like a waste of time (Since I told her upfront I was looking for something closer downtown and am not from the area) ,the honesty about the area (the good and the bad lol) and her openness were well received. \n\nI wish I worked closer to the area because each apartment rented is remodeled, new appliances and the building faces forests so there is a beautiful peaceful view.", 
+            "relative_time_description": "4 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/108705352267836013009/reviews", 
+            "time": 1532053917, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zZMjAKagjCY/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gHyzcZ_unfuL54j4SyTh8SX-4xlA/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Lor days", 
+            "language": "en", 
+            "text": "ive been a tenant here for years and I have to say that the new company has done a lot of great things for the building, new windows and balconies, we are so excited about our new supers they've been here for roughly a year and they do such an amazing job, the building is always clean, when repairs are needed they quickly fix it and always happy and very professional", 
+            "relative_time_description": "7 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/111611441987222972837/reviews", 
+            "time": 1524662784, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-9m4myy9yAkw/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hV6EH9tnr7CIVPMvOORKjYGExhcg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 1, 
+            "author_name": "Joanna A", 
+            "language": "en", 
+            "text": "Lor Days review is not true. The super of the buildings probably wrote this review or got friend or family to. The buildings are not cleaned and maintenance repairs not completed in timely manner. My parents have lived in these buildings for a long time and since the first set of supers took over with Starlight and these supers the buildings has been so rundown and not taking care of and there no maintenance team. These are very unprofessional run buildings.", 
+            "relative_time_description": "5 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/101104950194759090608/reviews", 
+            "time": 1529268125, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-41xBgDTtSCQ/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gbNwMY_jr3q7sSXivbuMX1li6VIg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "(647) 531-2834", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=8131778280456659468", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM", 
+            "Tuesday: 9:00 AM \u2013 5:00 PM", 
+            "Wednesday: 9:00 AM \u2013 5:00 PM", 
+            "Thursday: 9:00 AM \u2013 6:00 PM", 
+            "Friday: 9:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "20 Skipton Court, North York", 
+    "address_components": [
+        {
+            "long_name": "20", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "20"
+        }, 
+        {
+            "long_name": "Skipton Court", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Skipton Ct"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2S8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2S8"
+        }
+    ], 
+    "formatted_address": "20 Skipton Ct, North York, ON M3M 2S8, Canada", 
+    "id": "ed3941ca100fa0902a00c6d25471f8e96aad9562", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

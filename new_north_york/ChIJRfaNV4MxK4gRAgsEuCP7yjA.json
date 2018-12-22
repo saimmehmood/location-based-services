@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "9-31 Paxtonia Blvd", 
+    "reference": "ChIJRfaNV4MxK4gRAgsEuCP7yjA", 
+    "geometry": {
+        "location": {
+            "lat": 43.7294572, 
+            "lng": -79.480892
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73080628029149, 
+                "lng": -79.47857339999999
+            }, 
+            "southwest": {
+                "lat": 43.7281083197085, 
+                "lng": -79.483211
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">9-31 Paxtonia Blvd</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3K 1V8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJRfaNV4MxK4gRAgsEuCP7yjA", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=9-31+Paxtonia+Blvd,+North+York,+ON+M3K+1V8,+Canada&ftid=0x882b3183578df645:0x30cafb23b8040b02", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "9-31", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "9-31"
+        }, 
+        {
+            "long_name": "Paxtonia Boulevard", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Paxtonia Blvd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3K 1V8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3K 1V8"
+        }
+    ], 
+    "formatted_address": "9-31 Paxtonia Blvd, North York, ON M3K 1V8, Canada", 
+    "id": "da88a9b33d4e8bdd0f45c74ad70e5fb8129f658d", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

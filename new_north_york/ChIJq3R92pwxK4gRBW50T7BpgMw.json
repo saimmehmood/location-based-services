@@ -1,0 +1,104 @@
+{
+    "utc_offset": -300, 
+    "name": "Enbridge Electric Connections", 
+    "reference": "ChIJq3R92pwxK4gRBW50T7BpgMw", 
+    "geometry": {
+        "location": {
+            "lat": 43.7275406, 
+            "lng": -79.48285709999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7287179802915, 
+                "lng": -79.48156251970849
+            }, 
+            "southwest": {
+                "lat": 43.7260200197085, 
+                "lng": -79.4842604802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">2772 Keele St</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 0A3</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJq3R92pwxK4gRBW50T7BpgMw", 
+    "international_phone_number": "+1 416-635-7648", 
+    "plus_code": {
+        "global_code": "87M2PGH8+2V", 
+        "compound_code": "PGH8+2V Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 635-7648", 
+    "url": "https://maps.google.com/?cid=14735894186724453893", 
+    "scope": "GOOGLE", 
+    "vicinity": "2772 Keele Street, North York", 
+    "address_components": [
+        {
+            "long_name": "2772", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2772"
+        }, 
+        {
+            "long_name": "Keele Street", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Keele St"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 0A3", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 0A3"
+        }
+    ], 
+    "formatted_address": "2772 Keele St, North York, ON M3M 0A3, Canada", 
+    "id": "75340d3a3590c1ddd7f70c1a2d73b62ac338c715", 
+    "types": [
+        "electrician", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

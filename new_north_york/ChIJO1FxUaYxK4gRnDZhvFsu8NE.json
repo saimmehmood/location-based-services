@@ -1,0 +1,89 @@
+{
+    "utc_offset": -300, 
+    "name": "Calvington Dr At Dalsby Rd", 
+    "reference": "ChIJO1FxUaYxK4gRnDZhvFsu8NE", 
+    "geometry": {
+        "location": {
+            "lat": 43.729414, 
+            "lng": -79.501824
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7307629802915, 
+                "lng": -79.5004750197085
+            }, 
+            "southwest": {
+                "lat": 43.7280650197085, 
+                "lng": -79.50317298029151
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2N3</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJO1FxUaYxK4gRnDZhvFsu8NE", 
+    "plus_code": {
+        "global_code": "87M2PFHX+Q7", 
+        "compound_code": "PFHX+Q7 Toronto, Ontario, Canada"
+    }, 
+    "vicinity": "Canada", 
+    "url": "https://maps.google.com/?cid=15127642119874885276", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "M3M 2N3", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2N3"
+        }
+    ], 
+    "formatted_address": "Toronto, ON M3M 2N3, Canada", 
+    "id": "d0d7468d46038cb6337825f75323d1c964adde05", 
+    "types": [
+        "bus_station", 
+        "transit_station", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png"
+}

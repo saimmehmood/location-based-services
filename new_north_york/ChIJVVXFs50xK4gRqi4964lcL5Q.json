@@ -1,0 +1,111 @@
+{
+    "website": "http://1000freightinc.com/", 
+    "utc_offset": -300, 
+    "name": "1000 Freight Inc.", 
+    "reference": "ChIJVVXFs50xK4gRqi4964lcL5Q", 
+    "geometry": {
+        "location": {
+            "lat": 43.72728049999999, 
+            "lng": -79.48537259999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.72855843029149, 
+                "lng": -79.48433741970848
+            }, 
+            "southwest": {
+                "lat": 43.72586046970849, 
+                "lng": -79.48703538029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">5 Agate Rd #410</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2B2</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJVVXFs50xK4gRqi4964lcL5Q", 
+    "international_phone_number": "+1 416-398-4555", 
+    "plus_code": {
+        "global_code": "87M2PGG7+WV", 
+        "compound_code": "PGG7+WV Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 398-4555", 
+    "url": "https://maps.google.com/?cid=10677854988945665706", 
+    "scope": "GOOGLE", 
+    "vicinity": "5 Agate Road #410, North York", 
+    "address_components": [
+        {
+            "long_name": "#410", 
+            "types": [
+                "subpremise"
+            ], 
+            "short_name": "#410"
+        }, 
+        {
+            "long_name": "5", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "5"
+        }, 
+        {
+            "long_name": "Agate Road", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Agate Rd"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2B2", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2B2"
+        }
+    ], 
+    "formatted_address": "5 Agate Rd #410, North York, ON M3M 2B2, Canada", 
+    "id": "dff19d6724b3b82f858b8fbee589e4a3d696edd2", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

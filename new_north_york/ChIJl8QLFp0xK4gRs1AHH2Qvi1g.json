@@ -1,0 +1,116 @@
+{
+    "utc_offset": -300, 
+    "name": "Keeleson Food & Convenience Store", 
+    "reference": "ChIJl8QLFp0xK4gRs1AHH2Qvi1g", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAwj0b4N0aHk3jPCbIWprmXhK1k_VpC2YvloYlFAdQEo_FGFXdQ7HypaWa2bDiY5RJ9y0x9S2uO6_gTK4eGBkJo-K5cZTC0eRV9L5UQ5Vv1qBuWpri_qLGwKKQwV3oRob0EhAheg9QR-hZQdFJBeTVmh31GhSYeVD3I-GdygA0_d0GujFFoTHvqQ", 
+            "width": 640, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116124106043749090192/photos\">Anthony Bernstein</a>"
+            ], 
+            "height": 480
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 43.7266714, 
+            "lng": -79.4831805
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7280097302915, 
+                "lng": -79.4818268697085
+            }, 
+            "southwest": {
+                "lat": 43.7253117697085, 
+                "lng": -79.48452483029152
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">1112 Wilson Ave</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 1G7</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJl8QLFp0xK4gRs1AHH2Qvi1g", 
+    "international_phone_number": "+1 416-631-0271", 
+    "plus_code": {
+        "global_code": "87M2PGG8+MP", 
+        "compound_code": "PGG8+MP Toronto, Ontario, Canada"
+    }, 
+    "formatted_phone_number": "(416) 631-0271", 
+    "url": "https://maps.google.com/?cid=6380245404164247731", 
+    "scope": "GOOGLE", 
+    "vicinity": "1112 Wilson Avenue, North York", 
+    "address_components": [
+        {
+            "long_name": "1112", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1112"
+        }, 
+        {
+            "long_name": "Wilson Avenue", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilson Ave"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 1G7", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 1G7"
+        }
+    ], 
+    "formatted_address": "1112 Wilson Ave, North York, ON M3M 1G7, Canada", 
+    "id": "1d904c5fd46ddb0c3e2008caefbbef61c85b9c07", 
+    "types": [
+        "convenience_store", 
+        "store", 
+        "point_of_interest", 
+        "food", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

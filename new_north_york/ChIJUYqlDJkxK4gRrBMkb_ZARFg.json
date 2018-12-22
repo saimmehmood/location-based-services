@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "86-94 Calvington Dr", 
+    "reference": "ChIJUYqlDJkxK4gRrBMkb_ZARFg", 
+    "geometry": {
+        "location": {
+            "lat": 43.7322852, 
+            "lng": -79.4887188
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.73363348029149, 
+                "lng": -79.48736946970848
+            }, 
+            "southwest": {
+                "lat": 43.7309355197085, 
+                "lng": -79.49006743029149
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">86-94 Calvington Dr</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2M1</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJUYqlDJkxK4gRrBMkb_ZARFg", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=86-94+Calvington+Dr,+North+York,+ON+M3M+2M1,+Canada&ftid=0x882b31990ca58a51:0x584440f66f2413ac", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "86-94", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "86-94"
+        }, 
+        {
+            "long_name": "Calvington Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Calvington Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2M1", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2M1"
+        }
+    ], 
+    "formatted_address": "86-94 Calvington Dr, North York, ON M3M 2M1, Canada", 
+    "id": "e91ff446140fe3eeee3fbe8791eb4485f13965f8", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

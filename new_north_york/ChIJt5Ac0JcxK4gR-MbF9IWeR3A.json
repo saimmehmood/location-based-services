@@ -1,0 +1,200 @@
+{
+    "rating": 5, 
+    "utc_offset": -300, 
+    "name": "Faria Contracting", 
+    "reference": "ChIJt5Ac0JcxK4gR-MbF9IWeR3A", 
+    "geometry": {
+        "location": {
+            "lat": 43.7371664, 
+            "lng": -79.49229749999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7384733802915, 
+                "lng": -79.49093901970849
+            }, 
+            "southwest": {
+                "lat": 43.7357754197085, 
+                "lng": -79.4936369802915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">20 Skipton Ct</span>, <span class=\"locality\">North York</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2S8</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJt5Ac0JcxK4gR-MbF9IWeR3A", 
+    "international_phone_number": "+1 416-807-0190", 
+    "plus_code": {
+        "global_code": "87M2PGP5+V3", 
+        "compound_code": "PGP5+V3 Toronto, Ontario, Canada"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-79bPVIUf3g0/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-j_LeHBxe0gUKHnTvU0XSPh8uTJ_g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg", 
+            "author_name": "i ui", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/116175754224503867181/reviews", 
+            "time": 1500392222
+        }
+    ], 
+    "formatted_phone_number": "(416) 807-0190", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=8090609553768826616", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 8:00 PM", 
+            "Tuesday: 7:00 AM \u2013 8:00 PM", 
+            "Wednesday: 7:00 AM \u2013 8:00 PM", 
+            "Thursday: 7:00 AM \u2013 8:00 PM", 
+            "Friday: 7:00 AM \u2013 8:00 PM", 
+            "Saturday: 7:00 AM \u2013 8:00 PM", 
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 0, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 0, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0700"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "20 Skipton Court, North York", 
+    "address_components": [
+        {
+            "long_name": "20", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "20"
+        }, 
+        {
+            "long_name": "Skipton Court", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Skipton Ct"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2S8", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2S8"
+        }
+    ], 
+    "formatted_address": "20 Skipton Ct, North York, ON M3M 2S8, Canada", 
+    "id": "3a8fa81cfa2dd585030adcc883e3fbd74b101657", 
+    "types": [
+        "general_contractor", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

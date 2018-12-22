@@ -1,0 +1,141 @@
+{
+    "utc_offset": -300, 
+    "name": "New York", 
+    "reference": "ChIJOwg_06VPwokRYv534QaPC8g", 
+    "geometry": {
+        "location": {
+            "lat": 40.7127753, 
+            "lng": -74.0059728
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 40.9175771, 
+                "lng": -73.70027209999999
+            }, 
+            "southwest": {
+                "lat": 40.4773991, 
+                "lng": -74.25908989999999
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>", 
+    "place_id": "ChIJOwg_06VPwokRYv534QaPC8g", 
+    "vicinity": "New York", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAzKq7mYBowitU4pjGStMdjemC4bbtSg1Iuq1Lzq9VJ-gQ-RR_MfkFys00RZTMwC0t0EWf6eQxIl4cxc710DSoRMGkGey-JYK2Lu_H7ww0v-TC7nnCIXWhF0RNf-IN4o70EhBmuqEh5gcqhoMiUoNoeuEuGhRw_E6W9poXPF4_Fe2hFSW-7fAuAg", 
+            "width": 604, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109211857686808261282/photos\">\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0421\u044b\u0441\u043e\u0435\u0432</a>"
+            ], 
+            "height": 403
+        }, 
+        {
+            "photo_reference": "CmRaAAAAoffE47d5X0aTXnSYAdcD_7k2Ja6Y6cNqyde33y1ETcB_eP9lmIp8qtnCpGvSMtwRbr5lsPO1yvXZzGqk-2swkUT-6vUEVgowT-X29V1SowMRhmDdN9W6ESbMckfqS6rHEhCCOnRUVi9kE1KcO502KFZaGhR83NS75WoOk78nIfIrVrvPfHk9Sg", 
+            "width": 1920, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104614306529932386939/photos\">Edwin Marchan</a>"
+            ], 
+            "height": 1280
+        }, 
+        {
+            "photo_reference": "CmRaAAAAFyJLfUI3Qna4gZEt39oHMJy2nyPQoBN6e045ei8vOpr1muj31wqf3zS8RHM2HMJjXQcGDfqu5ASrB3JRcVnCbLDY328LmkeSnkpHRZ0snjtG9qQFOoNkY04V9_USASplEhBeZpUnx8rjDj034_fRGA2PGhRXDRk6YsoAtn-yHTZB2oYXN85lMw", 
+            "width": 1280, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102857914442312897284/photos\">Ela PRL</a>"
+            ], 
+            "height": 960
+        }, 
+        {
+            "photo_reference": "CmRaAAAAG4uvtKtWq3_s6w1J6uaL3yHjJet4yzeah_drVkf3tlnQAEDuSdkuIRnAIuIz-OuN3lvHJBqU4qTj4HmvsK84krnOiLUYgT1C3Ym0iHNLhwwIl36Vm29ecci15_rYc8dyEhD67AMPt3hYm7yxW5XGfWLKGhTfRo-icQvDImoohj74DN5yDs_3ZA", 
+            "width": 1280, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109211857686808261282/photos\">\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0421\u044b\u0441\u043e\u0435\u0432</a>"
+            ], 
+            "height": 720
+        }, 
+        {
+            "photo_reference": "CmRaAAAA91zsz3hAXzIHb0wlCmsk9CBejKiNW51EzKMXd2CtrqreaSzHJ4mgVB0ujdZv-G-Szt4n_5KNzG9k_9O7G76Eg2sGFY-IiMxAfwo2sl-0vXKS2FuQewQvvdGUMMYNg66cEhA5NsBaaM3Iy5MLKiNm_-vuGhQYDsLGdNu8qy2sAu-7A_HloF5beQ", 
+            "width": 1920, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104614306529932386939/photos\">Edwin Marchan</a>"
+            ], 
+            "height": 1280
+        }, 
+        {
+            "photo_reference": "CmRaAAAADhBt8oT5NW7S3dcmWXnYhhxicgRJr0yxay6l4CAanHT8mQnGGcHDqQ2CxWomTt2uWTtTajRqdBul8ozxBIfPldF5TiGXYL9w_tq6fv0pqm8y1KxxxuipqwL1GY9T9PKMEhC9k4GqPEXyx3_v0awuWsSxGhQuUgEEP1eWcaS8ua7VGqmzTVTZPw", 
+            "width": 1081, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100377844132361150604/photos\">Shourya Sharma</a>"
+            ], 
+            "height": 720
+        }, 
+        {
+            "photo_reference": "CmRaAAAAHwNjIOiteb8ystk2v7WlIeolzbtDvN45hTdrO_Zt5bCnKrNNNwph2lWnwH1MmJc-7bFraKUzG3TgbGnYoHannpz-5wGZAuIN68Tg7aM7tRqRAYi8lnSjwlQh7NLOkyJiEhCQVyqhwVX5a-oW2lmmCkDGGhQx0zWqfGqumcwLglG2vHFrxtYxaQ", 
+            "width": 1080, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110161312347829694373/photos\">Roisin McGarry</a>"
+            ], 
+            "height": 1080
+        }, 
+        {
+            "photo_reference": "CmRaAAAAZziHS6VPrJTcPq0tdoEi6XQykmfxKByTTGQpUEaC6h2lwuvPpqIs0TnhD6iVwTNI6vsFgHd24_DbPJ7kQgYL42_l-ltWEAuOrBNa3X1maxTXGIIBhcwJHTNYUocVobKQEhBhjavGajMoWbIx5P_76ho1GhT2s8pfeTuzMBBSaGJyBBZgoUgmEQ", 
+            "width": 1600, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112712688507360495804/photos\">Eva Rochovanska</a>"
+            ], 
+            "height": 1200
+        }, 
+        {
+            "photo_reference": "CmRaAAAA-BkYSxexvTCbIUcugHdTPThejCtilZS_lZu9phx38Tx6dAY2dZIuSIKDVqhEZ_cvLVCErlkHXLcFc14GqOP0gCyjiNSaeSt3cfwt4ACT_Ud8qlKXvAYJ8hbYUh2FyujIEhCWa8oxAjCSG3ni_X_APgo_GhRZ9-v3HfomjrZjjCVZ1NqNXoTXaA", 
+            "width": 1078, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108466859078860513320/photos\">Utkarsh keshari</a>"
+            ], 
+            "height": 706
+        }, 
+        {
+            "photo_reference": "CmRaAAAAFnXNpLYGNE5c7pZI6KXJn_7NUCuWOC-k7gzAQ7JAk0taqUIbJyHcwptqVgKQlnCeJZ-iruEShrOdh4JiU9_fydz_xHWrj6S29wXZZ_r90QYR4LD9y1PDhW9jeH_RZWp_EhBOd-tTM8fozH213KPky4EhGhRoneAlyD4ox5Eb8oEyLuGAWesIRA", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ], 
+            "height": 1365
+        }
+    ], 
+    "url": "https://maps.google.com/?q=New+York,+NY,+USA&ftid=0x89c24fa5d33f083b:0xc80b8f06e177fe62", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "New York", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "New York"
+        }, 
+        {
+            "long_name": "New York", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "NY"
+        }, 
+        {
+            "long_name": "United States", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "US"
+        }
+    ], 
+    "formatted_address": "New York, NY, USA", 
+    "id": "7eae6a016a9c6f58e2044573fb8f14227b6e1f96", 
+    "types": [
+        "locality", 
+        "political"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

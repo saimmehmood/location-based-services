@@ -1,0 +1,96 @@
+{
+    "utc_offset": -300, 
+    "name": "15-13 Victory Dr", 
+    "reference": "ChIJ2aCP8ZwxK4gRmx-sDKFk3fI", 
+    "geometry": {
+        "location": {
+            "lat": 43.7282608, 
+            "lng": -79.4838721
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 43.7296097802915, 
+                "lng": -79.48252306970849
+            }, 
+            "southwest": {
+                "lat": 43.7269118197085, 
+                "lng": -79.4852210302915
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">15-13 Victory Dr</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M3M 2J4</span>, <span class=\"country-name\">Canada</span>", 
+    "place_id": "ChIJ2aCP8ZwxK4gRmx-sDKFk3fI", 
+    "vicinity": "North York", 
+    "url": "https://maps.google.com/?q=15-13+Victory+Dr,+Toronto,+ON+M3M+2J4,+Canada&ftid=0x882b319cf18fa0d9:0xf2dd64a10cac1f9b", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "15-13", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "15-13"
+        }, 
+        {
+            "long_name": "Victory Drive", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Victory Dr"
+        }, 
+        {
+            "long_name": "North York", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "North York"
+        }, 
+        {
+            "long_name": "Toronto", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Toronto"
+        }, 
+        {
+            "long_name": "Toronto Division", 
+            "types": [
+                "administrative_area_level_2", 
+                "political"
+            ], 
+            "short_name": "Toronto Division"
+        }, 
+        {
+            "long_name": "Ontario", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "ON"
+        }, 
+        {
+            "long_name": "Canada", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "CA"
+        }, 
+        {
+            "long_name": "M3M 2J4", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "M3M 2J4"
+        }
+    ], 
+    "formatted_address": "15-13 Victory Dr, Toronto, ON M3M 2J4, Canada", 
+    "id": "a4a171072592411591515502ebfb36fb37b8a8e6", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}
